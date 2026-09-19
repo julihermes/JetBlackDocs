@@ -1,0 +1,396 @@
+v1.7 changenotes
+
+- A new NPC has been added to Nimbasa who will change the ball that your Pokémon were captured in!
+Now you can switch around your balls (easy now tiger) at will, provided that you have the necessary
+balls of course!
+
+- Several PokeMarts have been updated to have some new stock. These mostly include Evolution stones
+and some nice one use held items. Full details are in the Item location document.
+
+- the Harlequin in Studio Castelia has been updated, instead of berries he will now let you choose from;
+Cherish Ball
+Heart Scale
+Dragon Scale
+Rare Candy
+PP Up
+
+- Boss Trainers have had their healing items removed. Trainer classes such as 
+Scientist, Nurse/Doctor, Bianca and the Battle Company employees will still use 
+items.
+
+- Moved Brycen on Route 11 slightly so that the hidden Max Revive he was sitting on can be acquired.
+
+- Liepard now learns Thunder Fang at Level 1 as intended instead of two instances of Ice Fang (whoops)
+
+- TM03 Psyshock and TM19 Telekinesis have had their locations switched (Route 18 and Giant Chasm respectively)
+
+- Several Pokemon have had some tweaks to their base stats and learnsets with the likes of 
+Trubbish and Garbodor having had some major adjustments, especially learnsetwise. Some trainer Rosters 
+have been updated as a result of these changes;
+Pidove and Tranquill - Heat Wave
+Unfezant - Icy Wind, Heat Wave was moved from a Level 1 relearn move (Now Level 43)
+Solosis, Duosion and Reuniclus - Giga Drain
+Emolga - +5 Attack and Special Attack, can now learn HM02 Fly
+Electrode - +10 Special Attack, Can now learn TM78 Bulldoze
+Chansey and Blissey - Egg Bomb (Why didn't they have it in the first place?)
+Meganium and Luvdisc - Quiver Dance
+Kricketune and Togekiss - Boomburst
+
+
+- Talking of Trubbish, it has also now started to loiter in the Dreamyard and is now encounterable.
+Zorua can also be found now in the Dreamyard's rustling grass. Area data has been updated accordingly.
+
+- Two new moves have been added. Trailblaze and Eerie Spell, each with custom animations,
+have been spread out and added to various Pokemon's learnsets. Full details are in the Learnsets and Stats documentation
+
+- Some moves have seen some adjustments, notably;
+Rock Throw: Power increased from 50 to 55, Accuracy increased from 90 to 95
+Rock Slide: Power increased from 75 to 80, Accuracy increased from 90 to 95, PP increased from 10 to 15
+Stone Edge: Accuracy increased from 80 to 85, PP increased from 5 to 10
+Flash Cannon: Power increased from 80 to 90, PP increased from 10 to 15
+Charge Beam: Accuracy increased from 90 to 100, PP increased from 10 to 15
+Poison Gas: Accuracy increased from 55 to 80
+Skull Bash: Accuracy increased from 90 to 95
+Submission: Power increased from 85 to 90, Accuracy increased from 90 to 95
+Dragon Rush: Accuracy increased from 75 to 90
+Iron Tail: Accuracy increased from 75 to 90
+Aurora Beam: Power increased from 65 to 75
+Bubblebeam: Power increased from 65 to 75 
+Mirror Shot: Power increased from 65 to 70, Accuracy increased from 85 to 100, PP increased from 10 to 15, Effect chanced dropped to 10%
+Fire Fang: Power increased from 65 to 70, Accuracy increased from 95 to 100
+Ice Fang: Power increased from 65 to 70, Accuracy increased from 95 to 100
+Thunder Fang: Power increased from 65 to 70, Accuracy increased from 95 to 100
+Egg Bomb: Type changed from Normal to Grass, Accuracy increased from 75 to 100, Damage category changed from Physical to Special
+Head Smash: Accuracy increased from 80 to 90
+Cross Poison: Power increased from 70 to 85
+Razor Leaf: Power increased from 55 to 60, Accuracy increased from 95 to 100
+Grasswhistle: Accuracy increased from 60 to 65
+Poison Fang: Power increased from 50 to 55, Effect chance increased from 30% to 50%
+
+- Wild Charge has had its animation updated, now it has a lot more OOMPH instead of looking like a
+glorified Spark.
+
+
+
+
+
+
+
+
+JetBlack v1.6 Changenotes
+
+- Finally! There's a Title Screen! Also some intro cinematic text changes! OoooOOoooOoo
+
+- Boomburst's flavour text has been fixed up.
+
+- Skarmory has been added to the encounter table so now a full pokedex is possible! (Oops)
+Talking of encounters, Larvesta has been added as a 1% encounter in Desert Resort.
+
+- Dusclops' evolution method was fixed so now it does evolve when leveled up holding a Reaper Cloth.
+In addition. Tyrogue's evolution method has been changed. Now it will evolve into Hitmonlee, Hitmonchan
+or Hitmontop when leveled up holding an X Attack, X Defend or X Speed respectively.
+
+- A whole tonne of Pokemon adjustments have been made, both Statwise as well as learnsets (Thanks to Z-A
+giving a lot of Pokemon some new toys to play with). A seperate document has been made that notes all the 
+changes and of course, the stats/learnsets documentation has been updated. 
+Some trainer rosters have been updated with a few of these changes.
+
+- Cheren's Post-Game team has seen a bit of a level increase! Now he should be a touch more Bosslike.
+
+- Talking of bosses! Ingo and Emmet have been added as Post-Game superbosses, they are able to be found
+in Anville Town after you beat Ace Trainer Estreth's Post-Game battle in Shopping Mall Nine.
+
+- Keldeo, Meloetta and Genesect's respective events are now able to be accessed! No need for a Fateful encounter,
+just have them in your party and the event will trigger. 
+Scientist Dudley for Genesect's event is now a 6 v 6 boss battle while also giving all 4 drives afterwards.
+
+- Paravolt Charge and Leech Life have had animation upgrades.
+
+- Gemima, A new NPC in Nacrene will trade 5 of each of the Elemental Gems for Dragon Scales!
+Some overworld items have been replaced by Dragon Scales as well as a few hidden items.
+Dragon Scales are also a 5% chance to be held by most Dragon Pokemon.
+
+
+
+
+v1.5 Hotfix3 notes
+
+- School Kid Sylvia was causing freezes in Black City, due to the fact that her Swampert only had 3 moves 
+(and the 4th slot was completely blank instead of having ---- )
+
+- Bianca's final battle after defeating Alder has had AI adjustments. She'll no longer attack her own Pokemon
+now.
+
+
+
+v1.5 Hotfix2 notes
+
+- Cleaned up some missing text for some trainers.
+
+- Scientist Shannon's Rotom in Village Bridge now has their correct special move depending on forme.
+No Leaf Storming Rotom-Fan or Rotom-Mow using Blizzard.
+
+- Fixed a Game Breaking bug where if you entered Black City from Route 15, the game would freak out and
+would think that you are permanently in an Entralink Mission. The warp that affected this has been corrected.
+
+v1.5 Hotfix notes
+
+- Cleared up a few Text mishaps such as Zenith saying that her favourite move is Flamethrower and not
+"Flamethower"
+
+- Bulbasaur is no longer able to be encountered by shaking dirt in Chargestone Cave. Durant is back, it should've
+been Durant all along but Bulbasaur wanted to join in apparently.
+
+- Reshiram in N's Castle is now encountered at Level 56, up from 50 and actually HAS a Dragon type move now
+
+- Blitzle and Zebstrika now learn Wild Charge at Levels 38/40 respectively and Volt Tackle at Levels 49/52.
+
+- Sorted out and added Striaton City to the wild encounter documentation.
+
+- A new side-patch is now available which removes EV gains from all Pokemon. This is entirely optional in case
+you want to have a bit more of a cheeky challenge or you just like playing without EVs! Make sure you apply
+the patches over a clean ROM just to be on the safe side!
+
+
+JetBlack V1.5 Changenotes
+
+- Five new moves have been added. Ceaseless Edge, Triple Arrows, Flower Trick, Torch Song and
+Aqua Step, each with their own custom move animations.
+Several Pokemon have had these moves added to their learnset and some trainer rosters have had their rosters
+adjusted accordingly. (See below)
+
+- Made a few slight edits to Battle Subway Pokemon, mainly to replace the deleted moves with some more thematic
+ones (So no bumping into Mystical Fire Vanillite or a Cinccino using Triple Arrows)
+
+- Fixed Power-up Punch's animation so it doesn't freeze the user's sprite.
+
+- Some move adjustments have been made. The Move changes documentation has been updated accordingly;
+  - The Pledge moves have had their Base Power increased from 80 to 85. This is mainly so that Oshawott
+    enjoyers can use the move for more than two seconds should they wish (Because TM55 Scald is literally
+    right round the corner!) but it's also a nice little boost for Snivy and, by extension, Tepig.
+  - Blaze Kick and Razor Shell have had their accuracy bumped up to 100%. I have had far too many crucial misses
+    with those moves..
+  - Whirlpool, Sand Tomb, Fire Spin and Wrap have had their Base Power bumped up to 60, Accuracy to 100% and 
+    now completely bypass Substitutes. This change is a backport from the upcoming JetBlack 2.
+  - Guillotine is now no longer a OHKO move and is now a 140 BP Steel move (with 80 accuracy) that has a chance
+    to increase Attack.
+  - Ice Beam, Psychic, Dragon Pulse and Hyper Voice have had their PP raised to 15. Energy Ball has seen the same
+    PP increase but also a +10 Power boost so it's now 90.
+
+- In line with the trapping move adjustments and new moves added, some Pokemon have had their learnsets slightly
+tweaked. Stats and Learnsets Documentation has been updated with these changes. There are also a few extra
+additions too;
+ -Sand Tomb: Dwebble, Crustle, Golett, Golurk.
+ -Fire Spin: Heatmor, Larvesta, Volcarona, Deino, Zweilous, Hydreigon.
+ -Whirlpool: Ducklett, Swanna, Alomomola, Frillish, Jellicent.
+ -Skull Bash: Stoutland, Durant, Electrode, Qwilfish, Glalie.
+ -Power-Up Punch: Cubchoo, Beartic, Bibarel
+ -Earth Power: Cryogonal.
+ -Drill Run: Vanillish, Vanilluxe
+ -Giga Drain: Cofagrigus.
+ -Mystical Fire: Cofagrigus.
+ -Energy Ball: Klinklang. (Also has compatibility with TM)
+ -Quiver Dance: Maractus
+ -Triple Arrows: Mienfoo, Mienshao, Zapdos, Hitmontop, Medicham
+ -Ceaseless Edge: Samurott, Pawniard, Bisharp, Zangoose, Seviper
+ -Infernal Parade: Ninetales
+ -Flower Trick: Pansage, Simisage, Cottonee, Whimsicott, Maractus, Vileplume, Bellossom, Roselia, Roserade.
+ -Torch Song: Victini, Pansear, Simisear, Heatmor, Meloetta, Ninetales, Jigglypuff, Wigglytuff, Altaria
+ -Aqua Step: Panpour, Simipour, Ducklett, Swanna, Beartic, Meloetta*, Marill, Azumarill, Ludicolo, Bibarel.
+*Replaces Torch Song and can only be learned as Pirouette Forme during Battle, don't worry though, you can still
+relearn Torch Song as Aria Forme.
+Trainer Rosters have been updated with some of these moveset changes. See the documentation for details.
+
+-  Vanilluxe, Klanklang, Ludicolo, Shiftry, Vileplume and Bellossom have seen some adjustments to their base stats. 
+Full details are in the Stats and Learnsets documentation.
+
+- Roserade now has Technician instead of Poison Point in ability slot 2 (it was always supposed to have this
+but after double checking documentation and in game, it still had Poison Point. Oops)
+
+- Binding Band now replaces the Antidote in Pinwheel Forest - Interior.
+- TM53 Energy Ball and TM22 SolarBeam have had their locations switched.
+
+- A new questchain has been added to the post-game, allowing all the missing Legendary Pokemon to be caught.
+Now it is possible to catch every single Pokemon within JetBlack!
+     -As part of the new questchain, a new item has been added to the Giant Chasm, the Enigma Stone! Take this
+to a fella in Anville Town and he will refine it into a Soul Dew (and also unlock the new Veteran NPC in
+Nimbasa City for the Legendary Pokemon!)
+
+- Went over the encounter tables and added various Pokemon that were missing so that the full national dex
+CAN be completed (Will require breeding)
+
+- Every Pokemon, that can breed, has had their Egg Cycles set to 0. Now Eggs will hatch super fast which
+will be a big help for those who want to complete their PokeDex or Shiny Hunt. Manaphy is the only exception.
+(it has an Egg Cycle of 5 instead)
+
+- Fennel in Striaton City has finally decided to stop lying that it's "difficult to forget a Hidden Move"
+
+- The Striaton Brothers have moved from picking herbs and training Abundant Shrine to picking herbs
+and training in Route 12. The amount of trouble Abundant Shrine has caused me... It should be renamed
+Problem Shrine.
+
+- Landorus in Problem Shrine's event has been changed. Now it will just outright attack you when
+you talk to the shrine. No need to bring along Tornadus and Thundurus (is this the ideal outcome? No.
+But it was the only solution I had.)
+
+
+-You shouldn't need to start a new save with this new version due to the Engima Stone being a brand new item event
+and not replacing another item-
+
+Okay, this turned out to be a very meaty patch, but now JetBlack development is offically done! 
+
+
+JetBlack V1.4 Changenotes
+
+- Tubeline Bridge's Biker Morgann and Biker Jeremy now have edited teams and have been added to the documentation.
+They are still only avaible to be battled on Fridays after meeting Ghetsis there. 
+
+- Mienfoo has been added as a Shaking Grass encounter in Outer Pinwheel Forest replacing Throh and Sawk (but
+don't worry, they are still in the Dark Grass). The Area Dex has been updated to factor this change as well.
+
+- Ace Trainer Dheku's first battle in Victory Road has had a team shift, changes have been noted in the 
+documentation.
+
+- Vanillite now doesn't come in chilli flavour and correctly learns Autotomize instead of Mystical Fire at level 8,
+this is something that would only be found out by breeding or move reminder during a playthrough as documentation
+noted that Vanillite and it's relatives would learn Autotomize at Level 8 as intended. (Vanillish now also correctly
+learns Autotomize at Level 8 and not Light Screen)
+
+- Berry Bundle merchants have been added to several towns across Unova, they work similarly to how the MooMoo
+Milk vendor works in that you pay them that cold hard munty and you get a stack of Berries.
+They are found in;
+Nacrene City Pokemon Centre*    -Basic restoration Berries (Oran, Pecha, Cheri etc)
+Nimbasa City Pokemon Centre     -Exotic/Natural Gift Berries
+Driftveil City Pokemon Centre   -Higher End restoration Berries (Sitrus, Leppa, Lum etc)
+Driftveil City Market           -Stat Pinch Berries 
+Mistralton City Airport         -Type reducing Berries (fair warning, this will be a very long sequence!
+Opelucid City Pokemon Centre    -Exotic Pinch Berries (Custap, Starf etc)
+
+*Cheren still gives the player the Pecha Berries in Nacrene City but his dialogue has been slightly edited
+to reference that he got them from a seller in Nacrene's Pokemon Centre
+
+- The move "Natural Gift" has been added to various Pokemon's movesets;
+Snivy, Servine, Serperior, Patrat, Watchog, Sewaddle, Leavanny, Venipede, Whirlipede, Scolipede, Maractus
+Trubbish, Garbodor, Vanillite, Vanillish, Vanilluxe
+
+- Talking of Moves: Power-Up Punch, Infernal Parade, Boomburst, Skull Bash, High Horsepower, 
+Liquidation, Mystical Fire, Paravolt Charge and Lumina Crash now have updated move animations. 
+This is something I have wanted to do since v1.0 but the tools were just not there at the time.
+
+
+And that's it. v1.4 is the final *Planned* update for JetBlack. Thank you so much to
+everyone who has tried out JetBlack. What started as just a little venture into RomHacking to make my next
+personal playthrough of Pokemon Black interesting has evolved into something far more ambitious than I ever
+planned to make for my first ever RomHack.
+
+
+
+
+JetBlack V1.3 Changenotes.
+
+- Area Data has been updated for Unova Dex Pokemon, now you can check the Pokedex to see where Pokemon are without
+having to rely on Documentation.
+
+- Volcarona now learns TM24 Thunderbolt, many Volcarona trainers have had Thunderbolt in their moveset and it 
+was intended to learn Thunderbolt via TM, but it's something that completely passed by me not once, not twice,
+but thrice... Ooops.
+
+- Bianca's Pignite in the Castelia-Route 4 Gate battle now has Power-Up Punch instead of Arm Thrust. Past
+documentation did correctly note this however in JetBlack Pignite doesn't learn Arm Thrust.
+
+- Scientist Shannon in Village Bridge actually has the team listed in the Documentation now and and not
+her vanilla team of snakes, sludge and shrooms. How I've missed this after all this time I cannot say.
+
+- The Riches Draco's Floatzel in Undella Town and Hiker Kit's Kabutops actually have their documented moves
+now and have left the Struggle bus.
+
+- Ducklett and Swanna have the move "Aqua Jet" added to their learnset while Swanna also has a bonus +2
+added to it's base Attack and Special Attack stats. Did they necessarily need this? No. Did I like the
+idea of a Duck/Swan firing itself like a torpedo at it's foes? Yes.
+
+- Trick and Extransensory have had their levels learnt switched in Zorua and Zoroark's learnset.
+
+- Meloetta has had a slight learnset adjustment. Magic Coat is now learnt at Level 1, Perish Song at Level 41,
+Relic Song at Level 61*, Boomburst at Level 66 and both Psychic and Hyper Voice's levels learnt have been switched.
+
+
+- Golem now has a fresh manicure and can learn TM01 Hone Claws
+
+- Seed Flare and Magma Storm have been adjusted and been distributed to more Pokémon. 
+Trainer rosters have been updated to accomodate.
+These are;
+[Seed Flare] - Has had it's Accuracy increased from 85 to 90 but now it only has a 20% chance of lowering the 
+target's Special Defense by 1 stage instead of a 40% chance of lowering Special Defense by 2 stages. 
+ -Venusaur, Meganium, Jumpluff, Sunflora, Whimiscott, Lilligant and Maractus have had Seed Flare added to their
+movepools.
+
+[Magma Storm] - Has had it's Accuracy increased from 70 to 85.
+Slugma, Magcargo, Numel, Camerupt, Magmortar and Heatmor have had Magma Storm added to their movepools.
+
+
+- Fixed Pokemon Ranger Keith's Overworld Sprite on Route 15. 
+
+- Liberty Garden is now able to be accessed when the player receives the Liberty Pass! It has been moved to
+Post-Game content but it means that Victini is now able to be caught officially during a playthrough without
+relying on hacking in via Mystery Gift.
+  -In a similar vein, new post-game events have been added, allowing the other Unova mythicals to be caught
+during the Post-Game. I should note that the special Faraway place events associated with Meloetta and Genesect
+will not trigger due to their caught locations. Meloetta now naturally learns Relic Song as a result.
+
+- A new Zoroark event has been added in Lostlorn Forest, after talking to an NPC in Driftveil City you can
+encounter a Lvl 30 Zoroark in Lostlorn Forest's caravan. It will drop a Lock Capsule upon being defeated
+or caught which you can take to Mr.Lock to get the TM for Snarl.
+
+
+
+=It would be wise to start a fresh save file for v1.3 due to these new events being implemented!=
+
+
+JetBlack V1.2 Changenotes.
+
+- Professor Juniper has some unique dialogue upon starting a new game so now that you know that the patching
+process worked instead of relying on your starter learning their first STAB move at Level 6.
+
+- Evolution Methods have been updated! Now they are no Day/Night requirements for certain Pokemon
+that require held items. The Deino line's evolution levels have also been tweaked, now evolving at Level
+40 and 58 respectively.
+
+- The move Boomburst has been added to the game. Pokemon's learnsets as well as certain Trainer
+rosters have been updated to accomodate this change.
+
+- Submission now correctly denotes that it has an increased chance to critically hit in it's move
+description (it always has had that effect, I just forgot to change it from flinching... Oops)
+
+- The Unova Starters learnsets have been adapted to follow the upcoming JetBlack 2's learnset changes.
+
+- Hoopster Bobby is no longer mute after defeating him and now correctly awards a Heart Scale.
+
+- HMs can now be deleted! No need to go back and forth to the Move Deleter to unlearn those pesky HMs.
+
+
+JetBlack V1.1 Changenotes.
+
+- Documentation has been gone over and cleaned up, however I could've still missed a few things but it should
+be okay.
+
+- Added the general locations for custom item trainers in Features Document, also Skyla's Level Cap has now
+been corrected to 39.
+
+- Fixed the crash caused by Baker Chris in Village Bridge, however the daily event associated is no longer
+available.
+
+- Sorted out the additional Post-Game trainers found in Nimbasa City's Stadiums. Any trainers that award
+items upon being defeated now award Rare Candies instead of their vanilla items.
+
+- Royal Unova has been updated. Trainers have seen an update to their rosters and the rewards upon completing
+the event have been changed. Full details are now found in the Feature Documentation.
+
+
+- Black City's Trainers have been updated and will be full 6 man teams, meant for a cheeky optional
+challenge.. Should you get to Black City on time of course (but there's no need to rush! It's just
+a bonus!)
+
+- Luxray now correctly has Guts in it's first ability slot instead of Rivalry.
+
+
+

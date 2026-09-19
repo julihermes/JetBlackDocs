@@ -1,0 +1,6288 @@
+[
+  {
+    "location": "Route 1",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Patrat",
+            "levelRange": "2-4",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Purrloin",
+            "levelRange": "2-5",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Lillipup",
+            "levelRange": "2-4",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "2-4",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Herdier",
+            "levelRange": "32-34",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Watchog",
+            "levelRange": "32-35",
+            "chance": "29%",
+            "flags": []
+          },
+          {
+            "species": "Liepard",
+            "levelRange": "32-35",
+            "chance": "29%",
+            "flags": []
+          },
+          {
+            "species": "Scrafty",
+            "levelRange": "32-35",
+            "chance": "2%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "Surfing",
+        "rows": [
+          {
+            "species": "Basculin-R",
+            "levelRange": "5-15",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "5-15",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-R",
+            "levelRange": "5-20",
+            "chance": "40%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "5-20",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Basculin-R",
+            "levelRange": "35-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Corphish",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Feebas",
+            "levelRange": "35-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Crawdaunt",
+            "levelRange": "35-70",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Milotic",
+            "levelRange": "35-70",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "35-70",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Route 2",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Lillipup",
+            "levelRange": "4-7",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Pidove",
+            "levelRange": "5-7",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Purrloin",
+            "levelRange": "4-7",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Minccino",
+            "levelRange": "4-7",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "4-7",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Dreamyard - Outer",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Purrloin",
+            "levelRange": "8-11",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Munna",
+            "levelRange": "9-11",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Patrat",
+            "levelRange": "9-11",
+            "chance": "15%",
+            "flags": []
+          },
+          {
+            "species": "Trubbish",
+            "levelRange": "9-11",
+            "chance": "15%",
+            "flags": []
+          },
+          {
+            "species": "Gothita",
+            "levelRange": "9-11",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "8-11",
+            "chance": "75%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Solosis",
+            "levelRange": "9-11",
+            "chance": "15%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Zorua",
+            "levelRange": "9-11",
+            "chance": "5%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Musharna",
+            "levelRange": "11",
+            "chance": "5%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Watchog",
+            "levelRange": "33-34",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Liepard",
+            "levelRange": "33-34",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Munna",
+            "levelRange": "33-34",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Gothorita",
+            "levelRange": "33-34",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Duosion",
+            "levelRange": "33-34",
+            "chance": "20%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Dreamyard Basement",
+    "methods": [
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Munna",
+            "levelRange": "35",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Gothorita",
+            "levelRange": "35",
+            "chance": "25%",
+            "flags": []
+          },
+          {
+            "species": "Duosion",
+            "levelRange": "35",
+            "chance": "25%",
+            "flags": []
+          },
+          {
+            "species": "Elgyem",
+            "levelRange": "35",
+            "chance": "10%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Route 3",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Pidove",
+            "levelRange": "9-12",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Blitzle",
+            "levelRange": "9-12",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Minccino",
+            "levelRange": "9-12",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Ducklett",
+            "levelRange": "9-12",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "9-12",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Pidove",
+            "levelRange": "14-15",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Blitzle",
+            "levelRange": "14-15",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Minccino",
+            "levelRange": "14-15",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Ducklett",
+            "levelRange": "14-15",
+            "chance": "20%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "Surfing",
+        "rows": [
+          {
+            "species": "Basculin-R",
+            "levelRange": "5-20",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "5-20",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "5-20",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Basculin-R",
+            "levelRange": "5-20",
+            "chance": "40%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Goldeen",
+            "levelRange": "35-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Poliwag",
+            "levelRange": "35-60",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-R",
+            "levelRange": "35-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Seaking",
+            "levelRange": "35-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Poliwhirl",
+            "levelRange": "35-70",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "35-60",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Striaton City",
+    "methods": [
+      {
+        "method": "Surfing",
+        "rows": [
+          {
+            "species": "Basculin-R",
+            "levelRange": "5-15",
+            "chance": "100%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "5-20",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Goldeen",
+            "levelRange": "35-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-R",
+            "levelRange": "35-55",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Seaking",
+            "levelRange": "35-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Wellspring Cave",
+    "methods": [
+      {
+        "method": "Land",
+        "rows": [
+          {
+            "species": "Roggenrola",
+            "levelRange": "11-14",
+            "chance": "50%",
+            "flags": []
+          },
+          {
+            "species": "Woobat",
+            "levelRange": "11-14",
+            "chance": "49%",
+            "flags": []
+          },
+          {
+            "species": "Axew",
+            "levelRange": "11-14",
+            "chance": "1%",
+            "flags": []
+          },
+          {
+            "species": "Drilbur",
+            "levelRange": "11-14",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Surf",
+        "rows": [
+          {
+            "species": "Basculin-R",
+            "levelRange": "5-15",
+            "chance": "100%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "5-20",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Slowpoke",
+            "levelRange": "35-55",
+            "chance": "70%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-R",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Slowbro",
+            "levelRange": "35-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Slowking",
+            "levelRange": "35-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "35-60",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Pinwheel Forest - Outside",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Tympole",
+            "levelRange": "14-15",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Pidove",
+            "levelRange": "14-15",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Timburr",
+            "levelRange": "14-15",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Deerling",
+            "levelRange": "14-15",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "14-15",
+            "chance": "90%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Mienfoo",
+            "levelRange": "14-15",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Timburr",
+            "levelRange": "16-17",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Tympole",
+            "levelRange": "16-17",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Deerling",
+            "levelRange": "16-17",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Throh",
+            "levelRange": "17",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Sawk",
+            "levelRange": "17",
+            "chance": "10%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Pinwheel Forest - Inside",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Cottonee",
+            "levelRange": "14-17",
+            "chance": "25%",
+            "flags": []
+          },
+          {
+            "species": "Petilil",
+            "levelRange": "14-17",
+            "chance": "25%",
+            "flags": []
+          },
+          {
+            "species": "Venipede",
+            "levelRange": "14-17",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Sewaddle",
+            "levelRange": "14-17",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Foongus",
+            "levelRange": "14-17",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "14-17",
+            "chance": "65%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Panpour",
+            "levelRange": "15",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Pansear",
+            "levelRange": "15",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Pansage",
+            "levelRange": "15",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Joltik",
+            "levelRange": "17",
+            "chance": "5%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Whimsicott",
+            "levelRange": "24-25",
+            "chance": "25%",
+            "flags": []
+          },
+          {
+            "species": "Lilligant",
+            "levelRange": "24-25",
+            "chance": "25%",
+            "flags": []
+          },
+          {
+            "species": "Whirlipede",
+            "levelRange": "24-25",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Swadloon",
+            "levelRange": "24-25",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Foongus",
+            "levelRange": "24-25",
+            "chance": "10%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "Surf",
+        "rows": [
+          {
+            "species": "Basculin-R",
+            "levelRange": "5-20",
+            "chance": "100%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "5-20",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Goldeen",
+            "levelRange": "35-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Basculin",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Barboach",
+            "levelRange": "35-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Seaking",
+            "levelRange": "35-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Whiscash",
+            "levelRange": "35-60",
+            "chance": "40%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Route 4",
+    "methods": [
+      {
+        "method": "Sand",
+        "rows": [
+          {
+            "species": "Sandile",
+            "levelRange": "15-18",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Darumaka",
+            "levelRange": "15-18",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Scraggy",
+            "levelRange": "16-17",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Trubbish",
+            "levelRange": "15-18",
+            "chance": "20%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "Surf",
+        "rows": [
+          {
+            "species": "Frillish",
+            "levelRange": "5-15",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Alomomola",
+            "levelRange": "5-15",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Alomomola",
+            "levelRange": "5-20",
+            "chance": "90%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Jellicent",
+            "levelRange": "5-20",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Krabby",
+            "levelRange": "35-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Clamperl",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Luvdisc",
+            "levelRange": "35-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Relicanth",
+            "levelRange": "35-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Luvdisc",
+            "levelRange": "35-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Huntail",
+            "levelRange": "35-70",
+            "chance": "5%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Gorebyss",
+            "levelRange": "35-70",
+            "chance": "5%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Desert Resort - Entrance",
+    "methods": [
+      {
+        "method": "Land",
+        "rows": [
+          {
+            "species": "Sandile",
+            "levelRange": "20-21",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Darumaka",
+            "levelRange": "20-21",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Scraggy",
+            "levelRange": "20-21",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Vullaby",
+            "levelRange": "20-21",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Maractus",
+            "levelRange": "20-21",
+            "chance": "5%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Desert Resort - Desert",
+    "methods": [
+      {
+        "method": "Land",
+        "rows": [
+          {
+            "species": "Sandile",
+            "levelRange": "21-22",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Darumaka",
+            "levelRange": "21-22",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Dwebble",
+            "levelRange": "21-22",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Maractus",
+            "levelRange": "21-22",
+            "chance": "15%",
+            "flags": []
+          },
+          {
+            "species": "Sigilyph",
+            "levelRange": "21-22",
+            "chance": "14%",
+            "flags": []
+          },
+          {
+            "species": "Elgyem",
+            "levelRange": "21-22",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Larvesta",
+            "levelRange": "22-22",
+            "chance": "1%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Relic Castle",
+    "methods": [
+      {
+        "method": "1F",
+        "rows": [
+          {
+            "species": "Yamask",
+            "levelRange": "19-22",
+            "chance": "50%",
+            "flags": []
+          },
+          {
+            "species": "Sandile",
+            "levelRange": "19-22",
+            "chance": "50%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "B1F",
+        "rows": [
+          {
+            "species": "Yamask",
+            "levelRange": "21-23",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Sandile",
+            "levelRange": "21-23",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Golett",
+            "levelRange": "21-23",
+            "chance": "20%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "B2-5F",
+        "rows": [
+          {
+            "species": "Krokorok",
+            "levelRange": "34-37",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Cofagrigus",
+            "levelRange": "34-37",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Golett",
+            "levelRange": "34-37",
+            "chance": "20%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "B6F",
+        "rows": [
+          {
+            "species": "Krokorok",
+            "levelRange": "34-37",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Cofagrigus",
+            "levelRange": "34-37",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Golett",
+            "levelRange": "34-37",
+            "chance": "24%",
+            "flags": []
+          },
+          {
+            "species": "Beheeyem",
+            "levelRange": "39",
+            "chance": "15%",
+            "flags": []
+          },
+          {
+            "species": "Krookodile",
+            "levelRange": "40",
+            "chance": "1%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "Relic Castle: Post-Game Areas",
+        "rows": [
+          {
+            "species": "Sandslash",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Onix",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Claydol",
+            "levelRange": "52",
+            "chance": "15%",
+            "flags": []
+          },
+          {
+            "species": "Golurk",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Cofagrigus",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Cranidos",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Shieldon",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Aerodactyl",
+            "levelRange": "52",
+            "chance": "5%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "Room 1",
+        "rows": [
+          {
+            "species": "Claydol",
+            "levelRange": "52",
+            "chance": "80%",
+            "flags": []
+          },
+          {
+            "species": "Unown-A",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "Room 2",
+        "rows": [
+          {
+            "species": "Claydol",
+            "levelRange": "52",
+            "chance": "80%",
+            "flags": []
+          },
+          {
+            "species": "Unown-Z",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Route 5",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Solosis",
+            "levelRange": "22-23",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Minccino",
+            "levelRange": "22-23",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Trubbish",
+            "levelRange": "22-23",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Liepard",
+            "levelRange": "22-23",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "22-23",
+            "chance": "80%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Emolga",
+            "levelRange": "22-23",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Tepig",
+            "levelRange": "22-23",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Solosis",
+            "levelRange": "25-26",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Minccino",
+            "levelRange": "25-26",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Trubbish",
+            "levelRange": "25-26",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Liepard",
+            "levelRange": "25-26",
+            "chance": "10%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Route 16",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Gothita",
+            "levelRange": "22-23",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Mienfoo",
+            "levelRange": "22-23",
+            "chance": "35%",
+            "flags": []
+          },
+          {
+            "species": "Solosis",
+            "levelRange": "22-23",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Liepard",
+            "levelRange": "22-23",
+            "chance": "5%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "20-22",
+            "chance": "80%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Emolga",
+            "levelRange": "20",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Oshawott",
+            "levelRange": "22",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Gothita",
+            "levelRange": "25-26",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Mienfoo",
+            "levelRange": "25-26",
+            "chance": "35%",
+            "flags": []
+          },
+          {
+            "species": "Solosis",
+            "levelRange": "25-26",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Liepard",
+            "levelRange": "25-26",
+            "chance": "5%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Lostlorn Forest",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Karrablast",
+            "levelRange": "22-23",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Cottonee",
+            "levelRange": "22-23",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Petilil",
+            "levelRange": "22-23",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Tranquill",
+            "levelRange": "22-23",
+            "chance": "15%",
+            "flags": []
+          },
+          {
+            "species": "Swadloon",
+            "levelRange": "22-23",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Venipede",
+            "levelRange": "22-23",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Zorua",
+            "levelRange": "20",
+            "chance": "5%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "22-23",
+            "chance": "80%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Snivy",
+            "levelRange": "22-23",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Zorua",
+            "levelRange": "22-23",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Karrablast",
+            "levelRange": "35-36",
+            "chance": "35%",
+            "flags": []
+          },
+          {
+            "species": "Swadloon",
+            "levelRange": "35-36",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Whirlipede",
+            "levelRange": "35-36",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Unfezant",
+            "levelRange": "35-36",
+            "chance": "25%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "Surfing",
+        "rows": [
+          {
+            "species": "Basculin-R",
+            "levelRange": "5-15",
+            "chance": "100%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "5-20",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Goldeen",
+            "levelRange": "35-55",
+            "chance": "70%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-R",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Seaking",
+            "levelRange": "35-70",
+            "chance": "70%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "35-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Driftveil Drawbridge",
+    "methods": [
+      {
+        "method": "Land",
+        "rows": [
+          {
+            "species": "Ducklett",
+            "levelRange": "24-25",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Rufflet",
+            "levelRange": "24-25",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Vullaby",
+            "levelRange": "24-25",
+            "chance": "30%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Driftveil City",
+    "methods": [
+      {
+        "method": "Surfing",
+        "rows": [
+          {
+            "species": "Frillish",
+            "levelRange": "10-25",
+            "chance": "100%",
+            "flags": []
+          },
+          {
+            "species": "Alomomola",
+            "levelRange": "10-30",
+            "chance": "95%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Jellicent",
+            "levelRange": "10-30",
+            "chance": "5%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Chinchou",
+            "levelRange": "35-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Staryu",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Luvdisc",
+            "levelRange": "35-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Lanturn",
+            "levelRange": "35-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Starmie",
+            "levelRange": "35-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Luvdisc",
+            "levelRange": "35-60",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Cold Storage",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Herdier",
+            "levelRange": "23-24",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Vanillite",
+            "levelRange": "23-24",
+            "chance": "25%",
+            "flags": []
+          },
+          {
+            "species": "Timburr",
+            "levelRange": "23-24",
+            "chance": "15%",
+            "flags": []
+          },
+          {
+            "species": "Minccino",
+            "levelRange": "23-24",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Cubchoo",
+            "levelRange": "23-24",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "23-24",
+            "chance": "90%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Stoutland",
+            "levelRange": "25",
+            "chance": "5%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Cinccino",
+            "levelRange": "25",
+            "chance": "5%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Herdier",
+            "levelRange": "26-27",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Vanillite",
+            "levelRange": "26-27",
+            "chance": "25%",
+            "flags": []
+          },
+          {
+            "species": "Timburr",
+            "levelRange": "26-27",
+            "chance": "15%",
+            "flags": []
+          },
+          {
+            "species": "Minccino",
+            "levelRange": "26-27",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Cubchoo",
+            "levelRange": "26-27",
+            "chance": "10%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Route 6",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Tranquill",
+            "levelRange": "24-25",
+            "chance": "20%",
+            "flags": [
+              "Spring/Summer/Autumn only"
+            ]
+          },
+          {
+            "species": "Vanillite",
+            "levelRange": "24-25",
+            "chance": "20%",
+            "flags": [
+              "Winter Only"
+            ]
+          },
+          {
+            "species": "Karrablast",
+            "levelRange": "24-25",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Shelmet",
+            "levelRange": "24-25",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Deerling",
+            "levelRange": "24-25",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Foongus",
+            "levelRange": "24-25",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Rufflet",
+            "levelRange": "24-25",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "24-25",
+            "chance": "80%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Stunfisk",
+            "levelRange": "24-25",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud",
+              "Spring/Summer/Autumn Only"
+            ]
+          },
+          {
+            "species": "Sawsbuck",
+            "levelRange": "24-25",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud",
+              "(20% in Winter)"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Tranquill",
+            "levelRange": "27-28",
+            "chance": "20%",
+            "flags": [
+              "Spring/Summer/Autumn only"
+            ]
+          },
+          {
+            "species": "Vanillite",
+            "levelRange": "27-28",
+            "chance": "20%",
+            "flags": [
+              "Winter Only"
+            ]
+          },
+          {
+            "species": "Karrablast",
+            "levelRange": "27-28",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Shelmet",
+            "levelRange": "27-28",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Deerling",
+            "levelRange": "27-28",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Foongus",
+            "levelRange": "27-28",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Rufflet",
+            "levelRange": "27-28",
+            "chance": "10%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "Surfing",
+        "rows": [
+          {
+            "species": "Basculin-R",
+            "levelRange": "10-25",
+            "chance": "100%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "10-30",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Poliwag",
+            "levelRange": "35-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Basculin",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Poliwhirl",
+            "levelRange": "35-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Politoed",
+            "levelRange": "35-70",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Poliwrath",
+            "levelRange": "35-70",
+            "chance": "40%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Chargestone Cave",
+    "methods": [
+      {
+        "method": "Land",
+        "rows": [
+          {
+            "species": "Klink",
+            "levelRange": "25-27",
+            "chance": "40%",
+            "flags": [
+              "(30% on B2F)"
+            ]
+          },
+          {
+            "species": "Tynamo",
+            "levelRange": "25-27",
+            "chance": "10%",
+            "flags": [
+              "(20% on B2F)"
+            ]
+          },
+          {
+            "species": "Ferroseed",
+            "levelRange": "25-27",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Boldore",
+            "levelRange": "25-27",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Joltik",
+            "levelRange": "25-27",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Drilbur",
+            "levelRange": "25-27",
+            "chance": "90%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud",
+              "(80% on B2F)"
+            ]
+          },
+          {
+            "species": "Durant",
+            "levelRange": "25-27",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud",
+              "(20% on B2F)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Route 7",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Watchog",
+            "levelRange": "27-29",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Zebstrika",
+            "levelRange": "27-29",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Pawniard",
+            "levelRange": "27-29",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Foongus",
+            "levelRange": "27-29",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Rufflet",
+            "levelRange": "27-29",
+            "chance": "10%",
+            "flags": [
+              "(Spring/Summer/Autumn Only)"
+            ]
+          },
+          {
+            "species": "Vullaby",
+            "levelRange": "27-29",
+            "chance": "10%",
+            "flags": [
+              "(Spring/Summer/Autumn Only)"
+            ]
+          },
+          {
+            "species": "Cubchoo",
+            "levelRange": "27-29",
+            "chance": "20%",
+            "flags": [
+              "(Winter Only)"
+            ]
+          },
+          {
+            "species": "Audino",
+            "levelRange": "27-29",
+            "chance": "85%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Emolga",
+            "levelRange": "27",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Amoongus",
+            "levelRange": "29",
+            "chance": "5%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud",
+              "(4% in Winter)"
+            ]
+          },
+          {
+            "species": "Beartic",
+            "levelRange": "27-29",
+            "chance": "1%",
+            "flags": [
+              "(Winter only)"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Watchog",
+            "levelRange": "30-32",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Zebstrika",
+            "levelRange": "30-32",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Pawniard",
+            "levelRange": "30-32",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Foongus",
+            "levelRange": "30-32",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Rufflet",
+            "levelRange": "30-32",
+            "chance": "10%",
+            "flags": [
+              "(Spring/Summer/Autumn Only)"
+            ]
+          },
+          {
+            "species": "Vullaby",
+            "levelRange": "30-32",
+            "chance": "10%",
+            "flags": [
+              "(Spring/Summer/Autumn Only)"
+            ]
+          },
+          {
+            "species": "Cubchoo",
+            "levelRange": "30-32",
+            "chance": "20%",
+            "flags": [
+              "(Winter Only)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Celestial Tower",
+    "methods": [
+      {
+        "method": "2F",
+        "rows": [
+          {
+            "species": "Litwick",
+            "levelRange": "26-29",
+            "chance": "100%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "3F",
+        "rows": [
+          {
+            "species": "Litwick",
+            "levelRange": "28-30",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Elgyem",
+            "levelRange": "26-29",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Woobat",
+            "levelRange": "26-29",
+            "chance": "20%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "4F",
+        "rows": [
+          {
+            "species": "Litwick",
+            "levelRange": "28-30",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Elgyem",
+            "levelRange": "26-30",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Woobat",
+            "levelRange": "26-30",
+            "chance": "20%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "5F",
+        "rows": [
+          {
+            "species": "Litwick",
+            "levelRange": "30",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Elgyem",
+            "levelRange": "30",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Swoobat",
+            "levelRange": "30",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Lampent",
+            "levelRange": "32",
+            "chance": "4%",
+            "flags": []
+          },
+          {
+            "species": "Beheeyem",
+            "levelRange": "33",
+            "chance": "1%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Mistralton Cave",
+    "methods": [
+      {
+        "method": "1F",
+        "rows": [
+          {
+            "species": "Boldore",
+            "levelRange": "28-31",
+            "chance": "50%",
+            "flags": []
+          },
+          {
+            "species": "Woobat",
+            "levelRange": "28-30",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Axew",
+            "levelRange": "30-31",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Drilbur",
+            "levelRange": "28-31",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "2F",
+        "rows": [
+          {
+            "species": "Boldore",
+            "levelRange": "30-31",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Woobat",
+            "levelRange": "30-31",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Axew",
+            "levelRange": "30-31",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Swoobat",
+            "levelRange": "31",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Excadrill",
+            "levelRange": "31",
+            "chance": "85%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Deino",
+            "levelRange": "31",
+            "chance": "15%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Guidance Chamber",
+    "methods": [
+      {
+        "method": "Land",
+        "rows": [
+          {
+            "species": "Boldore",
+            "levelRange": "30-31",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Woobat",
+            "levelRange": "30-31",
+            "chance": "25%",
+            "flags": []
+          },
+          {
+            "species": "Axew",
+            "levelRange": "30-31",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Swoobat",
+            "levelRange": "31",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Deino",
+            "levelRange": "31",
+            "chance": "5%",
+            "flags": []
+          },
+          {
+            "species": "Excadrill",
+            "levelRange": "31",
+            "chance": "99%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Zweilous",
+            "levelRange": "33",
+            "chance": "1%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Route 17",
+    "methods": [
+      {
+        "method": "Surfing",
+        "rows": [
+          {
+            "species": "Frillish",
+            "levelRange": "5-30",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Alomomola",
+            "levelRange": "5-30",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Alomomola",
+            "levelRange": "15-35",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Jellicent",
+            "levelRange": "15-35",
+            "chance": "40%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Finneon",
+            "levelRange": "35-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Qwilfish",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Seadra",
+            "levelRange": "35-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Lumineon",
+            "levelRange": "35-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Kingdra",
+            "levelRange": "35-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Alomomola",
+            "levelRange": "35-60",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Route 18",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Scraggy",
+            "levelRange": "30-31",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Dwebble",
+            "levelRange": "30-31",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Bouffalant",
+            "levelRange": "30-31",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Throh",
+            "levelRange": "30-31",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Sawk",
+            "levelRange": "30-31",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "30-31",
+            "chance": "90%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Larvesta",
+            "levelRange": "31",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Scrafty",
+            "levelRange": "34-35",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Crustle",
+            "levelRange": "34-35",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Bouffalant",
+            "levelRange": "34-35",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Throh",
+            "levelRange": "34-35",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Sawk",
+            "levelRange": "34-35",
+            "chance": "10%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "Surfing",
+        "rows": [
+          {
+            "species": "Frillish",
+            "levelRange": "15-35",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Alomomola",
+            "levelRange": "15-35",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Alomomola",
+            "levelRange": "15-35",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Jellicent",
+            "levelRange": "15-35",
+            "chance": "40%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Finneon",
+            "levelRange": "35-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Seadra",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Qwilfish",
+            "levelRange": "35-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Lumineon",
+            "levelRange": "35-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Kingdra",
+            "levelRange": "35-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Alomomola",
+            "levelRange": "35-60",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "P2 Laboratory",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Watchog",
+            "levelRange": "30-31",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Herdier",
+            "levelRange": "30-31",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Klink",
+            "levelRange": "30-31",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Larvesta",
+            "levelRange": "30-31",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "30-31",
+            "chance": "95%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Stoutland",
+            "levelRange": "31",
+            "chance": "5%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Surf",
+        "rows": [
+          {
+            "species": "Frillish",
+            "levelRange": "5-15",
+            "chance": "100%",
+            "flags": []
+          },
+          {
+            "species": "Alomomola",
+            "levelRange": "5-20",
+            "chance": "95%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Jellicent",
+            "levelRange": "5-20",
+            "chance": "5%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Finneon",
+            "levelRange": "35-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Qwilfish",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Seadra",
+            "levelRange": "35-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Lumineon",
+            "levelRange": "35-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Kingdra",
+            "levelRange": "35-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Alomomola",
+            "levelRange": "35-60",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Twist Mountain",
+    "methods": [
+      {
+        "method": "Land",
+        "rows": [
+          {
+            "species": "Woobat",
+            "levelRange": "30-31",
+            "chance": "28%",
+            "flags": [
+              "(10% in Winter)"
+            ]
+          },
+          {
+            "species": "Boldore",
+            "levelRange": "31",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Gurdurr",
+            "levelRange": "31",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Cubchoo",
+            "levelRange": "30",
+            "chance": "20%",
+            "flags": [
+              "(30% and Level 31 in Winter)"
+            ]
+          },
+          {
+            "species": "Heatmor",
+            "levelRange": "30-31",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Cryogonal",
+            "levelRange": "31",
+            "chance": "1%",
+            "flags": [
+              "(Level 28 in Summer. 9% and Level 33 in Winter)"
+            ]
+          },
+          {
+            "species": "Vanillish",
+            "levelRange": "31",
+            "chance": "1%",
+            "flags": [
+              "(Spring, Summer, Autumn only)"
+            ]
+          },
+          {
+            "species": "Vanilluxe",
+            "levelRange": "35",
+            "chance": "1%",
+            "flags": [
+              "(Winter Only)"
+            ]
+          },
+          {
+            "species": "Excadrill",
+            "levelRange": "32",
+            "chance": "80%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Durant",
+            "levelRange": "32",
+            "chance": "20%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Iccirus City",
+    "methods": [
+      {
+        "method": "Normal \"grass\" (No encounters in Winter)",
+        "rows": [
+          {
+            "species": "Stunfisk",
+            "levelRange": "33",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Shelmet",
+            "levelRange": "33",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Palpitoad",
+            "levelRange": "33",
+            "chance": "20%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "Surfing",
+        "rows": [
+          {
+            "species": "Stunfisk",
+            "levelRange": "30",
+            "chance": "90%",
+            "flags": []
+          },
+          {
+            "species": "Palpitoad",
+            "levelRange": "30",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Seismitoad",
+            "levelRange": "30-40",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Stunfisk",
+            "levelRange": "30-40",
+            "chance": "40%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Barboach",
+            "levelRange": "35-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Shellos",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Stunfisk",
+            "levelRange": "35-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Whiscash",
+            "levelRange": "35-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Gastrodon",
+            "levelRange": "35-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Stunfisk",
+            "levelRange": "35-70",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Dragonspiral Tower - Outside:",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Mienfoo",
+            "levelRange": "31-33",
+            "chance": "40%",
+            "flags": [
+              "(30% in Winter)"
+            ]
+          },
+          {
+            "species": "Cubchoo",
+            "levelRange": "31-33",
+            "chance": "20%",
+            "flags": [
+              "(30% in Winter)"
+            ]
+          },
+          {
+            "species": "Pawniard",
+            "levelRange": "31-33",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Rufflet",
+            "levelRange": "31-33",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Vullaby",
+            "levelRange": "31-33",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "33",
+            "chance": "85%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Mienshao",
+            "levelRange": "35",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud",
+              "(5% in Winter)"
+            ]
+          },
+          {
+            "species": "Beartic",
+            "levelRange": "35",
+            "chance": "5%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud",
+              "(10% in Winter)"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Mienshao",
+            "levelRange": "37",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Beartic",
+            "levelRange": "37",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Bisharp",
+            "levelRange": "37",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Braviary",
+            "levelRange": "37",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Mandibuzz",
+            "levelRange": "37",
+            "chance": "20%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "Surfing",
+        "rows": [
+          {
+            "species": "Basculin-R",
+            "levelRange": "15-35",
+            "chance": "100%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "15-40",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Dratini",
+            "levelRange": "35-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Horsea",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Magikarp",
+            "levelRange": "35-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Dragonair",
+            "levelRange": "35-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Seadra",
+            "levelRange": "35-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Gyarados",
+            "levelRange": "35-60",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Dragonspiral Tower - Inside",
+    "methods": [
+      {
+        "method": "Land",
+        "rows": [
+          {
+            "species": "Golett",
+            "levelRange": "34",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Druddigon",
+            "levelRange": "34",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Mienfoo",
+            "levelRange": "34",
+            "chance": "20%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Route 8:",
+    "methods": [
+      {
+        "method": "Normal \"Grass\"",
+        "rows": [
+          {
+            "species": "Stunfisk",
+            "levelRange": "33",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Shelmet",
+            "levelRange": "33",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Palpitoad",
+            "levelRange": "33",
+            "chance": "20%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "Surfing",
+        "rows": [
+          {
+            "species": "Stunfisk",
+            "levelRange": "30",
+            "chance": "90%",
+            "flags": []
+          },
+          {
+            "species": "Palpitoad",
+            "levelRange": "30",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Seismitoad",
+            "levelRange": "30-40",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Stunfisk",
+            "levelRange": "30-40",
+            "chance": "40%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Barboach",
+            "levelRange": "35-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Shellos",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Stunfisk",
+            "levelRange": "35-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Whiscash",
+            "levelRange": "35-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Gastrodon",
+            "levelRange": "35-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Stunfisk",
+            "levelRange": "35-70",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Moor of Iccirus",
+    "methods": [
+      {
+        "method": "Normal \"Grass\"",
+        "rows": [
+          {
+            "species": "Stunfisk",
+            "levelRange": "33",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Shelmet",
+            "levelRange": "33",
+            "chance": "40%",
+            "flags": []
+          },
+          {
+            "species": "Palpitoad",
+            "levelRange": "33",
+            "chance": "20%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "Surfing",
+        "rows": [
+          {
+            "species": "Stunfisk",
+            "levelRange": "30",
+            "chance": "100%",
+            "flags": []
+          },
+          {
+            "species": "Palpitoad",
+            "levelRange": "30-40",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Seismitoad",
+            "levelRange": "30-40",
+            "chance": "40%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Barboach",
+            "levelRange": "35-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Shellos",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Stunfisk",
+            "levelRange": "35-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Whiscash",
+            "levelRange": "35-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Gastrodon",
+            "levelRange": "35-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Stunfisk",
+            "levelRange": "35-70",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Route 9",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Garbodor",
+            "levelRange": "35",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Liepard",
+            "levelRange": "35",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Pawniard",
+            "levelRange": "35",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Gothorita",
+            "levelRange": "35",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Duosion",
+            "levelRange": "35",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "35",
+            "chance": "90%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Emolga",
+            "levelRange": "35",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Garbodor",
+            "levelRange": "39",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Liepard",
+            "levelRange": "39",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Bisharp",
+            "levelRange": "39",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Gothitelle",
+            "levelRange": "39",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Reuniclus",
+            "levelRange": "39",
+            "chance": "10%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Challengers Cave",
+    "methods": [
+      {
+        "method": "1F and B1F",
+        "rows": [
+          {
+            "species": "Boldore",
+            "levelRange": "36-37",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Swoobat",
+            "levelRange": "36-37",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Druddigon",
+            "levelRange": "36-37",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Klang",
+            "levelRange": "36-37",
+            "chance": "15%",
+            "flags": []
+          },
+          {
+            "species": "Fraxure",
+            "levelRange": "36-37",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Ferrothorn",
+            "levelRange": "37",
+            "chance": "5%",
+            "flags": []
+          },
+          {
+            "species": "Excadrill",
+            "levelRange": "38",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "B2F",
+        "rows": [
+          {
+            "species": "Boldore",
+            "levelRange": "36-37",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Swoobat",
+            "levelRange": "36-37",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Druddigon",
+            "levelRange": "36-37",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Klang",
+            "levelRange": "36-37",
+            "chance": "15%",
+            "flags": []
+          },
+          {
+            "species": "Fraxure",
+            "levelRange": "36-37",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Archen",
+            "levelRange": "36-37",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Ferrothorn",
+            "levelRange": "37",
+            "chance": "5%",
+            "flags": []
+          },
+          {
+            "species": "Excadrill",
+            "levelRange": "38",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Surfing",
+        "rows": [
+          {
+            "species": "Basculin-R",
+            "levelRange": "35",
+            "chance": "90%",
+            "flags": []
+          },
+          {
+            "species": "Tirtouga",
+            "levelRange": "35",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "38",
+            "chance": "90%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Tirtouga",
+            "levelRange": "38",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Omanyte",
+            "levelRange": "35-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Kabuto",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Anorith",
+            "levelRange": "35-55",
+            "chance": "5%",
+            "flags": []
+          },
+          {
+            "species": "Lileep",
+            "levelRange": "35-55",
+            "chance": "5%",
+            "flags": []
+          },
+          {
+            "species": "Anorith",
+            "levelRange": "45-70",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Lileep",
+            "levelRange": "45-70",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Kabuto",
+            "levelRange": "45-70",
+            "chance": "5%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Omanyte",
+            "levelRange": "45-70",
+            "chance": "5%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Route 10",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Stoutland",
+            "levelRange": "39",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Rufflet",
+            "levelRange": "39",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Vullaby",
+            "levelRange": "39",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Amoonguss",
+            "levelRange": "39",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Bouffalant",
+            "levelRange": "39",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Gurdurr",
+            "levelRange": "39",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "40",
+            "chance": "80%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud",
+              "(100% and Level 43 in the Badge Check Gates)"
+            ]
+          },
+          {
+            "species": "Throh",
+            "levelRange": "40",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud",
+              "(0% in the Badge Check Gates)"
+            ]
+          },
+          {
+            "species": "Sawk",
+            "levelRange": "40",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud",
+              "(0% in the Badge Check Gates)"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Stoutland",
+            "levelRange": "43",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Braviary",
+            "levelRange": "43",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Mandibuzz",
+            "levelRange": "43",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Amoonguss",
+            "levelRange": "43",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Bouffalant",
+            "levelRange": "43",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Gurdurr",
+            "levelRange": "43",
+            "chance": "10%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victory Road - Outside:",
+    "methods": [
+      {
+        "method": "Land",
+        "rows": [
+          {
+            "species": "Heatmor",
+            "levelRange": "40",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Mienfoo",
+            "levelRange": "40",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Fraxure",
+            "levelRange": "40",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Vullaby",
+            "levelRange": "40",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Rufflet",
+            "levelRange": "40",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Larvesta",
+            "levelRange": "40",
+            "chance": "10%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victory Road - 1F",
+    "methods": [
+      {
+        "method": "Land",
+        "rows": [
+          {
+            "species": "Durant",
+            "levelRange": "41-42",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Boldore",
+            "levelRange": "41-42",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Mienfoo",
+            "levelRange": "41-42",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Deino",
+            "levelRange": "41-42",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Woobat",
+            "levelRange": "41-42",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Excadrill",
+            "levelRange": "42-43",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victory Road - 2-6F",
+    "methods": [
+      {
+        "method": "Land",
+        "rows": [
+          {
+            "species": "Heatmor",
+            "levelRange": "43",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Deino",
+            "levelRange": "43",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Boldore",
+            "levelRange": "43",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Mienfoo",
+            "levelRange": "43",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Woobat",
+            "levelRange": "43",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Ferrothorn",
+            "levelRange": "43",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Excadrill",
+            "levelRange": "42-43",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victory Road - 7F Top floor",
+    "methods": [
+      {
+        "method": "Land",
+        "rows": [
+          {
+            "species": "Swoobat",
+            "levelRange": "44",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Mienshao",
+            "levelRange": "44",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Boldore",
+            "levelRange": "44",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Zweilous",
+            "levelRange": "44",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Ferrothorn",
+            "levelRange": "44",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Excadrill",
+            "levelRange": "46",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victory Road - Trial Chamber",
+    "methods": [
+      {
+        "method": "Land",
+        "rows": [
+          {
+            "species": "Boldore",
+            "levelRange": "44",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Swoobat",
+            "levelRange": "44",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Durant",
+            "levelRange": "44",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Mienshao",
+            "levelRange": "44",
+            "chance": "14%",
+            "flags": []
+          },
+          {
+            "species": "Gigalith",
+            "levelRange": "44",
+            "chance": "5%",
+            "flags": []
+          },
+          {
+            "species": "Hydreigon",
+            "levelRange": "44",
+            "chance": "1%",
+            "flags": []
+          },
+          {
+            "species": "Excadrill",
+            "levelRange": "45",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victory Road - Surfing",
+    "methods": [
+      {
+        "method": "All Floors with water",
+        "rows": [
+          {
+            "species": "Basculin-R",
+            "levelRange": "20-45",
+            "chance": "100%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "20-50",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Victory Road - Fishing",
+    "methods": [
+      {
+        "method": "All Floors with water",
+        "rows": [
+          {
+            "species": "Seadra",
+            "levelRange": "35-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Dratini",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Basculin",
+            "levelRange": "35-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Kingdra",
+            "levelRange": "35-70",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Dragonair",
+            "levelRange": "35-70",
+            "chance": "39%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Dragonite",
+            "levelRange": "45-70",
+            "chance": "1%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Route 11",
+    "methods": [
+      {
+        "method": "Standard Grass",
+        "rows": [
+          {
+            "species": "Golduck",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Ursaring",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Gligar",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Zangoose",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Seviper",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Parasect",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Breloom",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Cacturne",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "52",
+            "chance": "80%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Magnezone",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Gliscor",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Venomoth",
+            "levelRange": "58",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Quagsire",
+            "levelRange": "58",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Tauros",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Miltank",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Swalot",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Torkoal",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Toxicroak",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Magneton",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "Surf",
+        "rows": [
+          {
+            "species": "Buizel",
+            "levelRange": "25-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Lombre",
+            "levelRange": "25-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Marill",
+            "levelRange": "35-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Floatzel",
+            "levelRange": "25-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Ludicolo",
+            "levelRange": "25-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Azumarill",
+            "levelRange": "35-70",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Goldeen",
+            "levelRange": "35-55",
+            "chance": "70%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-R",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Seaking",
+            "levelRange": "35-70",
+            "chance": "70%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "35-70",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Route 12",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Kirlia",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Rapidash",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Beedrill",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Butterfree",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Pinsir",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Sunkern",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Cherrim",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Heracross",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "54",
+            "chance": "55%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Ivysaur",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Bayleef",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Grovyle",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Grotle",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Munchlax",
+            "levelRange": "52",
+            "chance": "5%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Jumpluff",
+            "levelRange": "58",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Vespiquen",
+            "levelRange": "58",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Dodrio",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Linoone",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Growlithe",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Gloom",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Weepinbell",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Carnivine",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Route 13",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Swellow",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Drifblim",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Golbat",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Tangela",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Beautifly",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Dustox",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Absol",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Exeggcute",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "54",
+            "chance": "80%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Castform",
+            "levelRange": "54",
+            "chance": "20%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Grumpig",
+            "levelRange": "58",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Xatu",
+            "levelRange": "58",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Medicham",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Kadabra",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Plusle",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Minun",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Pachirisu",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Kecleon",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "Surf",
+        "rows": [
+          {
+            "species": "Wingull",
+            "levelRange": "25-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Staryu",
+            "levelRange": "25-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Swanna",
+            "levelRange": "25-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Starmie",
+            "levelRange": "25-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Corsola",
+            "levelRange": "25-60",
+            "chance": "40%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Krabby",
+            "levelRange": "35-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Shellder",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Luvdisc",
+            "levelRange": "35-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Luvdisc",
+            "levelRange": "35-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Cloyster",
+            "levelRange": "35-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Kingler",
+            "levelRange": "45-70",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Route 14",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Jigglypuff",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Altaria",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Electrode",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Porygon",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Togepi",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Machoke",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Lopunny",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Nuzleaf",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "54",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Wartortle",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Croconaw",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Marshtomp",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Prinplup",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Yanmega",
+            "levelRange": "58",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Tropius",
+            "levelRange": "58",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Nidorino",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Nidorina",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Masquerain",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Drapion",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Vigoroth",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Manectric",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "Surf",
+        "rows": [
+          {
+            "species": "Buizel",
+            "levelRange": "25-55",
+            "chance": "70%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-R",
+            "levelRange": "25-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Floatzel",
+            "levelRange": "25-60",
+            "chance": "70%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Corsola",
+            "levelRange": "25-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Goldeen",
+            "levelRange": "35-55",
+            "chance": "70%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-R",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Seaking",
+            "levelRange": "35-60",
+            "chance": "70%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "35-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Route 15",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Marowak",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Fearow",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Shelgon",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Kangaskhan",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Graveler",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Pupitar",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Nincada",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Magcargo",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "57",
+            "chance": "50%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Hippowdon",
+            "levelRange": "54",
+            "chance": "20%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Camerupt",
+            "levelRange": "55",
+            "chance": "20%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Shuckle",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Donphan",
+            "levelRange": "58",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Vibrava",
+            "levelRange": "58",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Rhydon",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Dugtrio",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Gabite",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Primeape",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Muk",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Weezing",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Abundant Shrine",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Vulpix",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Noctowl",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Burmy",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Chimecho",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Stantler",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Murkrow",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Misdreavus",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Mr. Mime",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Chansey",
+            "levelRange": "54",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Charmeleon",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Quilava",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Combusken",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Monferno",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Dusclops",
+            "levelRange": "58",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Banette",
+            "levelRange": "58",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Kricketune",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Lickitung",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Haunter",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Bronzong",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Roselia",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Spinda",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "Surf",
+        "rows": [
+          {
+            "species": "Basculin-R",
+            "levelRange": "25-55",
+            "chance": "70%",
+            "flags": []
+          },
+          {
+            "species": "Slowpoke",
+            "levelRange": "25-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Slowpoke",
+            "levelRange": "25-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "25-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Slowbro",
+            "levelRange": "35-70",
+            "chance": "5%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Slowking",
+            "levelRange": "35-70",
+            "chance": "5%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Goldeen",
+            "levelRange": "35-55",
+            "chance": "70%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-R",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Luvdisc",
+            "levelRange": "35-60",
+            "chance": "70%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Cloyster",
+            "levelRange": "35-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Undella Town",
+    "methods": [
+      {
+        "method": "Surf",
+        "rows": [
+          {
+            "species": "Mantine",
+            "levelRange": "25-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Wailmer",
+            "levelRange": "25-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Sealeo",
+            "levelRange": "25-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Wailord",
+            "levelRange": "25-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Walrein",
+            "levelRange": "25-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Corsola",
+            "levelRange": "35-70",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Remoraid",
+            "levelRange": "35-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Shellder",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Luvdisc",
+            "levelRange": "35-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Luvdisc",
+            "levelRange": "35-60",
+            "chance": "70%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Octillery",
+            "levelRange": "35-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Cloyster",
+            "levelRange": "35-60",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Undella Bay",
+    "methods": [
+      {
+        "method": "Surf",
+        "rows": [
+          {
+            "species": "Mantine",
+            "levelRange": "25-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Sealeo",
+            "levelRange": "25-55",
+            "chance": "30%",
+            "flags": [
+              "(Winter Only)"
+            ]
+          },
+          {
+            "species": "Tentacool",
+            "levelRange": "25-55",
+            "chance": "30%",
+            "flags": [
+              "(Spring, Summer, Autumn Only)"
+            ]
+          },
+          {
+            "species": "Wailmer",
+            "levelRange": "25-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Wailord",
+            "levelRange": "25-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Corsola",
+            "levelRange": "25-70",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Walrein",
+            "levelRange": "35-70",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud",
+              "(Winter Only)"
+            ]
+          },
+          {
+            "species": "Tentacruel",
+            "levelRange": "35-70",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud",
+              "(Spring, Summer, Autumn only)"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Remoraid",
+            "levelRange": "35-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Shellder",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Luvdisc",
+            "levelRange": "35-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Luvdisc",
+            "levelRange": "35-60",
+            "chance": "70%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Octillery",
+            "levelRange": "35-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Cloyster",
+            "levelRange": "35-60",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Giant Chasm - Outer",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Raticate",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Arbok",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Persian",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Lunatone",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Solrock",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Ampharos",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Sudowoodo",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Skarmory",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "59",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Raticate",
+            "levelRange": "58",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Arbok",
+            "levelRange": "58",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Persian",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Lunatone",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Solrock",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Sudowoodo",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Ampharos",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Skarmory",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Giant Chasm - Inner",
+    "methods": [
+      {
+        "method": "Normal \"Grass\"",
+        "rows": [
+          {
+            "species": "Delibird",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Jynx",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Piloswine",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Sneasel",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Wobbuffet",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Loudred",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Hariyama",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Nosepass",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Excadrill",
+            "levelRange": "54",
+            "chance": "80%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Surf",
+        "rows": [
+          {
+            "species": "Seel",
+            "levelRange": "25-55",
+            "chance": "70%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-R",
+            "levelRange": "25-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Dewgong",
+            "levelRange": "25-60",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "25-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Goldeen",
+            "levelRange": "35-55",
+            "chance": "65%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-R",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Poliwhirl",
+            "levelRange": "35-55",
+            "chance": "5%",
+            "flags": []
+          },
+          {
+            "species": "Poliwhirl",
+            "levelRange": "35-70",
+            "chance": "65%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "35-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Poliwrath",
+            "levelRange": "45-70",
+            "chance": "5%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Giant Chasm - Crater",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Ditto",
+            "levelRange": "55",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Metang",
+            "levelRange": "55",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Clefairy",
+            "levelRange": "55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Tyrogue",
+            "levelRange": "55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Hypno",
+            "levelRange": "55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Girafarig",
+            "levelRange": "55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Forretress",
+            "levelRange": "55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Houndoom",
+            "levelRange": "55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "60",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Ditto",
+            "levelRange": "60",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Tyrogue",
+            "levelRange": "60",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Espeon",
+            "levelRange": "60",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Umbreon",
+            "levelRange": "60",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Glaceon",
+            "levelRange": "60",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Leafeon",
+            "levelRange": "60",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Luxray",
+            "levelRange": "60",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Clefable",
+            "levelRange": "62",
+            "chance": "5%",
+            "flags": []
+          },
+          {
+            "species": "Metagross",
+            "levelRange": "62",
+            "chance": "5%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Giant Chasm - Kyurem's Chamber",
+    "methods": [
+      {
+        "method": "Land",
+        "rows": [
+          {
+            "species": "Abomasnow",
+            "levelRange": "58",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Toxicroak",
+            "levelRange": "58",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Glalie",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Froslass",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Mawile",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Sableye",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Spiritomb",
+            "levelRange": "60",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Aggron",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Excadrill",
+            "levelRange": "60",
+            "chance": "100%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Village Bridge",
+    "methods": [
+      {
+        "method": "Normal Grass",
+        "rows": [
+          {
+            "species": "Farfetch'd",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Furret",
+            "levelRange": "52",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Purugly",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Skuntank",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Smeargle",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Electabuzz",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Magmar",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Scyther",
+            "levelRange": "52",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Audino",
+            "levelRange": "57",
+            "chance": "50%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Eevee",
+            "levelRange": "54",
+            "chance": "15%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Pikachu",
+            "levelRange": "54",
+            "chance": "15%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Riolu",
+            "levelRange": "54",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Dunsparce",
+            "levelRange": "54",
+            "chance": "10%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Dark Grass",
+        "rows": [
+          {
+            "species": "Mightyena",
+            "levelRange": "58",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Delcatty",
+            "levelRange": "58",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Ariados",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Ledian",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Volbeat",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Illumise",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Aipom",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Granbull",
+            "levelRange": "58",
+            "chance": "10%",
+            "flags": []
+          }
+        ]
+      },
+      {
+        "method": "Surf",
+        "rows": [
+          {
+            "species": "Basculin-R",
+            "levelRange": "25-55",
+            "chance": "60%",
+            "flags": []
+          },
+          {
+            "species": "Lapras",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Bibarel",
+            "levelRange": "35-55",
+            "chance": "10%",
+            "flags": []
+          },
+          {
+            "species": "Lapras",
+            "levelRange": "35-70",
+            "chance": "60%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Bibarel",
+            "levelRange": "25-70",
+            "chance": "40%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      },
+      {
+        "method": "Fishing",
+        "rows": [
+          {
+            "species": "Carvanha",
+            "levelRange": "35-55",
+            "chance": "70%",
+            "flags": []
+          },
+          {
+            "species": "Basculin-R",
+            "levelRange": "35-55",
+            "chance": "30%",
+            "flags": []
+          },
+          {
+            "species": "Sharpedo",
+            "levelRange": "35-60",
+            "chance": "70%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          },
+          {
+            "species": "Basculin-B",
+            "levelRange": "35-60",
+            "chance": "30%",
+            "flags": [
+              "shaking grass / rippling water / dust cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "location": "Marvellous Bridge",
+    "methods": [
+      {
+        "method": "Land",
+        "rows": [
+          {
+            "species": "Staraptor",
+            "levelRange": "54",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Pidgeot",
+            "levelRange": "54",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Noctowl",
+            "levelRange": "54",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Swellow",
+            "levelRange": "54",
+            "chance": "20%",
+            "flags": []
+          },
+          {
+            "species": "Chatot",
+            "levelRange": "54",
+            "chance": "20%",
+            "flags": []
+          }
+        ]
+      }
+    ]
+  }
+]

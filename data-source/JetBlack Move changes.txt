@@ -1,0 +1,568 @@
+Move Changes:
+
+[Vine Whip]
+Power: 35  >  40
+PP: 15 > 25   
+
+[Struggle Bug]             
+Power: 30 > 55 
+       
+[Snarl]
+Accuracy: 95 > 100
+PP: 15 > 20
+
+[Incinerate]           
+Power: 30 > 60   
+
+[Flame Charge]            
+Power: 50 > 60  
+
+[Flame Burst]            
+Power: 70 > 80  
+
+[Rock Tomb]              
+Power: 50 > 60 
+Accuracy: 80 > 95 
+PP: 10 > 15 
+
+[Electroweb]
+Power: 55 > 60      
+Accuracy: 95 > 100    
+
+[Icy Wind]
+Power: 55 > 60         
+Accuracy: 95 > 100   
+
+[Skull Bash]
+Type: Normal > Fighting
+Power: 80 > 85 
+Accuracy: 80 > 95 
+PP: 25 > 15 
+Effect:
+20% chance to make the target flinch (two turn removed)
+
+[Cut]
+Type: Normal > Bug
+Power: 55 > 60      
+Accuracy: 95 > 100 
+PP: 30 > 20  
+Effect:
+20% chance to increase Attack by 1 stage.         
+
+[Strength]
+Power: 90                         
+
+[Rock Climb]
+Type: Normal > Rock
+Accuracy: 85 > 90     
+
+[Steamroller]
+Power: 65 > 85   
+PP: 20 > 15      
+
+[Leaf Tornado]
+Power: 65 > 75       
+Accuracy: 90 > 95    
+PP: 10 > 15           
+Effect:
+30% chance of lowering target's Accuracy by 1 Stage (Down from 50%)
+
+[Power Gem]
+Power: 70 > 80
+
+[Leech Life]
+Power: 20 > 75   
+PP: 15 > 10      
+
+[Grass Pledge]
+Power: 50 > 85
+PP: 10 > 15
+
+[Fire Pledge]
+Power: 50 > 85
+PP: 10 > 15
+
+[Water Pledge]
+Power: 50 > 85
+PP: 10 > 15
+
+[Arm Thrust]
+Power: 15 > 25 
+
+[Grasswhistle]
+Accuracy: 55 > 65
+PP: 15
+
+[Knock Off]
+Power: 20 > 65
+
+[Mist Ball]
+Power: 70 > 100
+
+[Luster Purge]
+Power: 70 > 100
+
+[Assurance]
+Power: 50 > 60
+PP: 10 > 15
+
+[Silver Wind]
+PP: 5 > 10
+
+[Ominous Wind]
+PP: 5 > 10
+
+[Ancientpower]
+PP: 5 > 10
+
+[Gear Grind]
+Power: 50 > 55
+Accuracy: 85 > 95
+
+[Glaciate]
+Power: 65 > 100
+PP: 10 > 5
+
+[Submission]
+Power: 85 > 90
+Accuracy: 90 > 95
+Effect:
+Now has a higher crit ratio (No longer suffers recoil)
+
+[Absorb]
+Power: 20 > 35
+
+[Mega Drain]
+Power: 40 > 55
+
+[Rock Wrecker]
+Is now Rock type Close Combat
+
+[Wild Charge]
+Power: 90 > 95
+Now no longer causes recoil
+
+[Fury Cutter]
+Power: 20 > 40
+
+[Thief]
+Power: 40 > 60
+
+[Sheer Cold]
+Is now Ice type Overheat
+
+[Needle Arm]
+Power: 65 > 75
+
+[Fissure]
+Is now a Ground type Double-Edge
+
+[Pin Missile]
+Power: 25
+Acc 100
+
+[Chatter]
+Power: 60 > 90
+PP: 20 > 15
+
+[Poison Tail]
+Power: 50 > 70
+
+[Razor Shell]
+Accuracy: 95 > 100
+
+[Blaze Kick]
+Accuracy: 90 > 100
+
+[Whirlpool]
+Power: 35 > 60
+Accuracy: 85 > 100
+Effect:
+Now also bypasses Substitute
+
+[Sand Tomb]
+Power: 35 > 60
+Accuracy: 85 > 100
+Effect:
+Now also bypasses Substitute
+
+[Fire Spin]
+Power: 35 > 60
+Accuracy: 85 > 100
+Effect:
+Now also bypasses Substitute
+
+[Energy Ball]
+Power: 80 > 90
+PP: 10 > 15
+
+[Hyper Voice]
+PP: 10 > 15
+
+[Psychic]
+PP: 10 > 15
+
+[Ice Beam]
+PP: 10 > 15
+
+[Dragon Pulse]
+PP: 10 > 15
+
+
+[Elemental Hyper Beams]
+All have 200 Base Power, 1 PP and have an additional effect.
+-Frenzy Plant, Grass: Restores health by 50% of Damage done.
+-Blast Burn, Fire: Burns the target.
+-Hydro Cannon, Water: Lowers the target's speed by 2 stages.
+
+[Seed Flare]
+Accuracy: 85 > 90
+Effect:
+30% chance to lower Special Defense by 1 stage (down from 40% chance of lowering by 2 stages)
+
+[Magma Storm]
+Accuracy: 70 > 85
+
+[Guillotine]
+Power: 0 > 150
+Acc: 30 > 80
+Effect:
+Now has a 50% chance of increasing Attack one stage (No longer OHKO's)
+
+[Air Cutter]
+Power: 55 > 60
+Accuracy: 95 > 100
+
+[Air Slash]
+Power: 75 > 80
+Accuracy: 95 > 100
+
+[Hurricane]
+Accuracy: 70 > 85
+Effect:
+Confusion chance lowered from 30% to 10%
+
+[Thunder]
+Accuracy: 70 > 85
+
+[Blizzard]
+Accuracy: 70 > 85
+PP: 5 > 10
+
+[Fire Blast]
+PP: 5 > 10
+
+[Fly]
+Power: 90 > 100
+Accuracy: 95 > 100
+
+[Waterfall]
+Power: 80 > 90
+
+[Zap Cannon]
+Power: 120 > 100
+Accuracy: 50 > 90
+PP: 5 > 10
+Effect:
+Now has a 40% chance to increase Special Attack by 1 stage
+
+[Mud Shot]
+Power: 55 > 60
+Accuracy: 95 > 100
+PP: 15 > 20
+
+[Mud Bomb]
+Power: 65 > 75 
+Accuracy: 85 > 100 
+PP: 10 > 15
+
+[Inferno]
+Accuracy: 50 > 100
+PP: 5 > 10
+Effect:
+Now hits all adjacent Pokemon. Burn chance has been lowered from 100% to 10%
+
+[Will-o-Wisp]
+Accuracy: 75 > 85
+
+[Heart Stamp]
+Power: 60 > 80
+PP: 25 > 15
+
+[Rock Throw]
+Power: 50 > 55
+Accuracy: 90 > 95
+
+[Rock Slide]
+Power: 75 > 80
+Accuracy: 90 > 95
+PP: 10 > 15
+
+[Stone Edge]
+Accuracy: 80 > 85
+PP: 5 > 10
+
+[Flash Cannon]
+Power: 80 > 90
+PP: 10 > 15
+
+[Charge Beam]
+Accuracy: 90 > 100
+PP: 10 > 15
+
+[Poison Gas]
+Accuracy: 55 > 80
+
+[Dragon Rush]
+Accuracy: 75 > 90
+
+[Iron Tail]
+Accuracy: 75 > 90
+
+[Aurora Beam]
+Power: 65 > 75
+
+[BubbleBeam]
+Power: 65 > 75
+
+[Mirror Shot]
+Power: 65 > 70
+Accuracy: 85 > 100
+PP: 10 > 15
+Effect:
+Chance to lower accuracy dropped to 10%
+
+[Fire Fang]
+Power: 65 > 70
+Accuracy: 95 > 100
+
+[Thunder Fang]
+Power: 65 > 70
+Accuracy: 95 > 100
+
+[Ice Fang]
+Power: 65 > 70
+Accuracy: 95 > 100
+
+[Egg Bomb]
+Type: Normal > Grass
+Category: Physical > Special
+Accuracy: 75 > 100
+
+[Head Smash]
+Accuracy: 80 > 90
+
+[Cross Poison]
+Power: 70 > 85
+
+[Razor Leaf]
+Power: 55 > 60
+Accuracy: 95 > 100
+
+[Poison Fang]
+Power: 50 > 55
+Effect:
+Now has a 50% chance to badly poison, up from 30%
+
+----------------------
+Moves from later Gens
+----------------------
+The following moves have been added to JetBlack, the moves they have replaced are also denoted
+(Sorry if Constrict is your absolute favourite move!)
+
+Liquidation - Replaces Barrage
+Lumina Crash - Replaces Constrict
+Mystical Fire - Replaces Mist
+High Horsepower - Replaces Spider Web
+Power-Up Punch - Replaces Comet Punch
+Parabolic Charge (Paravolt Charge due to space) - Replaces Kinesis
+Infernal Parade** - Replaces ViceGrip
+Boomburst[v1.3] - Replaces Slam
+Ceaseless Edge[v1.5]** - Replaces Fury Attack
+Triple Arrows[v1.5]** - Replaces DoubleSlap
+Torch Song[v1.5] - Replaces Razor Wind
+Flower Trick[v1.5]** - Replaces After You
+Aqua Step[v1.5] - Replaces Minimize
+Trailblaze[v1.7] - Replaces Horn Drill
+Eerie Spell[v1.7] - Replaces Mega Kick
+
+All the new moves effects, base power etc are accurate to the most recent Generation they are available in
+with the exception of Infernal Parade, which, due to coding complications (an elaborate way of saying 
+"I am a complete coding newbie") has a completely different effect.
+The above statement is not necessarily true as I have learned alot since working on v1.0 but 
+I like how Infernal Parade works in JetBlack so I will be keeping it as is.
+The new moves added in v1.5 have been tweaked slightly;
+
+[Infernal Parade]
+Type: Ghost
+Damage type: Special
+Power: 25
+Accuracy: 100
+PP: 15
+Effect: 
+Each hit has a 30% chance to burn.
+
+[Ceaseless Edge]
+Type: Dark
+Damage Type: Physical
+Power: 75
+Accuracy: 100
+PP: 15
+Effect:
+Applies the effects of Heal Block on the target for 3 turns.
+
+[Triple Arrows]
+Type: Fighting
+Damage Type: Physical
+Power: 70
+Accuracy: 100
+PP: 15
+Effect:
+Lowers Defense by one stage and has higher chance of scoring a critical hit
+
+[Flower Trick]
+Type: Grass
+Damage Type: Special (Is Physical in the mainline titles)
+Power: 60 (70 in mainline titles)
+Accuracy: Always Hits
+PP: 15
+Effect:
+Always lands a critical hit
+
+[Trailblaze]
+Type: Grass
+Damage type: Physical
+Power: 60 (50 in mainline titles)
+Accuracy: 100
+PP: 20
+Effect:
+100% chance to increase speed
+
+[Eerie Spell]
+Type: Psychic
+Damage type: Special
+Power: 90 (80 in mainline titles)
+Accuracy: 100
+PP: 15 (10 in mainline titles)
+Effect: 
+Has a 30% chance of disabling the target's last move
+used for 4 turns
+
+
+
+-The following Pokemon have these moves added to their learnset. The level in which they are learned 
+can be found in the Stats and Learnsets document (denoted by an asterisk*)
+
+Liquidation:
+Oshawott, Dewott, Samurott, Basculin, Swanna, Carracosta, Eelektross, Alomomola,
+Cubchoo, Beartic.
+
+Lumina Crash:
+Sigilyph, Elgyem, Beheeyem.
+
+Power-Up Punch:
+Pignite, Emboar, Watchog, Audino, Timburr, Gurdurr, Conkeldurr, Seismitoad, Maractus, Scraggy, 
+Scrafty, Reuniclus, Golett, Golurk
+
+High Horsepower:
+Pignite, Emboar, Stoutland, Zebstrika, Drilbur, Excadrill, Sawsbuck, Golurk, Bouffalant
+
+Mystical Fire:
+Victini, Gothita, Gothorita, Gothitelle, Darmanitan, Beheeyem, Litwick, Lampent
+Chandelure, Volcarona
+
+Paravolt Charge:
+Blitzle, Zebstrika, Emolga, Eelektrik, Eelektross, Stunfisk
+
+Infernal Parade:
+Litwick, Lampent, Chandelure
+
+Boomburst:
+Unfezant, Audino, Tympole, Palpitoad, Seismitoad
+
+Ceaseless Edge:
+Samurott, Pawniard, Bisharp
+
+Triple Arrows:
+Mienfoo, Mienshao
+
+Flower Trick:
+Pansage, Simisage, Cottonee, Whimsicott, Maractus
+
+Torch Song:
+Victini, Pansear, Simisear, Heatmor, Meloetta
+
+Aqua Step:
+Panpour, Simipour, Ducklett, Swanna, Beartic, Meloetta*
+
+Trailblaze:
+Blitzle, Zebstrika, Sewaddle, Swadloon, Leavanny, Cottonee, Whimsicott
+Swanna, Deerling, Sawsbuck, Maractus, Cubchoo, Beartic
+
+Eerie Spell:
+Gothita, Gothorita, Gothitelle, Elgyem, Beeheyem, 
+
+
+-National Dex learnset additions-
+
+Liquidation:
+Poliwag, Poliwhirl, Poliwrath, Dewgong, Shellder, Cloyster, Lapras, Krabby, Kingler
+Seaking, Gyarados, Kabuto, Kabutops, Totodile, Croconaw, Feraligatr, Marill,
+Azumarill, Politoed, Wooper, Quagsire, Qwilfish, Remoraid, Octillery, Carvanha, 
+Sharpedo, Barboach, Whiscash, Corphish, Crawdaunt, Armaldo, Rainy Castform, Spheal, Sealeo
+Walrein, Kyogre, Piplup, Prinplup, Empoleon, Buizel, Floatzel, Garchomp, Palkia
+
+Lumina Crash:
+Mew, Starmie, Lugia, Gardevoir, Spoink, Grumpig, Uxie, Mesprit, Azelf, Cresselia
+
+Power-Up Punch:
+Wigglytuff, Mankey, Primeape, Poliwhirl, Poliwrath, Machop, Machoke, Machamp, Grimer,
+Muk, Drowzee, Hypno, Hitmonchan, Kangaskan, Mew, Sentret, Furret, Ledyba, Ledian, Marill, Azumarill,
+Aipom, Snubbull, Granbull, Teddiursa, Ursaring, Tyrogue, Slakoth, Vigoroth, Slaking, Makuhita,
+Hariyama, Volbeat, Cacnea, Cacturne, Dusclops, Metang, Metagross, Regirock, Regice, Registeel,
+Jirachi, Chimchar, Monferno, Infernape, Ambipom, Buneary, Lopunny, Riolu, Lucario, Croagunk, #
+Toxicroak, Gallade, Dusknoir
+
+High Horsepower:
+Nidoqueen, Nidoking, Ponyta, Rapidash, Onix, Kingler, Tauros, Flareon, Snorlax, Girafarig,
+Steelix, Teddiursa, Ursaring, Stantler, Miltank, Aggron, Numel, Camerupt, Groudon, Mamoswine,
+Regigigas, Arceus
+
+Mystical Fire:
+Clefable, Vulpix, Ninetales, Wigglytuff, Mewtwo, Mew, Typhlosion, Slowking, Misdreavus, Kirlia, Gardevoir
+Latias, Latios, Drifloon, Drifblim, Mismagius, Cresselia
+
+Paravolt Charge: 
+Voltorb, Electrode, Zapdos, Chinchou, Lanturn, Mareep, Flaaffy, Ampharos, Nosepass, Plusle, Minun
+Pachirisu, Probopass
+
+Infernal Parade: 
+Ninetales, Typhlosion
+
+Boomburst:
+Jigglypuff, Wigglytuff, Voltorb, Electrode, Politoed, Yanma, Dunsparce, Whismur, Loudred, Exploud, Vibrava
+Flygon, Rayquaza, Kricketune, Magnezone, Togekiss, Yanmega, Arceus
+
+Ceaseless Edge:
+Zangoose, Seviper
+
+Triple Arrows:
+Zapdos, Hitmontop, Medicham
+
+Flower Trick:
+Vileplume, Bellossom, Roselia, Roserade
+
+Torch Song:
+Ninetales, Jigglypuff, Wigglytuff, Altaria
+
+Aqua Step:
+Marill, Azumarill, Ludicolo, Bibarel
+
+Trailblaze:
+Ekans, Arbok, Dodrio, Exeggutor, Tauros, Chikorita, Bayleef, Meganium, Sentret, Furret,
+Spinarak, Ariados, Sudowoodo, Swinub, Piloswine, Treecko, Grovyle, Sceptile, Volbeat,
+Illumise, Seviper, Kricketune, Bonsly, Snover, Abomasnow, Leafeon, Mamoswine, Shaymin
+
+
+Eerie Spell:
+Noctowl, Slowking, Misdreavus, Stantler, Mismagius

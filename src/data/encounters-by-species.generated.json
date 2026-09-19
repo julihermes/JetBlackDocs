@@ -1,0 +1,6859 @@
+{
+  "Patrat": [
+    {
+      "location": "Route 1",
+      "method": "Normal Grass",
+      "levelRange": "2-4",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Dreamyard - Outer",
+      "method": "Normal Grass",
+      "levelRange": "9-11",
+      "chance": "15%",
+      "flags": []
+    }
+  ],
+  "Purrloin": [
+    {
+      "location": "Route 1",
+      "method": "Normal Grass",
+      "levelRange": "2-5",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 2",
+      "method": "Normal Grass",
+      "levelRange": "4-7",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Dreamyard - Outer",
+      "method": "Normal Grass",
+      "levelRange": "8-11",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Lillipup": [
+    {
+      "location": "Route 1",
+      "method": "Normal Grass",
+      "levelRange": "2-4",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 2",
+      "method": "Normal Grass",
+      "levelRange": "4-7",
+      "chance": "40%",
+      "flags": []
+    }
+  ],
+  "Audino": [
+    {
+      "location": "Route 1",
+      "method": "Normal Grass",
+      "levelRange": "2-4",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 2",
+      "method": "Normal Grass",
+      "levelRange": "4-7",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Dreamyard - Outer",
+      "method": "Normal Grass",
+      "levelRange": "8-11",
+      "chance": "75%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 3",
+      "method": "Normal Grass",
+      "levelRange": "9-12",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Pinwheel Forest - Outside",
+      "method": "Normal Grass",
+      "levelRange": "14-15",
+      "chance": "90%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Normal Grass",
+      "levelRange": "14-17",
+      "chance": "65%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 5",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "80%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 16",
+      "method": "Normal Grass",
+      "levelRange": "20-22",
+      "chance": "80%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Lostlorn Forest",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "80%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Cold Storage",
+      "method": "Normal Grass",
+      "levelRange": "23-24",
+      "chance": "90%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 6",
+      "method": "Normal Grass",
+      "levelRange": "24-25",
+      "chance": "80%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 7",
+      "method": "Normal Grass",
+      "levelRange": "27-29",
+      "chance": "85%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 18",
+      "method": "Normal Grass",
+      "levelRange": "30-31",
+      "chance": "90%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "P2 Laboratory",
+      "method": "Normal Grass",
+      "levelRange": "30-31",
+      "chance": "95%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Normal Grass",
+      "levelRange": "33",
+      "chance": "85%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 9",
+      "method": "Normal Grass",
+      "levelRange": "35",
+      "chance": "90%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 10",
+      "method": "Normal Grass",
+      "levelRange": "40",
+      "chance": "80%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud",
+        "(100% and Level 43 in the Badge Check Gates)"
+      ]
+    },
+    {
+      "location": "Route 11",
+      "method": "Standard Grass",
+      "levelRange": "52",
+      "chance": "80%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 12",
+      "method": "Normal Grass",
+      "levelRange": "54",
+      "chance": "55%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 13",
+      "method": "Normal Grass",
+      "levelRange": "54",
+      "chance": "80%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 14",
+      "method": "Normal Grass",
+      "levelRange": "54",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 15",
+      "method": "Normal Grass",
+      "levelRange": "57",
+      "chance": "50%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Giant Chasm - Outer",
+      "method": "Normal Grass",
+      "levelRange": "59",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Giant Chasm - Crater",
+      "method": "Normal Grass",
+      "levelRange": "60",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Village Bridge",
+      "method": "Normal Grass",
+      "levelRange": "57",
+      "chance": "50%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Herdier": [
+    {
+      "location": "Route 1",
+      "method": "Dark Grass",
+      "levelRange": "32-34",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Cold Storage",
+      "method": "Normal Grass",
+      "levelRange": "23-24",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Cold Storage",
+      "method": "Dark Grass",
+      "levelRange": "26-27",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "P2 Laboratory",
+      "method": "Normal Grass",
+      "levelRange": "30-31",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Watchog": [
+    {
+      "location": "Route 1",
+      "method": "Dark Grass",
+      "levelRange": "32-35",
+      "chance": "29%",
+      "flags": []
+    },
+    {
+      "location": "Dreamyard - Outer",
+      "method": "Dark Grass",
+      "levelRange": "33-34",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 7",
+      "method": "Normal Grass",
+      "levelRange": "27-29",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 7",
+      "method": "Dark Grass",
+      "levelRange": "30-32",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "P2 Laboratory",
+      "method": "Normal Grass",
+      "levelRange": "30-31",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Liepard": [
+    {
+      "location": "Route 1",
+      "method": "Dark Grass",
+      "levelRange": "32-35",
+      "chance": "29%",
+      "flags": []
+    },
+    {
+      "location": "Dreamyard - Outer",
+      "method": "Dark Grass",
+      "levelRange": "33-34",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 5",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 5",
+      "method": "Dark Grass",
+      "levelRange": "25-26",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 16",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "5%",
+      "flags": []
+    },
+    {
+      "location": "Route 16",
+      "method": "Dark Grass",
+      "levelRange": "25-26",
+      "chance": "5%",
+      "flags": []
+    },
+    {
+      "location": "Route 9",
+      "method": "Normal Grass",
+      "levelRange": "35",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 9",
+      "method": "Dark Grass",
+      "levelRange": "39",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Scrafty": [
+    {
+      "location": "Route 1",
+      "method": "Dark Grass",
+      "levelRange": "32-35",
+      "chance": "2%",
+      "flags": []
+    },
+    {
+      "location": "Route 18",
+      "method": "Dark Grass",
+      "levelRange": "34-35",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Basculin-R": [
+    {
+      "location": "Route 1",
+      "method": "Surfing",
+      "levelRange": "5-15",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Route 1",
+      "method": "Surfing",
+      "levelRange": "5-20",
+      "chance": "40%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 1",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Route 3",
+      "method": "Surfing",
+      "levelRange": "5-20",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Route 3",
+      "method": "Surfing",
+      "levelRange": "5-20",
+      "chance": "40%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 3",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Striaton City",
+      "method": "Surfing",
+      "levelRange": "5-15",
+      "chance": "100%",
+      "flags": []
+    },
+    {
+      "location": "Striaton City",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Wellspring Cave",
+      "method": "Surf",
+      "levelRange": "5-15",
+      "chance": "100%",
+      "flags": []
+    },
+    {
+      "location": "Wellspring Cave",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Surf",
+      "levelRange": "5-20",
+      "chance": "100%",
+      "flags": []
+    },
+    {
+      "location": "Lostlorn Forest",
+      "method": "Surfing",
+      "levelRange": "5-15",
+      "chance": "100%",
+      "flags": []
+    },
+    {
+      "location": "Lostlorn Forest",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 6",
+      "method": "Surfing",
+      "levelRange": "10-25",
+      "chance": "100%",
+      "flags": []
+    },
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Surfing",
+      "levelRange": "15-35",
+      "chance": "100%",
+      "flags": []
+    },
+    {
+      "location": "Challengers Cave",
+      "method": "Surfing",
+      "levelRange": "35",
+      "chance": "90%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - Surfing",
+      "method": "All Floors with water",
+      "levelRange": "20-45",
+      "chance": "100%",
+      "flags": []
+    },
+    {
+      "location": "Route 11",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 14",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 14",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Abundant Shrine",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "70%",
+      "flags": []
+    },
+    {
+      "location": "Abundant Shrine",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Village Bridge",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Village Bridge",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Basculin-B": [
+    {
+      "location": "Route 1",
+      "method": "Surfing",
+      "levelRange": "5-15",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Route 1",
+      "method": "Surfing",
+      "levelRange": "5-20",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 1",
+      "method": "Fishing",
+      "levelRange": "35-70",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 3",
+      "method": "Surfing",
+      "levelRange": "5-20",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Route 3",
+      "method": "Surfing",
+      "levelRange": "5-20",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 3",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Striaton City",
+      "method": "Surfing",
+      "levelRange": "5-20",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Wellspring Cave",
+      "method": "Surf",
+      "levelRange": "5-20",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Wellspring Cave",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Surf",
+      "levelRange": "5-20",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Lostlorn Forest",
+      "method": "Surfing",
+      "levelRange": "5-20",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Lostlorn Forest",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 6",
+      "method": "Surfing",
+      "levelRange": "10-30",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Surfing",
+      "levelRange": "15-40",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Challengers Cave",
+      "method": "Surfing",
+      "levelRange": "38",
+      "chance": "90%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Victory Road - Surfing",
+      "method": "All Floors with water",
+      "levelRange": "20-50",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 11",
+      "method": "Fishing",
+      "levelRange": "35-70",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 14",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Abundant Shrine",
+      "method": "Surf",
+      "levelRange": "25-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Surf",
+      "levelRange": "25-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Village Bridge",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Corphish": [
+    {
+      "location": "Route 1",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Feebas": [
+    {
+      "location": "Route 1",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Crawdaunt": [
+    {
+      "location": "Route 1",
+      "method": "Fishing",
+      "levelRange": "35-70",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Milotic": [
+    {
+      "location": "Route 1",
+      "method": "Fishing",
+      "levelRange": "35-70",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Pidove": [
+    {
+      "location": "Route 2",
+      "method": "Normal Grass",
+      "levelRange": "5-7",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 3",
+      "method": "Normal Grass",
+      "levelRange": "9-12",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Route 3",
+      "method": "Dark Grass",
+      "levelRange": "14-15",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Pinwheel Forest - Outside",
+      "method": "Normal Grass",
+      "levelRange": "14-15",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Minccino": [
+    {
+      "location": "Route 2",
+      "method": "Normal Grass",
+      "levelRange": "4-7",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 3",
+      "method": "Normal Grass",
+      "levelRange": "9-12",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 3",
+      "method": "Dark Grass",
+      "levelRange": "14-15",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 5",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 5",
+      "method": "Dark Grass",
+      "levelRange": "25-26",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Cold Storage",
+      "method": "Normal Grass",
+      "levelRange": "23-24",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Cold Storage",
+      "method": "Dark Grass",
+      "levelRange": "26-27",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Munna": [
+    {
+      "location": "Dreamyard - Outer",
+      "method": "Normal Grass",
+      "levelRange": "9-11",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Dreamyard - Outer",
+      "method": "Dark Grass",
+      "levelRange": "33-34",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Dreamyard Basement",
+      "method": "Dark Grass",
+      "levelRange": "35",
+      "chance": "40%",
+      "flags": []
+    }
+  ],
+  "Trubbish": [
+    {
+      "location": "Dreamyard - Outer",
+      "method": "Normal Grass",
+      "levelRange": "9-11",
+      "chance": "15%",
+      "flags": []
+    },
+    {
+      "location": "Route 4",
+      "method": "Sand",
+      "levelRange": "15-18",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 5",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 5",
+      "method": "Dark Grass",
+      "levelRange": "25-26",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Gothita": [
+    {
+      "location": "Dreamyard - Outer",
+      "method": "Normal Grass",
+      "levelRange": "9-11",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 16",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Route 16",
+      "method": "Dark Grass",
+      "levelRange": "25-26",
+      "chance": "40%",
+      "flags": []
+    }
+  ],
+  "Solosis": [
+    {
+      "location": "Dreamyard - Outer",
+      "method": "Normal Grass",
+      "levelRange": "9-11",
+      "chance": "15%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 5",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Route 5",
+      "method": "Dark Grass",
+      "levelRange": "25-26",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Route 16",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 16",
+      "method": "Dark Grass",
+      "levelRange": "25-26",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Zorua": [
+    {
+      "location": "Dreamyard - Outer",
+      "method": "Normal Grass",
+      "levelRange": "9-11",
+      "chance": "5%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Lostlorn Forest",
+      "method": "Normal Grass",
+      "levelRange": "20",
+      "chance": "5%",
+      "flags": []
+    },
+    {
+      "location": "Lostlorn Forest",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Musharna": [
+    {
+      "location": "Dreamyard - Outer",
+      "method": "Normal Grass",
+      "levelRange": "11",
+      "chance": "5%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Gothorita": [
+    {
+      "location": "Dreamyard - Outer",
+      "method": "Dark Grass",
+      "levelRange": "33-34",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Dreamyard Basement",
+      "method": "Dark Grass",
+      "levelRange": "35",
+      "chance": "25%",
+      "flags": []
+    },
+    {
+      "location": "Route 9",
+      "method": "Normal Grass",
+      "levelRange": "35",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Duosion": [
+    {
+      "location": "Dreamyard - Outer",
+      "method": "Dark Grass",
+      "levelRange": "33-34",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Dreamyard Basement",
+      "method": "Dark Grass",
+      "levelRange": "35",
+      "chance": "25%",
+      "flags": []
+    },
+    {
+      "location": "Route 9",
+      "method": "Normal Grass",
+      "levelRange": "35",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Elgyem": [
+    {
+      "location": "Dreamyard Basement",
+      "method": "Dark Grass",
+      "levelRange": "35",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Desert Resort - Desert",
+      "method": "Land",
+      "levelRange": "21-22",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Celestial Tower",
+      "method": "3F",
+      "levelRange": "26-29",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Celestial Tower",
+      "method": "4F",
+      "levelRange": "26-30",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Celestial Tower",
+      "method": "5F",
+      "levelRange": "30",
+      "chance": "40%",
+      "flags": []
+    }
+  ],
+  "Blitzle": [
+    {
+      "location": "Route 3",
+      "method": "Normal Grass",
+      "levelRange": "9-12",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 3",
+      "method": "Dark Grass",
+      "levelRange": "14-15",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Ducklett": [
+    {
+      "location": "Route 3",
+      "method": "Normal Grass",
+      "levelRange": "9-12",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 3",
+      "method": "Dark Grass",
+      "levelRange": "14-15",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Driftveil Drawbridge",
+      "method": "Land",
+      "levelRange": "24-25",
+      "chance": "40%",
+      "flags": []
+    }
+  ],
+  "Goldeen": [
+    {
+      "location": "Route 3",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Striaton City",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Lostlorn Forest",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "70%",
+      "flags": []
+    },
+    {
+      "location": "Route 11",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "70%",
+      "flags": []
+    },
+    {
+      "location": "Route 14",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "70%",
+      "flags": []
+    },
+    {
+      "location": "Abundant Shrine",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "70%",
+      "flags": []
+    },
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "65%",
+      "flags": []
+    }
+  ],
+  "Poliwag": [
+    {
+      "location": "Route 3",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 6",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
+    }
+  ],
+  "Seaking": [
+    {
+      "location": "Route 3",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Striaton City",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Lostlorn Forest",
+      "method": "Fishing",
+      "levelRange": "35-70",
+      "chance": "70%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 11",
+      "method": "Fishing",
+      "levelRange": "35-70",
+      "chance": "70%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 14",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "70%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Poliwhirl": [
+    {
+      "location": "Route 3",
+      "method": "Fishing",
+      "levelRange": "35-70",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 6",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "5%",
+      "flags": []
+    },
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Fishing",
+      "levelRange": "35-70",
+      "chance": "65%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Roggenrola": [
+    {
+      "location": "Wellspring Cave",
+      "method": "Land",
+      "levelRange": "11-14",
+      "chance": "50%",
+      "flags": []
+    }
+  ],
+  "Woobat": [
+    {
+      "location": "Wellspring Cave",
+      "method": "Land",
+      "levelRange": "11-14",
+      "chance": "49%",
+      "flags": []
+    },
+    {
+      "location": "Celestial Tower",
+      "method": "3F",
+      "levelRange": "26-29",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Celestial Tower",
+      "method": "4F",
+      "levelRange": "26-30",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Mistralton Cave",
+      "method": "1F",
+      "levelRange": "28-30",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Mistralton Cave",
+      "method": "2F",
+      "levelRange": "30-31",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Guidance Chamber",
+      "method": "Land",
+      "levelRange": "30-31",
+      "chance": "25%",
+      "flags": []
+    },
+    {
+      "location": "Twist Mountain",
+      "method": "Land",
+      "levelRange": "30-31",
+      "chance": "28%",
+      "flags": [
+        "(10% in Winter)"
+      ]
+    },
+    {
+      "location": "Victory Road - 1F",
+      "method": "Land",
+      "levelRange": "41-42",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - 2-6F",
+      "method": "Land",
+      "levelRange": "43",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Axew": [
+    {
+      "location": "Wellspring Cave",
+      "method": "Land",
+      "levelRange": "11-14",
+      "chance": "1%",
+      "flags": []
+    },
+    {
+      "location": "Mistralton Cave",
+      "method": "1F",
+      "levelRange": "30-31",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Mistralton Cave",
+      "method": "2F",
+      "levelRange": "30-31",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Guidance Chamber",
+      "method": "Land",
+      "levelRange": "30-31",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Drilbur": [
+    {
+      "location": "Wellspring Cave",
+      "method": "Land",
+      "levelRange": "11-14",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Chargestone Cave",
+      "method": "Land",
+      "levelRange": "25-27",
+      "chance": "90%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud",
+        "(80% on B2F)"
+      ]
+    },
+    {
+      "location": "Mistralton Cave",
+      "method": "1F",
+      "levelRange": "28-31",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Slowpoke": [
+    {
+      "location": "Wellspring Cave",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "70%",
+      "flags": []
+    },
+    {
+      "location": "Abundant Shrine",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Abundant Shrine",
+      "method": "Surf",
+      "levelRange": "25-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Slowbro": [
+    {
+      "location": "Wellspring Cave",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Abundant Shrine",
+      "method": "Surf",
+      "levelRange": "35-70",
+      "chance": "5%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Slowking": [
+    {
+      "location": "Wellspring Cave",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Abundant Shrine",
+      "method": "Surf",
+      "levelRange": "35-70",
+      "chance": "5%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Tympole": [
+    {
+      "location": "Pinwheel Forest - Outside",
+      "method": "Normal Grass",
+      "levelRange": "14-15",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Pinwheel Forest - Outside",
+      "method": "Dark Grass",
+      "levelRange": "16-17",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Timburr": [
+    {
+      "location": "Pinwheel Forest - Outside",
+      "method": "Normal Grass",
+      "levelRange": "14-15",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Pinwheel Forest - Outside",
+      "method": "Dark Grass",
+      "levelRange": "16-17",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Cold Storage",
+      "method": "Normal Grass",
+      "levelRange": "23-24",
+      "chance": "15%",
+      "flags": []
+    },
+    {
+      "location": "Cold Storage",
+      "method": "Dark Grass",
+      "levelRange": "26-27",
+      "chance": "15%",
+      "flags": []
+    }
+  ],
+  "Deerling": [
+    {
+      "location": "Pinwheel Forest - Outside",
+      "method": "Normal Grass",
+      "levelRange": "14-15",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Pinwheel Forest - Outside",
+      "method": "Dark Grass",
+      "levelRange": "16-17",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 6",
+      "method": "Normal Grass",
+      "levelRange": "24-25",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 6",
+      "method": "Dark Grass",
+      "levelRange": "27-28",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Mienfoo": [
+    {
+      "location": "Pinwheel Forest - Outside",
+      "method": "Normal Grass",
+      "levelRange": "14-15",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 16",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "35%",
+      "flags": []
+    },
+    {
+      "location": "Route 16",
+      "method": "Dark Grass",
+      "levelRange": "25-26",
+      "chance": "35%",
+      "flags": []
+    },
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Normal Grass",
+      "levelRange": "31-33",
+      "chance": "40%",
+      "flags": [
+        "(30% in Winter)"
+      ]
+    },
+    {
+      "location": "Dragonspiral Tower - Inside",
+      "method": "Land",
+      "levelRange": "34",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - Outside:",
+      "method": "Land",
+      "levelRange": "40",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - 1F",
+      "method": "Land",
+      "levelRange": "41-42",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - 2-6F",
+      "method": "Land",
+      "levelRange": "43",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Throh": [
+    {
+      "location": "Pinwheel Forest - Outside",
+      "method": "Dark Grass",
+      "levelRange": "17",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 18",
+      "method": "Normal Grass",
+      "levelRange": "30-31",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 18",
+      "method": "Dark Grass",
+      "levelRange": "34-35",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 10",
+      "method": "Normal Grass",
+      "levelRange": "40",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud",
+        "(0% in the Badge Check Gates)"
+      ]
+    }
+  ],
+  "Sawk": [
+    {
+      "location": "Pinwheel Forest - Outside",
+      "method": "Dark Grass",
+      "levelRange": "17",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 18",
+      "method": "Normal Grass",
+      "levelRange": "30-31",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 18",
+      "method": "Dark Grass",
+      "levelRange": "34-35",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 10",
+      "method": "Normal Grass",
+      "levelRange": "40",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud",
+        "(0% in the Badge Check Gates)"
+      ]
+    }
+  ],
+  "Cottonee": [
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Normal Grass",
+      "levelRange": "14-17",
+      "chance": "25%",
+      "flags": []
+    },
+    {
+      "location": "Lostlorn Forest",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Petilil": [
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Normal Grass",
+      "levelRange": "14-17",
+      "chance": "25%",
+      "flags": []
+    },
+    {
+      "location": "Lostlorn Forest",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Venipede": [
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Normal Grass",
+      "levelRange": "14-17",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Lostlorn Forest",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Sewaddle": [
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Normal Grass",
+      "levelRange": "14-17",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Foongus": [
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Normal Grass",
+      "levelRange": "14-17",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Dark Grass",
+      "levelRange": "24-25",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 6",
+      "method": "Normal Grass",
+      "levelRange": "24-25",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 6",
+      "method": "Dark Grass",
+      "levelRange": "27-28",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 7",
+      "method": "Normal Grass",
+      "levelRange": "27-29",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 7",
+      "method": "Dark Grass",
+      "levelRange": "30-32",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Panpour": [
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Normal Grass",
+      "levelRange": "15",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Pansear": [
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Normal Grass",
+      "levelRange": "15",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Pansage": [
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Normal Grass",
+      "levelRange": "15",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Joltik": [
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Normal Grass",
+      "levelRange": "17",
+      "chance": "5%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Chargestone Cave",
+      "method": "Land",
+      "levelRange": "25-27",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Whimsicott": [
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Dark Grass",
+      "levelRange": "24-25",
+      "chance": "25%",
+      "flags": []
+    }
+  ],
+  "Lilligant": [
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Dark Grass",
+      "levelRange": "24-25",
+      "chance": "25%",
+      "flags": []
+    }
+  ],
+  "Whirlipede": [
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Dark Grass",
+      "levelRange": "24-25",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Lostlorn Forest",
+      "method": "Dark Grass",
+      "levelRange": "35-36",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Swadloon": [
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Dark Grass",
+      "levelRange": "24-25",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Lostlorn Forest",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Lostlorn Forest",
+      "method": "Dark Grass",
+      "levelRange": "35-36",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Basculin": [
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 6",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - Fishing",
+      "method": "All Floors with water",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Barboach": [
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Iccirus City",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Route 8:",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Moor of Iccirus",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
+    }
+  ],
+  "Whiscash": [
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "40%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Iccirus City",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 8:",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Moor of Iccirus",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Sandile": [
+    {
+      "location": "Route 4",
+      "method": "Sand",
+      "levelRange": "15-18",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Desert Resort - Entrance",
+      "method": "Land",
+      "levelRange": "20-21",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Desert Resort - Desert",
+      "method": "Land",
+      "levelRange": "21-22",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Relic Castle",
+      "method": "1F",
+      "levelRange": "19-22",
+      "chance": "50%",
+      "flags": []
+    },
+    {
+      "location": "Relic Castle",
+      "method": "B1F",
+      "levelRange": "21-23",
+      "chance": "40%",
+      "flags": []
+    }
+  ],
+  "Darumaka": [
+    {
+      "location": "Route 4",
+      "method": "Sand",
+      "levelRange": "15-18",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Desert Resort - Entrance",
+      "method": "Land",
+      "levelRange": "20-21",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Desert Resort - Desert",
+      "method": "Land",
+      "levelRange": "21-22",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Scraggy": [
+    {
+      "location": "Route 4",
+      "method": "Sand",
+      "levelRange": "16-17",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Desert Resort - Entrance",
+      "method": "Land",
+      "levelRange": "20-21",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 18",
+      "method": "Normal Grass",
+      "levelRange": "30-31",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Frillish": [
+    {
+      "location": "Route 4",
+      "method": "Surf",
+      "levelRange": "5-15",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Driftveil City",
+      "method": "Surfing",
+      "levelRange": "10-25",
+      "chance": "100%",
+      "flags": []
+    },
+    {
+      "location": "Route 17",
+      "method": "Surfing",
+      "levelRange": "5-30",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Route 18",
+      "method": "Surfing",
+      "levelRange": "15-35",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "P2 Laboratory",
+      "method": "Surf",
+      "levelRange": "5-15",
+      "chance": "100%",
+      "flags": []
+    }
+  ],
+  "Alomomola": [
+    {
+      "location": "Route 4",
+      "method": "Surf",
+      "levelRange": "5-15",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Route 4",
+      "method": "Surf",
+      "levelRange": "5-20",
+      "chance": "90%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Driftveil City",
+      "method": "Surfing",
+      "levelRange": "10-30",
+      "chance": "95%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 17",
+      "method": "Surfing",
+      "levelRange": "5-30",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Route 17",
+      "method": "Surfing",
+      "levelRange": "15-35",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 17",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 18",
+      "method": "Surfing",
+      "levelRange": "15-35",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Route 18",
+      "method": "Surfing",
+      "levelRange": "15-35",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 18",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "P2 Laboratory",
+      "method": "Surf",
+      "levelRange": "5-20",
+      "chance": "95%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "P2 Laboratory",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Jellicent": [
+    {
+      "location": "Route 4",
+      "method": "Surf",
+      "levelRange": "5-20",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Driftveil City",
+      "method": "Surfing",
+      "levelRange": "10-30",
+      "chance": "5%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 17",
+      "method": "Surfing",
+      "levelRange": "15-35",
+      "chance": "40%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 18",
+      "method": "Surfing",
+      "levelRange": "15-35",
+      "chance": "40%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "P2 Laboratory",
+      "method": "Surf",
+      "levelRange": "5-20",
+      "chance": "5%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Krabby": [
+    {
+      "location": "Route 4",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Route 13",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
+    }
+  ],
+  "Clamperl": [
+    {
+      "location": "Route 4",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Luvdisc": [
+    {
+      "location": "Route 4",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 4",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Driftveil City",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Driftveil City",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 13",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 13",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Abundant Shrine",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "70%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Undella Town",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Undella Town",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "70%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Undella Bay",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Undella Bay",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "70%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Relicanth": [
+    {
+      "location": "Route 4",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Huntail": [
+    {
+      "location": "Route 4",
+      "method": "Fishing",
+      "levelRange": "35-70",
+      "chance": "5%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Gorebyss": [
+    {
+      "location": "Route 4",
+      "method": "Fishing",
+      "levelRange": "35-70",
+      "chance": "5%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Vullaby": [
+    {
+      "location": "Desert Resort - Entrance",
+      "method": "Land",
+      "levelRange": "20-21",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Driftveil Drawbridge",
+      "method": "Land",
+      "levelRange": "24-25",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 7",
+      "method": "Normal Grass",
+      "levelRange": "27-29",
+      "chance": "10%",
+      "flags": [
+        "(Spring/Summer/Autumn Only)"
+      ]
+    },
+    {
+      "location": "Route 7",
+      "method": "Dark Grass",
+      "levelRange": "30-32",
+      "chance": "10%",
+      "flags": [
+        "(Spring/Summer/Autumn Only)"
+      ]
+    },
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Normal Grass",
+      "levelRange": "31-33",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 10",
+      "method": "Normal Grass",
+      "levelRange": "39",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - Outside:",
+      "method": "Land",
+      "levelRange": "40",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Maractus": [
+    {
+      "location": "Desert Resort - Entrance",
+      "method": "Land",
+      "levelRange": "20-21",
+      "chance": "5%",
+      "flags": []
+    },
+    {
+      "location": "Desert Resort - Desert",
+      "method": "Land",
+      "levelRange": "21-22",
+      "chance": "15%",
+      "flags": []
+    }
+  ],
+  "Dwebble": [
+    {
+      "location": "Desert Resort - Desert",
+      "method": "Land",
+      "levelRange": "21-22",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 18",
+      "method": "Normal Grass",
+      "levelRange": "30-31",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Sigilyph": [
+    {
+      "location": "Desert Resort - Desert",
+      "method": "Land",
+      "levelRange": "21-22",
+      "chance": "14%",
+      "flags": []
+    }
+  ],
+  "Larvesta": [
+    {
+      "location": "Desert Resort - Desert",
+      "method": "Land",
+      "levelRange": "22-22",
+      "chance": "1%",
+      "flags": []
+    },
+    {
+      "location": "Route 18",
+      "method": "Normal Grass",
+      "levelRange": "31",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "P2 Laboratory",
+      "method": "Normal Grass",
+      "levelRange": "30-31",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - Outside:",
+      "method": "Land",
+      "levelRange": "40",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Yamask": [
+    {
+      "location": "Relic Castle",
+      "method": "1F",
+      "levelRange": "19-22",
+      "chance": "50%",
+      "flags": []
+    },
+    {
+      "location": "Relic Castle",
+      "method": "B1F",
+      "levelRange": "21-23",
+      "chance": "40%",
+      "flags": []
+    }
+  ],
+  "Golett": [
+    {
+      "location": "Relic Castle",
+      "method": "B1F",
+      "levelRange": "21-23",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Relic Castle",
+      "method": "B2-5F",
+      "levelRange": "34-37",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Relic Castle",
+      "method": "B6F",
+      "levelRange": "34-37",
+      "chance": "24%",
+      "flags": []
+    },
+    {
+      "location": "Dragonspiral Tower - Inside",
+      "method": "Land",
+      "levelRange": "34",
+      "chance": "40%",
+      "flags": []
+    }
+  ],
+  "Krokorok": [
+    {
+      "location": "Relic Castle",
+      "method": "B2-5F",
+      "levelRange": "34-37",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Relic Castle",
+      "method": "B6F",
+      "levelRange": "34-37",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Cofagrigus": [
+    {
+      "location": "Relic Castle",
+      "method": "B2-5F",
+      "levelRange": "34-37",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Relic Castle",
+      "method": "B6F",
+      "levelRange": "34-37",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Relic Castle",
+      "method": "Relic Castle: Post-Game Areas",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Beheeyem": [
+    {
+      "location": "Relic Castle",
+      "method": "B6F",
+      "levelRange": "39",
+      "chance": "15%",
+      "flags": []
+    },
+    {
+      "location": "Celestial Tower",
+      "method": "5F",
+      "levelRange": "33",
+      "chance": "1%",
+      "flags": []
+    }
+  ],
+  "Krookodile": [
+    {
+      "location": "Relic Castle",
+      "method": "B6F",
+      "levelRange": "40",
+      "chance": "1%",
+      "flags": []
+    }
+  ],
+  "Sandslash": [
+    {
+      "location": "Relic Castle",
+      "method": "Relic Castle: Post-Game Areas",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Onix": [
+    {
+      "location": "Relic Castle",
+      "method": "Relic Castle: Post-Game Areas",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Claydol": [
+    {
+      "location": "Relic Castle",
+      "method": "Relic Castle: Post-Game Areas",
+      "levelRange": "52",
+      "chance": "15%",
+      "flags": []
+    },
+    {
+      "location": "Relic Castle",
+      "method": "Room 1",
+      "levelRange": "52",
+      "chance": "80%",
+      "flags": []
+    },
+    {
+      "location": "Relic Castle",
+      "method": "Room 2",
+      "levelRange": "52",
+      "chance": "80%",
+      "flags": []
+    }
+  ],
+  "Golurk": [
+    {
+      "location": "Relic Castle",
+      "method": "Relic Castle: Post-Game Areas",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Cranidos": [
+    {
+      "location": "Relic Castle",
+      "method": "Relic Castle: Post-Game Areas",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Shieldon": [
+    {
+      "location": "Relic Castle",
+      "method": "Relic Castle: Post-Game Areas",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Aerodactyl": [
+    {
+      "location": "Relic Castle",
+      "method": "Relic Castle: Post-Game Areas",
+      "levelRange": "52",
+      "chance": "5%",
+      "flags": []
+    }
+  ],
+  "Unown-A": [
+    {
+      "location": "Relic Castle",
+      "method": "Room 1",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Unown-Z": [
+    {
+      "location": "Relic Castle",
+      "method": "Room 2",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Emolga": [
+    {
+      "location": "Route 5",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 16",
+      "method": "Normal Grass",
+      "levelRange": "20",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 7",
+      "method": "Normal Grass",
+      "levelRange": "27",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 9",
+      "method": "Normal Grass",
+      "levelRange": "35",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Tepig": [
+    {
+      "location": "Route 5",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Oshawott": [
+    {
+      "location": "Route 16",
+      "method": "Normal Grass",
+      "levelRange": "22",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Karrablast": [
+    {
+      "location": "Lostlorn Forest",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Lostlorn Forest",
+      "method": "Dark Grass",
+      "levelRange": "35-36",
+      "chance": "35%",
+      "flags": []
+    },
+    {
+      "location": "Route 6",
+      "method": "Normal Grass",
+      "levelRange": "24-25",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 6",
+      "method": "Dark Grass",
+      "levelRange": "27-28",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Tranquill": [
+    {
+      "location": "Lostlorn Forest",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "15%",
+      "flags": []
+    },
+    {
+      "location": "Route 6",
+      "method": "Normal Grass",
+      "levelRange": "24-25",
+      "chance": "20%",
+      "flags": [
+        "Spring/Summer/Autumn only"
+      ]
+    },
+    {
+      "location": "Route 6",
+      "method": "Dark Grass",
+      "levelRange": "27-28",
+      "chance": "20%",
+      "flags": [
+        "Spring/Summer/Autumn only"
+      ]
+    }
+  ],
+  "Snivy": [
+    {
+      "location": "Lostlorn Forest",
+      "method": "Normal Grass",
+      "levelRange": "22-23",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Unfezant": [
+    {
+      "location": "Lostlorn Forest",
+      "method": "Dark Grass",
+      "levelRange": "35-36",
+      "chance": "25%",
+      "flags": []
+    }
+  ],
+  "Rufflet": [
+    {
+      "location": "Driftveil Drawbridge",
+      "method": "Land",
+      "levelRange": "24-25",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 6",
+      "method": "Normal Grass",
+      "levelRange": "24-25",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 6",
+      "method": "Dark Grass",
+      "levelRange": "27-28",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 7",
+      "method": "Normal Grass",
+      "levelRange": "27-29",
+      "chance": "10%",
+      "flags": [
+        "(Spring/Summer/Autumn Only)"
+      ]
+    },
+    {
+      "location": "Route 7",
+      "method": "Dark Grass",
+      "levelRange": "30-32",
+      "chance": "10%",
+      "flags": [
+        "(Spring/Summer/Autumn Only)"
+      ]
+    },
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Normal Grass",
+      "levelRange": "31-33",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 10",
+      "method": "Normal Grass",
+      "levelRange": "39",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - Outside:",
+      "method": "Land",
+      "levelRange": "40",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Chinchou": [
+    {
+      "location": "Driftveil City",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
+    }
+  ],
+  "Staryu": [
+    {
+      "location": "Driftveil City",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 13",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Lanturn": [
+    {
+      "location": "Driftveil City",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Starmie": [
+    {
+      "location": "Driftveil City",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 13",
+      "method": "Surf",
+      "levelRange": "25-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Vanillite": [
+    {
+      "location": "Cold Storage",
+      "method": "Normal Grass",
+      "levelRange": "23-24",
+      "chance": "25%",
+      "flags": []
+    },
+    {
+      "location": "Cold Storage",
+      "method": "Dark Grass",
+      "levelRange": "26-27",
+      "chance": "25%",
+      "flags": []
+    },
+    {
+      "location": "Route 6",
+      "method": "Normal Grass",
+      "levelRange": "24-25",
+      "chance": "20%",
+      "flags": [
+        "Winter Only"
+      ]
+    },
+    {
+      "location": "Route 6",
+      "method": "Dark Grass",
+      "levelRange": "27-28",
+      "chance": "20%",
+      "flags": [
+        "Winter Only"
+      ]
+    }
+  ],
+  "Cubchoo": [
+    {
+      "location": "Cold Storage",
+      "method": "Normal Grass",
+      "levelRange": "23-24",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Cold Storage",
+      "method": "Dark Grass",
+      "levelRange": "26-27",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 7",
+      "method": "Normal Grass",
+      "levelRange": "27-29",
+      "chance": "20%",
+      "flags": [
+        "(Winter Only)"
+      ]
+    },
+    {
+      "location": "Route 7",
+      "method": "Dark Grass",
+      "levelRange": "30-32",
+      "chance": "20%",
+      "flags": [
+        "(Winter Only)"
+      ]
+    },
+    {
+      "location": "Twist Mountain",
+      "method": "Land",
+      "levelRange": "30",
+      "chance": "20%",
+      "flags": [
+        "(30% and Level 31 in Winter)"
+      ]
+    },
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Normal Grass",
+      "levelRange": "31-33",
+      "chance": "20%",
+      "flags": [
+        "(30% in Winter)"
+      ]
+    }
+  ],
+  "Stoutland": [
+    {
+      "location": "Cold Storage",
+      "method": "Normal Grass",
+      "levelRange": "25",
+      "chance": "5%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "P2 Laboratory",
+      "method": "Normal Grass",
+      "levelRange": "31",
+      "chance": "5%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 10",
+      "method": "Normal Grass",
+      "levelRange": "39",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 10",
+      "method": "Dark Grass",
+      "levelRange": "43",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Cinccino": [
+    {
+      "location": "Cold Storage",
+      "method": "Normal Grass",
+      "levelRange": "25",
+      "chance": "5%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Shelmet": [
+    {
+      "location": "Route 6",
+      "method": "Normal Grass",
+      "levelRange": "24-25",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 6",
+      "method": "Dark Grass",
+      "levelRange": "27-28",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Iccirus City",
+      "method": "Normal \"grass\" (No encounters in Winter)",
+      "levelRange": "33",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Route 8:",
+      "method": "Normal \"Grass\"",
+      "levelRange": "33",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Moor of Iccirus",
+      "method": "Normal \"Grass\"",
+      "levelRange": "33",
+      "chance": "40%",
+      "flags": []
+    }
+  ],
+  "Stunfisk": [
+    {
+      "location": "Route 6",
+      "method": "Normal Grass",
+      "levelRange": "24-25",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud",
+        "Spring/Summer/Autumn Only"
+      ]
+    },
+    {
+      "location": "Iccirus City",
+      "method": "Normal \"grass\" (No encounters in Winter)",
+      "levelRange": "33",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Iccirus City",
+      "method": "Surfing",
+      "levelRange": "30",
+      "chance": "90%",
+      "flags": []
+    },
+    {
+      "location": "Iccirus City",
+      "method": "Surfing",
+      "levelRange": "30-40",
+      "chance": "40%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Iccirus City",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Iccirus City",
+      "method": "Fishing",
+      "levelRange": "35-70",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 8:",
+      "method": "Normal \"Grass\"",
+      "levelRange": "33",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Route 8:",
+      "method": "Surfing",
+      "levelRange": "30",
+      "chance": "90%",
+      "flags": []
+    },
+    {
+      "location": "Route 8:",
+      "method": "Surfing",
+      "levelRange": "30-40",
+      "chance": "40%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 8:",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 8:",
+      "method": "Fishing",
+      "levelRange": "35-70",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Moor of Iccirus",
+      "method": "Normal \"Grass\"",
+      "levelRange": "33",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Moor of Iccirus",
+      "method": "Surfing",
+      "levelRange": "30",
+      "chance": "100%",
+      "flags": []
+    },
+    {
+      "location": "Moor of Iccirus",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Moor of Iccirus",
+      "method": "Fishing",
+      "levelRange": "35-70",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Sawsbuck": [
+    {
+      "location": "Route 6",
+      "method": "Normal Grass",
+      "levelRange": "24-25",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud",
+        "(20% in Winter)"
+      ]
+    }
+  ],
+  "Politoed": [
+    {
+      "location": "Route 6",
+      "method": "Fishing",
+      "levelRange": "35-70",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Poliwrath": [
+    {
+      "location": "Route 6",
+      "method": "Fishing",
+      "levelRange": "35-70",
+      "chance": "40%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Fishing",
+      "levelRange": "45-70",
+      "chance": "5%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Klink": [
+    {
+      "location": "Chargestone Cave",
+      "method": "Land",
+      "levelRange": "25-27",
+      "chance": "40%",
+      "flags": [
+        "(30% on B2F)"
+      ]
+    },
+    {
+      "location": "P2 Laboratory",
+      "method": "Normal Grass",
+      "levelRange": "30-31",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Tynamo": [
+    {
+      "location": "Chargestone Cave",
+      "method": "Land",
+      "levelRange": "25-27",
+      "chance": "10%",
+      "flags": [
+        "(20% on B2F)"
+      ]
+    }
+  ],
+  "Ferroseed": [
+    {
+      "location": "Chargestone Cave",
+      "method": "Land",
+      "levelRange": "25-27",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Boldore": [
+    {
+      "location": "Chargestone Cave",
+      "method": "Land",
+      "levelRange": "25-27",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Mistralton Cave",
+      "method": "1F",
+      "levelRange": "28-31",
+      "chance": "50%",
+      "flags": []
+    },
+    {
+      "location": "Mistralton Cave",
+      "method": "2F",
+      "levelRange": "30-31",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Guidance Chamber",
+      "method": "Land",
+      "levelRange": "30-31",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Twist Mountain",
+      "method": "Land",
+      "levelRange": "31",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Challengers Cave",
+      "method": "1F and B1F",
+      "levelRange": "36-37",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Challengers Cave",
+      "method": "B2F",
+      "levelRange": "36-37",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - 1F",
+      "method": "Land",
+      "levelRange": "41-42",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - 2-6F",
+      "method": "Land",
+      "levelRange": "43",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - 7F Top floor",
+      "method": "Land",
+      "levelRange": "44",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - Trial Chamber",
+      "method": "Land",
+      "levelRange": "44",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Durant": [
+    {
+      "location": "Chargestone Cave",
+      "method": "Land",
+      "levelRange": "25-27",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud",
+        "(20% on B2F)"
+      ]
+    },
+    {
+      "location": "Twist Mountain",
+      "method": "Land",
+      "levelRange": "32",
+      "chance": "20%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Victory Road - 1F",
+      "method": "Land",
+      "levelRange": "41-42",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - Trial Chamber",
+      "method": "Land",
+      "levelRange": "44",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Zebstrika": [
+    {
+      "location": "Route 7",
+      "method": "Normal Grass",
+      "levelRange": "27-29",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 7",
+      "method": "Dark Grass",
+      "levelRange": "30-32",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Pawniard": [
+    {
+      "location": "Route 7",
+      "method": "Normal Grass",
+      "levelRange": "27-29",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 7",
+      "method": "Dark Grass",
+      "levelRange": "30-32",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Normal Grass",
+      "levelRange": "31-33",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 9",
+      "method": "Normal Grass",
+      "levelRange": "35",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Amoongus": [
+    {
+      "location": "Route 7",
+      "method": "Normal Grass",
+      "levelRange": "29",
+      "chance": "5%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud",
+        "(4% in Winter)"
+      ]
+    }
+  ],
+  "Beartic": [
+    {
+      "location": "Route 7",
+      "method": "Normal Grass",
+      "levelRange": "27-29",
+      "chance": "1%",
+      "flags": [
+        "(Winter only)"
+      ]
+    },
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Normal Grass",
+      "levelRange": "35",
+      "chance": "5%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud",
+        "(10% in Winter)"
+      ]
+    },
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Dark Grass",
+      "levelRange": "37",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Litwick": [
+    {
+      "location": "Celestial Tower",
+      "method": "2F",
+      "levelRange": "26-29",
+      "chance": "100%",
+      "flags": []
+    },
+    {
+      "location": "Celestial Tower",
+      "method": "3F",
+      "levelRange": "28-30",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Celestial Tower",
+      "method": "4F",
+      "levelRange": "28-30",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Celestial Tower",
+      "method": "5F",
+      "levelRange": "30",
+      "chance": "40%",
+      "flags": []
+    }
+  ],
+  "Swoobat": [
+    {
+      "location": "Celestial Tower",
+      "method": "5F",
+      "levelRange": "30",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Mistralton Cave",
+      "method": "2F",
+      "levelRange": "31",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Guidance Chamber",
+      "method": "Land",
+      "levelRange": "31",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Challengers Cave",
+      "method": "1F and B1F",
+      "levelRange": "36-37",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Challengers Cave",
+      "method": "B2F",
+      "levelRange": "36-37",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - 7F Top floor",
+      "method": "Land",
+      "levelRange": "44",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - Trial Chamber",
+      "method": "Land",
+      "levelRange": "44",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Lampent": [
+    {
+      "location": "Celestial Tower",
+      "method": "5F",
+      "levelRange": "32",
+      "chance": "4%",
+      "flags": []
+    }
+  ],
+  "Excadrill": [
+    {
+      "location": "Mistralton Cave",
+      "method": "2F",
+      "levelRange": "31",
+      "chance": "85%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Guidance Chamber",
+      "method": "Land",
+      "levelRange": "31",
+      "chance": "99%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Twist Mountain",
+      "method": "Land",
+      "levelRange": "32",
+      "chance": "80%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Challengers Cave",
+      "method": "1F and B1F",
+      "levelRange": "38",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Challengers Cave",
+      "method": "B2F",
+      "levelRange": "38",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Victory Road - 1F",
+      "method": "Land",
+      "levelRange": "42-43",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Victory Road - 2-6F",
+      "method": "Land",
+      "levelRange": "42-43",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Victory Road - 7F Top floor",
+      "method": "Land",
+      "levelRange": "46",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Victory Road - Trial Chamber",
+      "method": "Land",
+      "levelRange": "45",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Normal \"Grass\"",
+      "levelRange": "54",
+      "chance": "80%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Giant Chasm - Kyurem's Chamber",
+      "method": "Land",
+      "levelRange": "60",
+      "chance": "100%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Deino": [
+    {
+      "location": "Mistralton Cave",
+      "method": "2F",
+      "levelRange": "31",
+      "chance": "15%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Guidance Chamber",
+      "method": "Land",
+      "levelRange": "31",
+      "chance": "5%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - 1F",
+      "method": "Land",
+      "levelRange": "41-42",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - 2-6F",
+      "method": "Land",
+      "levelRange": "43",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Zweilous": [
+    {
+      "location": "Guidance Chamber",
+      "method": "Land",
+      "levelRange": "33",
+      "chance": "1%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Victory Road - 7F Top floor",
+      "method": "Land",
+      "levelRange": "44",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Finneon": [
+    {
+      "location": "Route 17",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Route 18",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "P2 Laboratory",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
+    }
+  ],
+  "Qwilfish": [
+    {
+      "location": "Route 17",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 18",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "P2 Laboratory",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Seadra": [
+    {
+      "location": "Route 17",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 18",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "P2 Laboratory",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Victory Road - Fishing",
+      "method": "All Floors with water",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
+    }
+  ],
+  "Lumineon": [
+    {
+      "location": "Route 17",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 18",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "P2 Laboratory",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Kingdra": [
+    {
+      "location": "Route 17",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 18",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "P2 Laboratory",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Victory Road - Fishing",
+      "method": "All Floors with water",
+      "levelRange": "35-70",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Bouffalant": [
+    {
+      "location": "Route 18",
+      "method": "Normal Grass",
+      "levelRange": "30-31",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 18",
+      "method": "Dark Grass",
+      "levelRange": "34-35",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 10",
+      "method": "Normal Grass",
+      "levelRange": "39",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 10",
+      "method": "Dark Grass",
+      "levelRange": "43",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Crustle": [
+    {
+      "location": "Route 18",
+      "method": "Dark Grass",
+      "levelRange": "34-35",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Gurdurr": [
+    {
+      "location": "Twist Mountain",
+      "method": "Land",
+      "levelRange": "31",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 10",
+      "method": "Normal Grass",
+      "levelRange": "39",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 10",
+      "method": "Dark Grass",
+      "levelRange": "43",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Heatmor": [
+    {
+      "location": "Twist Mountain",
+      "method": "Land",
+      "levelRange": "30-31",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - Outside:",
+      "method": "Land",
+      "levelRange": "40",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - 2-6F",
+      "method": "Land",
+      "levelRange": "43",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Cryogonal": [
+    {
+      "location": "Twist Mountain",
+      "method": "Land",
+      "levelRange": "31",
+      "chance": "1%",
+      "flags": [
+        "(Level 28 in Summer. 9% and Level 33 in Winter)"
+      ]
+    }
+  ],
+  "Vanillish": [
+    {
+      "location": "Twist Mountain",
+      "method": "Land",
+      "levelRange": "31",
+      "chance": "1%",
+      "flags": [
+        "(Spring, Summer, Autumn only)"
+      ]
+    }
+  ],
+  "Vanilluxe": [
+    {
+      "location": "Twist Mountain",
+      "method": "Land",
+      "levelRange": "35",
+      "chance": "1%",
+      "flags": [
+        "(Winter Only)"
+      ]
+    }
+  ],
+  "Palpitoad": [
+    {
+      "location": "Iccirus City",
+      "method": "Normal \"grass\" (No encounters in Winter)",
+      "levelRange": "33",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Iccirus City",
+      "method": "Surfing",
+      "levelRange": "30",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 8:",
+      "method": "Normal \"Grass\"",
+      "levelRange": "33",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 8:",
+      "method": "Surfing",
+      "levelRange": "30",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Moor of Iccirus",
+      "method": "Normal \"Grass\"",
+      "levelRange": "33",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Moor of Iccirus",
+      "method": "Surfing",
+      "levelRange": "30-40",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Seismitoad": [
+    {
+      "location": "Iccirus City",
+      "method": "Surfing",
+      "levelRange": "30-40",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 8:",
+      "method": "Surfing",
+      "levelRange": "30-40",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Moor of Iccirus",
+      "method": "Surfing",
+      "levelRange": "30-40",
+      "chance": "40%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Shellos": [
+    {
+      "location": "Iccirus City",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 8:",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Moor of Iccirus",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Gastrodon": [
+    {
+      "location": "Iccirus City",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 8:",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Moor of Iccirus",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Mienshao": [
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Normal Grass",
+      "levelRange": "35",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud",
+        "(5% in Winter)"
+      ]
+    },
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Dark Grass",
+      "levelRange": "37",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - 7F Top floor",
+      "method": "Land",
+      "levelRange": "44",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - Trial Chamber",
+      "method": "Land",
+      "levelRange": "44",
+      "chance": "14%",
+      "flags": []
+    }
+  ],
+  "Bisharp": [
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Dark Grass",
+      "levelRange": "37",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 9",
+      "method": "Dark Grass",
+      "levelRange": "39",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Braviary": [
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Dark Grass",
+      "levelRange": "37",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 10",
+      "method": "Dark Grass",
+      "levelRange": "43",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Mandibuzz": [
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Dark Grass",
+      "levelRange": "37",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 10",
+      "method": "Dark Grass",
+      "levelRange": "43",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Dratini": [
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - Fishing",
+      "method": "All Floors with water",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Horsea": [
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Magikarp": [
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Dragonair": [
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Victory Road - Fishing",
+      "method": "All Floors with water",
+      "levelRange": "35-70",
+      "chance": "39%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Gyarados": [
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Druddigon": [
+    {
+      "location": "Dragonspiral Tower - Inside",
+      "method": "Land",
+      "levelRange": "34",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Challengers Cave",
+      "method": "1F and B1F",
+      "levelRange": "36-37",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Challengers Cave",
+      "method": "B2F",
+      "levelRange": "36-37",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Garbodor": [
+    {
+      "location": "Route 9",
+      "method": "Normal Grass",
+      "levelRange": "35",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 9",
+      "method": "Dark Grass",
+      "levelRange": "39",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Gothitelle": [
+    {
+      "location": "Route 9",
+      "method": "Dark Grass",
+      "levelRange": "39",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Reuniclus": [
+    {
+      "location": "Route 9",
+      "method": "Dark Grass",
+      "levelRange": "39",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Klang": [
+    {
+      "location": "Challengers Cave",
+      "method": "1F and B1F",
+      "levelRange": "36-37",
+      "chance": "15%",
+      "flags": []
+    },
+    {
+      "location": "Challengers Cave",
+      "method": "B2F",
+      "levelRange": "36-37",
+      "chance": "15%",
+      "flags": []
+    }
+  ],
+  "Fraxure": [
+    {
+      "location": "Challengers Cave",
+      "method": "1F and B1F",
+      "levelRange": "36-37",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Challengers Cave",
+      "method": "B2F",
+      "levelRange": "36-37",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - Outside:",
+      "method": "Land",
+      "levelRange": "40",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Ferrothorn": [
+    {
+      "location": "Challengers Cave",
+      "method": "1F and B1F",
+      "levelRange": "37",
+      "chance": "5%",
+      "flags": []
+    },
+    {
+      "location": "Challengers Cave",
+      "method": "B2F",
+      "levelRange": "37",
+      "chance": "5%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - 2-6F",
+      "method": "Land",
+      "levelRange": "43",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Victory Road - 7F Top floor",
+      "method": "Land",
+      "levelRange": "44",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Archen": [
+    {
+      "location": "Challengers Cave",
+      "method": "B2F",
+      "levelRange": "36-37",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Tirtouga": [
+    {
+      "location": "Challengers Cave",
+      "method": "Surfing",
+      "levelRange": "35",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Challengers Cave",
+      "method": "Surfing",
+      "levelRange": "38",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Omanyte": [
+    {
+      "location": "Challengers Cave",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Challengers Cave",
+      "method": "Fishing",
+      "levelRange": "45-70",
+      "chance": "5%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Kabuto": [
+    {
+      "location": "Challengers Cave",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Challengers Cave",
+      "method": "Fishing",
+      "levelRange": "45-70",
+      "chance": "5%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Anorith": [
+    {
+      "location": "Challengers Cave",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "5%",
+      "flags": []
+    },
+    {
+      "location": "Challengers Cave",
+      "method": "Fishing",
+      "levelRange": "45-70",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Lileep": [
+    {
+      "location": "Challengers Cave",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "5%",
+      "flags": []
+    },
+    {
+      "location": "Challengers Cave",
+      "method": "Fishing",
+      "levelRange": "45-70",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Amoonguss": [
+    {
+      "location": "Route 10",
+      "method": "Normal Grass",
+      "levelRange": "39",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 10",
+      "method": "Dark Grass",
+      "levelRange": "43",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Gigalith": [
+    {
+      "location": "Victory Road - Trial Chamber",
+      "method": "Land",
+      "levelRange": "44",
+      "chance": "5%",
+      "flags": []
+    }
+  ],
+  "Hydreigon": [
+    {
+      "location": "Victory Road - Trial Chamber",
+      "method": "Land",
+      "levelRange": "44",
+      "chance": "1%",
+      "flags": []
+    }
+  ],
+  "Dragonite": [
+    {
+      "location": "Victory Road - Fishing",
+      "method": "All Floors with water",
+      "levelRange": "45-70",
+      "chance": "1%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Golduck": [
+    {
+      "location": "Route 11",
+      "method": "Standard Grass",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Ursaring": [
+    {
+      "location": "Route 11",
+      "method": "Standard Grass",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Gligar": [
+    {
+      "location": "Route 11",
+      "method": "Standard Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Zangoose": [
+    {
+      "location": "Route 11",
+      "method": "Standard Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Seviper": [
+    {
+      "location": "Route 11",
+      "method": "Standard Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Parasect": [
+    {
+      "location": "Route 11",
+      "method": "Standard Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Breloom": [
+    {
+      "location": "Route 11",
+      "method": "Standard Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Cacturne": [
+    {
+      "location": "Route 11",
+      "method": "Standard Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Magnezone": [
+    {
+      "location": "Route 11",
+      "method": "Standard Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Gliscor": [
+    {
+      "location": "Route 11",
+      "method": "Standard Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Venomoth": [
+    {
+      "location": "Route 11",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Quagsire": [
+    {
+      "location": "Route 11",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Tauros": [
+    {
+      "location": "Route 11",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Miltank": [
+    {
+      "location": "Route 11",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Swalot": [
+    {
+      "location": "Route 11",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Torkoal": [
+    {
+      "location": "Route 11",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Toxicroak": [
+    {
+      "location": "Route 11",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Giant Chasm - Kyurem's Chamber",
+      "method": "Land",
+      "levelRange": "58",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Magneton": [
+    {
+      "location": "Route 11",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Buizel": [
+    {
+      "location": "Route 11",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Route 14",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "70%",
+      "flags": []
+    }
+  ],
+  "Lombre": [
+    {
+      "location": "Route 11",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Marill": [
+    {
+      "location": "Route 11",
+      "method": "Surf",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Floatzel": [
+    {
+      "location": "Route 11",
+      "method": "Surf",
+      "levelRange": "25-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 14",
+      "method": "Surf",
+      "levelRange": "25-60",
+      "chance": "70%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Ludicolo": [
+    {
+      "location": "Route 11",
+      "method": "Surf",
+      "levelRange": "25-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Azumarill": [
+    {
+      "location": "Route 11",
+      "method": "Surf",
+      "levelRange": "35-70",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Kirlia": [
+    {
+      "location": "Route 12",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Rapidash": [
+    {
+      "location": "Route 12",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Beedrill": [
+    {
+      "location": "Route 12",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Butterfree": [
+    {
+      "location": "Route 12",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Pinsir": [
+    {
+      "location": "Route 12",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Sunkern": [
+    {
+      "location": "Route 12",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Cherrim": [
+    {
+      "location": "Route 12",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Heracross": [
+    {
+      "location": "Route 12",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Ivysaur": [
+    {
+      "location": "Route 12",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Bayleef": [
+    {
+      "location": "Route 12",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Grovyle": [
+    {
+      "location": "Route 12",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Grotle": [
+    {
+      "location": "Route 12",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Munchlax": [
+    {
+      "location": "Route 12",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "5%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Jumpluff": [
+    {
+      "location": "Route 12",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Vespiquen": [
+    {
+      "location": "Route 12",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Dodrio": [
+    {
+      "location": "Route 12",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Linoone": [
+    {
+      "location": "Route 12",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Growlithe": [
+    {
+      "location": "Route 12",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Gloom": [
+    {
+      "location": "Route 12",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Weepinbell": [
+    {
+      "location": "Route 12",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Carnivine": [
+    {
+      "location": "Route 12",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Swellow": [
+    {
+      "location": "Route 13",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Marvellous Bridge",
+      "method": "Land",
+      "levelRange": "54",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Drifblim": [
+    {
+      "location": "Route 13",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Golbat": [
+    {
+      "location": "Route 13",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Tangela": [
+    {
+      "location": "Route 13",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Beautifly": [
+    {
+      "location": "Route 13",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Dustox": [
+    {
+      "location": "Route 13",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Absol": [
+    {
+      "location": "Route 13",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Exeggcute": [
+    {
+      "location": "Route 13",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Castform": [
+    {
+      "location": "Route 13",
+      "method": "Normal Grass",
+      "levelRange": "54",
+      "chance": "20%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Grumpig": [
+    {
+      "location": "Route 13",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Xatu": [
+    {
+      "location": "Route 13",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Medicham": [
+    {
+      "location": "Route 13",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Kadabra": [
+    {
+      "location": "Route 13",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Plusle": [
+    {
+      "location": "Route 13",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Minun": [
+    {
+      "location": "Route 13",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Pachirisu": [
+    {
+      "location": "Route 13",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Kecleon": [
+    {
+      "location": "Route 13",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Wingull": [
+    {
+      "location": "Route 13",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "60%",
+      "flags": []
+    }
+  ],
+  "Swanna": [
+    {
+      "location": "Route 13",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Corsola": [
+    {
+      "location": "Route 13",
+      "method": "Surf",
+      "levelRange": "25-60",
+      "chance": "40%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 14",
+      "method": "Surf",
+      "levelRange": "25-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Undella Town",
+      "method": "Surf",
+      "levelRange": "35-70",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Undella Bay",
+      "method": "Surf",
+      "levelRange": "25-70",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Shellder": [
+    {
+      "location": "Route 13",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Undella Town",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Undella Bay",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    }
+  ],
+  "Cloyster": [
+    {
+      "location": "Route 13",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Abundant Shrine",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Undella Town",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Undella Bay",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Kingler": [
+    {
+      "location": "Route 13",
+      "method": "Fishing",
+      "levelRange": "45-70",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Jigglypuff": [
+    {
+      "location": "Route 14",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Altaria": [
+    {
+      "location": "Route 14",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Electrode": [
+    {
+      "location": "Route 14",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Porygon": [
+    {
+      "location": "Route 14",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Togepi": [
+    {
+      "location": "Route 14",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Machoke": [
+    {
+      "location": "Route 14",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Lopunny": [
+    {
+      "location": "Route 14",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Nuzleaf": [
+    {
+      "location": "Route 14",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Wartortle": [
+    {
+      "location": "Route 14",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Croconaw": [
+    {
+      "location": "Route 14",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Marshtomp": [
+    {
+      "location": "Route 14",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Prinplup": [
+    {
+      "location": "Route 14",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Yanmega": [
+    {
+      "location": "Route 14",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Tropius": [
+    {
+      "location": "Route 14",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Nidorino": [
+    {
+      "location": "Route 14",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Nidorina": [
+    {
+      "location": "Route 14",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Masquerain": [
+    {
+      "location": "Route 14",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Drapion": [
+    {
+      "location": "Route 14",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Vigoroth": [
+    {
+      "location": "Route 14",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Manectric": [
+    {
+      "location": "Route 14",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Marowak": [
+    {
+      "location": "Route 15",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Fearow": [
+    {
+      "location": "Route 15",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Shelgon": [
+    {
+      "location": "Route 15",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Kangaskhan": [
+    {
+      "location": "Route 15",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Graveler": [
+    {
+      "location": "Route 15",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Pupitar": [
+    {
+      "location": "Route 15",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Nincada": [
+    {
+      "location": "Route 15",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Magcargo": [
+    {
+      "location": "Route 15",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Hippowdon": [
+    {
+      "location": "Route 15",
+      "method": "Normal Grass",
+      "levelRange": "54",
+      "chance": "20%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Camerupt": [
+    {
+      "location": "Route 15",
+      "method": "Normal Grass",
+      "levelRange": "55",
+      "chance": "20%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Shuckle": [
+    {
+      "location": "Route 15",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Donphan": [
+    {
+      "location": "Route 15",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Vibrava": [
+    {
+      "location": "Route 15",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Rhydon": [
+    {
+      "location": "Route 15",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Dugtrio": [
+    {
+      "location": "Route 15",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Gabite": [
+    {
+      "location": "Route 15",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Primeape": [
+    {
+      "location": "Route 15",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Muk": [
+    {
+      "location": "Route 15",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Weezing": [
+    {
+      "location": "Route 15",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Vulpix": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Noctowl": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Marvellous Bridge",
+      "method": "Land",
+      "levelRange": "54",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Burmy": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Chimecho": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Stantler": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Murkrow": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Misdreavus": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Mr. Mime": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Chansey": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Normal Grass",
+      "levelRange": "54",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Charmeleon": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Quilava": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Combusken": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Monferno": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Dusclops": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Banette": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Kricketune": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Lickitung": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Haunter": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Bronzong": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Roselia": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Spinda": [
+    {
+      "location": "Abundant Shrine",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Mantine": [
+    {
+      "location": "Undella Town",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Undella Bay",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "60%",
+      "flags": []
+    }
+  ],
+  "Wailmer": [
+    {
+      "location": "Undella Town",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Undella Bay",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Sealeo": [
+    {
+      "location": "Undella Town",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Undella Bay",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "30%",
+      "flags": [
+        "(Winter Only)"
+      ]
+    }
+  ],
+  "Wailord": [
+    {
+      "location": "Undella Town",
+      "method": "Surf",
+      "levelRange": "25-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Undella Bay",
+      "method": "Surf",
+      "levelRange": "25-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Walrein": [
+    {
+      "location": "Undella Town",
+      "method": "Surf",
+      "levelRange": "25-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Undella Bay",
+      "method": "Surf",
+      "levelRange": "35-70",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud",
+        "(Winter Only)"
+      ]
+    }
+  ],
+  "Remoraid": [
+    {
+      "location": "Undella Town",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Undella Bay",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
+    }
+  ],
+  "Octillery": [
+    {
+      "location": "Undella Town",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Undella Bay",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "30%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Tentacool": [
+    {
+      "location": "Undella Bay",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "30%",
+      "flags": [
+        "(Spring, Summer, Autumn Only)"
+      ]
+    }
+  ],
+  "Tentacruel": [
+    {
+      "location": "Undella Bay",
+      "method": "Surf",
+      "levelRange": "35-70",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud",
+        "(Spring, Summer, Autumn only)"
+      ]
+    }
+  ],
+  "Raticate": [
+    {
+      "location": "Giant Chasm - Outer",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Giant Chasm - Outer",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Arbok": [
+    {
+      "location": "Giant Chasm - Outer",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Giant Chasm - Outer",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Persian": [
+    {
+      "location": "Giant Chasm - Outer",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Giant Chasm - Outer",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Lunatone": [
+    {
+      "location": "Giant Chasm - Outer",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Giant Chasm - Outer",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Solrock": [
+    {
+      "location": "Giant Chasm - Outer",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Giant Chasm - Outer",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Ampharos": [
+    {
+      "location": "Giant Chasm - Outer",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Giant Chasm - Outer",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Sudowoodo": [
+    {
+      "location": "Giant Chasm - Outer",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Giant Chasm - Outer",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Skarmory": [
+    {
+      "location": "Giant Chasm - Outer",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Giant Chasm - Outer",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Delibird": [
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Normal \"Grass\"",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Jynx": [
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Normal \"Grass\"",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Piloswine": [
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Normal \"Grass\"",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Sneasel": [
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Normal \"Grass\"",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Wobbuffet": [
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Normal \"Grass\"",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Loudred": [
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Normal \"Grass\"",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Hariyama": [
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Normal \"Grass\"",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Nosepass": [
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Normal \"Grass\"",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Seel": [
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "70%",
+      "flags": []
+    }
+  ],
+  "Dewgong": [
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Surf",
+      "levelRange": "25-60",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Ditto": [
+    {
+      "location": "Giant Chasm - Crater",
+      "method": "Normal Grass",
+      "levelRange": "55",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Giant Chasm - Crater",
+      "method": "Dark Grass",
+      "levelRange": "60",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Metang": [
+    {
+      "location": "Giant Chasm - Crater",
+      "method": "Normal Grass",
+      "levelRange": "55",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Clefairy": [
+    {
+      "location": "Giant Chasm - Crater",
+      "method": "Normal Grass",
+      "levelRange": "55",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Tyrogue": [
+    {
+      "location": "Giant Chasm - Crater",
+      "method": "Normal Grass",
+      "levelRange": "55",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Giant Chasm - Crater",
+      "method": "Dark Grass",
+      "levelRange": "60",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Hypno": [
+    {
+      "location": "Giant Chasm - Crater",
+      "method": "Normal Grass",
+      "levelRange": "55",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Girafarig": [
+    {
+      "location": "Giant Chasm - Crater",
+      "method": "Normal Grass",
+      "levelRange": "55",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Forretress": [
+    {
+      "location": "Giant Chasm - Crater",
+      "method": "Normal Grass",
+      "levelRange": "55",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Houndoom": [
+    {
+      "location": "Giant Chasm - Crater",
+      "method": "Normal Grass",
+      "levelRange": "55",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Espeon": [
+    {
+      "location": "Giant Chasm - Crater",
+      "method": "Dark Grass",
+      "levelRange": "60",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Umbreon": [
+    {
+      "location": "Giant Chasm - Crater",
+      "method": "Dark Grass",
+      "levelRange": "60",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Glaceon": [
+    {
+      "location": "Giant Chasm - Crater",
+      "method": "Dark Grass",
+      "levelRange": "60",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Leafeon": [
+    {
+      "location": "Giant Chasm - Crater",
+      "method": "Dark Grass",
+      "levelRange": "60",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Luxray": [
+    {
+      "location": "Giant Chasm - Crater",
+      "method": "Dark Grass",
+      "levelRange": "60",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Clefable": [
+    {
+      "location": "Giant Chasm - Crater",
+      "method": "Dark Grass",
+      "levelRange": "62",
+      "chance": "5%",
+      "flags": []
+    }
+  ],
+  "Metagross": [
+    {
+      "location": "Giant Chasm - Crater",
+      "method": "Dark Grass",
+      "levelRange": "62",
+      "chance": "5%",
+      "flags": []
+    }
+  ],
+  "Abomasnow": [
+    {
+      "location": "Giant Chasm - Kyurem's Chamber",
+      "method": "Land",
+      "levelRange": "58",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Glalie": [
+    {
+      "location": "Giant Chasm - Kyurem's Chamber",
+      "method": "Land",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Froslass": [
+    {
+      "location": "Giant Chasm - Kyurem's Chamber",
+      "method": "Land",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Mawile": [
+    {
+      "location": "Giant Chasm - Kyurem's Chamber",
+      "method": "Land",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Sableye": [
+    {
+      "location": "Giant Chasm - Kyurem's Chamber",
+      "method": "Land",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Spiritomb": [
+    {
+      "location": "Giant Chasm - Kyurem's Chamber",
+      "method": "Land",
+      "levelRange": "60",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Aggron": [
+    {
+      "location": "Giant Chasm - Kyurem's Chamber",
+      "method": "Land",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Farfetch'd": [
+    {
+      "location": "Village Bridge",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Furret": [
+    {
+      "location": "Village Bridge",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Purugly": [
+    {
+      "location": "Village Bridge",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Skuntank": [
+    {
+      "location": "Village Bridge",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Smeargle": [
+    {
+      "location": "Village Bridge",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Electabuzz": [
+    {
+      "location": "Village Bridge",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Magmar": [
+    {
+      "location": "Village Bridge",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Scyther": [
+    {
+      "location": "Village Bridge",
+      "method": "Normal Grass",
+      "levelRange": "52",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Eevee": [
+    {
+      "location": "Village Bridge",
+      "method": "Normal Grass",
+      "levelRange": "54",
+      "chance": "15%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Pikachu": [
+    {
+      "location": "Village Bridge",
+      "method": "Normal Grass",
+      "levelRange": "54",
+      "chance": "15%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Riolu": [
+    {
+      "location": "Village Bridge",
+      "method": "Normal Grass",
+      "levelRange": "54",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Dunsparce": [
+    {
+      "location": "Village Bridge",
+      "method": "Normal Grass",
+      "levelRange": "54",
+      "chance": "10%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Mightyena": [
+    {
+      "location": "Village Bridge",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Delcatty": [
+    {
+      "location": "Village Bridge",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Ariados": [
+    {
+      "location": "Village Bridge",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Ledian": [
+    {
+      "location": "Village Bridge",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Volbeat": [
+    {
+      "location": "Village Bridge",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Illumise": [
+    {
+      "location": "Village Bridge",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Aipom": [
+    {
+      "location": "Village Bridge",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Granbull": [
+    {
+      "location": "Village Bridge",
+      "method": "Dark Grass",
+      "levelRange": "58",
+      "chance": "10%",
+      "flags": []
+    }
+  ],
+  "Lapras": [
+    {
+      "location": "Village Bridge",
+      "method": "Surf",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Village Bridge",
+      "method": "Surf",
+      "levelRange": "35-70",
+      "chance": "60%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Bibarel": [
+    {
+      "location": "Village Bridge",
+      "method": "Surf",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Village Bridge",
+      "method": "Surf",
+      "levelRange": "25-70",
+      "chance": "40%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Carvanha": [
+    {
+      "location": "Village Bridge",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "70%",
+      "flags": []
+    }
+  ],
+  "Sharpedo": [
+    {
+      "location": "Village Bridge",
+      "method": "Fishing",
+      "levelRange": "35-60",
+      "chance": "70%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    }
+  ],
+  "Staraptor": [
+    {
+      "location": "Marvellous Bridge",
+      "method": "Land",
+      "levelRange": "54",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Pidgeot": [
+    {
+      "location": "Marvellous Bridge",
+      "method": "Land",
+      "levelRange": "54",
+      "chance": "20%",
+      "flags": []
+    }
+  ],
+  "Chatot": [
+    {
+      "location": "Marvellous Bridge",
+      "method": "Land",
+      "levelRange": "54",
+      "chance": "20%",
+      "flags": []
+    }
+  ]
+}

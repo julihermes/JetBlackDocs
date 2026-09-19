@@ -1,0 +1,1753 @@
+{
+  "changed": [
+    {
+      "name": "Vine Whip",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "35",
+          "to": "40"
+        },
+        {
+          "field": "PP",
+          "from": "15",
+          "to": "25"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Struggle Bug",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "30",
+          "to": "55"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Snarl",
+      "changes": [
+        {
+          "field": "Accuracy",
+          "from": "95",
+          "to": "100"
+        },
+        {
+          "field": "PP",
+          "from": "15",
+          "to": "20"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Incinerate",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "30",
+          "to": "60"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Flame Charge",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "50",
+          "to": "60"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Flame Burst",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "70",
+          "to": "80"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Rock Tomb",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "50",
+          "to": "60"
+        },
+        {
+          "field": "Accuracy",
+          "from": "80",
+          "to": "95"
+        },
+        {
+          "field": "PP",
+          "from": "10",
+          "to": "15"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Electroweb",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "55",
+          "to": "60"
+        },
+        {
+          "field": "Accuracy",
+          "from": "95",
+          "to": "100"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Icy Wind",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "55",
+          "to": "60"
+        },
+        {
+          "field": "Accuracy",
+          "from": "95",
+          "to": "100"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Skull Bash",
+      "changes": [
+        {
+          "field": "Type",
+          "from": "Normal",
+          "to": "Fighting"
+        },
+        {
+          "field": "Power",
+          "from": "80",
+          "to": "85"
+        },
+        {
+          "field": "Accuracy",
+          "from": "80",
+          "to": "95"
+        },
+        {
+          "field": "PP",
+          "from": "25",
+          "to": "15"
+        }
+      ],
+      "notes": [
+        "20% chance to make the target flinch (two turn removed)"
+      ]
+    },
+    {
+      "name": "Cut",
+      "changes": [
+        {
+          "field": "Type",
+          "from": "Normal",
+          "to": "Bug"
+        },
+        {
+          "field": "Power",
+          "from": "55",
+          "to": "60"
+        },
+        {
+          "field": "Accuracy",
+          "from": "95",
+          "to": "100"
+        },
+        {
+          "field": "PP",
+          "from": "30",
+          "to": "20"
+        }
+      ],
+      "notes": [
+        "20% chance to increase Attack by 1 stage."
+      ]
+    },
+    {
+      "name": "Strength",
+      "changes": [
+        {
+          "field": "Power",
+          "to": "90"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Rock Climb",
+      "changes": [
+        {
+          "field": "Type",
+          "from": "Normal",
+          "to": "Rock"
+        },
+        {
+          "field": "Accuracy",
+          "from": "85",
+          "to": "90"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Steamroller",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "65",
+          "to": "85"
+        },
+        {
+          "field": "PP",
+          "from": "20",
+          "to": "15"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Leaf Tornado",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "65",
+          "to": "75"
+        },
+        {
+          "field": "Accuracy",
+          "from": "90",
+          "to": "95"
+        },
+        {
+          "field": "PP",
+          "from": "10",
+          "to": "15"
+        }
+      ],
+      "notes": [
+        "30% chance of lowering target's Accuracy by 1 Stage (Down from 50%)"
+      ]
+    },
+    {
+      "name": "Power Gem",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "70",
+          "to": "80"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Leech Life",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "20",
+          "to": "75"
+        },
+        {
+          "field": "PP",
+          "from": "15",
+          "to": "10"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Grass Pledge",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "50",
+          "to": "85"
+        },
+        {
+          "field": "PP",
+          "from": "10",
+          "to": "15"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Fire Pledge",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "50",
+          "to": "85"
+        },
+        {
+          "field": "PP",
+          "from": "10",
+          "to": "15"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Water Pledge",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "50",
+          "to": "85"
+        },
+        {
+          "field": "PP",
+          "from": "10",
+          "to": "15"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Arm Thrust",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "15",
+          "to": "25"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Grasswhistle",
+      "changes": [
+        {
+          "field": "Accuracy",
+          "from": "55",
+          "to": "65"
+        },
+        {
+          "field": "PP",
+          "to": "15"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Knock Off",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "20",
+          "to": "65"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Mist Ball",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "70",
+          "to": "100"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Luster Purge",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "70",
+          "to": "100"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Assurance",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "50",
+          "to": "60"
+        },
+        {
+          "field": "PP",
+          "from": "10",
+          "to": "15"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Silver Wind",
+      "changes": [
+        {
+          "field": "PP",
+          "from": "5",
+          "to": "10"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Ominous Wind",
+      "changes": [
+        {
+          "field": "PP",
+          "from": "5",
+          "to": "10"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Ancientpower",
+      "changes": [
+        {
+          "field": "PP",
+          "from": "5",
+          "to": "10"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Gear Grind",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "50",
+          "to": "55"
+        },
+        {
+          "field": "Accuracy",
+          "from": "85",
+          "to": "95"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Glaciate",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "65",
+          "to": "100"
+        },
+        {
+          "field": "PP",
+          "from": "10",
+          "to": "5"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Submission",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "85",
+          "to": "90"
+        },
+        {
+          "field": "Accuracy",
+          "from": "90",
+          "to": "95"
+        }
+      ],
+      "notes": [
+        "Now has a higher crit ratio (No longer suffers recoil)"
+      ]
+    },
+    {
+      "name": "Absorb",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "20",
+          "to": "35"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Mega Drain",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "40",
+          "to": "55"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Rock Wrecker",
+      "changes": [],
+      "notes": [
+        "Is now Rock type Close Combat"
+      ]
+    },
+    {
+      "name": "Wild Charge",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "90",
+          "to": "95"
+        }
+      ],
+      "notes": [
+        "Now no longer causes recoil"
+      ]
+    },
+    {
+      "name": "Fury Cutter",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "20",
+          "to": "40"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Thief",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "40",
+          "to": "60"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Sheer Cold",
+      "changes": [],
+      "notes": [
+        "Is now Ice type Overheat"
+      ]
+    },
+    {
+      "name": "Needle Arm",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "65",
+          "to": "75"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Fissure",
+      "changes": [],
+      "notes": [
+        "Is now a Ground type Double-Edge"
+      ]
+    },
+    {
+      "name": "Pin Missile",
+      "changes": [
+        {
+          "field": "Power",
+          "to": "25"
+        },
+        {
+          "field": "Acc",
+          "to": "100"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Chatter",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "60",
+          "to": "90"
+        },
+        {
+          "field": "PP",
+          "from": "20",
+          "to": "15"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Poison Tail",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "50",
+          "to": "70"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Razor Shell",
+      "changes": [
+        {
+          "field": "Accuracy",
+          "from": "95",
+          "to": "100"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Blaze Kick",
+      "changes": [
+        {
+          "field": "Accuracy",
+          "from": "90",
+          "to": "100"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Whirlpool",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "35",
+          "to": "60"
+        },
+        {
+          "field": "Accuracy",
+          "from": "85",
+          "to": "100"
+        }
+      ],
+      "notes": [
+        "Now also bypasses Substitute"
+      ]
+    },
+    {
+      "name": "Sand Tomb",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "35",
+          "to": "60"
+        },
+        {
+          "field": "Accuracy",
+          "from": "85",
+          "to": "100"
+        }
+      ],
+      "notes": [
+        "Now also bypasses Substitute"
+      ]
+    },
+    {
+      "name": "Fire Spin",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "35",
+          "to": "60"
+        },
+        {
+          "field": "Accuracy",
+          "from": "85",
+          "to": "100"
+        }
+      ],
+      "notes": [
+        "Now also bypasses Substitute"
+      ]
+    },
+    {
+      "name": "Energy Ball",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "80",
+          "to": "90"
+        },
+        {
+          "field": "PP",
+          "from": "10",
+          "to": "15"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Hyper Voice",
+      "changes": [
+        {
+          "field": "PP",
+          "from": "10",
+          "to": "15"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Psychic",
+      "changes": [
+        {
+          "field": "PP",
+          "from": "10",
+          "to": "15"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Ice Beam",
+      "changes": [
+        {
+          "field": "PP",
+          "from": "10",
+          "to": "15"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Dragon Pulse",
+      "changes": [
+        {
+          "field": "PP",
+          "from": "10",
+          "to": "15"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Elemental Hyper Beams",
+      "changes": [],
+      "notes": [
+        "All have 200 Base Power, 1 PP and have an additional effect.",
+        "-Frenzy Plant, Grass: Restores health by 50% of Damage done.",
+        "-Blast Burn, Fire: Burns the target.",
+        "-Hydro Cannon, Water: Lowers the target's speed by 2 stages."
+      ]
+    },
+    {
+      "name": "Seed Flare",
+      "changes": [
+        {
+          "field": "Accuracy",
+          "from": "85",
+          "to": "90"
+        }
+      ],
+      "notes": [
+        "30% chance to lower Special Defense by 1 stage (down from 40% chance of lowering by 2 stages)"
+      ]
+    },
+    {
+      "name": "Magma Storm",
+      "changes": [
+        {
+          "field": "Accuracy",
+          "from": "70",
+          "to": "85"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Guillotine",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "0",
+          "to": "150"
+        },
+        {
+          "field": "Acc",
+          "from": "30",
+          "to": "80"
+        }
+      ],
+      "notes": [
+        "Now has a 50% chance of increasing Attack one stage (No longer OHKO's)"
+      ]
+    },
+    {
+      "name": "Air Cutter",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "55",
+          "to": "60"
+        },
+        {
+          "field": "Accuracy",
+          "from": "95",
+          "to": "100"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Air Slash",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "75",
+          "to": "80"
+        },
+        {
+          "field": "Accuracy",
+          "from": "95",
+          "to": "100"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Hurricane",
+      "changes": [
+        {
+          "field": "Accuracy",
+          "from": "70",
+          "to": "85"
+        }
+      ],
+      "notes": [
+        "Confusion chance lowered from 30% to 10%"
+      ]
+    },
+    {
+      "name": "Thunder",
+      "changes": [
+        {
+          "field": "Accuracy",
+          "from": "70",
+          "to": "85"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Blizzard",
+      "changes": [
+        {
+          "field": "Accuracy",
+          "from": "70",
+          "to": "85"
+        },
+        {
+          "field": "PP",
+          "from": "5",
+          "to": "10"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Fire Blast",
+      "changes": [
+        {
+          "field": "PP",
+          "from": "5",
+          "to": "10"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Fly",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "90",
+          "to": "100"
+        },
+        {
+          "field": "Accuracy",
+          "from": "95",
+          "to": "100"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Waterfall",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "80",
+          "to": "90"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Zap Cannon",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "120",
+          "to": "100"
+        },
+        {
+          "field": "Accuracy",
+          "from": "50",
+          "to": "90"
+        },
+        {
+          "field": "PP",
+          "from": "5",
+          "to": "10"
+        }
+      ],
+      "notes": [
+        "Now has a 40% chance to increase Special Attack by 1 stage"
+      ]
+    },
+    {
+      "name": "Mud Shot",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "55",
+          "to": "60"
+        },
+        {
+          "field": "Accuracy",
+          "from": "95",
+          "to": "100"
+        },
+        {
+          "field": "PP",
+          "from": "15",
+          "to": "20"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Mud Bomb",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "65",
+          "to": "75"
+        },
+        {
+          "field": "Accuracy",
+          "from": "85",
+          "to": "100"
+        },
+        {
+          "field": "PP",
+          "from": "10",
+          "to": "15"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Inferno",
+      "changes": [
+        {
+          "field": "Accuracy",
+          "from": "50",
+          "to": "100"
+        },
+        {
+          "field": "PP",
+          "from": "5",
+          "to": "10"
+        }
+      ],
+      "notes": [
+        "Now hits all adjacent Pokemon. Burn chance has been lowered from 100% to 10%"
+      ]
+    },
+    {
+      "name": "Will-o-Wisp",
+      "changes": [
+        {
+          "field": "Accuracy",
+          "from": "75",
+          "to": "85"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Heart Stamp",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "60",
+          "to": "80"
+        },
+        {
+          "field": "PP",
+          "from": "25",
+          "to": "15"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Rock Throw",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "50",
+          "to": "55"
+        },
+        {
+          "field": "Accuracy",
+          "from": "90",
+          "to": "95"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Rock Slide",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "75",
+          "to": "80"
+        },
+        {
+          "field": "Accuracy",
+          "from": "90",
+          "to": "95"
+        },
+        {
+          "field": "PP",
+          "from": "10",
+          "to": "15"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Stone Edge",
+      "changes": [
+        {
+          "field": "Accuracy",
+          "from": "80",
+          "to": "85"
+        },
+        {
+          "field": "PP",
+          "from": "5",
+          "to": "10"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Flash Cannon",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "80",
+          "to": "90"
+        },
+        {
+          "field": "PP",
+          "from": "10",
+          "to": "15"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Charge Beam",
+      "changes": [
+        {
+          "field": "Accuracy",
+          "from": "90",
+          "to": "100"
+        },
+        {
+          "field": "PP",
+          "from": "10",
+          "to": "15"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Poison Gas",
+      "changes": [
+        {
+          "field": "Accuracy",
+          "from": "55",
+          "to": "80"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Dragon Rush",
+      "changes": [
+        {
+          "field": "Accuracy",
+          "from": "75",
+          "to": "90"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Iron Tail",
+      "changes": [
+        {
+          "field": "Accuracy",
+          "from": "75",
+          "to": "90"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Aurora Beam",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "65",
+          "to": "75"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "BubbleBeam",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "65",
+          "to": "75"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Mirror Shot",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "65",
+          "to": "70"
+        },
+        {
+          "field": "Accuracy",
+          "from": "85",
+          "to": "100"
+        },
+        {
+          "field": "PP",
+          "from": "10",
+          "to": "15"
+        }
+      ],
+      "notes": [
+        "Chance to lower accuracy dropped to 10%"
+      ]
+    },
+    {
+      "name": "Fire Fang",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "65",
+          "to": "70"
+        },
+        {
+          "field": "Accuracy",
+          "from": "95",
+          "to": "100"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Thunder Fang",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "65",
+          "to": "70"
+        },
+        {
+          "field": "Accuracy",
+          "from": "95",
+          "to": "100"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Ice Fang",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "65",
+          "to": "70"
+        },
+        {
+          "field": "Accuracy",
+          "from": "95",
+          "to": "100"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Egg Bomb",
+      "changes": [
+        {
+          "field": "Type",
+          "from": "Normal",
+          "to": "Grass"
+        },
+        {
+          "field": "Category",
+          "from": "Physical",
+          "to": "Special"
+        },
+        {
+          "field": "Accuracy",
+          "from": "75",
+          "to": "100"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Head Smash",
+      "changes": [
+        {
+          "field": "Accuracy",
+          "from": "80",
+          "to": "90"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Cross Poison",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "70",
+          "to": "85"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Razor Leaf",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "55",
+          "to": "60"
+        },
+        {
+          "field": "Accuracy",
+          "from": "95",
+          "to": "100"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "name": "Poison Fang",
+      "changes": [
+        {
+          "field": "Power",
+          "from": "50",
+          "to": "55"
+        }
+      ],
+      "notes": [
+        "Now has a 50% chance to badly poison, up from 30%",
+        "----------------------"
+      ]
+    }
+  ],
+  "newMoves": [
+    {
+      "name": "Liquidation",
+      "replaces": "Barrage",
+      "learnedBy": [
+        "Oshawott",
+        "Dewott",
+        "Samurott",
+        "Basculin",
+        "Swanna",
+        "Carracosta",
+        "Eelektross",
+        "Alomomola",
+        "Cubchoo",
+        "Beartic",
+        "Poliwag",
+        "Poliwhirl",
+        "Poliwrath",
+        "Dewgong",
+        "Shellder",
+        "Cloyster",
+        "Lapras",
+        "Krabby",
+        "Kingler",
+        "Seaking",
+        "Gyarados",
+        "Kabuto",
+        "Kabutops",
+        "Totodile",
+        "Croconaw",
+        "Feraligatr",
+        "Marill",
+        "Azumarill",
+        "Politoed",
+        "Wooper",
+        "Quagsire",
+        "Qwilfish",
+        "Remoraid",
+        "Octillery",
+        "Carvanha",
+        "Sharpedo",
+        "Barboach",
+        "Whiscash",
+        "Corphish",
+        "Crawdaunt",
+        "Armaldo",
+        "Rainy Castform",
+        "Spheal",
+        "Sealeo",
+        "Walrein",
+        "Kyogre",
+        "Piplup",
+        "Prinplup",
+        "Empoleon",
+        "Buizel",
+        "Floatzel",
+        "Garchomp",
+        "Palkia"
+      ]
+    },
+    {
+      "name": "Lumina Crash",
+      "replaces": "Constrict",
+      "learnedBy": [
+        "Sigilyph",
+        "Elgyem",
+        "Beheeyem",
+        "Mew",
+        "Starmie",
+        "Lugia",
+        "Gardevoir",
+        "Spoink",
+        "Grumpig",
+        "Uxie",
+        "Mesprit",
+        "Azelf",
+        "Cresselia"
+      ]
+    },
+    {
+      "name": "Mystical Fire",
+      "replaces": "Mist",
+      "learnedBy": [
+        "Victini",
+        "Gothita",
+        "Gothorita",
+        "Gothitelle",
+        "Darmanitan",
+        "Beheeyem",
+        "Litwick",
+        "Lampent",
+        "Chandelure",
+        "Volcarona",
+        "Clefable",
+        "Vulpix",
+        "Ninetales",
+        "Wigglytuff",
+        "Mewtwo",
+        "Mew",
+        "Typhlosion",
+        "Slowking",
+        "Misdreavus",
+        "Kirlia",
+        "Gardevoir",
+        "Latias",
+        "Latios",
+        "Drifloon",
+        "Drifblim",
+        "Mismagius",
+        "Cresselia"
+      ]
+    },
+    {
+      "name": "High Horsepower",
+      "replaces": "Spider Web",
+      "learnedBy": [
+        "Pignite",
+        "Emboar",
+        "Stoutland",
+        "Zebstrika",
+        "Drilbur",
+        "Excadrill",
+        "Sawsbuck",
+        "Golurk",
+        "Bouffalant",
+        "Nidoqueen",
+        "Nidoking",
+        "Ponyta",
+        "Rapidash",
+        "Onix",
+        "Kingler",
+        "Tauros",
+        "Flareon",
+        "Snorlax",
+        "Girafarig",
+        "Steelix",
+        "Teddiursa",
+        "Ursaring",
+        "Stantler",
+        "Miltank",
+        "Aggron",
+        "Numel",
+        "Camerupt",
+        "Groudon",
+        "Mamoswine",
+        "Regigigas",
+        "Arceus"
+      ]
+    },
+    {
+      "name": "Power-Up Punch",
+      "replaces": "Comet Punch",
+      "learnedBy": [
+        "Pignite",
+        "Emboar",
+        "Watchog",
+        "Audino",
+        "Timburr",
+        "Gurdurr",
+        "Conkeldurr",
+        "Seismitoad",
+        "Maractus",
+        "Scraggy",
+        "Scrafty",
+        "Reuniclus",
+        "Golett",
+        "Golurk",
+        "Wigglytuff",
+        "Mankey",
+        "Primeape",
+        "Poliwhirl",
+        "Poliwrath",
+        "Machop",
+        "Machoke",
+        "Machamp",
+        "Grimer",
+        "Muk",
+        "Drowzee",
+        "Hypno",
+        "Hitmonchan",
+        "Kangaskan",
+        "Mew",
+        "Sentret",
+        "Furret",
+        "Ledyba",
+        "Ledian",
+        "Marill",
+        "Azumarill",
+        "Aipom",
+        "Snubbull",
+        "Granbull",
+        "Teddiursa",
+        "Ursaring",
+        "Tyrogue",
+        "Slakoth",
+        "Vigoroth",
+        "Slaking",
+        "Makuhita",
+        "Hariyama",
+        "Volbeat",
+        "Cacnea",
+        "Cacturne",
+        "Dusclops",
+        "Metang",
+        "Metagross",
+        "Regirock",
+        "Regice",
+        "Registeel",
+        "Jirachi",
+        "Chimchar",
+        "Monferno",
+        "Infernape",
+        "Ambipom",
+        "Buneary",
+        "Lopunny",
+        "Riolu",
+        "Lucario",
+        "Croagunk",
+        "Toxicroak",
+        "Gallade",
+        "Dusknoir"
+      ]
+    },
+    {
+      "name": "Parabolic Charge",
+      "replaces": "Kinesis",
+      "learnedBy": []
+    },
+    {
+      "name": "Infernal Parade",
+      "replaces": "ViceGrip",
+      "learnedBy": [
+        "Litwick",
+        "Lampent",
+        "Chandelure",
+        "Ninetales",
+        "Typhlosion"
+      ],
+      "type": "Ghost",
+      "damageCategory": "Special",
+      "power": "25",
+      "accuracy": "100",
+      "pp": "15",
+      "effect": "Each hit has a 30% chance to burn."
+    },
+    {
+      "name": "Boomburst",
+      "version": "v1.3",
+      "replaces": "Slam",
+      "learnedBy": [
+        "Unfezant",
+        "Audino",
+        "Tympole",
+        "Palpitoad",
+        "Seismitoad",
+        "Jigglypuff",
+        "Wigglytuff",
+        "Voltorb",
+        "Electrode",
+        "Politoed",
+        "Yanma",
+        "Dunsparce",
+        "Whismur",
+        "Loudred",
+        "Exploud",
+        "Vibrava",
+        "Flygon",
+        "Rayquaza",
+        "Kricketune",
+        "Magnezone",
+        "Togekiss",
+        "Yanmega",
+        "Arceus"
+      ]
+    },
+    {
+      "name": "Ceaseless Edge",
+      "version": "v1.5",
+      "replaces": "Fury Attack",
+      "learnedBy": [
+        "Samurott",
+        "Pawniard",
+        "Bisharp",
+        "Zangoose",
+        "Seviper"
+      ],
+      "type": "Dark",
+      "damageCategory": "Physical",
+      "power": "75",
+      "accuracy": "100",
+      "pp": "15",
+      "effect": "Applies the effects of Heal Block on the target for 3 turns."
+    },
+    {
+      "name": "Triple Arrows",
+      "version": "v1.5",
+      "replaces": "DoubleSlap",
+      "learnedBy": [
+        "Mienfoo",
+        "Mienshao",
+        "Zapdos",
+        "Hitmontop",
+        "Medicham"
+      ],
+      "type": "Fighting",
+      "damageCategory": "Physical",
+      "power": "70",
+      "accuracy": "100",
+      "pp": "15",
+      "effect": "Lowers Defense by one stage and has higher chance of scoring a critical hit"
+    },
+    {
+      "name": "Torch Song",
+      "version": "v1.5",
+      "replaces": "Razor Wind",
+      "learnedBy": [
+        "Victini",
+        "Pansear",
+        "Simisear",
+        "Heatmor",
+        "Meloetta",
+        "Ninetales",
+        "Jigglypuff",
+        "Wigglytuff",
+        "Altaria"
+      ]
+    },
+    {
+      "name": "Flower Trick",
+      "version": "v1.5",
+      "replaces": "After You",
+      "learnedBy": [
+        "Pansage",
+        "Simisage",
+        "Cottonee",
+        "Whimsicott",
+        "Maractus",
+        "Vileplume",
+        "Bellossom",
+        "Roselia",
+        "Roserade"
+      ],
+      "type": "Grass",
+      "damageCategory": "Special (Is Physical in the mainline titles)",
+      "power": "60 (70 in mainline titles)",
+      "accuracy": "Always Hits",
+      "pp": "15",
+      "effect": "Always lands a critical hit"
+    },
+    {
+      "name": "Aqua Step",
+      "version": "v1.5",
+      "replaces": "Minimize",
+      "learnedBy": [
+        "Panpour",
+        "Simipour",
+        "Ducklett",
+        "Swanna",
+        "Beartic",
+        "Meloetta*",
+        "Marill",
+        "Azumarill",
+        "Ludicolo",
+        "Bibarel"
+      ]
+    },
+    {
+      "name": "Trailblaze",
+      "version": "v1.7",
+      "replaces": "Horn Drill",
+      "learnedBy": [
+        "Blitzle",
+        "Zebstrika",
+        "Sewaddle",
+        "Swadloon",
+        "Leavanny",
+        "Cottonee",
+        "Whimsicott",
+        "Swanna",
+        "Deerling",
+        "Sawsbuck",
+        "Maractus",
+        "Cubchoo",
+        "Beartic",
+        "Ekans",
+        "Arbok",
+        "Dodrio",
+        "Exeggutor",
+        "Tauros",
+        "Chikorita",
+        "Bayleef",
+        "Meganium",
+        "Sentret",
+        "Furret",
+        "Spinarak",
+        "Ariados",
+        "Sudowoodo",
+        "Swinub",
+        "Piloswine",
+        "Treecko",
+        "Grovyle",
+        "Sceptile",
+        "Volbeat",
+        "Illumise",
+        "Seviper",
+        "Kricketune",
+        "Bonsly",
+        "Snover",
+        "Abomasnow",
+        "Leafeon",
+        "Mamoswine",
+        "Shaymin"
+      ],
+      "type": "Grass",
+      "damageCategory": "Physical",
+      "power": "60 (50 in mainline titles)",
+      "accuracy": "100",
+      "pp": "20",
+      "effect": "100% chance to increase speed"
+    },
+    {
+      "name": "Eerie Spell",
+      "version": "v1.7",
+      "replaces": "Mega Kick",
+      "learnedBy": [
+        "Gothita",
+        "Gothorita",
+        "Gothitelle",
+        "Elgyem",
+        "Beeheyem",
+        "Noctowl",
+        "Slowking",
+        "Misdreavus",
+        "Stantler",
+        "Mismagius"
+      ],
+      "type": "Psychic",
+      "damageCategory": "Special",
+      "power": "90 (80 in mainline titles)",
+      "accuracy": "100",
+      "pp": "15 (10 in mainline titles)",
+      "effect": "Has a 30% chance of disabling the target's last move used for 4 turns"
+    }
+  ]
+}

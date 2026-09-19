@@ -1,0 +1,3648 @@
+Unless specified, Trainer's Pokemon will have their standard level up moves and no held item.
+
+-------------
+Nuvema Town
+-------------
+
+[Pokemon Trainer Bianca]
+Snivy/Tepig/Oshawott Lvl 5
+
+[Cheren]                     
+Snivy/Tepig/Oshawott Lvl 5
+
+
+--------------
+Accumula Town
+--------------
+
+[Pokemon Trainer N]
+Lillipup Lvl 5
+Patrat Lvl 5
+Purrloin Lvl 6
+
+
+-------------
+Route 2
+-------------
+
+[Youngster Jimmy] 
+Patrat Lvl 7
+
+[Lass Mali]
+Pidove Lvl 6
+Purrloin Lvl 7
+
+[Youngster Roland]
+Lillipup Lvl 8
+
+[Pokemon Trainer Bianca] (2 x Potion)
+Minccino Lvl 9
+Snivy/Tepig/Oshawott Lvl 10
+
+---------------
+Striaton City 
+---------------
+
+[Pokemon Trainer Cheren]      
+Snivy/Tepig/Oshawott @Oran Berry Lvl 11
+Purrloin @Oran Berry             Lvl 10
+
+
+----------------
+Dreamyard - Before Trio Badge
+----------------
+
+[Lass Eri]
+Purrloin Lvl 8
+Minccino Lvl 8
+Gothita  Lvl 8
+Pidove   Lvl 8
+
+[Youngster Joey]
+Lillipup Lvl 8
+Patrat   Lvl 10
+
+
+----------------
+Striaton Gym
+----------------
+
+[Waiter Maxwell]
+Lillipup @Oran Berry Lvl 11
+Patrat               Lvl 11
+
+[Waitress Tia] Done
+Minccino @Oran Berry Lvl 11
+Purrloin             Lvl 11
+
+--If Snivy was Chosen--
+[Leader Chili] 
+Lillipup             Lvl 13 -Pickup. Work Up, Bite-
+Darumaka @Oran Berry Lvl 14 -Hustle. Work Up, Incinerate, Rock Smash-
+Pansear  @Charcoal   Lvl 15 -Blaze. Work Up, Incinerate, Yawn, Thief-
+
+--If Tepig was Chosen--
+[Leader Cress] 
+Lillipup                Lvl 13 -Pickup. Work Up, Bite-
+Ducklett @Oran Berry    Lvl 14 -Big Pecks. Work Up, Water Gun, Aerial Ace-
+Panpour  @MysticWater   Lvl 15 -Torrent. Work Up, Water Pulse, Yawn, Thief-
+
+--If Oshawott was Chosen--
+[Leader Cilan] 
+Lillipup                 Lvl 13 -Pickup. Work Up, Bite-
+Deerling @Oran Berry     Lvl 14 -Hustle. Work Up, Leech Seed, Bullet Seed-
+Pansage  @Miracle Seed   Lvl 15 -Overgrow. Work Up, Magical Leaf, Yawn, Thief-
+
+-----------------------------
+Dreamyard - Post Trio Badge
+-----------------------------
+
+[Team Plasma Grunt]
+Patrat Lvl 11
+Trubbish Lvl 11
+
+[Team Plasma Grunt]
+Purrloin Lvl 11
+Scraggy Lvl 11
+
+--------------
+Route 3
+--------------
+
+NORTHERN SIDE/PLAYGROUND:
+
+[Twins Kumi and Amy]
+Purrloin Lvl 11
+Purrloin Lvl 11
+
+[Nursery Aide Autumn]
+Minccino Lvl 11
+Munna Lvl 11
+
+[Preschooler Doyle]
+Lillipup Lvl 10
+Panpour Lvl 11
+
+[Preschooler Wendy]
+Lillipup Lvl 10
+Pansear lvl 11
+
+[Preschooler Tully] 
+Lillipup Lvl 10 
+Pansage Lvl 11
+
+[Pokemon Breeder Adelaide]
+Patrat Lvl 9
+Ducklett lvl 9
+Pidove Lvl 9
+Lillipup Lvl 9
+Minccino Lvl 9
+
+
+[Pokemon Trainer Cheren]
+
+--If Snivy was Chosen--
+
+Purrloin @Oran Berry Lvl 14 -Prankster. Snarl, Taunt, Sand-Attack, Aerial Ace-
+Pansage  @Oran Berry Lvl 14 -Gluttony. Magical Leaf, Yawn, Fury Swipes, Recycle-
+Tepig    @Oran Berry Lvl 16 -Blaze. Work Up, Defense Curl, Rollout, Flame Charge-
+
+--If Tepig was Chosen--
+
+Purrloin @Oran Berry Lvl 14 -Prankster. Snarl, Taunt, Sand-Attack, Aerial Ace-
+Pansear  @Oran Berry Lvl 14 -Gluttony. Incinerate, Yawn, Fury Swipes, Recylce-
+Oshawott @Oran Berry Lvl 16 -Torrent. Work Up, Focus Energy, Aqua Jet, Razor Shell-
+
+--If Oshawott was Chosen--
+
+Purrloin @Oran Berry -Prankster. Snarl, Taunt, Sand-Attack, Aerial Ace-
+Panpour  @Oran Berry -Gluttony. Water Pulse, Yawn, Fury Swipes, Recycle-
+Snivy    @Oran Berry -Overgrow. Glare, Tackle, Leech Seed, Leaf Tornado-
+
+--------------------
+Wellspring Cave 1F
+--------------------
+
+[Team Plasma Grunt]
+Patrat Lvl 13
+Scraggy Lvl 13
+
+[Team Plasma Grunt]
+Sandile Lvl 13 -Intimidate-
+
+[Team Plasma Grunt]
+Trubbish Lvl 13
+
+------------
+Route 3
+------------
+SOUTHERN SIDE
+
+[School Kid Al] 
+Blitzle Lvl 14
+
+[School Kid Marsha] 
+Woobat Lvl 14
+
+[School Kid Gina] 
+Ducklett Lvl 12
+Patrat Lvl 12
+Purrloin Lvl 13
+
+[School Kid Edgar]
+Roggenrola Lvl 12
+Pidove Lvl 12
+Lillipup Lvl 13
+
+--------------
+Nacrene City
+--------------
+
+[Pokemon Trainer N] 
+Double Battle
+
+Lillipup Lvl 16 -Vital Spirit. Return, Helping Hand, Howl, Bite-
+Timburr  Lvl 16 -Guts. Return, Force Palm, Rock Throw, Power-Up Punch-
+Tympole  Lvl 16 -Hydration. Return, Mud Shot, Bubblebeam, Supersonic-
+Deerling Lvl 16 -Sap Sipper. Return, Bullet Seed, Leech Seed, Aromatherapy-
+
+-------------------------
+Pinwheel Forest - Outside
+-------------------------
+
+[Nurse Shery] 1 x Super Potion 
+Munna Lvl 13
+Solosis Lvl 13
+Gothita Lvl 13
+
+[Preschooler Juliet] 
+Cottonee Lvl 14
+Petilil Lvl 14
+
+[Preschooler Homer] 
+Roggenrola Lvl 16
+
+[Youngster Keita]
+Tympole Lvl 14
+Foongus Lvl 14
+Lillipup Lvl 14
+
+[Youngster Zachary]
+Venipede Lvl 14
+Sewaddle Lvl 14
+Deerling Lvl 14
+
+[Black belt Kentaro]
+Timburr Lvl 17
+
+[Battle Girl Lee] 
+Mienfoo Lvl 17
+
+---------------
+Nacrene Gym
+---------------
+
+[School Kid Carter] 
+Patrat Lvl 17
+Deerling Lvl 17 
+
+[Scientist Satomi]
+Herdier Lvl 18 -Intimidate-
+
+[School Kid Lydia] 
+Minccino Lvl 16
+Lillipup Lvl 16
+Pidove Lvl 16
+
+![Leader Lenora]!
+Herdier                Lvl 19 -Intimidate. Retaliate, Bite, Yawn, Howl-
+Watchog @Sitrus Berry  Lvl 20 -Analytic. Retaliate, Revenge, Hypnosis, Crunch-
+Bouffalant @Normal Gem Lvl 21 -Reckless. Retaliate, Revenge, Pursuit, Taunt-
+
+-------------------------
+Pinwheel Forest - Inside
+-------------------------
+
+[Twins Mayo and May]
+Sewaddle Lvl 18
+Sewaddle Lvl 18
+
+[School Kid Sammy]
+Munna Lvl 20
+
+[Lass Eva] 
+Woobat Lvl 19
+Petilil Lvl 19
+
+[School Kid Millie]
+Foongus Lvl 18
+Purrloin Lvl 18
+Tympole Lvl 18
+
+[Team Plasma Grunt]
+Sandile Lvl 18
+Patrat Lvl 18
+
+[Team Plasma Grunt]
+Purrloin Lvl 18
+Gothita Lvl 18
+
+[Pokemon Ranger Forrest]
+Herdier Lvl 19 @Sitrus Berry
+
+[Youngster Nicholas]
+Venipede Lvl 18
+Timburr Lvl 18
+
+[Pokemon Ranger Audra] 
+Petilil Lvl 18
+Pansage Lvl 18 @Sitrus Berry
+
+[Pokemon Ranger Irene]
+Cottonee Lvl 18
+Panpour Lvl 18 @Pecha Berry
+
+[Team Plasma Grunt]
+Trubbish Lvl 19
+
+[Pokemon Ranger Miguel] 
+Foongus Lvl 18
+Pansear Lvl 18 @Pecha Berry
+
+[Team Plasma Grunt]
+Double Battle
+
+Watchog @Oran Berry Lvl 20 -Analytic. Hypnosis, Confuse Ray, Strength, Revenge-
+Lipard @Oran Berry  Lvl 20 -Unburden. Protect, Snarl, Dream Eater, Fake Out-
+
+----------------------
+Castelia City
+----------------------
+
+[Dancer Mickey] 
+Herdier  Lvl 20
+Simisage Lvl 22
+
+[Dancer Edmond] 
+Watchog  Lvl 20
+Simipour Lvl 22
+
+[Dancer Raymond] 
+Liepard  Lvl 20
+Simisear Lvl 22
+
+[Team Plasma Grunt]
+Sandile  Lvl 19 -Intimidate-
+Scraggy  Lvl 19 
+Trubbish Lvl 19 -Aftermath-
+
+
+------------------
+Battle Company
+------------------
+The Battle Company is an optional side quest, trainers here are a lot harder and all
+have custom movesets and held items. 
+
+47F
+
+[Clerk F Ingrid] 1 x Super Potion 
+Herdier               Lvl 21 -Intimidate. Howl, Bite, Strength, Dig-
+Tranquill @Scope Lens Lvl 21 -Super Luck. Quick Attack, FeatherDance, Air Cutter, Roost-
+
+[Clerk M Clemens] 1 x Super Potion 
+Cubchoo @Sitrus Berry Lvl 22 -Rattled. Ice Shard, Rock Tomb, Power-Up Punch, Aerial Ace-
+
+[Scientist Randall] 1 x Super Potion 
+Klink @Metal Coat Lvl 22 -Clear Body. Gear Grind, Rock Tomb, Thunder Wave, Substitute-
+
+[Clerk F Alberta] 1 x Super Potion
+Joltik             Lvl 21 -Unnerve. Electroweb, Thunder Fang, Bug Bite, Screech-
+Maractus @Big Root Lvl 21 -Storm Drain. Power-Up Punch, Wood Hammer, Mega Drain, Pin Missile-
+
+[Clerk M Warren] 1 x Super Potion 
+Basculin-R @Muscle Band  Lvl 20 -Reckless. Aqua Jet, Revenge, Chip Away, Crunch-
+Basculin-B @Mystic Water Lvl 20 -Adaptability. Scald, Chip Away, Aqua Jet, Revenge-
+Blitzle @Magnet          Lvl 20 -Lightningrod. Thunder Wave, Shock Wave, Double Kick, Quick Attack-
+
+55F
+
+[Clerk M Ivan] 1 x Super Potion
+Swoobat @Wise Glasses Lvl 22 -Simple. Charge Beam, Pluck, Knock Off, Confusion-
+
+[Scientist Samantha] 1 x Super Potion 
+Durant @Occa Berry Lvl 22 -Swarm. Metal Claw, Fury Cutter, Hone Claws, Dig-
+
+[Scientist Steve] 1 x Super Potion
+Deerling   Lvl 20 -Sap Sipper. Leech Seed, Protect, Bullet Seed, Double Kick-
+Roggenrola Lvl 20 -Sturdy. Mud Shot, Rock Tomb, Iron Defense, Charge Beam-
+Vanillite  Lvl 20 -Ice Body. Icy Wind, Hail, Mirror Shot, Taunt-
+
+[Clerk M Wade] 1 x Super Potion 
+Snivy @Miracle Seed    Lvl 22 -Overgrow. Leech Seed, Substitute, Aerial Ace, Leaf Tornado-
+Tepig @Charcoal        Lvl 22 -Blaze. Will-o-Wisp, Flame Charge, Rock Tomb, Mud Bomb-
+Oshawott @Mystic Water Lvl 22 -Torrent. Aqua Jet, Work Up, Fury Cutter, Grass Knot-
+
+[Janitor Geoff] 2 x Super Potion 
+Trubbish @Eviolite   Lvl 23 -Eviolite. Toxic, Acid Spray, Stockpile, Drain Punch-
+Cincinno @Silk Scarf Lvl 23 -Technician. Swift, Water Pulse, Encore, Work Up-
+
+--------------
+Castelia Gym
+--------------
+
+[Harlequin Jack] Done
+Sewaddle Lvl 21
+Venipede Lvl 21
+
+[Harlequin Kerry] Done
+Dwebble Lvl 21
+Shelmet Lvl 21
+
+[Harlequin Rick] Done
+Whirlipede Lvl 22
+
+[Harlequin Louis] Done
+Joltik     Lvl 20
+Karrablast Lvl 20
+Sewaddle   Lvl 20
+Venipede   Lvl 20
+
+![Leader Burgh]! 
+Whirlipede @Occa Berry Lvl 24 -Poison Point. Bulldoze, Struggle Bug, Poison Jab, Toxic Spikes-
+Dwebble @Quick Claw    Lvl 24 -Sturdy. Counter, Bug Bite, Faint Attack, Rock Slide-
+Accelgor @SilverPowder Lvl 24 -Hydration. Rain Dance, Signal Beam, Mega Drain, Venoshock-
+Leavanny @Sitrus Berry Lvl 25 -Swarm. Bug Bite, Razor Leaf, Low Sweep, Aerial Ace-
+
+------------------------------
+Castelia - Route 4 "Tunnel"
+------------------------------
+
+[Pokemon Trainer Bianca] 3 x Super Potion 
+
+--If Snivy was Chosen--
+Minccino            Lvl 21 -Technician. Swift, Encore, Thunder Wave, Tickle-
+Munna               Lvl 21 -Synchronize. Magic Coat, Yawn, Psybeam, Moonlight-
+Simisear            Lvl 22 -Gluttony. Incinerate, Low Kick, Will-o-Wisp, Bite-
+Dewott @Rindo Berry Lvl 23 -Torrent. Razor Shell, Aqua Jet, Dig, Icy Wind-
+
+--If Tepig was Chosen--
+Minccino            Lvl 21 -Technician. Swift, Encore, Thunder Wave, Tickle-
+Munna               Lvl 21 -Synchronize. Magic Coat, Yawn, Psybeam, Moonlight-
+Simipour            Lvl 22 -Gluttony. Water Pulse, Low Kick, Soak, Bite-
+Servine @Occa Berry Lvl 23 -Overgrow. Leaf Tornado, Aerial Ace, Leech Seed, GrassWhistle-
+
+--If Oshawott was Chosen--
+Minccino              Lvl 21 -Technician. Swift, Encore, Thunder Wave, Tickle-
+Munna                 Lvl 21 -Synchronize. Magic Coat, Yawn, Psybeam, Moonlight-
+Simisage              Lvl 22 -Gluttony. Magical Leaf, Low Kick, Leech Seed, Bite-
+Pignite @Passho Berry Lvl 23 -Blaze. Fire Punch, Mud Bomb, Grass Knot, Power-Up Punch-
+
+-----------
+Route 4
+-----------
+
+Pre Insect Badge
+-----------------
+
+[Fisherman Hubert]
+Frillish Lvl 20
+
+[Fisherman Andrew]
+Basculin-R Lvl 18 
+Basculin-B Lvl 18
+
+
+[Parasol Lady April]
+Tympole Lvl 19
+Drilbur Lvl 19 -Sand Rush-
+
+
+*You can fight them after the badge of course, but these guys are still going to be around
+the level that the Pinwheel Forest trainers are.
+
+Post Insect Badge
+------------------
+
+[Pokemon Trainer Cheren]
+
+--If Snivy was Chosen--
+Liepard @Sharp Beak    Lvl 23 -Prankster. Fake Out, Bite, Thunder Wave, Aerial Ace-
+Roggenrola @Soft Sand  Lvl 23 -Sturdy. Mud Shot, Grass Knot, Rock Tomb, Iron Defense-
+Simisage @Miracle Seed Lvl 24 -Gluttony. Seed Bomb, Low Kick, Bite, Dig-
+Pignite @Sitrus Berry  Lvl 25 -Blaze. Fire Punch, Power-Up Punch, Bulldoze, Flame Charge-
+
+--If Tepig was Chosen--
+Liepard @Sharp Beak    Lvl 23 -Prankster. Fake Out, Bite, Thunder Wave, Aerial Ace-
+Roggenrola @Soft Sand  Lvl 23 -Sturdy. Mud Shot, Grass Knot, Rock Tomb, Iron Defense-
+Simisear @Charcoal     Lvl 24 -Gluttony. Flame Burst, Low Kick, Bite, Dig-
+Dewott   @Sitrus Berry Lvl 25 -Torrent. Razor Shell, Aqua Jet, Air Cutter, Revenge-
+
+--If Oshawott was Chosen--
+Liepard @Sharp Beak    Lvl 23 -Prankster. Fake Out, Bite, Thunder Wave, Aerial Ace-
+Roggenrola @Soft Sand  Lvl 23 -Sturdy. Mud Shot, Grass Knot, Rock Tomb, Iron Defense-
+Simipour @MysticWater  Lvl 24 -Gluttony. Scald, Low Kick, Bite, Dig-
+Servine @Sitrus Berry  Lvl 25 -Overgrow. Leaf Tornado, Growth, Knock Off, Aerial Ace-
+
+[Worker Gus] 
+Roggenrola Lvl 20
+Timburr Lvl 20
+
+[Worker Shelby]
+Gurdurr Lvl 22
+
+[Backpacker Keane]
+Darumaka Lvl 21
+
+[Backpacker Anna]
+Cottonee Lvl 20
+Deerling Lvl 20
+
+[Backpacker Jill]
+Petilil Lvl 20
+Foongus Lvl 20
+
+[Backpacker Waylon]
+Blitzle Lvl 20
+Pidove Lvl 20
+
+[Worker Scott]
+Roggenrola Lvl 20
+Drilbur Lvl 20
+
+[Worker Zack]
+Timburr Lvl 19
+Timburr Lvl 19
+Timburr Lvl 19
+
+[Backpacker Jerome]
+Joltik Lvl 21
+Tranquil Lvl 21
+
+-----------------
+Desert Resort
+-----------------
+
+[Doctor Jerry] 
+Gothita Lvl 23
+Solosis Lvl 23
+
+[Backpacker Kelsey] 
+Pidove Lvl 20
+Sandile Lvl 20
+Tranquill lvl 21
+Pignite Lvl 21
+
+[Backpacker Liz]
+Watchog Lvl 23 
+Servine Lvl 24
+
+[Backpacker Nate]
+Herdier Lvl 22 -Intimidate-
+Roggenrola Lvl 22
+Dewott Lvl 23
+
+[Psychic Cybil]
+Gothita Lvl 23
+Elgyem  Lvl 23
+
+[Backpacker Elaine]
+Maractus Lvl 24
+Dwebble Lvl 23
+
+[Pokemon Ranger Mylene]
+Drilbur  Lvl 23
+Ducklett Lvl 23
+
+[Pokemon Ranger Jaden]
+Frillish Lvl 22
+Deerling Lvl 22
+Blitzle Lvl 22
+
+[Psychic Gaven]
+Woobat Lvl 23
+Golett  Lvl 23
+
+[Psychic Low]
+Yamask @Eviolite Lvl 25 -Mummy. Will-o-Wisp, Hex, Protect, Grass Knot-
+
+------------------
+Relic Castle 1F
+------------------
+
+[Psychic Perry]
+Sigilyph @Sitrus Berry Lvl 26 -Magic Guard. Psybeam, Air Cutter, AncientPower, Icy Wind-
+
+[Psychic Dua]
+Musharna @Sitrus Berry Lvl 26 -Synchronize. Psybeam, Yawn, Moonlight, Charge Beam-
+
+---------------
+Nimbasa City
+---------------
+
+[Team Plasma Grunt]
+Foongus Lvl 19
+Watchog Lvl 20
+Tympole Lvl 19
+
+[Team Plasma N]
+Triple Battle
+
+Sandile  Lvl 22 -Intimidate. Return, Crunch, Embargo, Mud Shot-
+Sigilyph Lvl 22 -Magic Guard. Return, Reflect, Light Screen, Air Cutter-
+Scraggy  Lvl 22 -Moxie. Return, Faint Attack, Power-Up Punch, Zen Headbutt-
+Vullaby  Lvl 22 -Overcoat. Return, Snarl, Wing Attack, Taunt-
+Golett   Lvl 22 -Iron Fist. Return, Bullet Punch, Curse, Bulldoze-
+
+-------------------------------------------------
+Nimbasa City - Ferris Wheel Seasonal Trainers
+-------------------------------------------------
+After beating Elesa:
+
+--If the Player is Male--
+
+Spring:
+[Lass Maya]
+Gothita Lvl 27
+Solosis Lvl 27
+
+Summer:
+[Hiker Andy]
+Boldore Lvl 27
+Gurdurr Lvl 27
+
+Autumn:
+[Clerk F Trisha]
+Cincinno Lvl 28 -Technician. Bullet Seed, Swift, Rock Blast, U-Turn-
+Deerling Lvl 28 -Sap Sipper. Jump Kick, Bullet Seed, Work Up, Wild Charge-
+
+Winter:
+[Preschooler Winter]
+Vanillite Lvl 27
+Cubchoo Lvl 27
+
+--If the Player is Female--
+
+Spring:
+[Dancer Dirk]
+Darumaka Lvl 27
+Mienfoo Lvl 27
+
+Summer:
+[Ace Trainer Austin]
+Swoobat               Lvl 28 -Simple. Substitute, Charge Beam, Air Cutter, Attract-
+Heatmor @Sitrus Berry Lvl 28 -White Smoke. Bug Bite, Flame Burst, Shadow Claw, Recycle-
+
+Autumn:
+[Waitress Aurora]
+Swadloon Lvl 27
+Emolga Lvl 27
+
+Winter: 
+[Rich Boy Martin]
+Tranquil Lvl 27
+Ferroseed Lvl 27
+
+------------------
+Nimbasa Gym
+------------------
+
+[Lady Magnolia] Done
+Emolga Lvl 27
+
+[Rich Boy Cody] Done
+Joltik Lvl 26
+Blitzle Lvl 26
+
+[Rich Boy Rolan] Done
+Stunfisk Lvl 27
+
+[Lady Colette] Done
+Blitzle Lvl 26
+Emolga Lvl 26
+
+![Leader Elesa]! 
+Emolga @Red Card        Lvl 27 -Motor Drive. U-turn, Spark, Pursuit, Aerial Ace-
+Emolga @Magnet          Lvl 27 -Static. Volt Switch, Air Cutter, Paravolt Charge, Tailwind-
+Joltik @Charti Berry    Lvl 28 -Compoundeyes. Energy Ball, Bug Bite, Volt Switch, Thunder Fang-
+Zebstrika @Sitrus Berry Lvl 29 -Lightningrod. Volt Switch, Paravolt Charge, Signal Beam, Trailblaze-
+
+----------------------------
+Big Stadium and Small Court
+----------------------------
+
+Athletes will reward a Heart Scale upon their defeat.
+Backers will not.
+
+
+Big Stadium -
+------------
+
+[Infielder Alex] 
+3/4 Badges:
+Pansear Lvl 25
+Pansage Lvl 25
+Panpour Lvl 25
+
+5/6 Badges:
+Simisear Lvl 33
+Simisage Lvl 33
+Simipour Lvl 33
+Herdier Lvl 33
+
+7/8 Badges:
+Simisage Lvl 40 
+Simipour Lvl 40 
+Simisear Lvl 40 
+Stoutland Lvl 40 
+
+Post-Game:
+Simisage Lvl 63 -Overgrow. Leaf Storm, Crunch, Acrobatics, GrassWhistle-
+Simipour Lvl 63 -Torrent. Hydro Pump, Crunch, Acrobatics, Tickle-
+Simisear Lvl 63 -Blaze. Overheat, Crunch, Acrobatics, Soak-
+Stoutland Lvl 63 -Intimidate. Body Slam, Crunch, High Horsepower, Thunder Fang-
+
+[Striker Tony]
+3/4 Badges:
+Ducklett Lvl 26
+Dwebble Lvl 26
+
+5/6 Badges:
+Swanna Lvl 35 
+Crustle Lvl 35
+
+7/8 Badges:
+Swanna Lvl 42
+Crustle Lvl 42
+
+Post-Game:
+Swanna Lvl  64 -Keen Eye. Hurricane, Ice Beam, Surf, Superpower-
+Crustle Lvl 64 -Shell Armor. X-Scissor, Earthquake, Rock Wrecker, Night Slash-
+Electrode Lvl 64 -Aftermath. Skull Bash, Seed Bomb, Wild Charge, Light Screen-
+
+
+[Linebacker Dan] 
+3/4 Badges:
+Darumaka Lvl 25
+Timburr Lvl 25
+Roggenrola Lvl 25
+
+5/6 Badges:
+Darumaka Lvl 34
+Gurdurr lvl 34
+Boldore Lvl 34
+
+7/8 Badges:
+Darmanitan Lvl 40
+Gurdurr Lvl 40
+Boldore Lvl 40
+Emolga Lvl 40
+
+Post-Game:
+Darmanitan Lvl 63 -Sheer Force. Flare Blitz, Hammer Arm, Zen Headbutt, Bulldoze-
+Conkeldurr Lvl 63 -Guts. Hammer Arm, Stone Edge, Bulk Up, Mach Punch-
+Gigalith   Lvl 63 -Sturdy. Power Gem, Earth Power, Stealth Rock, Zap Cannon-
+Emolga     Lvl 63 -Static. Volt Tackle, Acrobatics, Light Screen, ElectroWeb-
+
+[Backers Amy and Eira]
+5/6 Badges:
+Whimsicott  Lvl 35 -Sunny Day instead of Charm- 
+Lilligant   Lvl 35 -Earth Power, Giga Drain, Sleep Powder, Dream Eater-
+
+7/8 Badges:
+Whimsicott Lvl 40 -Sunny Day, Helping Hand, Giga Drain, Air Cutter-
+Leavanny Lvl 40 - Razor Leaf, X-Scissor, Low Sweep, Knock Off-
+Lilligant Lvl 40 -Earth Power, Giga Drain, Sleep Powder, Dream Eater-
+Sawsbuck Lvl 40 -High Horsepower, Horn Leech, Double Edge, Wild Charge-
+
+Post-Game: Movesets are the same as 7/8 Badges
+Whimsicott Lvl 63 
+Leavanny Lvl 63 
+Lilligant Lvl 63 
+Sawsbuck Lvl 63 
+
+[Backers Kay and Ali] 
+5/6 Badges:
+Rufflet   Lvl 35
+Vullaby   Lvl 35
+
+7/8 Badges:
+Braviary  Lvl 40
+Mandibuzz Lvl 40
+Cinccino  Lvl 40
+Stunfisk  Lvl 40
+
+Post-game:
+Braviary Lvl 63 -Sheer Force. Rock Slide, Crush Claw, Brave Bird, Close Combat-
+Mandibuzz Lvl 63 -Big Pecks. Nasty Plot, Heat Wave, Snarl, Air Cutter-
+Cinccino Lvl 63 -Technician. Swift, Water Pulse, Thunderbolt, Work Up-
+Stunfisk lvl 63 -Static. Thunder Wave, Thunderbolt, Earth Power, Scald-
+
+[Backers Hawk and Dar] 
+5/6 Badges:
+Tirtouga Lvl 35
+Archen   Lvl 35
+ 
+7/8 Badges:
+Carracosta Lvl 40
+Pawniard Lvl 40
+Archeops Lvl 40
+Pawniard Lvl 40
+
+Post-Game:
+Carracosta Lvl 63 -Solid Rock. Rock Slide, Crunch, Liquidation, Ice Beam
+Archeops Lvl 63 -Defeatist. Rock Slide, Acrobatics, Earth Power, Dragon Claw-
+Steelix Lvl 63 -Sheer Force. Rock Slide, Iron Head, Fire Fang, Ice Fang-
+Scizor Lvl 63 -Technician. Bullet Punch, Bug Bite, Rock Smash, Aerial Ace-
+
+[Infielder Connor] 
+7/8 Badges:
+Unfezant Lvl 43
+
+Post-Game:
+Unfezant Lvl 64 -Super Luck. Silver Wind, Roost, Hurricane, Boomburst-
+Linoone Lvl 64 -Gluttony. Seed Bomb, Body Slam, Thunder Wave, Rock Climb-
+Farfetch'd Lvl 64 -Defiant. Swords Dance, Acrobatics, Close Combat, Slash-
+
+[Striker Roberto] 
+7/8 Badges:
+Liepard Lvl 42
+Larvesta Lvl 42
+
+Post-Game:
+Liepard Lvl 64 -Prankster. Crunch, Psycho Cut, Swagger, Thunder Wave-
+Volcarona Lvl 64 -Flame Body. Flamethrower, Bug Buzz, Thunderbolt, Psychic-
+Snorlax Lvl 64 -Thick Fat. Body Slam, High Horsepower, Crunch, Slack Off-
+
+[Linebacker Bob] 
+7/8 Badges:
+Sawk Lvl 42
+Throh Lvl 42
+
+Post-Game:
+Sawk Lvl 64 -Sturdy. Close Combat, Fake Out, Rock Slide, Ice Punch-
+Throh Lvl 64 -Guts. Knock Off, Close Combat, Circle Throw, Earthquake-
+Sudowoodo Lvl 64 -Sturdy. Rock Slide, Earthquake, Fire Punch, Faint Attack-
+
+Small Court - 
+------------
+
+[Smasher Elena] 
+3/4 Badges:
+Blitzle Lvl 27
+
+5/6 Badges:
+Zebstrika Lvl 35
+Emolga Lvl 35
+
+7/8 Badges:
+Zebstrika Lvl 41
+Emolga Lvl 41
+Watchog Lvl 41
+
+Post-Game:
+Zebstrika Lvl 63 -Lightningrod. Thunderbolt, Blaze Kick, Skull Bash, High Horsepower- 
+Pidgeot Lvl 63   -Big Pecks. Ominous Wind, Brave Bird, Roost, FeatherDance-
+Watchog Lvl 63   -Analytic. Hyper Fang, Confuse Ray, Seed Bomb, Crunch-
+Espeon Lvl 63    -Magic Bounce. Psychic, Power Gem, Shadow Ball, Wish-
+
+[Hoopster Bobby] 
+3/4 Badges:
+Whirlipede Lvl 27
+
+5/6 Badges:
+Scolipede Lvl 35
+Golett Lvl 35
+
+7/8 Badges:
+Scolipede Lvl 42
+Golurk Lvl 42
+
+Post-Game:
+Scolipede Lvl 64 -Poison Point. Steamroller, Skull Bash, Earthquake, Rock Slide-
+Golurk Lvl 64    -Iron Fist. Fissure, Hammer Arm, Bullet Punch, Stone Edge-
+Mightyena Lvl 64 -Intimidate. Crunch, Sucker Punch, Ice Fang, Thunder Fang-
+
+[Backers Joe and Ross] 
+5/6 Badges:
+Lampent Lvl 35
+Lampent Lvl 35
+
+7/8 Badges:
+Chandelure Lvl 40
+Scolipede Lvl 40
+Chandelure Lvl 40
+Scolipede Lvl 40
+
+Post-Game:
+Chandelure Lvl 63 -Flame Body. Flame Burst, Infernal Parade, Will-O-Wisp, Energy Ball-
+Scolipede Lvl 63  -Poison Point. Megahorn, Poison Tail, Toxic, Rock Slide-
+Chandelure Lvl 63 -Flash Fire. Flame Burst, Shadow Ball, Will-O-Wisp, Psychic-
+Scolipede Lvl 63  -Swarm. Leech Life, Poison Jab, Rock Slide, Toxic- 
+
+[Backers Masa and Yas] 
+5/6 Badges:
+Escavalier Lvl 35
+Accelgor Lvl 35
+
+7/8 Badges:
+Escavalier Lvl 40
+Accelgor Lvl 40
+Galvantula Lvl 40
+Swoobat Lvl 40
+
+Post-Game:
+Escavalier Lvl 63 -Shell Armor. Gyro Ball, Leech Life, Drill Run, Knock Off-
+Accelgor   Lvl 63 -Hydration. Bug Buzz, Focus Blast, Energy Ball, Sludge Bomb-
+Galvantula Lvl 63 -Unnerve. Thunderbolt, Bug Buzz, Cross Poison, Rock Climb-
+Swoobat   Lvl 63  -Unaware. Heat Wave, Psychic, Shadow Ball, Air Slash-
+
+[Smasher Aspen] 
+7/8 Badges:
+Jellicent lvl 42
+Maractus  Lvl 42
+
+Post-Game:
+Jellicent Lvl 64  -Cursed Body. Acid Armor, Recover, Scald, Shadow Ball-
+Maractus Lvl 64   -Storm Drain. Giga Drain, Drain Punch, Sucker Punch, Hyper Voice-
+Wigglytuff Lvl 64 -Cute Charm. Torch Song, Boomburst, Thunderbolt, Shadow Ball-
+
+[Hoopster John] 
+7/8 Badges:
+Beartic Lvl 42
+Scrafty Lvl 42
+
+Post-Game:
+Beartic Lvl 64   -Snow Cloak. Icicle Crash, Earthquake, Close Combat, Aqua Jet-
+Scrafty Lvl 64   -Moxie. Drain Punch, Crunch, Ice Punch, Swagger-
+Honchkrow Lvl 64 -Moxie. Night Slash, Drill Peck, Heat Wave, Retaliate-
+
+
+-------------------
+Route 5
+-------------------
+
+[Backpacker Lois] 
+Munna Lvl 24
+Minccino Lvl 24
+
+[Baker Jenn] Done
+Heatmor Lvl 25 -Sitrus Berry-
+
+[Harlequin Paul] 
+Panpour Lvl 20
+Pansage Lvl 20
+Pansear Lvl 20
+Woobat  Lvl 20
+
+[Musician Preston] 
+Blitzle Lvl 25
+
+[Dancer Brian] 
+Darumaka Lvl 25
+
+[Artist Horton] 
+Zorua Lvl 22
+Lilligant Lvl 23
+Petilil Lvl 22
+
+[Backpacker Michael] 
+Palpitoad Lvl 24
+Vanillite Lvl 24
+
+-After Beating Elesa-
+
+[Pokemon Trainer Cheren]  
+
+--If Snivy was Chosen--
+Boldore @Hard Stone    Lvl 28 -Sturdy. Stealth Rock, Power Gem, Mud Shot, Mirror Shot-
+Liepard @Muscle Band   Lvl 28 -Prankster. Thunder Wave, Aerial Ace, Fake Out, Night Slash-
+Rufflet @Sharp Beak    Lvl 28 -Sheer Force. Crush Claw, Aerial Ace, Tailwind, Rock Smash-
+Simisage @Miracle Seed Lvl 29 -Gluttony. Seed Bomb, Low Kick, Bite, Dig-
+Pignite @Sitrus Berry  Lvl 30 -Blaze. Fire Punch, Skull Bash, Bulldoze, Flame Charge-
+
+--If Tepig was Chosen--
+Boldore @Hard Stone    Lvl 28 -Sturdy. Stealth Rock, Power Gem, Mud Shot, Mirror Shot-
+Liepard @Muscle Band   Lvl 28 -Prankster. Thunder Wave, Aerial Ace, Fake Out, Night Slash-
+Rufflet @Sharp Beak    Lvl 28 -Sheer Force. Crush Claw, Aerial Ace, Tailwind, Rock Smash-
+Simisear @Charcoal     Lvl 29 -Gluttony. Flame Burst, Low Kick, Bite, Dig-
+Dewott @Sitrus Berry   Lvl 30 -Torrent. Aqua Jet, Razor Shell, Revenge, Icy Wind-
+
+--If Oshawott was Chosen--
+Boldore @Hard Stone    Lvl 28 -Sturdy. Stealth Rock, Power Gem, Mud Shot, Mirror Shot-
+Liepard @Muscle Band   Lvl 28 -Prankster. Thunder Wave, Aerial Ace, Fake Out, Night Slash-
+Rufflet @Sharp Beak    Lvl 28 -Sheer Force. Crush Claw, Aerial Ace, Tailwind, Rock Smash-
+Simipour @MysticWater  Lvl 29 -Gluttony. Scald, Low Kick, Bite, Dig-
+Servine @Sitrus Berry  Lvl 30 -Blaze. Leech Seed, Growth, Leaf Blade, Aerial Ace-
+
+Multi Battle with Cheren:
+[Preschooler Sarah] 
+Herdier @Sitrus Berry Lvl 28 -Intimidate-
+[Preschooler Billy] 
+Herdier @Sitrus Berry Lvl 28
+
+-------------------
+Route 16
+-------------------
+
+[Policeman Daniel]
+Herdier Lvl 25 -Scrappy-
+Herdier Lvl 25 -Intimidate-
+
+[Cyclist Krissa]
+Mienfoo Lvl 25
+Ducklett Lvl 25
+
+[Backpacker Stephen]
+Karrablast Lvl 25
+Watchog Lvl 25
+
+[Backpacker Peter]
+Gurdurr Lvl 25
+Solosis Lvl 25
+
+[Cyclist Hector] 
+Whirlipede Lvl 25
+Whirlipede Lvl 25
+
+[Backpacker Lora] 
+Liepard Lvl 26
+
+-------------------
+Driftveil City
+-------------------
+
+[Motorcyclist Charles]
+Rotation Battle
+
+Krokorok  Lvl 30 -Intimidate. Dig, Crunch, Thunder Fang, Fire Fang-
+Zebstrika Lvl 30 -Motor Drive. Body Slam, Skull Bash, Thunder, Flame Charge-
+Basculin  Lvl 30 -Adaptability. Aqua Jet, Scald, Crunch-
+
+-After Clay is defeated-
+
+[Pokemon Trainer Bianca] 3 x Hyper Potion 
+
+--If Snivy was chosen--
+Cinccino               Lvl 30 -Technician. Encore, Swift, Sing, Water Pulse-
+Mienfoo                Lvl 30 -Inner Focus. Dual Chop, Force Palm, Swift, Aerial Ace-
+Musharna               Lvl 30 -Synchronize. Moonlight, Charge Beam, Psybeam, Silver Wind-
+Simisear @Sitrus Berry Lvl 31 -Gluttony. Acrobatics, Flame Burst, Yawn, Thief-
+Dewott @Sitrus Berry   Lvl 32 -Torrent. Scald, Aqua Jet, Encore, Icy Wind-
+
+--If Tepig was chosen--
+Cinccino               Lvl 30 -Technician. Encore, Swift, Sing, Water Pulse-
+Mienfoo                Lvl 30 -Inner Focus. Dual Chop, Force Palm, Swift, Aerial Ace-
+Musharna               Lvl 30 -Synchronize. Moonlight, Charge Beam, Psybeam, Silver Wind-
+Simipour @Sitrus Berry Lvl 31 -Gluttony. Acrobatics, Scald, Yawn, Thief-
+Servine @Sitrus Berry  Lvl 32 -Overgrow. Leech Seed, Iron Tail, Aerial Ace, Leaf Blade-
+
+--If Oshawott was chosen--
+Cinccino               Lvl 30 -Technician. Encore, Swift, Sing, Water Pulse-
+Mienfoo                Lvl 30 -Inner Focus. Dual Chop, Force Palm, Swift, Aerial Ace-
+Musharna               Lvl 30 -Synchronize. Moonlight, Charge Beam, Psybeam, Silver Wind-
+Simisage @Sitrus Berry Lvl 31 -Gluttony. Acrobatics, Seed Bomb, Yawn, Thief-
+Pignite @Sitrus Berry  Lvl 32 -Blaze. Yawn, Fire Punch, Power-Up Punch, Rock Tomb-
+
+-----------------------
+Cold Storage - Outside
+-----------------------
+
+[Youngster Kenneth] 
+Whirlipede Lvl 26
+Dwebble Lvl 26
+Vanillite Lvl 26
+
+[Youngster Albert] 
+Escavalier Lvl 28
+Shelmet Lvl 25
+
+[Worker Eddie] 
+Simisage Lvl 27
+Gurdurr Lvl 27
+
+----------------------
+Cold Storage - Inside
+----------------------
+
+[Worker Victor] 
+Simisear Lvl 27
+Gurdurr Lvl 27
+
+[Worker Glenn] 
+Simipour Lvl 27
+Gurdurr Lvl 27
+
+[Worker Filipe] 
+Conkeldurr @Chesto Berry Lvl 28 -Guts. Mach Punch, Counter, Rock Tomb, Rest-
+
+[Worker Patton] 
+Vanillite Lvl 27
+Cubchoo   Lvl 27
+
+[Worker Ryan] Done
+Timburr   Lvl 26
+Gurdurr   Lvl 26
+Palpitoad Lvl 26
+
+[Team Plasma Grunt]
+Watchog Lvl 26
+Scraggy Lvl 26
+Yamask Lvl 26
+
+[Team Plasma Grunt]
+Maractus Lvl 27
+Liepard Lvl 27
+
+[Team Plasma Grunt]
+Pawniard Lvl 28
+
+[Team Plasma Grunt] 
+Krokorok Lvl 28 -Intimidate-
+
+------------------
+Driftveil Gym
+------------------
+
+[Worker Felix] 
+Drilbur Lvl 31
+Sandile Lvl 31
+
+[Worker Sterling] 
+Palpitoad Lvl 31
+Drilbur Lvl 31
+
+[Worker Don] 
+Golett Lvl 32
+
+[Clerk M Isaac] 
+Krokorok Lvl 30
+Sandile  Lvl 30
+Sandile  Lvl 30
+
+[Clerk F Katie] 
+Stoutland  Lvl 32 -High Horsepower, Bulldoze, Body Slam, Skull Bash-
+Stunfisk   Lvl 32
+
+![Leader Clay]!
+Krokorok @Dark Gem    Lvl 32 -Intimidate. Crunch, Bulldoze, Fire Fang, Sandstorm-
+Palpitoad @Water Gem  Lvl 32 -Swift Swim. Scald, Earth Power, Aqua Ring, Acid Spray-
+Golett @Ghost Gem     Lvl 32 -Iron Fist. Shadow Punch, Bulldoze, Power-Up Punch, Sandstorm-
+Excadrill @Ground Gem Lvl 34 -Sand Rush. Swords Dance, Bulldoze, X-Scissor, Rock Slide-
+
+-------------
+Route 6
+-------------
+
+[Scientist William]
+Deerling Lvl 28
+
+[Pokemon Ranger Shanti]
+Emolga Lvl 28
+Deerling Lvl 28
+Shelmet Lvl 28
+
+[Parasol Lady Nicole]
+Palpitoad Lvl 28
+Mienfoo Lvl 28
+
+[Scientist Ron]
+Deerling lvl 28
+
+[Scientist Maria]
+Deerling Lvl 28
+
+[Parasol Lady Tihana]
+Vanillite Lvl 28
+Frillish Lvl 28
+
+[Pokemon Ranger Richard] 
+Dwebble lvl 28
+Emolga Lvl 28
+Karrablast Lvl 28
+
+
+-----------------
+Chargestone Cave
+-----------------
+
+1F -
+
+[Scientist Ronald]
+Klink Lvl 30
+
+[Ace Trainer Jared]
+Archen   Lvl 31 -Defeatist. Acrobatics, Rock Tomb, U-Turn, Roost-
+Krokorok Lvl 31 -Moxie. Crunch, Bulldoze, Pursuit, Rock Climb-
+
+[Hiker Hardy]
+Boldore Lvl 30
+Gurdurr Lvl 30
+
+[Scientist Naoko]
+Joltik Lvl 30
+
+[Scientist Orville] 
+Klink Lvl 29
+Klink Lvl 29
+Ferroseed Lvl 29
+
+[Ace Trainer Corky]
+Scolipede Lvl 31 -Swarm. Swords Dance, Baton Pass, Bug Bite, Bulldoze-
+Tirtouga  Lvl 31 -Sturdy. Aqua Jet, Crunch, Bulldoze, Rock Slide-
+
+B1F
+
+[Doctor Wayne] Done
+Swadloon Lvl 31
+Musharna Lvl 31
+
+[Team Plasma Grunt]
+Watchog Lvl 30
+Scraggy Lvl 30
+Sandile Lvl 30
+
+[Team Plasma Grunt]
+Scrafty Lvl 32
+
+[Team Plasma Grunt]
+Pawniard Lvl 31
+Foongus Lvl 31
+
+[Team Plasma Grunt]
+Trubbish Lvl 30
+Liepard Lvl 30
+Vullaby Lvl 30
+
+[Team Plasma Grunt]
+Sandile Lvl 31
+Deino Lvl 31
+Whirlipede Lvl 31
+
+[Team Plasma Grunt]
+Amoonguss Lvl 32
+Gothorita Lvl 32
+
+[Team Plasma Grunt]
+Watchog Lvl 30
+Palpitoad Lvl 30
+Yamask Lvl 30
+
+B2F
+
+[Ace Trainer Allison]
+Drilbur   Lvl 31 -Sand Rush. Drill Run, Metal Claw, Rock Slide, Stealth Rock-
+Zebstrika Lvl 31 -Lightningrod. Volt Switch, Thunderbolt, Skull Bash, Flame Charge-
+Lilligant Lvl 31 -Own Tempo. Sleep Powder, Giga Drain, Focus Blast, Synthesis-
+
+[Ace Trainer Stella]
+Servine Lvl 30 @Sitrus Berry
+Pignite Lvl 30 @Sitrus Berry
+Dewott  Lvl 30 @Sitrus Berry
+Emolga  Lvl 30 @Focus Sash
+
+1F exit
+
+[Team Plasma N] Done
+Rotation Battle
+
+Boldore   Lvl 31 -Sturdy. Return, Power Gem, Iron Defense, Mud Shot-
+Ferroseed Lvl 31 -Iron Barbs. Return, Leech Seed, Gyro Ball, Assurance-
+Klink     Lvl 31 -Clear Body. Return, Shift Gear, Gear Grind, Spark-
+Joltik    Lvl 31 -Compoundeyes. Return, Thunder Fang, Cross Poison, Electro Ball-
+Durant    Lvl 31 -Swarm. Return, Dig, Metal Claw, Bug Bite-
+
+-----------------
+Route 7
+-----------------
+
+[Backpacker Terrance]
+Stoutland Lvl 33 -Intimidate-
+
+[Youngster Mikey]
+Scolipede Lvl 32
+Dwebble Lvl 32
+
+[Youngster Parker] 
+Foongus Lvl 30
+Palpitoad Lvl 30
+Rufflet Lvl 30
+
+[Ace Trainer Elmer]
+Triple Battle
+
+Stunfisk  Lvl 34 -Static. Paravolt Charge, Scald, Protect, Mud Shot-
+Zebstrika Lvl 34 -Lightningrod. Paravolt Charge, Signal Beam, Protect, Body Slam-
+Golett    Lvl 34 -Iron Fist. Shadow Punch, Bullet Punch, Power-Up Punch, Protect-
+
+[Backpacker Ruth] 
+Vullaby Lvl 32
+Minccino Lvl 32
+
+[Pokemon Ranger Mary] 
+Unfezant Lvl 32
+Axew Lvl 32
+
+[Pokemon Ranger Pedro]
+Simisage Lvl 31
+Simisear Lvl 31
+Simipour Lvl 31
+
+[Harlequin Pat]
+Emolga Lvl 32
+Gurdurr Lvl 32
+
+[Harlequin Ian] 
+Tynamo Lvl 32
+Swadloon Lvl 32
+
+--After Skyla is Defeated--
+
+[Pokemon Trainer Cheren] 
+
+--If Snivy was chosen--
+Braviary @Muscle Band  Lvl 38 -Sheer Force. Crush Claw, Giga Impact, Aerial Ace, Rock Slide-
+Liepard @Dark Gem      Lvl 38 -Prankster. Night Slash, U-turn, Encore, Swagger-
+Boldore @Wise Glasses  Lvl 38 -Sturdy. Grass Knot, Charge Beam, Power Gem, Earth Power-
+Simisage @Miracle Seed Lvl 38 -Gluttony. Energy Ball, Tickle, ThunderPunch, Brick Break-
+Emboar @Leftovers      Lvl 39 -Blaze. Bulk Up, Fire Punch, Hammer Arm, Slack Off-
+
+--If Tepig was chosen--
+Braviary @Muscle Band Lvl 38 -Sheer Force. Crush Claw, Giga Impact, Aerial Ace, Rock Slide-
+Liepard @Dark Gem     Lvl 38 -Prankster. Night Slash, U-turn, Encore, Swagger-
+Boldore @Wise Glasses Lvl 38 -Sturdy. Grass Knot, Charge Beam, Power Gem, Earth Power-
+Simisear @Charcoal    Lvl 38 -Gluttony. Flamethrower, Tickle, Fire Punch, Brick Break-
+Samurott @Leftovers   Lvl 39 -Torrent. Swords Dance, Sacred Sword, Drill Run, Liquidation-
+
+--If Oshawott was chosen--
+Braviary @Muscle Band Lvl 38 -Sheer Force. Crush Claw, Giga Impact, Aerial Ace, Rock Slide-
+Liepard @Dark Gem     Lvl 38 -Prankster. Night Slash, U-turn, Encore, Swagger-
+Boldore @Wise Glasses Lvl 38 -Sturdy. Grass Knot, Charge Beam, Power Gem, Earth Power-
+Simipour @MysticWater Lvl 38 -Gluttony. Aqua Tail, Tickle, Ice Punch, Brick Break-
+Serperior @Leftovers  Lvl 39 -Blaze. Coil, Leaf Blade, Iron Tail, Psycho Cut-
+
+----------------
+Celestial Tower
+----------------
+
+2F
+
+[Psychic Doreen]
+Duosion Lvl 33
+Gothorita Lvl 33
+
+[Lass Kara]
+Sawsbuck Lvl 34
+
+[Pokefan Jude] 
+Herdier Lvl 33
+Emolga  Lvl 33
+
+[Pokefan Georgia] 
+Swadloon Lvl 34
+
+3F
+
+[Psychic Belle] 
+Musharna Lvl 33
+Elgyem   Lvl 33
+
+[Psychic Micki] 
+Swoobat  Lvl 33
+Golett   Lvl 33
+
+[Psychic Lin] 
+Lampent  Lvl 34
+
+[Psychic Bryce] 
+Solosis Lvl 32
+Gothita Lvl 32
+Yamask  Lvl 32
+
+[Nurse Sachiko] 
+Alomomola Lvl 34
+
+4F
+
+[Ace Trainer Beckett]
+Scrafty @Big Root       Lvl 34 -Moxie. Bulk Up, Drain Punch, Crunch, ThunderPunch-
+Bouffalant @Choice Band Lvl 33 -Sap Sipper. Head Charge, Skull Bash, Rock Slide, Wild Charge-
+Frillish @Sitrus Berry  Lvl 33 -Cursed Body. Scald, Recover, Ominous Wind, Mega Drain-
+
+[Ace Trainer Kassandra]
+Basculin @MysticWater  Lvl 34 -Adaptability. Liquidation, Zen Headbutt, Crunch, Aqua Jet-
+Accelgor @Bug Gem      Lvl 33 -Sticky Hold. Quick Attack, Signal Beam, Knock off, Acid Spray-
+Druddigon @Muscle Band Lvl 33 -Sheer Force. Dragon Claw, Thunder Fang, Crunch, Rock Tomb-
+
+---------------
+Mistralton Gym
+---------------
+
+[Worker Cliff] 
+Pidove Lvl 33
+Tranquil Lvl 33
+Unfezant Lvl 33
+
+[Worker Brady] 
+Ducklett Lvl 34
+Swoobat Lvl 34
+
+[Pilot Ted] 
+Sigilyph Lvl 35
+
+[Pilot Chase] 
+Vullaby Lvl 34
+Rufflet Lvl 34
+
+[Worker Arnold] 
+Emolga Lvl 34
+Archen Lvl 34
+
+![Leader Skyla]!
+Double Battle
+
+Swoobat @Flying Gem     Lvl 37 -Unaware. Protect, Air Cutter, Psyshock, Acrobatics-
+Braviary @Mental Herb   Lvl 37 -Defiant. Crush Claw, Tailwind, Rock Slide, Shadow Claw-
+Mandibuzz @Sitrus Berry Lvl 37 -Overcoat. Snarl, Air Cutter, Roost, Protect-
+Swanna @Expert Belt     Lvl 39 -Big Pecks. Air Slash, Scald, Icy Wind, Superpower-
+
+---------------------
+Route 1 - After Surf
+---------------------
+
+[Pokemon Ranger Brenda] 
+Ferroseed Lvl 36
+Swoobat Lvl 36
+
+[Fisherman Sean] 
+Frillish Lvl 36
+Frillish Lvl 36
+
+[Pokemon Ranger Claude] 
+Zebstrika Lvl 35
+Cinccino  Lvl 35
+Darmanitan Lvl 35
+
+---------------------
+Route 3 - After Surf
+---------------------
+
+[Pokemon Breeder Galen] 
+Simisage Lvl 35
+Simisear Lvl 35
+Simipour Lvl 35
+
+
+-------------------
+Wellspring Cave
+-------------------
+
+[Blackbelt Edward] 
+Scrafty Lvl 37
+
+[Battle Girl Maggie] 
+Conkeldurr Lvl 37
+
+[Battle Girl Xiao] 
+Mienshao Lvl 37
+
+-----------
+Route 17
+-----------
+
+[Fisherman Lydon] 
+Basculin-B Lvl 36
+Basculin-R Lvl 36
+
+[Swimmer Joyce] 
+Alomomola Lvl 37
+
+[Swimmer Wright]
+Swanna Lvl 35
+Tirtouga Lvl 35
+
+[Swimmer Berke] 
+Frillish Lvl 36
+Basculin-B Lvl 36
+
+[Swimmer Caroline] 
+Frillish Lvl 36
+Dewott   Lvl 36
+
+-----------
+Route 18 
+-----------
+
+[Hiker Jeremiah]
+Crustle Lvl 38
+
+
+[Backpacker Kumiko]
+Emolga Lvl 35
+Eelektrik Lvl 35
+Minccino Lvl 35
+
+[Backpacker Sam]
+Watchog Lvl 36
+Whimsicott Lvl 36
+
+[Veteran Ray]   
+Basculin @MysticWater  Lvl 36 -Reckless. Crunch, Aqua Tail, Scary Face, Double-Edge-
+Heatmor @Sitrus Berry  Lvl 36 -White Smoke. Giga Drain, Stockpile, Shadow Claw, Inferno-
+Druddigon @Dragon Fang Lvl 36 -Rough Skin. Dragon Claw, Crunch, Earthquake, Revenge-
+Serperior @Expert Belt Lvl 36 -Overgrow. Psycho Cut, Giga Drain, Aqua Tail, Glare-
+
+[Battle Girl Hillary]
+Scraggy Lvl 36
+Pignite Lvl 36
+Gurdurr Lvl 36
+
+--------------
+P2 Laboratory
+--------------
+
+[Scientist Nathan] 
+Garbodor Lvl 38
+
+[Scientist Dudley]
+-Can only be encountered and battled after catching Genesect and having it in your party-
+
+Porygon-Z @Choice Specs Lvl 74 -Download. Tri-Attack, Volt Switch, Ice Beam, Dark Pulse-
+Klinklang @Life Orb     Lvl 74 -Clear Body. Shift Gear, Gear Grind, Flame Wheel, Submission-
+Muk @Black Sludge       Lvl 74 -Poison Touch. Curse, Drain Punch, Gunk Shot, Shadow Sneak-
+Kabutops @Rindo Berry   Lvl 74 -Swift Swim. Shell Smash, Liquidation, Cross Chop, Stone Edge-
+Manectric @Fire Gem     Lvl 74 -Lightningrod. Thunderbolt, Flamethrower, Substitute, Snarl-
+Golurk @Power Herb      Lvl 74 -No Guard. Shadow Force, DynamicPunch, Earthquake, Ice Punch-
+
+
+
+----------------
+Mistralton Cave
+----------------
+
+[Hiker Hugh] 
+Drilbur Lvl 35
+Drilbur Lvl 35
+Timburr Lvl 35
+Gurdurr Lvl 35
+
+[Hiker Clarke] 
+Gigalith Lvl 37
+
+-------------------
+Dreamyard Basement
+-------------------
+
+[Scientist Markus] 
+Klang Lvl 37
+Musharna Lvl 37
+
+[Scientist Chan] 
+Ferroseed Lvl 37
+Musharna Lvl 37
+
+[Psychic Tommy] 
+Beheeyem Lvl 39
+
+[Scientist Kathrine] 
+Golett Lvl 37
+Musharna Lvl 37
+
+[Psychic Future] 
+Woobat Lvl 36
+Golett Lvl 36
+Sigilyph Lvl 36
+
+[Scientist Luke]
+Sawsbuck Lvl 37
+Musharna Lvl 37
+
+[Psychic Rudolf] 
+Lampent Lvl 36
+Gothorita Lvl 36
+Duosion Lvl 36
+
+
+
+
+----------------
+Twist Mountain
+----------------
+
+Normal Trainers:
+
+Entrance -
+
+[Hiker Terrell] 
+Boldore Lvl 36
+Gurdurr Lvl 36
+
+
+Inside - 
+
+[Hike Darrell] 
+Swoobat Lvl 36
+Boldore Lvl 36
+
+[Ace Trainer Caroll] 
+Cryogonal @NevermeltIce Lvl 36 -Levitate. Acid Armor, AncientPower, Ice Beam, Signal Beam-
+Whimsicott @Big Root    Lvl 36 -Prankster. Charm, Leech Seed, Encore, Giga Drain-
+Stoutland @Silk Scarf   Lvl 37 -Intimidate. Body Slam, Crunch, Rest, Sleep Talk-
+
+[Battle Girl Sharon] 
+Throh Lvl 36
+Sawk Lvl 36
+
+[Worker Brand] 
+Excadrill Lvl 37
+
+[Worker Heath] 
+Tirtouga Lvl 36
+Archen Lvl 36
+
+[Worker Rob] 
+Gurdurr Lvl 35
+Golett Lvl 35
+Boldore Lvl 35
+
+[Worker Cairn] 
+Krokorok Lvl 36
+
+
+[Doctor Hank] 
+Duosion Lvl 34
+Sawsbuck Lvl 34
+
+Season Dependant:
+
+-Spring, Summer, Autumn only-
+
+[Hiker Neil] 
+Boldore Lvl 37
+
+[Black Belt Teppei] 
+Scrafty Lvl 37
+
+[Worker Rich] 
+Golett Lvl 37
+
+-Winter Only-
+
+[Ace Trainer Jordan] 
+Klang @Sitrus Berry   Lvl 36 -Clear Body. Shift Gear, Gear Grind, Spark, Flame Charge-
+Seismitoad @Water Gem Lvl 36 -Poison Touch. Drain Punch, Earth Power, Muddy Water, Poison Jab-
+Zebstrika @Magnet     Lvl 36 -Motor Drive. Volt Switch, Spark, Blaze Kick, Bulldoze-
+
+----------------
+Iccirus Gym
+----------------
+
+[Black Belt Grant] 
+Cubchoo Lvl 39
+Vanillish lvl 39
+
+[Battle Girl Miriam] 
+Cryogonal Lvl 40
+
+[Black Belt Kendrew] 
+Cubchoo Lvl 39
+Gurdurr Lvl 39 -Has Ice Punch instead of Snore-
+
+[Battle Girl Mikiko] 
+Swanna Lvl 40 -Big Pecks. Superpower, Ice Beam, Air Slash, Aqua Step-
+
+[Battle Girl Chandra] Done
+Cubchoo Lvl 39
+Cryogonal Lvl 39
+
+[Black Belt Thomas] Done
+Vanillish Lvl 39
+Mienfoo Lvl 39
+
+![Leader Brycen]!
+Cryogonal @Damp Rock   Lvl 42 -Levitate. Rain Dance, Ice Beam, Weather Ball, Power Gem-
+Vanilluxe @White Herb  Lvl 42 -Weak Armor. Icicle Crash, Water Pulse, Sheer Cold, Drill Run-
+Mienshao @NevermeltIce Lvl 42 -Inner Focus. Fake Out, Ice Punch, Knock Off, Jump Kick-
+Beartic @Sitrus Berry  Lvl 44 -Swift Swim. Icicle Crash, Liquidation, Submission, Rain Dance-
+
+---------------------
+Dragonspiral Tower
+---------------------
+
+Outside:
+
+[Ace Trainer Jesse]
+Vanillish @Light Clay    Lvl 40 -Ice Body. Ice Beam, Water Pulse, Light Screen, Reflect-
+Galvantula @Electric Gem Lvl 40 -Compoundeyes. Thunder, Signal Beam, Energy Ball, Cross Poison-
+Escavalier @Quick Claw   Lvl 40 -Shell Armor. Iron Head, Leech Life, Drill Run, Toxic-
+Gurdurr @Eviolite        Lvl 41 -Guts. Rest, Sleep Talk, Hammer Arm, Rock Slide-
+
+[Ace Trainer Jamie]
+Darmanitan @Life Orb    Lvl 40 -Sheer Force. Fire Punch, Bulldoze, Zen Headbutt, Rock Tomb-
+Leavanny @Sitrus Berry  Lvl 40 -Swarm. X-Scissor, Aerial Ace, Low Sweep, Leaf Blade-
+Sawsbuck @Pomeg Berry   Lvl 40 -Sap Sipper. Leech Seed, Natural Gift, Horn Leech, Double-Edge-
+Seismitoad @Muscle Band Lvl 41 -Poison Touch. Bulldoze, Waterfall, Ice Punch, Drain Punch-
+
+Inside:
+
+4F
+
+[Team Plasma Grunt]
+Watchog Lvl 37
+
+[Team Plasma Grunt]
+Liepard Lvl 37
+
+[Team Plasma Grunt]
+Scrafty Lvl 37
+
+[Team Plasma Grunt]
+Liepard Lvl 36
+Amoonguss Lvl 37
+
+[Team Plasma Grunt]
+Frillish lvl 35
+Krokorok Lvl 35
+Crustle Lvl 35
+
+6F -The Gauntlet!-
+
+[Team Plasma Grunt]
+Double Battle
+
+Watchog @Sitrus Berry Lvl 42 -Analytic. Strength, Crunch, Seed Bomb, Fire Punch-
+Liepard @Sitrus Berry Lvl 42 -Prankster. Swagger, Thunder Wave, Snarl, Hyper Voice-
+
+[Team Plasma Grunt]
+Double Battle
+
+Golurk @White Herb      Lvl 42 -No Guard. High Horsepower, Superpower, Shadow Punch, Stone Edge-
+Klinklang @Electric Gem Lvl 42 -Clear Body. Discharge, Power Gem, Flash Cannon, Protect-
+
+[Team Plasma Grunt]
+Double Battle
+
+Garbodor @Black Sludge Lvl 42 -Stench. Crunch, Poison Jab, Rock Slide, Drain Punch-
+Gothitelle @Leftovers  Lvl 42 -Frisk. Eerie Spell, Will-o-Wisp, Ally Switch, Mystical Fire-
+
+[Team Plasma Grunt]
+Double Battle
+
+Seismitoad @Expert Belt Lvl 42 -Poison Touch. Earth Power, Drain Punch, Ice Punch, Waterfall-
+Amoonguss @Sitrus Berry Lvl 42 -Effect Spore. Rage Powder, Giga Drain, Sludge Bomb, Protect-
+
+--------------------------------
+Relic Castle - Team Plasma time
+--------------------------------
+
+B1F:
+
+[Team Plasma Grunt]
+Krokorok Lvl 38
+Watchog Lvl 38
+Pawniard Lvl 38
+
+B2F:
+
+[Team Plasma Grunt]
+Archeops Lvl 39
+Carracosta Lvl 39
+
+[Team Plasma Grunt]
+Amoongus Lvl 39
+Palpitoad Lvl 39
+
+B3F:
+
+[Team Plasma Grunt]
+Pawniard Lvl 37
+Yamask Lvl 37
+Vullaby Lvl 37
+Watchog Lvl 37
+
+[Team Plasma Grunt]
+Liepard Lvl 38
+Durant Lvl 38
+Deino Lvl 38
+
+B4F:
+
+[Team Plasma Grunt]
+Krookodile @Choice Band Lvl 42 -Intimidate. Earthquake, Crunch, Dragon Claw, Rock Slide-
+Garbodor @Poison Gem    Lvl 42 -Aftermath. Poison Jab, Rock Slide, Circle Throw, Seed Bomb-
+
+[Team Plasma Grunt]
+Beheeyem @Focus Sash    Lvl 41 -Analytic. Psychic, Shadow Ball, Thunderbolt, Mystical Fire-
+Mandibuzz @Lum Berry    Lvl 41 -Big Pecks. Snarl, Toxic, Protect, Roost-
+Cofagrigus @Rowap Berry Lvl 41 -Mummy. Shadow Ball, Hypnosis, Nightmare, Flash Cannon-
+
+----------
+Route 8
+----------
+
+[Pokemon Ranger Lewis]
+Maractus Lvl 36
+Fraxure Lvl 36
+Tranquill Lvl 36
+
+[Parasol Lady Melita] 
+Foongus Lvl 37
+Swanna Lvl 37
+
+[Pokemon Ranger Annie] 
+Larvesta Lvl 37
+Eelektrik Lvl 37
+
+[Fisherman Bruce] 
+Basculin-R Lvl 37
+Basculin-B Lvl 37
+
+[Parasol Lady Lumi]
+Deerling Lvl 37
+Alomomola Lvl 37
+
+[Pokemon Trainer Bianca] 3 x Full Restore DONE
+
+--If Snivy is chosen--
+Cinccino @Silk Scarf     Lvl 44 -Technician. Tickle, Bullet Seed, Swift, Wake-Up Slap-
+Musharna @Lum Berry      Lvl 44 -Synchronize. Calm Mind, Psychic, Moonlight, Signal Beam-
+Escavalier @Sitrus Berry Lvl 44 -Shell Armor. Counter, Iron Head, X-Scissor, Knock Off-
+Mienshao                 Lvl 44 -Inner Focus. Acrobatics, Rock Slide, U-turn, Triple Arrows-
+Simisear                 Lvl 45 -Gluttony. Heat Wave, Dig, Acrobatics, Will-o-Wisp-
+Samurott @Rindo Berry    Lvl 46 -Torrent. Megahorn, Aqua Jet, Hydro Cannon, Sacred Sword-
+
+--If Tepig was chosen--
+Cinccino @Silk Scarf     Lvl 44 -Technician. Tickle, Bullet Seed, Swift, Wake-Up Slap-
+Musharna @Lum Berry      Lvl 44 -Synchronize. Calm Mind, Psychic, Moonlight, Signal Beam-
+Escavalier @Sitrus Berry Lvl 44 -Shell Armor. Counter, Iron Head, X-Scissor, Knock Off-
+Mienshao                 Lvl 44 -Inner Focus. Acrobatics, Rock Slide, U-turn, Triple Arrows-
+Simipour                 Lvl 45 -Gluttony. Aqua Tail, Dig, Acrobatics, Soak-
+Serperior @Occa Berry    Lvl 46 -Overgrow. Earth Power, Giga Drain, Frenzy Plant, GrassWhistle-
+
+--If Oshawott was chosen--
+Cinccino @Silk Scarf     Lvl 44 -Technician. Tickle, Bullet Seed, Swift, Wake-Up Slap-
+Musharna @Lum Berry      Lvl 44 -Synchronize. Calm Mind, Psychic, Moonlight, Signal Beam-
+Escavalier @Sitrus Berry Lvl 44 -Shell Armor. Counter, Iron Head, X-Scissor, Knock Off-
+Mienshao                 Lvl 44 -Inner Focus. Acrobatics, Rock Slide, U-turn, Triple Arrows-
+Simisage                 Lvl 45 -Gluttony. Energy Ball, Dig, Acrobatics, GrassWhistle-
+Emboar @Passho Berry     Lvl 46 -Blaze. Flame Charge, Hammer Arm, Scald, Blast Burn-
+
+----------------
+Moor of Iccirus
+----------------
+
+[Fisher Damon] 
+Jellicent Lvl 38
+
+[Pokemon Ranger Chloris]
+Cinccino Lvl 37 -Has Natural Gift, Technician and an Cheri Berry-
+Sawsbuck Lvl 37 -Has Natural Gift and a Hondew Berry-
+
+[Pokemon Ranger Harry] 
+Vanillish Lvl 37 -Has Natural Gift and a Kelpsy Berry-
+Sawsbuck Lvl 37 -Has Natural Gift and a Hondew Berry-
+
+Spring/Summer/Autumn Only:
+[Parasol Lady Mariah] 
+Vullaby Lvl 35
+Frillish lvl 35
+Rufflet Lvl 35
+Frillish Lvl 35
+
+-----------------
+Tubeline Bridge
+-----------------
+
+-Only on Fridays after encountering Ghetsis on the Bridge-
+
+
+[Biker Morgann]
+Bouffalant @Silk Scarf Lvl 40 -Sap Sipper. Earthquake, Head Charge, Wild Charge, Skull Bash-
+Beartic @Sitrus Berry  Lvl 40 -Swift Swim. Icicle Crash, Crunch, Submission, Liquidation-
+
+[Biker Jeremy]
+
+Galvantula @Wise Glasses Lvl 40 -Compoundeyes. Thunderbolt, Signal Beam, Energy Ball, Rock Climb-
+Golurk @Sitrus Berry     Lvl 40 -Iron Fist. Drain Punch, High Horsepower, Shadow Punch, Ice Punch-
+Krookodile @Muscle Band  Lvl 40 -Intimidate. Earthquake, Crunch, Fire Fang, Rock Tomb-
+
+
+---------
+Route 9
+---------
+
+[Biker Phillip] 
+Scolipede Lvl 40
+Krokorok Lvl 40
+
+[Roughneck Reese] 
+Bouffalant Lvl 41
+
+[Hooligans Jim and Cas] 
+Double Battle
+Krookodile Lvl 41
+Garbodor Lvl 41
+
+[Biker Zeke] 
+Scrafty Lvl 41
+
+[Roughneck Chance] 
+Amoonguss Lvl 40
+Basculin-R Lvl 40
+
+----------------------
+Shopping Disctrict 9
+----------------------
+Lower Section:
+
+[Waitress Flo] 
+Minccino Lvl 40
+Lilligant Lvl 40
+
+Middle Section:
+
+[Rich Boy Manuel] 
+Liepard Lvl 41
+
+Upper Section:
+
+[Waiter Bert] 
+Minccino Lvl 40
+Lampent Lvl 40
+
+[Lady Isabel] 
+Stoutland Lvl 41 -Intimidate-
+
+
+--------------------
+Challenger's Cave
+--------------------
+
+[Backpacker Toru] 
+Conkeldurr Lvl 44 -Guts. Hammer Arm, Rock Slide, Ice Punch, ThunderPunch-
+Stunfisk   Lvl 44 -Static. Yawn, Thunderbolt, Scald, Earth Power-
+
+[Ace Trainer Terry] 
+Galvantula Lvl 44 -Compoundeyes. Cross Poison, Wild Charge, Leech Life, Thief-
+Simipour   Lvl 44 -Torrent. Hydro Pump, Gunk Shot, Ice Beam, Brick Break-
+Klinklang  Lvl 44 -Clear Body. Gear Grind, Wild Charge, Flame Wheel, Shift Gear-
+Heatmor    Lvl 44 -White Smoke. Overheat, Shadow Claw, Dig, Aerial Ace-
+
+[Ace Trainer Beverly] 
+Swoobat   Lvl 44 -Simple. Heat Wave, Psychic, Acrobatics, Work Up-
+Jellicent Lvl 44 -Cursed Body. Surf, Protect, Will-o-Wisp, Ice Beam-
+Zebstrika Lvl 44 -Lightningrod. Thunderbolt, Blaze Kick, Signal Beam, High Horsepower-
+Sawsbuck  Lvl 44 -Sap Sipper. Leech Seed, Toxic, Protect, Horn Leech-
+
+[Veteran Shaun] 
+Excadrill Lvl 44 -Sand Rush. High Horsepower, Iron Head, X-Scissor, Stone Edge-
+Simisear  Lvl 44 -Blaze. Swagger, Fire Blast, Gunk Shot, Will-o-Wisp-
+Gigalith  Lvl 44 -Sturdy. Stone Edge, Return, Earthquake, Flash Cannon-
+Amoonguss Lvl 44 -Effect Spore. Toxic, Giga Drain, Venoshock, Skull Bash-
+Beartic   Lvl 45 -Snow Cloak. Aqua Step, Icicle Crash, Crunch, Power-up Punch-
+
+[Veteran Julia]
+Unfezant  Lvl 44 -Super Luck. Toxic, Roost, Air Slash, Silver Wind-
+Vanilluxe Lvl 44 -Weak Armor. Water Pulse, Icicle Crash, Signal Beam, Drill Run-
+Liepard   Lvl 44 -Prankster. Swords Dance, Ice Fang, Thunder Fang, Crunch-
+Leavanny  Lvl 44 -Swarm. GrassWhistle, X-Scissor, Leaf Blade, Low Sweep-
+Bisharp   Lvl 45 -Defiant. Ceaseless Edge, Rock Polish, Iron Head, Leaf Blade-
+
+-----------------
+Opelucid City
+-----------------
+
+[Ace Trainer Eileen] 
+Rotation Battle
+
+Serperior @Grass Gem Lvl 42 -Overgrow. Growth, Earth Power, Frenzy Plant, Aqua Tail-
+Emboar @Fire Gem     Lvl 42 -Blaze. Blast Burn, Earthquake, Hammer Arm, Sucker Punch-
+Samurott @Water Gem  Lvl 42 -Torrent. Hydro Cannon, Sacred Sword, Ice Beam, Grass Knot-
+
+[Ace Trainer Lou] 
+Rotation Battle
+
+Beheeyem @Wise Glasses Lvl 42 -Analytic. Power Gem, Psyshock, Flash Cannon, Recover-
+Durant @Metal Coat     Lvl 42 -Hustle. Skull Bash, Iron Head, X-Scissor, Hone Claws-
+Braviary @Life Orb     Lvl 42 -Sheer Force. Crush Claw, Rock Slide, Zen Headbutt, Close Combat-
+
+---------------
+Opelucid Gym
+---------------
+
+[Ace Trainer Webster] 
+Fraxure Lvl 46
+
+[Ace Trainer Olwen] 
+Deino Lvl 45 - Crunch, Body Slam, Hyper Voice, Dragon Rush
+Scrafty Lvl 45 -Has Dragon Claw, Knock Off, Drain Punch, Rock Climb-
+
+[Ace Trainer Jose] 
+Axew  Lvl 45
+Fraxure Lvl 45
+
+[Ace Trainer Clara]
+Fraxure Lvl 46
+
+[Veteran Hugo] 
+Druddigon Lvl 46
+
+[Ace Trainer Tom] 
+Deino Lvl 44
+Fraxure Lvl 44
+Scrafty Lvl 44 -Has Dragon Claw-
+
+[Ace Trainer Dara] 
+Deino Lvl 45
+Krokorok Lvl 45
+
+[Veteran Kim]
+Zweilous Lvl 46
+
+![Leader Drayden]!
+
+Druddigon @Leftovers    Lvl 49 -Rough Skin. Stealth Rock, Dragon Tail, Revenge, Fire Fang-
+Zweilous @Wide Lens     Lvl 49 -Hustle. Crunch, Dragon Tail, Dragon Pulse, Earth Power-
+Krookodile @Salac Berry Lvl 49 -Moxie. Earthquake, Crunch, Dragon Claw, Stone Edge-
+Haxorus @Life Orb       Lvl 51 -Mold Breaker. Dragon Dance, Dragon Claw, Earthquake, Psycho Cut-
+
+-------------
+Route 10
+-------------
+
+[Battle Girl Amy] 
+Mienshao Lvl 47
+
+[Ace Trainer Johan] 
+Accelgor   Lvl 45 -Hydration. Bug Buzz, ExtremeSpeed, Focus Blast, Energy Ball-
+Zweilous   Lvl 45 -Hustle. Dark Pulse, Earth Power, Crunch, Flamethrower-
+Carracosta Lvl 45 -Sturdy. Shell Smash, Liquidation, Rock Slide, Aqua Jet-
+
+[Veteran Karla] 
+Cryogonal  Lvl 46 -Levitate. Ice Beam, Power Gem, Earth Power, Recover-
+Bouffalant Lvl 46 -Sap Sipper. Head Charge, Skull Bash, Earthquake, Zen Headbutt-
+Alomomola  Lvl 46 -Regenerator. Wish, Protect, Scald, Shadow Ball-
+Beheeyem   Lvl 46 -Analytic. Mystical Fire, Recover, Lumina Crash, Power Gem-
+
+[Black Belt Corey] 
+Throh Lvl 47
+
+[Hiker Bret]
+Gigalith Lvl 45
+Crustle Lvl 45
+
+[Ace Trainer Cheyenne] 
+Sawbuck   Lvl 46 -Sap Sipper. Horn Leech, Strength, Jump Kick, High Horsepower-
+Jellicent Lvl 46 -Cursed Body. Surf, Recover, Toxic, Shadow Ball-
+Swanna    Lvl 46 -Big Pecks. Brick Break, Aqua Step, Ice Beam, Acrobatics-
+
+[Veteran Chester] 
+Stoutland  Lvl 46 -Intimidate. Return, High Horsepower, Yawn, Crunch-
+Conkeldurr Lvl 46 -Guts. Mach Punch, Stone Edge, Earthquake, Hammer Arm-
+Druddigon  Lvl 46 -Rough Skin. Glare, Dragon Claw, Fire Fang, Thunder Fang-
+Sawk       Lvl 46 -Sturdy. Submission, Ice Punch, Blaze Kick, ThunderPunch-
+
+[Pokemon Trainer Cheren] 
+
+--If Snivy was chosen--
+Gigalith @Custap Berry Lvl 49 -Sturdy. Stealth Rock, Power Gem, Energy Ball, Earth Power-
+Braviary @Muscle Band  Lvl 49 -Sheer Force. Crush Claw, Brave Bird, Close Combat, Roost-
+Liepard @Sitrus Berry  Lvl 49 -Prankster. U-turn, Thunder Wave, Taunt, Night Slash-
+Eelektross @Big Root   Lvl 49 -Levitate. Flamethrower, Volt Switch, Giga Drain, Paravolt Charge-
+Simisage @Liechi Berry Lvl 50 -Gluttony. Substitute, Focus Punch, Crunch, Seed Bomb-
+Emboar @Leftovers      Lvl 51 -Blaze. Flare Blitz, Hammer Arm, ThunderPunch, High Horsepower-
+
+--If Tepig was Chosen--
+Gigalith @Custap Berry Lvl 49 -Sturdy. Stealth Rock, Power Gem, Energy Ball, Earth Power-
+Braviary @Muscle Band  Lvl 49 -Sheer Force. Crush Claw, Brave Bird, Close Combat, Roost-
+Liepard @Sitrus Berry  Lvl 49 -Prankster. U-turn, Thunder Wave, Taunt, Night Slash-
+Eelektross @Big Root   Lvl 49 -Levitate. Flamethrower, Volt Switch, Giga Drain, Paravolt Charge-
+Simisear @Liechi Berry Lvl 50 -Gluttony. Substitute, Focus Punch, Crunch, Fire Punch-
+Samurott @Leftovers    Lvl 51 -Torrent. Air Slash, Scald, Ice Beam, Aqua Jet-
+
+--If Oshawott was Chosen--
+Gigalith @Custap Berry Lvl 49 -Sturdy. Stealth Rock, Power Gem, Energy Ball, Earth Power-
+Braviary @Muscle Band  Lvl 49 -Sheer Force. Crush Claw, Brave Bird, Close Combat, Roost-
+Liepard @Sitrus Berry  Lvl 49 -Prankster. U-turn, Thunder Wave, Taunt, Night Slash-
+Eelektross @Big Root   Lvl 49 -Levitate. Flamethrower, Volt Switch, Giga Drain, Paravolt Charge-
+Simipour @Liechi Berry Lvl 50 -Gluttony. Substitute, Focus Punch, Crunch, Aqua Tail-
+Serperior @Leftovers   Lvl 51 -Overgrow. Coil, Leaf Blade, Psycho Cut, Aqua Tail-
+
+-------------
+Victory Road
+--------------
+
+[Ace Trainer Shanta] 
+Whismicott @Wise Glasses Lvl 50 -Infiltrator. Sunny Day, SolarBeam, Shadow Ball, Air Slash-
+Reuniclus @Expert Belt   Lvl 50 -Magic Guard. Psychic, Zap Cannon, Energy Ball, Shadow Ball-
+Zebstrika @Fire Gem      Lvl 50 -Motor Drive. Wild Charge, Blaze Kick, High Horsepower, Signal Beam-
+
+[Ace Trainer Dwayne] 
+Amoonguss @Black Sludge Lvl 50 -Effect Spore. Spore, Giga Drain, Sludge Bomb, Foul Play-
+Stoutland @Sitrus Berry Lvl 50 -Intimidate. Body Slam, Bulldoze, Crunch, Wild Charge-
+Sigilyph @Flame Orb     Lvl 50 -Magic Guard. Protect, Psycho Shift, Ice Beam, Psychic-
+
+[Veteran Tiffany] 
+Lilligant @Sitrus Berry Lvl 52 -Own Tempo. Substitute, Leech Seed, Seed Flare, Earth Power-
+Heatmor @Wide Lens      Lvl 52 -Gluttony. Torch Song, Focus Blast, Giga Drain, Fire Blast-
+Beheeyem @Choice Specs  Lvl 52 -Analytic. Eerie Spell, Shadow Ball, Power Gem, Thunderbolt-
+Mandibuzz @Leftovers    Lvl 52 -Big Pecks. Taunt, Roost, Snarl, Hurricane-
+
+[Black Belt Tyrone] 
+Emboar     Lvl 49 -Blaze. Fire Punch, ThunderPunch, Drain Punch, High Horsepower-
+Scrafty    Lvl 49 -Moxie. Crunch, Facade, Power-Up Punch, Head Smash-
+Conkeldurr Lvl 49 -Sheer Force. Counter, Hammer Arm, Ice Punch, Rock Slide-
+
+[Ace Trainer Estreth]* replaces Ace Trainer Cathy
+Zoroark @Focus Sash    Lvl 50 -Illusion. Night Daze, Flamethrower, U-Turn, Extrasensory-
+Mienshao @Flying Gem   Lvl 50 -Regenerator. Acrobatics, Ice Punch, Drain Punch, Blaze Kick-
+Reuniclus @Life Orb    Lvl 50 -Magic Guard. Psychic, Shadow Ball, Aura Sphere, Recover-
+Whimsicott @Light Clay Lvl 50 -Prankster. Reflect, Light Screen, Flower Trick, U-Turn-
+Haxorus @Dragon Gem    Lvl 50 -Mold Breaker. Dragon Dance, Dragon Claw, Close Combat, Shadow Claw-
+Samurott @Salac Berry  Lvl 52 -Torrent. Liquidation, Ice Beam, Aqua Jet, Sacred Sword-
+
+[Doctor Logan]
+Audino @Life Orb Lvl 50 -Regenerator. Fire Blast, Thunder, Blizzard, Hyper Voice-
+
+[Ace Trainer Dheku]* Replaces Ace Trainer David
+Audino @Light Clay      Lvl 50 -Regenerator. Reflect, Light Screen, Ice Beam, Return-
+Zebstrika @Muscle Band  Lvl 50 -Motor Drive. Wild Charge, Blaze Kick, High Horsepower, Flame Charge-
+Sawsbuck @Life Orb      Lvl 50 -Sap Sipper. Horn Leech, Return, Swords Dance, High Horsepower-
+Jellicent @Leftovers    Lvl 50 -Cursed Body. Scald, Recover, Shadow Ball, Giga Drain-
+Emboar @Expert Belt     Lvl 50 -Blaze. Fire Punch, Drain Punch, ThunderPunch, Earthquake-
+Musharna @Rocky Helmet  Lvl 52 -Synchronize. Yawn, Moonlight, Psychic, Energy Ball-
+
+[Veteran Martell]
+Darmanitan @Choice Band Lvl 52 -Sheer Force. Flare Blitz, Zen Headbutt, Rock Slide, U-Turn-
+Klinklang @Absorb Bulb  Lvl 52 -Clear Body. Energy Ball, Flash Cannon, Thunderbolt, Power Gem-
+Volcarona @Wise Glasses Lvl 52 -Flame Body. Fiery Dance, Signal Beam, Psychic, Thunderbolt-
+Seismitoad @Rindo Berry Lvl 52 -Poison Touch. Earthquake, Waterfall, Ice Punch, Drain Punch-
+
+---------------
+Pokemon League
+---------------
+
+![Elite 4 Shauntal]! 
+Golurk @Focus Sash       Lvl 54 -Iron Fist. Stealth Rock, Drain Punch, Earthquake, Shadow Punch-
+Jellicent @Colbur Berry  Lvl 54 -Cursed Body. Scald, Recover, Giga Drain, Ominous Wind-
+Cofagrigus @Sitrus Berry Lvl 54 -Mummy. Shadow Ball, Mystical Fire, Calm Mind, Will-o-Wisp-
+Mandibuzz @Leftovers     Lvl 54 -Big Pecks. Whirlwind, Roost, Dark Pulse, Air Slash-
+Chandelure @White Herb   Lvl 56 -Flame Body. Overheat, Inferno, Shadow Ball, Energy Ball-
+
+![Elite 4 Grimsley]!
+Scrafty @Leftovers     Lvl 54 -Moxie. Fake Out, Low Sweep, Crunch, Rock Climb-
+Liepard @Petaya Berry  Lvl 54 -Prankster. Substitute, Nasty Plot, Dark Pulse, Hyper Voice-
+Krookodile @Focus Band Lvl 54 -Intimidate. Earthquake, Crunch, Swagger, Attract-
+Scolipede @Red Card    Lvl 54 -Swarm. Agility, Megahorn, Pursuit, Earthquake-
+Bisharp @Chople Berry  Lvl 56 -Defiant. Ceaseless Edge, Iron Head, Thunder Wave, Psycho Cut-
+
+![Elite 4 Caitlyn]! 
+Sigilyph @Wacan Berry   Lvl 54 -Magic Guard. Ice Beam, Air Slash, Lumina Crash, Shadow Ball-
+Reuniclus @Mental Herb  Lvl 54 -Magic Guard. Trick Room, Psychic, Shadow Ball, Thunder-
+Musharna @Leftovers     Lvl 54 -Synchronize. Mist Ball, Energy Ball, Dream Eater, Yawn-
+Lilligant @Lum Berry    Lvl 54 -Own Tempo. Sleep Powder, Quiver Dance, Giga Drain, Dream Eater-
+Gothitelle @Psychic Gem Lvl 56 -Frisk. Aura Sphere, Eerie Spell, Mystical Fire, Will-o-Wisp-
+
+![Elite 4 Marshal]!
+Throh @Leftovers         Lvl 54 -Guts. Drain Punch, Earthquake, Circle Throw, Rock Slide-
+Sawk @Salac Berry        Lvl 54 -Sturdy. Close Combat, Ice Punch, ThunderPunch, Bulk Up-
+Mienshao @Life Orb       Lvl 54 -Regenerator. Hi Jump Kick, Blaze Kick, U-Turn, Retaliate-
+Darmanitan @Fighting Gem Lvl 54 -Sheer Force. Flare Blitz, Hammer Arm, Earthquake, Zen Headbutt-
+Conkeldurr @Flame Orb    Lvl 56 -Guts. Drain Punch, Mach Punch, Stone Edge, Payback-
+
+------------
+N's Castle
+------------
+
+![Team Plasma N]!
+Zekrom @Electric Gem     Lvl 58 -TeraVolt. Fusion Bolt, Zen Headbutt, Earthquake, Dragon Claw-
+Vanilluxe @Leftovers     Lvl 56 -Ice Body. Hail, Blizzard, Flash Cannon, Protect-
+Darmanitan @Charcoal     Lvl 56 -Sheer Force. Flare Blitz, Fire Punch, U-Turn, Rock Slide-
+Zoroark @Expert Belt     Lvl 56 -Illusion. Night Slash, Flamethrower, Focus Blast, Icy Wind-
+Braviary @Power Herb     Lvl 56 -Defiant. Return, Sky Attack, Close Combat, Shadow Claw-
+Ferrothorn @Rocky Helmet Lvl 56 -Iron Barbs. Leech Seed, Power Whip, Iron Head, Assurance-
+
+![Team Plasma Ghetsis]! 
+Cofagrigus @Leftovers  Lvl 58 -Mummy. Toxic, Protect, Shadow Ball, Giga Drain- 
+Seismitoad @Damp Rock  Lvl 58 -Swift Swim. Rain Dance, Surf, Earthquake, Ice Beam-
+Eelektross @Shell Bell Lvl 58 -Levitate. Coil, Wild Charge, Drain Punch, Liquidation-
+Beartic @Focus Sash    Lvl 58 -Snow Cloak. Icicle Crash, Trailblaze, Earthquake, Close Combat-
+Bisharp @Dark Gem      Lvl 58 -Defiant. Sucker Punch, Guillotine, Ceaseless Edge, Swords Dance-
+Hydreigon @Life Orb    Lvl 60 -Levitate. Dark Pulse, Dragon Pulse, Flamethrower, Surf-
+
+-Post Game-
+
+---------------
+Liberty Garden
+---------------
+*Liberty Garden is only accessible after defeating Ace Trainer Dheku in Shopping Mall Nine
+
+[Team Plasma Grunt]
+Mightyena Lvl 68 -Intimidate. Crunch, Skull Bash, Ice Fang, Yawn-
+Durant    Lvl 68 -Hustle. X-Scissor, Iron Head, Skull Bash, Thunder Fang-
+Weezing   Lvl 68 -Levitate. Will-o-Wisp, Sludge Bomb, Flamethrower, Thunderbolt-
+Beheeyem  Lvl 68 -Analytic. Psychic, Mystical Fire, Thunderbolt, Shadow Ball-
+
+[Team Plasma Grunt]
+Sableye   Lvl 68 -Prankster. Recover, Shadow Sneak, Knock Off, Toxic-
+Garbodor  Lvl 68 -Aftermath. Seed Bomb, Gunk Shot, Rock Slide, Drain Punch-
+Klinklang Lvl 68 -Clear Body. Charge Beam, Flash Cannon, Thunderbolt, Substitute-
+Scrafty   Lvl 68 -Moxie. Hi Jump Kick, Rock Climb, Crunch, Bulk Up-
+
+[Team Plasma Grunt]
+Crawdaunt Lvl 68 -Adaptability. Liquidation, Aqua Jet, Crunch, Ice Beam-
+Crustle   Lvl 68 -Sturdy. Stone Edge, Earthquake, X-Scissor, Counter-
+Scolipede Lvl 68 -Swarm. Swords Dance, Steamroller, Rock Slide, Earthquake-
+Watchog   Lvl 68 -Analytic. Strength, Crunch, Zen Headbutt, Seed Bomb-
+
+Inside
+------
+
+[Team Plasma Grunt]
+Krookodile Lvl 68 -Moxie. Earthquake, Fire Fang, Crunch, Stone Edge-
+Houndoom   Lvl 68 -Flash Fire. Fire Blast, Thunder Fang, Dark Pulse, Sludge Bomb-
+Cryogonal  Lvl 68 -Levitate. Ice Beam, Reflect, Light Screen, Power Gem-
+Tangrowth  Lvl 68 -Chlorophyll. Sleep Powder, Knock Off, Earthquake, Power Whip-
+
+[Team Plasma Alerith]
+Tyranitar @Focus Sash    Lvl 70 -Unnerve. Rock Wrecker, Earthquake, Crunch, Dragon Dance-
+Electrode @Life Orb      Lvl 70 -Aftermath. Volt Tackle, Seed Bomb, Boomburst, Signal Beam- 
+Gothitelle @Choice Specs Lvl 70 -Frisk. Psychic, Shadow Ball, Aura Sphere, Mystical Fire-
+Amoonguss @Black Sludge  Lvl 70 -Effect Spore. Spore, Giga Drain, Foul Play, Sludge Bomb-
+Vespiquen @Leftovers     Lvl 70 -Pressure. Quiver Dance, Power Gem, Bug Buzz, Heal Order-
+Claydol @Sitrus Berry    Lvl 70 -Levitate. Earth Power, Ice Beam, Cosmic Power, Psyshock-
+
+
+-----------
+Route 11
+-----------
+
+[Backpacker Talon]
+Camerupt Lvl 61 -Solid Rock. Magma Storm, Earthquake, Rock Slide, Yawn-
+Golem Lvl 61 -Sturdy. Earthquake, Sucker Punch, Stone Edge, Steamroller-
+Exploud Lvl 61 -Scrappy. Boomburst, Ice Beam, Crunch, Hammer Arm-
+Mr.Mime Lvl 61 -Technician. Psychic, Shadow Ball, Magical Leaf, Icy Wind-
+
+[Pokemon Ranger Thalia]
+Rapidash  Lvl 62  -Flame Body. Flare Blitz, Wild Charge, High Horsepower, Zen Headbutt-
+Arbok     Lvl 62  -Intimidate. Coil, Gunk Shot, Crunch, Trailblaze-
+Cacturne  Lvl 62  -Water Absorb. Needle Arm, Sucker Punch, Power-Up Punch, Knock Off- 
+Manectric Lvl 62  -Lightningrod. Thunderbolt, Flamethrower, Thunder Wave, Snarl-
+Donphan   Lvl 62  -Sturdy. Earthquake, Ice Shard, Counter, Slack Off-
+
+[Backpacker Corin]
+Swalot Lvl 61  -Liquid Ooze. Sludge Wave, Giga Drain, Toxic, Recover-
+Ludicolo Lvl 61 -Rain Dish. Swords Dance, Seed Bomb, Aqua Step, Fire Punch-
+Muk Lvl 61 -Poison Touch. Gunk Shot, Shadow Sneak, Fire Punch, Liquidation-
+Butterfree Lvl 61 -Compoundeyes. Sleep Powder, Bug Buzz, Air Slash, Psychic-
+
+[Pokemon Ranger Crofton]
+Magmortar  Lvl 62 -Flame Body. Magma Storm, Thunderbolt, Aura Sphere, Psychic-
+Pelipper Lvl 62   -Rain Dish. Rain Dance, Hurricane, Scald, Roost-
+Heracross Lvl 62  -Moxie. Megahorn, Bullet Seed, Close Combat, Shadow Claw-
+Dewgong Lvl 62    -Hydration. Rain Dance, Rest, Liquidation, Ice Shard-
+Tangrowth Lvl 62  -Chlorophyll. Giga Drain, Earthquake, AncientPower, Sleep Powder-
+
+----------------
+Village Bridge
+----------------
+
+[School Kid Serena] 
+Venusaur Lvl 63  -Overgrow. Sleep Powder, Skull Bash, Seed Flare, Sludge Bomb-
+Charizard Lvl 63 -Blaze. Flare Blitz, Swords Dance, Dragon Claw, Earthquake-
+Blastoise Lvl 63 -Torrent. Hydro Pump, Shell Smash, Ice Beam, Aura Sphere-
+Pidgeot Lvl 63   -Big Pecks. FeatherDance, Roost, Brave Bird, Hyper Voice-
+
+[Scientist Shannon]
+Rotom Lvl 60    -Levitate. Shadow Ball, Signal Beam, Thunderbolt, Confuse Ray-
+Rotom-H Lvl 60  -Levitate. Overheat, Thunderbolt, Hex, Will-o-Wisp-
+Rotom-W Lvl 60  -Levitate. Hydro Pump, Thunderbolt, Pain Split, Confuse Ray-
+Rotom-F Lvl 60  -Levitate. Air Slash, Thunderbolt, Thunder Wave, Hex-
+Rotom-M Lvl 60  -Levitate. Leaf Storm, Thunderbolt, Shadow Ball, Will-o-Wisp-
+Rotom-Fr Lvl 60 -Levitate. Blizzard, Thunderbolt, Hex, Thunder Wave- 
+
+[Baker Chris]
+Vespiquen Lvl 62 -Pressure. Attack Order, Toxic, Heal Order, Power Gem-
+Ursaring Lvl 62  -Guts. Body Slam, High Horsepower, Hammer Arm, Sucker Punch- 
+Torkoal Lvl 62   -White Smoke. Fissure, Rock Wrecker, Fire Blast, SmokeScreen-
+Magcargo Lvl 62  -Flame Body. Ancientpower, Magma Storm, Earth Power, Recover-
+
+------------
+Route 12
+------------
+
+[Backers Fey and Sue]
+Double Battle
+Plusle Lvl 63    -Plus. Nasty Plot, Paravolt Charge, Thunderbolt, Magical Leaf-
+Minun Lvl 63     -Minus. Reflect, Light Screen, Helping Hand, Paravolt Charge-
+Zebstrika Lvl 63 -LightningRod. Discharge, Paravolt Charge, Blaze Kick, High Horsepower-
+Manectric Lvl 63 -LightningRod. Flamethrower, Discharge, Signal Beam, Snarl-
+
+[Pokemon Breeder Ethel]
+Cinccino Lvl 62  -Technician. Rock Blast, Bullet Seed, Work Up, Swift-
+Quagsire Lvl 62  -Water Absorb. Liquidation, Earthquake, Ice Punch, Recover-
+Mothim   Lvl 62  -Tinted Lens. Bug Buzz, Quiver Dance, Ominous Wind, Air Slash-
+Breloom  Lvl 62  -Effect Spore. Spore, Substitute, Drain Punch, Giga Drain-
+Musharna Lvl 62  -Synchronize. Mist Ball, Moonlight, Charge Beam, Shadow Ball-
+
+[School Kid Ann]
+Meganium   Lvl 63 -Overgrow. Energy Ball, Earth Power, AncientPower, Quiver Dance-
+Typhlosion Lvl 63 -Blaze. Mystical Fire, Infernal Parade, Extrasensory, -
+Feraligatr Lvl 63 -Torrent. Liquidation, Crunch, Ice Punch, Dragon Claw-
+Noctowl    Lvl 63 -Tinted Lens. Air Slash, Roost, Reflect, Light Screen- 
+
+[School Kid Jem]
+Sceptile Lvl 63 -Overgrow. Swords Dance, Leaf Blade, Thunder Punch, Dual Chop-
+Blaziken Lvl 63 -Blaze. Fire Blast, Hi Jump Kick, Hone Claws, Shadow Claw-
+Swampert Lvl 63 -Torrent. Earthquake, Scald, Rock Tomb, Yawn-
+Swellow  Lvl 63 -Guts. Brave Bird, Hyper Voice, U-Turn, Heat Wave-
+
+[Pokemon Breeder Eustace] 
+Azumarill Lvl 62 -Thick Fat, Perish Song, Scald, Ice Beam, Protect-
+Hariyama  Lvl 62 -Guts. Drain Punch, Bullet Punch, Earthquake, Knock Off-
+Carnivine Lvl 62 -Levitate. Power Whip, Crunch, Sleep Powder, 
+Clefable  Lvl 62 -Magic Guard. Body Slam, Meteor Mash, Ice Punch, Moonlight-
+Gigalith  Lvl 62 -Sturdy. Power Gem, Earth Power, Energy Ball, Flash Cannon-
+
+
+-----------
+Route 13
+-----------
+
+[Lass Fey]
+Wigglytuff Lvl 63 -Cute Charm. Mystical Fire, Wish, Hyper Voice, Ice Beam-
+Ninetales  Lvl 63 -Flash Fire. Torch Song, Energy Ball, Shadow Ball, Psychic-
+Lumineon   Lvl 63 -Storm Drain. Scald, Silver Wind, Psybeam, Roost-
+Togekiss   Lvl 63 -Super Luck. Air Slash, Aura Sphere, Flamethrower, Boomburst-
+
+[Youngster Astor]
+Hitmontop  Lvl 63 -Intimidate. Triple Arrows, Drill Run, Close Combat, Mach Punch-
+Scizor     Lvl 63 -Technician. Tailwind, Iron Head, Close Combat, Bug Bite-
+Darmanitan Lvl 63 -Sheer Force. Flare Blitz, Zen Headbutt, Superpower, Rock Slide-
+Skuntank   Lvl 63 -Aftermath. Toxic, Venoshock, Flamethrower, Dark Pulse-
+
+[Artist Zach]
+Glalie    Lvl 63 -Inner Focus. Icicle Crash, Crunch, Rock Slide, Skull Bash-
+Smeargle  Lvl 63 -Own Tempo. Mystical Fire, Lumina Crash, Paravolt Charge, Spore-
+Porygon-Z Lvl 63 -Adaptability. Hyper Beam, Ice Beam, Thunderbolt, Psychic-
+Froslass  Lvl 63 -Cursed Body. Ice Beam, Shadow Ball, Will-o-Wisp, Thunderbolt-
+
+[Fisherman Jones]
+Luvdisc   Lvl 63 -Swift Swim. Lovely Kiss, Quiver Dance, Hydro Pump, Ice Beam-
+Whiscash  Lvl 63 -Anticipation. Liquidation, Fissure, Dragon Dance, Zen Headbutt-
+Poliwrath Lvl 63 -Water Absorb. Liquidation, Ice Punch, Drain Punch, Circle Throw-
+Seaking   Lvl 63 -Lightningrod. Scald, Skull Bash, Icy Wind, Megahorn- 
+
+[Fisherman Mick]
+Tentacruel Lvl 63 -Rain Dish. Toxic Spikes, Mirror Coat, Sludge Wave, Surf-
+Dragonair  Lvl 63 -Marvel Scale. Aqua Tail, Thunder Wave, Dragon Rush, Iron Tail- 
+Basculin-B Lvl 63 -Rock Head. Head Smash, Aqua Jet, Crunch, Zen Headbutt-
+Jellicent  Lvl 63 -Cursed Body. Scald, Hex, Giga Drain, Acid Armor-
+
+[Parasol Lady Laura]
+Abomasnow  Lvl 63 -Snow Warning. Skull Bash, Blizzard, Earth Power, Wood Hammer-
+Castform   Lvl 63 -Forecast. Icicle Crash, Aqua Jet, Fire Blast, Tri-Attack-  
+Wormadam-S Lvl 63 -Overcoat. Flash Cannon, Bug Buzz, Quiver Dance, Psychic-
+Lapras     Lvl 63 -Shell Armor. Dragon Dance, Drill Run, Icicle Crash, Waterfall- 
+
+[Fisherman Vince]
+Lanturn    Lvl 63 -Volt Absorb. Stockpile, Recover, Hydro Pump, Thunderbolt-
+Huntail    Lvl 63 -Water Veil. Shell Smash, Crunch, Liquidation, Ice Fang-
+Qwilfish   Lvl 63 -Intimidate. Poison Jab, Aqua Jet, Sucker Punch, Skull Bash-
+Octillery  Lvl 63 -Sniper. Energy Ball, Ice Beam, Flamethrower, Hydro Pump-
+
+[Fisherman Pete]
+Relicanth Lvl 63 -Rock Head. Stealth Rock, Head Smash, Dive, Yawn-
+Wailord   Lvl 63 -Water Veil. Fissure, Ice Ball, Hyper Voice, Surf-
+Kingler   Lvl 63 -Sheer Force. Liquidation, Hammer Arm, High Horsepower, Rock Slide-
+Alomomola Lvl 63 -Healer. Wish, Mirror Coat, Scald, Knock Off-
+
+[Twins Emy and Lin]
+Persian   Lvl 63 -Technician. Swift, U-Turn, Icy Wind, Fake Out-
+Delcatty  Lvl 63 -Wonder Skin. Fake Out, Icy Wind, Return, Helping Hand-
+Liepard   Lvl 63 -Prankster. Fake Out, U-Turn, Snarl, Thunder Wave-
+Purugly   Lvl 63 -Defiant. Fake Out, Body Slam, Protect, Skull Bash-
+
+[Gentleman Yan] - All have Sitrus Berries
+Reuniclus Lvl 63 -Magic Guard. Psyshock, Aura Sphere, Calm Mind, Recover-
+Empoleon  Lvl 63 -Torrent. Hydro Pump, Flash Cannon, Vacuum Wave, Ice Beam-
+Umbreon   Lvl 63 -Synchronize. Sucker Punch, Dark Pulse, Toxic, Moonlight-
+Flygon    Lvl 64 -Levitate. Earthquake, Dragon Claw, Bug Buzz, Flamethrower-
+Mamoswine Lvl 63 -Thick Fat. Icicle Crash, High Horsepower, Superpower, Trailblaze-
+
+
+[Socialite Marian] All have Sitrus Berries
+Arcanine  Lvl 63 -Intimidate. Flamethrower, ExtremeSpeed, Dragon Pulse, Close Combat-
+Vileplume Lvl 63 -Chlorophyll. Earth Power, Leech Seed, Flower Trick, Sludge Bomb-
+Granbull  Lvl 63 -Intimidate. Close Combat
+Altaria   Lvl 63 -Cloud Nine. Cotton Guard, Dragon Pulse, Flamethrower, Roost-
+Mawile    Lvl 63 -Sheer Force. Iron Head, Sucker Punch, Fire Fang, Metal Burst-
+
+[Black Belt Benjamin]
+Hitmonlee  Lvl 63 -Reckless. Hi Jump Kick, Blaze Kick, Body Slam, Meditate-
+Hitmonchan Lvl 63 -Iron Fist. Power-Up Punch, Drain Punch, Bullet Punch, Shadow Punch-
+Primeape   Lvl 63 -Defiant. Outrage, Close Combat, U-turn, Stone Edge
+Conkeldurr Lvl 63 -Sheer Force. Hammer Arm, Ice Punch, Fire Punch, ThunderPunch-
+
+--------------
+Undella Town
+--------------
+
+![Pokemon Trainer Cynthia]!
+Spiritomb @Sitrus Berry Lvl 76 -Pressure. Will-o-Wisp, Shadow Sneak, Dark Pulse, Icy Wind-
+Lucario @Life Orb       Lvl 76 -Justified. Swords Dance, Close Combat, Ice Punch, ExtremeSpeed-
+Glaceon @Ice Gem        Lvl 76 -Snow Cloak. Blizzard, Shadow Ball, Water Pulse, Earth Power-
+Togekiss @King's Rock   Lvl 76 -Serene Grace. Thunder Wave, Air Slash, Flamethrower, Aura Sphere-
+Milotic @Leftovers      Lvl 76 -Marvel Scale. Scald, Recover, Ice Beam, Dragon Pulse
+Garchomp @Yache Berry   Lvl 78 -Rough Skin. Swords Dance, Earthquake, Outrage, Brick Break-
+
+The Riches Gauntlet:
+
+![The Riches Draco]!
+Floatzel Lvl 63  -Water Veil. Ice Punch, Liquidation, Crunch, Brick Break-
+Ninjask  Lvl 63  -Speed Boost. X-Scissor, Acrobatics, Swords Dance, Dig-
+
+![The Riches Susan]!
+Stantler Lvl 63 -Intimidate. Body Slam, Thunder, High Horsepower, Horn Leech-
+Froslass Lvl 63 -Snow Cloak. Blizzard, Hex, Will-o-Wisp, Telekinesis- 
+Lopunny Lvl 63  -Limber. Return, Quick Attack, U-turn, Low Sweep-
+
+![The Riches Clairdonna]!
+Kangaskhan Lvl 63 -Scrappy. Fake Out, Power-Up Punch, Dizzy Punch, Crunch-
+Golurk    Lvl 63  -Iron Fist. Bullet Punch, Shadow Punch, Fissure, Drain Punch-
+Ninetales  Lvl 63 -Flash Fire. Torch Song, Will-o-Wisp, Hex, Extrasensory-
+
+![The Riches Zillion]!
+Shuckle    Lvl 63 -Sturdy. Stealth Rock, Toxic, Encore, Struggle Bug-
+Lickilicky Lvl 63 -Oblivious. Body Slam, Curse, Power Whip, Slack Off-
+Poliwrath  Lvl 63 -Swift Swim. Rain Dance. Liquidation, Power-Up Punch, Earthquake-
+Scolipede  Lvl 63 -Swarm. Megahorn, Rock Climb, Superpower, Skull Bash-
+
+![The Riches Trish]!
+Weavile @Focus Sash      Lvl 63 -Pickpocket. Icicle Crash, Taunt, Night Slash, Brick Break-
+Vespiquen @Sitrus Berry  Lvl 63 -Pressure. Quiver Dance, Destiny Bond, Bug Buzz, Power Gem-
+Nidoqueen @Life Orb      Lvl 63 -Sheer Force. Ice Punch, Poison Jab, Thunderbolt, Earth Power-
+Kingdra @Haban Berry     Lvl 63 -Swift Swim. Dragon Pulse, Ice Beam, Surf, Rain Dance-
+Chandelure @Choice Specs Lvl 63 -Flame Body. Inferno, Shadow Ball, Energy Ball, Psychic-
+Xatu @Choice Scarf       Lvl 63 -Magic Bounce, U-Turn, Psychic, Heat Wave, Air Slash-
+
+![The Riches Miles]!
+Stunfisk @Leftovers     Lvl 64 -Static. Earth Power, Paravolt Charge, Slack Off, Muddy Water-
+Braviary @Sitrus Berry  Lvl 64 -Defiant. Brave Bird, Close Combat, Shadow Claw, Tailwind-
+Haxorus @Muscle Band    Lvl 64 -Mold Breaker. Dragon Dance, Outrage, Earthquake, Psycho Cut-
+Metagross @Steel Gem    Lvl 64 -Clear Body. Meteor Mash, Zen Headbutt, Power-Up Punch, Earthquake-
+Porygon-Z @Choice Specs Lvl 64 -Adaptability. Hyper Beam, Tri-Attack, Ice Beam, Dark Pulse-
+Yanmega @Life Orb       Lvl 64 -Speed Boost. Air Slash, Bug Buzz, Giga Drain, AncientPower-
+
+-------------
+Undella Bay
+-------------
+
+[Swimmer Bart]
+Golduck Lvl 64 -Swift Swim. Rain Dance, Hydro Pump, Psyshock, Signal Beam-
+Bibarel Lvl 64 -Simple. Swords Dance, Aqua Step, Skull Bash, Return-
+Seadra  Lvl 64 -Sniper. Hydro Pump, Ice Beam, Dragon Pulse, Flash Cannon-
+Furret  Lvl 64 -Keen Eye. Coil, Surf, ExtremeSpeed, DynamicPunch-
+
+[Swimmer Tim]
+Dewgong    Lvl 64 -Thick Fat. Knock Off, Aqua Jet, Encore, Ice Shard-
+Sharpedo   Lvl 64 -Speed Boost. Close Combat, Crunch, Aqua Jet, Ice Fang-
+Lickilicky Lvl 64 -Oblivious. Surf, Ice Beam, Thunderbolt, Flamethrower-
+Crawdaunt  Lvl 64 -Adaptability. Surf, Crunch, Aqua Jet, Ice Beam-
+
+[Swimmer Larissa]
+Corsola   Lvl 64 -Natural Cure. Scald, Earth Power, Recover, Mirror Coat-
+Starmie   Lvl 64 -Natural Cure. Hydro Pump, Lumina Crash, Ice Beam, Thunderbolt-
+Azumarill Lvl 64 -Huge Power. Liquidation, Drain Punch, Ice Punch, Aqua Jet-
+Nidoqueen Lvl 64 -Poison Point. Surf, High Horsepower, Lovely Kiss, Sludge Bomb-
+
+[Swimmer Rebecca]
+Gorebyss  Lvl 64 -Swift Swim. Rain Dance, Scald, Ice Beam, Psyshock-
+Floatzel  Lvl 64 -Swift Swim. Rain Dance, Brick Break, Ice Punch, Liquidation-
+Luvdisc   Lvl 64 -Swift Swim. Ice Beam, Hydro Pump, Attract, Sweet Kiss-
+Garchomp  Lvl 64 -Rough Skin. Surf, Bulldoze, Fire Fang, Dragon Claw-
+
+
+[Swimmer Matt]
+Fearow    Lvl 64 -Sniper. Drill Run, U-Turn, Drill Peck, Mirror Move-
+Gastrodon Lvl 64 -Storm Drain. Counter, Mirror Coat, Recover, Earth Power-
+Simipour  Lvl 64 -Torrent. Nasty Plot, Hydro Pump, Focus Blast, Ice Beam-
+Politoed  Lvl 64 -Water Absorb. Boomburst, Hypnosis, Scald, Earth Power-
+
+[Swimmer Tyra]
+Walrein   Lvl 64 -Thick Fat. Ice Beam, Surf, Slack Off, Stockpile-
+Vaporeon  Lvl 64 -Hydration. Rain Dance, Rest, Hydro Pump, Shadow Ball-
+Linoone   Lvl 64 -Pickup. Extremespeed, Surf, Rock Climb, Gunk Shot-
+Slowking  Lvl 64 -Own Tempo. Scald, Mystical Fire, Ice Beam, Focus Blast-
+
+
+----------
+Route 14
+----------
+
+[Fisherman Sid]
+Magikarp  Lvl 63 -Swift Swim. Tackle, Bounce, Flail, Bubblebeam-
+BasculinB Lvl 63 -Adaptability. Scald, Ice Beam, Taunt, Attract- 
+BasculinR Lvl 63 -Adaptability. Liquidation, Aqua Jet, Crunch, Revenge-
+BasculinR Lvl 63 -Reckless. Head Smash, Double-Edge, Zen Headbutt, Liquidation-
+Chatot    Lvl 63 -Tangled Feet. Nasty Plot, Chatter, Hyper Voice, Heat Wave-
+
+[Black Belt Jay]
+Blaziken  Lvl 64 -Blaze. Fire Blast, Focus Blast, Work Up, Acrobatics-
+Machamp   Lvl 64 -No Guard. Stone Edge, DynamicPunch, Bullet Punch, Earthquake-
+Scrafty   Lvl 64 -Moxie. Crunch, Drain Punch, Bulk Up, Dragon Claw-
+Sawk      Lvl 64 -Sturdy. Close Combat, Stone Edge, ThunderPunch, Blaze Kick-
+
+[Backpacker Vicki]
+Claydol    Lvl 64 -Levitate. Earth Power, Psyshock, AncientPower, Stealth Rock-
+Chimecho   Lvl 64 -Levitate. Wish, Ice Beam, Psychic, Shadow Ball-
+Venomoth   Lvl 64 -Tinted Lens, Sleep Powder, Quiver Dance, Baton Pass, Bug Buzz-
+Farfetch'd Lvl 64 -Defiant, ExtremeSpeed, Leaf Blade, Close Combat, Acrobatics-
+
+[Hiker Jebediah]
+Gigalith   Lvl 64 -Sturdy. Stealth Rock, Stone Edge, Earthquake, Energy Ball-
+Sudowoodo  Lvl 64 -Rock Head. Wood Hammer, Head Smash, Earthquake, Sucker Punch-
+Rhyperior  Lvl 64 -Solid Rock. Rock Wrecker, Earthquake, Rock Polish, Ice Punch-
+Bastiodon  Lvl 64 -Sturdy. Metal Burst, Flash Cannon, Power Gem, Earth Power-
+
+[Ace Trainer Kipp]
+Tyranitar @Choice Band Lvl 65 -Unnerve. Fire Punch, Crunch, Rock Wrecker, Outrage-
+Lucario @Wise Glasses  Lvl 65 -Steadfast. Aura Sphere, Vacuum Wave, Dragon Pulse, Shadow Ball-
+Infernape @Fire Gem    Lvl 65 -Blaze. Flare Blitz, Close Combat, Mach Punch, Grass Knot-
+Gengar @Air Balloon    Lvl 65 -Cursed Body. Shadow Ball, Sludge Wave, Thunderbolt, Psychic-
+Gyarados @Sitrus Berry Lvl 65 -Intimidate. Dragon Dance, Liquidation, Crunch, Power Whip-
+Alakazam @Life Orb     Lvl 65 -Magic Guard. Psychic, Shadow Ball, Energy Ball, Icy Wind-
+
+[Ace Trainer Junko]
+Crustle @Red Card       Lvl 65 -Sturdy. Stealth Rock, X-Scissor, Rock Slide, Shell Smash-
+Girafarig @Petaya Berry Lvl 65 -Sap Sipper. Agility, Baton Pass, Psychic, Thunderbolt-
+Roserade @Muscle Band   Lvl 65 -Techician. Swords Dance, Cut, Needle Arm, Brick Break-
+Mismagius @Expert Belt  Lvl 65 -Levitate. Shadow Ball, Thunderbolt, Power Gem, Eerie Spell-
+Medicham @Normal Gem    Lvl 65 -Pure Power. Fake Out, Psycho Cut, High Jump Kick, Ice Punch-
+Houndoom @Choice Scarf  Lvl 65 -Unnerve. Dark Pulse, Fire Blast, Thunder Fang, Sludge Bomb-
+
+-----------------
+Abundant Shrine
+-----------------
+
+[Youngster Wes]
+Ariados     Lvl 64 -Sniper. Trailblaze, Cross Poison, Megahorn, Baton Pass-
+Kricketune  Lvl 64 -Technician. GrassWhistle, Bug Bite, Night Slash, Brick Break-
+Beedrill    Lvl 64 -Sniper. Night Slash, Drill Run, Cross Poison, Brick Break-
+Dustox      Lvl 64 -Shield Dust. Roost, Bug Buzz, Sludge Bomb, Toxic-
+Leavanny    Lvl 64 -Swarm. Swords Dance, X-Scissor, Leaf Blade, Low Sweep-
+
+[Lass Lurleen]
+Sunflora   Lvl 65 -Chlorophyll. Heat Wave, Seed Flare, Leech Seed, GrassWhistle-
+Dunsparce  Lvl 65 -Serene Grace. Roost, Body Slam, Bite, AncientPower-
+Camerupt   Lvl 65 -Solid Rock. Rock Polish, Earth Power, Flamethrower, Rock Slide-
+Jynx       Lvl 65 -Dry Skin. Ice Beam, Psycho Boost, Bubblebeam, Shadow Ball-
+
+
+[Lass Maki]
+Lopunny  Lvl 65 -Cute Charm. Work Up, Drain Punch, Return, Baton Pass-
+Flareon  Lvl 65 -Guts. Flare Blitz, Skull Bash, Shadow Ball, High Horsepower-
+Banette  Lvl 65 -Cursed Body. Shadow Force, Shadow Sneak, Will-o-Wisp, Gunk Shot-
+Altaria  Lvl 65 -Natural Cure. Dragon Dance, Dragon Claw, Earthquake, Aerial Ace-
+
+
+[Youngster Lester]
+Torterra  Lvl 65 -Overgrow. Shell Smash, Wood Hammer, Earthquake, Crunch-
+Infernape Lvl 65 -Blaze. Earthquake, Flare Blitz, ThunderPunch, Close Combat-
+Empoleon  Lvl 65 -Torrent. FeatherDance, Yawn, Scald, Flash Cannon- 
+Staraptor Lvl 65 -Intimidate. Brave Bird, Double-Edge, Blaze Kick, Close Combat-
+
+
+
+
+--------------
+Route 15
+--------------
+
+[Pokefan Elliot]
+Clefable  Lvl 62 -Cute Charm. Mystical Fire, Sing, Hyper Beam, Shadow Ball-
+Hippowdon Lvl 62 -Sand Force. Earthquake, Yawn, Stone Edge, Super Power-
+Jolteon   Lvl 62 -Volt Absorb. Thunderbolt, Volt Switch, Shadow Ball, Thunder Wave-
+Mothim    Lvl 62 -Tinted Lens. Quiver Dance, Bug Buzz, Air Slash, Ominous Wind-
+
+[Pokemon Ranger Shelly]
+Marowak   Lvl 62 -Rock Head. Shadow Sneak, Fissure, Skull Bash, Thunder Punch-
+Seviper   Lvl 62 -Shed Skin. Poison Jab, Sucker Punch, Wring Out, Giga Drain-
+Grumpig   Lvl 62 -Thick Fat. Earth Power, Lumina Crash, Power Gem, Recover-
+Bellossom Lvl 62 -Chlorophyll. Swords Dance, Acrobatics, Drain Punch, Leaf Blade-
+Drifblim  Lvl 62 -Aftermath. Mystical Fire, Shadow Ball, Air Slash, Thunderbolt-
+
+
+[Ace Trainer Susie] (Was a Battle Girl)
+Dugtrio @Focus Sash     Lvl 64 -Arena Trap. Earthquake, Stealth Rock, Sucker Punch, Stone Edge- 
+Dusknoir @Leftovers     Lvl 64 -Pressure. Will-o-Wisp, Shadow Punch, Shadow Sneak, Drain Punch-
+Electivire @Life Orb    Lvl 64 -Motor Drive. Wild Charge, Flamethrower, Earthquake, Ice Punch-
+Chandelure @Salac Berry Lvl 64 -Flame Body. Substitute, Inferno, Shadow Ball, Energy Ball-
+Tropius @Sitrus Berry   Lvl 64 -Harvest. Dragon Dance, Leaf Blade, Earthquake, Protect-
+Lumineon @Rocky Helmet  Lvl 64 -Storm Drain. Scald, Roost, Ice Beam, Silver Wind-
+
+[Pokemon Ranger Keith]
+Nidoking   Lvl 62 -Sheer Force. Earth Power, ThunderPunch, Fire Punch, Ice Punch-
+Magnezone  Lvl 62 -Analytic. Thunderbolt, Flash Cannon, Signal Beam, Boomburst-
+Exeggutor  Lvl 62 -Chlorophyll. Psychic, Sleep Powder, AncientPower , Giga Drain-
+Floatzel   Lvl 62 -Swift Swim. Bulk Up, Liquidation, Brick Break, Ice Fang-
+Zangoose   Lvl 62 -Immunity. Body Slam, Close Combat, Ice Punch, X-Scissor-
+
+[Hiker Kit]
+Kabutops  Lvl 62 -Swift Swim. Swords Dance, Aqua Jet, Rock Slide, Liquidation-
+Omastar   Lvl 62 -Swift Swim. Shell Smash, Earth Power, Scald, AncientPower-
+Shuckle   Lvl 62 -Sturdy. Shell Smash, Baton Pass, Struggle Bug, Knock Off-
+Rampardos Lvl 62 -Mold Breaker. Rock Slide, Crunch, Fire Punch, Rock Polish-
+
+---------------------------------------
+Post Game Big Stadium and Small court
+---------------------------------------
+
+------------
+Big Stadium
+------------
+
+Sunday/Monday/Thursday:
+
+[Infielder Todd] Done
+Lucario    Lvl 64 -Justified. Aura Sphere, ExtremeSpeed, Ice Punch, Dual Chop-
+Dodrio     Lvl 64 -Early Bird. Jump Kick, Brave Bird, Acupressure, Drill Run-
+Excadrill  Lvl 64 -Sand Rush. High Horsepower, Skull Bash, Fissure, Iron Head-
+
+[Backers Alf and Fred]
+Machamp     Lvl 63 -No Guard. Cross Chop, Bullet Punch, Stone Edge, Protect-
+Conkeldurr  Lvl 63 -Sheer Force. DynamicPunch, Mach Punch, Ice Punch, Rock Slide-
+Gigalith    Lvl 63 -Sturdy. Stone Edge, Earth Power, Protect, Zap Cannon-
+Golem       Lvl 63 -Sturdy. Stone Edge, Steamroller, Rock Polish, Fire Punch-
+
+Wednesday/Saturday:
+
+[Linebacker Jonah]
+Snorlax     Lvl 64 -Thick Fat. Body Slam, Curse, High Horsepower, Slack Off-
+Forretress  Lvl 64 -Sturdy. Leech Life, Earthquake, Revenge, Counter-
+Heatmor     Lvl 64 -White Smoke. Magma Storm, Sucker Punch, Giga Drain, Shadow Claw-
+
+[Backers Cam and Abby]
+Rapidash   Lvl 63 -Flame Body. Flare Blitz, High Horsepower, Will-o-Wisp, Fire Blast-
+Zebstrika  Lvl 63 -Motor Drive. Wild Charge, High Horsepower, Trailblaze, Signal Beam- 
+Hypno      Lvl 63 -Insomnia. Dark Void, Psycho Cut, Drain Punch, Ice Punch-
+Musharna   Lvl 63 -Synchronize. Yawn, Mist Ball, Shadow Ball, Energy Ball-
+
+Tuesday/Friday:
+
+[Striker Marco]
+Golduck   Lvl 64 -Swift Swim. Vacuum Wave, Scald, Ice Punch, Psychic-
+Pidgeot   Lvl 64 -Big Pecks. Heat Wave, Brave Bird, FeatherDance, Roost-
+Amoonguss Lvl 64 -Effect Spore. Energy Ball, Toxic, Poison Jab, Skull Bash-
+
+[Backers Les and Web]
+Liepard   Lvl 63 -Prankster. Thunder Wave, Crunch, Fire Fang, Hyper Voice-
+Persian   Lvl 63 -Technician. Swift, Power Gem, Skull Bash, Icy Wind-
+Hariyama  Lvl 63 -Guts. Drain Punch, Rock Slide, ThunderPunch, Ice Punch-
+Primeape  Lvl 63 -Defiant. Storm Throw, Seed Bomb, Fire Punch, Shadow Punch-
+
+-------------
+Small Court
+-------------
+
+Sunday/Monday/Wednesday/Friday:
+
+[Smasher Mari]
+Wobbuffet  Lvl 64 -Shadow Tag. Counter, Mirror Coat, Encore, Destiny Bond-
+Toxicroak  Lvl 64 -Dry Skin. Gunk Shot, Sucker Punch, Cross Chop, Bullet Punch-
+Gothitelle Lvl 64 -Frisk. Tickle, Psyshock, Aura Sphere, Icy Wind-
+
+[Backers Ai and Ciel]
+Illumise  Lvl 63 -Tinted Lens. Quiver Dance, Giga Drain, Bug Buzz, Thunderbolt- 
+Volbeat   Lvl 63 -Prankster. Tailwind, Encore, Leech Life, Ice Punch-
+Sableye   Lvl 63 -Prankster. Recover, Knock Off, Tickle, Shadow Sneak-
+Mawile    Lvl 63 -Intimidate. Iron Head, Metal Burst, Crunch, Zen Headbutt-
+
+Tuesday/Thursday/Saturday:
+
+[Hoopster Lamarcus]
+Muk      Lvl 64 -Stench. Toxic, Shadow Sneak, Gunk Shot, Liquidation-
+Ambipom  Lvl 64 -Technician. Fake Out, Power-Up Punch, Seed Bomb, Tail Slap-
+Parasect Lvl 64 -Dry Skin. Spore, Crabhammer, Leech Life, Seed Bomb-
+
+[Backers Kat and Phae]
+Solrock  Lvl 63 -Levitate. Rock Slide, Flare Blitz, Hypnosis, Earthquake-
+Lunatone Lvl 63 -Levitate. Reflect, Light Screen, Psychic, Blizzard-
+Sawsbuck Lvl 63 -Sap Sipper. High Horsepower, Horn Leech, Megahorn, Wild Charge-
+Stantler Lvl 63 -Intimidate. Eerie Spell, Body Slam, Horn Leech, High Horsepower-
+
+
+-----------------------------
+Stadium Additional Trainers
+-----------------------------
+Trainers who would give you items after defeating them will now give Rare Candies instead
+of what they would normally give. Trainers that reward items will be denoted by a -I-
+Eg. [Ace Trainer Charlie]-I-
+
+[Ace Trainer Charlie]-I-
+Luxray     Lvl 63 -Intimidate. Wild Charge, Crunch, Close Combat, Extremespeed-
+Tropius    Lvl 63 -Chlorophyll. Tailwind, Energy Ball, Earth Power, Air Slash-
+Mamoswine  Lvl 63 -Thick Fat. High Horsepower, Stone Edge, Curse, Ice Shard-
+Haxorus    Lvl 63 -Mold Breaker. Outrage, Psycho Cut, Crunch, Earthquake-
+
+[Ace Trainer Lucille]-I-
+Jynx      Lvl 63 -Dry Skin. Wring Out, Sheer Cold, Psyshock, Perish Song-
+Gliscor   Lvl 63 -Hyper Cutter. Earthquake, Acrobatics, Sky Uppercut, U-Turn-
+Leafeon   Lvl 63 -Leaf Guard. GrassWhistle, Leaf Blade, Close Combat, X-Scissor-
+Jellicent Lvl 63 -Cursed Body. Scald, Shadow Ball, Giga Drain, Ice Beam-
+
+[Artist Pierre]
+Smeargle Lvl 65 -Moody. Fire Blast, Blizzard, Thunder, Hurricane-
+Smeargle Lvl 65 -Moody. Blast Burn, Hydro Cannon, Frenzy Plant, Volt Tackle-
+
+[Backpacker Alexander]-I-
+Zangoose Lvl 65 -Immunity. Body Slam, ThunderPunch, Ice Punch, Close Combat-
+Seviper  Lvl 65 -Shed Skin. Flamethrower, Poison Jab, Sucker Punch, Giga Drain-
+
+[Backpacker Patty]-I-
+Vaporeon Lvl 64 -Water Absorb. Scald, Ice Beam, Shadow Ball, Yawn-
+Jolteon  Lvl 64 -Volt Absorb. Thunderbolt, Signal Beam, Shadow Ball, Quick Attack-
+Flareon  Lvl 64 -Flash Fire. Flare Blitz, High Horsepower, Skull Bash, Flame Charge-
+
+[Baker Lilly]-I-
+Miltank Lvl 65 -Sap Sipper. Body Slam, Heart Stamp, High Horsepower, Milk Drink-
+Torkoal Lvl 65 -Shell Armor. Flamethrower, Rock Wrecker, Will-o-wisp, Skull Bash-
+
+[Battle Girl Janie]
+Lucario Lvl 64 -Steadfast. Aura Sphere, Dragon Pulse, ExtremeSpeed, Psychic-
+Scrafty Lvl 64 -Moxie. Crunch, Drain Punch, Bulk Up, Ice Punch-
+Breloom Lvl 64 -Poison Heal. Mach Punch, Seed Bomb, Spore, Rock Slide-
+
+[Black Belt Lao]
+Machamp  Lvl 64 -No Guard. DynamicPunch, Stone Edge, Knock Off, Bullet Punch-
+Mienshao Lvl 64 -Inner Focus. Aura Sphere, Ice Punch, Blaze Kick, Acrobatics-
+Primeape Lvl 64 -Defiant. Close Combat, Ice Punch, ThunderPunch, Fire Punch-
+
+[ClerkM Nelson]
+Yanmega    Lvl 62 -Speed Boost. Bug Buzz, Air Slash, Boomburst, Dragon Pulse-
+Scolipede  Lvl 62 -Swarm. Leech Life, Earthquake, Rock Climb, Poison Jab-
+Ledian     Lvl 62 -Iron Fist. Power-Up Punch, Aerial Ace, Baton Pass, Agility-
+Scizor     Lvl 62 -Technician. Bullet Punch, Bug Bite, Close Combat, Knock Off-
+Kricketune Lvl 62 -Swarm. GrassWhistle, Leech Life, Night Slash, Leaf Blade-
+
+[ClerkM Fredric]
+Mandibuzz Lvl 64 -Overcoat. Dark Pulse, Nasty Plot, Hurricane, Roost-
+Persian   Lvl 64 -Technician. Nasty Plot, Snarl, Icy Wind, Swift-
+Raichu    Lvl 64 -Lightningrod. Nasty Plot, Thunderbolt, Surf, Psyshock-
+
+[ClerkF Wren]
+Sunflora  Lvl 64 -Chlorophyll. Sunny Day, SolarBeam, Earth Power, Heat Wave-
+Cherrim   Lvl 64 -Flower Gift. Sunny Day, SolarBeam, Weather Ball, Growth-
+Grumpig   Lvl 64 -Thick Fat. Lumina Crash, Power Gem, Teeter Dance, Recover-
+
+[Dancer Davey]
+Ludicolo Lvl 65 -Swift Swim. Teeter Dance, Quiver Dance, Surf, Giga Drain-
+Maractus Lvl 65 -Storm Drain. Drain Punch, Seed Flare, Hyper Voice, Quiver Dance-
+
+[Depot Agent Josh]
+Dugtrio Lvl 66 -Arena Trap. Earthquake, Night Slash, Stone Edge, Aerial Ace-
+
+[Doctor Jules]-I-
+Blissey Lvl 65 -Serene Grace. Softboiled, Hyper Voice, Fire Blast, Egg Bomb-
+Audino  Lvl 65 -Healer. Wish, Boomburst, Ice Beam, Psyshock-
+
+[Fisherman Devon]
+Gorebyss Lvl 64 -Swift Swim. Shell Smash, Scald, Ice Beam, Psychic-
+Huntail  Lvl 64 -Swift Swim. Liquidation, Crunch, Ice Fang, Sucker Punch-
+Lumineon Lvl 64 -Storm Drain. Energy Ball, Roost, Scald, Ice Beam-
+
+[Gentleman Renaud]-I-
+Slowking Lvl 65 -Own Tempo. Mystical Fire, Slack Off, Surf, Eerie Spell-
+Hariyama Lvl 65 -Guts. Drain Punch, Knock Off, Bullet Punch, Earthquake-
+
+[Harlequin Charley]
+Electrode Lvl 64 -Soundproof. Signal Beam, Thunderbolt, Volt Switch, Boomburst-
+Electrode Lvl 64 -Aftermath. Seed Bomb, Bulldoze, Mirror Coat, Wild Charge-
+Electrode Lvl 64 -Aftermath. Skull Bash, Volt Tackle, Body Slam, Explosion-
+
+[Hiker Russel]
+Rhyperior Lvl 66 -Solid Rock. Rock Wrecker, Fissure, Hammer Arm, Aqua Tail-
+
+[Janitor Caleb]
+Weezing  Lvl 65 -Levitate. Flamethrower, Thunderbolt, Shadow Ball, Sludge Wave-
+Garbodor Lvl 65 -Aftermath. Gunk Shot, Rock Slide, Seed Bomb, Drain Punch-
+
+[Lady Sophie]
+Fearow    Lvl 64 -Sniper. Drill Run, Drill Peck, U-Turn, Secret Power-
+Hippowdon Lvl 64 -Sand Stream. Earthquake, Slack Off, Crunch, Body Slam-
+Gastrodon Lvl 64 -Storm Drain. Earth Power, Scald, Mirror Coat, Counter-
+
+[Lass Dana]-I-
+Mismagius Lvl 64 -Levitate. Shadow Ball, Thunderbolt, Power Gem, Mystical Fire-
+Pachirisu Lvl 64 -Volt Absorb. Paravolt Charge, Ice Punch, Work Up, Sweet Kiss-
+Delcatty  Lvl 64 -Wonder Skin. Sucker Punch, Icy Wind, Fake Out, Wish-
+
+
+[Maid Alica]
+Cinccino   Lvl 63 -Technician. Tail Slap, Bullet Seed, Rock Blast, Icy Wind-
+Arcanine   Lvl 63 -Justified. Flamethrower, Dragon Pulse, Crunch, Extremespeed-
+Reuniclus  Lvl 63 -Magic Guard. Psychic, Shadow Ball, Aura Sphere, Zap Cannon-
+Gothitelle Lvl 63 -Frisk. Psychic, Shadow Ball, Thunderbolt, Mystical Fire-
+
+[Musician Boris]
+Loudred    Lvl 63 -Soundproof. Extrasensory, Ice Fang, Knock Off, Boomburst-
+Loudred    Lvl 63 -Scrappy. Hammer Arm, Bug Buzz, Boomburst, Fire Fang-
+Chatot     Lvl 63 -Tangled Feet. Heat Wave, Chatter, Hyper Voice, Mimic-
+Wigglytuff Lvl 63 -Cute Charm. Boomburst, Wish, Drain Punch, Ice Punch-
+
+[Nurse Kirsten]-I-
+Blissey Lvl 65 -Serene Grace. Softboiled, Hyper Voice, Fire Blast, Thunder-
+Audino  Lvl 65 -Healer. Wish, Boomburst, Ice Beam, Psyshock-
+
+[Nursery Aide Leah]-I-
+Clefable   Lvl 65 -Magic Guard. Belly Drum, Body Slam, Fire Punch, Meteor Mash-
+Whimsicott Lvl 65 -Prankster. Substitute, Leech Seed, Giga Drain, Air Slash
+
+[Parasol Lady Gwyneth]
+Politoed Lvl 65 -Water Absorb. Rain Dance, Energy Ball, Psychic, Scald-
+Castform Lvl 65 -Forecast. Hydro Pump, Ice Beam, Rain Dance, Thunder-
+
+[Pilot Leonard]
+Crobat   Lvl 64 -Inner Focus. Nasty Plot, Sludge Bomb, Air Slash, Giga Drain-
+Braviary Lvl 64 -Defiant. Strength, Brave Bird, Rock Slide, Close Combat-
+Drifblim Lvl 64 -Aftermath. Shadow Ball, Acrobatics, Thunderbolt, Mystical Fire-
+
+[Pokefan Colin]
+Raticate  Lvl 62 -Hustle. Body Slam, Pluck, U-Turn, Flame Wheel-
+Furret    Lvl 62 -Keen Eye. Coil, ExtremeSpeed, Ice Punch, DynamicPunch-
+Linoone   Lvl 62 -Pickup. Belly Drum, ExtremeSpeed, Gunk Shot, Rock Climb-
+Bibarel   Lvl 62 -Simple. Power-Up Punch, Aqua Step*, Headbutt, Rock Climb-
+Watchog   Lvl 62 -Analytic. Nasty Plot, Hyper Voice, Shadow Ball, Flamethrower-
+
+[Pokefan Darcy]
+Pidgeot   Lvl 62 -Big Pecks. Heat Wave, Hurricane, Ominous Wind, Roost-
+Noctowl   Lvl 62 -Insomnia. Eerie Spell, Hypnosis, Air Slash, Shadow Ball-
+Swellow   Lvl 62 -Scrappy. Hyper Voice, Brave Bird, Reversal, U-Turn-
+Staraptor Lvl 62 -Intimidate. Close Combat, Brave Bird, Double-Edge, Featherdance-
+Unfezant  Lvl 62 -Super Luck. Hurricane, Wish, Roost, Boomburst-
+
+[Pokemon Breeder Owen]
+Poliwrath Lvl 62 -Swift Swim. Rain Dance, Liquidation, Drain Punch, Ice Punch-
+Quagsire  Lvl 62 -Water Absorb. Scald, Recover, Earthquake, Yawn- 
+Sandslash Lvl 62 -Sand Rush. Sandstorm, Earthquake, Night Slash, Rock Slide-
+Grumpig   Lvl 62 -Thick Fat. Icy Wind, Psychic, Signal Beam, Energy Ball-
+Wobbuffet Lvl 62 -Shadow Tag. Counter, Mirror Coat, Destiny Bond, Encore-
+
+[Pokemon Breeder Brooke]
+Clefable  Lvl 62 -Cute Charm. Hyper Voice, Thunderbolt, Ice Beam, Flamethrower-
+Sudowoodo Lvl 62 -Sturdy. Stone Edge, Sucker Punch, Earthquake, Ice Punch-
+Roserade  Lvl 62 -Technician. Sleep Powder, Flower Trick, Mud Shot, Shadow Ball-
+Pelipper  Lvl 62 -Rain Dish. Scald, Ice Beam, Roost, Stockpile-
+Camerupt  Lvl 62 -Solid Rock. High Horsepower, Magma Storm, Stockpile, Slack Off-
+
+[Pokemon Ranger Alain]
+Ambipom   Lvl 63 -Technician. Baton Pass, Tail Slap, Power-Up Punch, Fake Out-
+Carnivine Lvl 63 -Levitate. Sleep Powder, Power Whip, Crunch, Leech Seed-
+Steelix   Lvl 63 -Sheer Force. Crunch, Iron Tail, Earthquake, Skull Bash-
+Vanilluxe Lvl 63 -Weak Armor. Blizzard, Flash Cannon, Signal Beam, Water Pulse-
+
+[Pokemon Ranger Heidi]
+Musharna   Lvl 63 -Synchronize. Toxic, Moonlight, Mist Ball, Shadow Ball-
+Masquerain Lvl 63 -Intimidate. Quiver Dance, Scald, Air Slash, Bug Buzz-
+Bronzong   Lvl 63 -Heatproof. Earthquake, Gyro Ball, Hypnosis, Confuse Ray-
+Weavile    Lvl 63 -Pressure. Night Slash, Icicle Crash, Brick Break, Ice Shard-
+
+[Policeman Jeff]
+Houndoom  Lvl 65 -Unnerve. Fire Blast, Dark Pulse, Thunder Fang, Will-o-Wisp-
+Stoutland Lvl 65 -Intimidate. Body Slam, Ice Fang, High Horsepower, Wild Charge-
+
+[Preschooler Evan]
+Girafarig Lvl 66 -Sap Sipper. Crunch, Psychic, Hyper Voice, High Horsepower-
+
+[Preschooler Mia]
+Lopunny Lvl 66 -Limber. Return, Drain Punch, ThunderPunch, Ice Punch-
+
+[Psychic Gerard]
+Alakazam Lvl 64 -Synchronize. Psychic, Shadow Ball, Energy Ball, Signal Beam-
+Claydol  Lvl 64 -Levitate. Earth Power, Heal Block, Psychic, AncientPower-
+Sigilyph Lvl 64 -Magic Guard. Air Slash, Lumina Crash, Ice Beam, Roost-
+
+[Psychic Madhu]
+Gardevoir Lvl 64 -Trace. Lumina Crash, Aura Sphere, Earth Power, Shadow Ball-
+Lunatone  Lvl 64 -Levitate. Moonlight, Power Gem, Ice Beam, Psychic-
+Beheeyem  Lvl 64 -Analytic. Thunderbolt, Psyshock, Mystical Fire, Shadow Ball-
+
+[Rich Boy Anthony]
+Toxicroak Lvl 64 -Dry Skin. Sucker Punch, Poison Jab, Cross Chop, ThunderPunch-
+Stantler  Lvl 64 -Intimidate. Megaorn, Horn Leech, Thunderbolt, Body Slam-
+Liepard   Lvl 64 -Prankster. Swagger, Dark Pulse, Thunder Wave, Hyper Voice-
+
+[Roughneck Fletcher]
+Mightyena Lvl 64 -Moxie. Body Slam, Crunch, Skull Bash, Poison Fang-
+Skuntank  Lvl 64 -Aftermath. Flamethrower, Dark Pulse, Sludge Bomb, Acid Spray-
+Crawdaunt Lvl 64 -Adaptability. Liquidation, Crunch, Dragon Dance, Superpower-
+
+[Scientist Simon]-I-
+Muk       Lvl 65 -Poison Touch. Poison Jab, Shadow Sneak, Acid Armor, Drain Punch-
+Magnezone Lvl 65 -Analytic. Thunderbolt, Signal Beam, Flash Cannon, Boomburst-
+
+[Scientist Blythe]-I-
+Swalot    Lvl 65 -Liquid Ooze. Recover, Acid Spray, Giga Drain, Stockpile-
+Klinklang Lvl 65 -Clear Body. Shift Gear, Gear Grind, Wild Charge, Flame Charge-
+
+
+[School Kid Alan]
+Dunsparce Lvl 64 -Serene Grace. Glare, Zen Headbutt, Bite, Headbutt-
+Seadra    Lvl 64 -Sniper. Agility, Flash Cannon, Ice Beam, Hydro Pump-
+Slowbro   Lvl 64 -Own Tempo. Calm Mind, Slack Off, Scald, Psychic-
+
+[School Kid Sally]
+Pupitar  Lvl 65 -Shed Skin. Stone Edge, Fissure, Dragon Dance, Crunch-
+Delibird Lvl 65 -Hustle. Acrobatics, Ice Shard, Brick Break, Seed Bomb-
+
+
+[Socialite Emilia]-I-
+Luvdisc Lvl 64 -Swift Swim. Lovely Kiss, Sweet Kiss, Attract, Scald-
+Mawile  Lvl 64 -Intimidate. Super Fang. Drain Punch, Iron Head. Tickle-
+Sableye Lvl 64 -Prankster. Will-o-Wisp, Recover, Shadow Sneak, Leech Life-
+
+
+[Veteran Arlen]-I-
+Salamence Lvl 64 -Moxie. Dragon Claw, Earthquake, Flamethrower, Hydro Pump- 
+Skarmory  Lvl 64 -Sturdy. Drill Run, Iron Head, Drill Peck, Roost-
+Glalie    Lvl 64 -Inner Focus. Rock Slide, Ice Beam, Crunch, Ice Shard-
+Hydreigon Lvl 65 -Levitate. Crunch, Dragon Rush, Surf, Flash Cannon-
+
+[Veteran Sayuri]-I-
+Garchomp   Lvl 64 -Rough Skin. Liquidation, Earthquake, Dragon Claw, Rock Slide-
+Kangaskhan Lvl 64 -Scrappy. Power-Up Punch, Body Slam, Rest, Sleep Talk-
+Froslass   Lvl 64 -Cursed Body. Will-o-Wisp, Hex, Power Gem, Ice Beam-
+Dragonite  Lvl 65 -Multiscale. Flamethrower, Ice Beam, Thunderbolt, Dragon Pulse-
+
+
+[Waiter Clint]-I-
+Kingler Lvl 66 -Sheer Force. Agility, Liquidation, High Horsepower, Rock Slide-
+
+[Waitress Bonita]-I-
+Farfetch'd Lvl 66 -Defiant. Close Combat, ExtremeSpeed, Leaf Blade, Night Slash-
+
+[Worker Tyler]
+Excadrill Lvl 64 -Sand Rush. Sandstorm, Earthquake, Iron Head, Rock Slide-
+Aggron    Lvl 64 -Sturdy. Stone Edge, Earthquake, Metal Burst, Ice Punch- 
+Metang    Lvl 64 -Clear Body. Meteor Mash, Power-up Punch, Zen Headbutt, Agility-
+
+[Worker Matthew]
+Walrein    Lvl 65 -Ice Body. Hail, Slack Off, Blizzard, Liquidation-
+Conkeldurr Lvl 65 -Guts. Hammer Arm, Stone Edge, Payback, Earthquake-
+
+[Youngster Kevin]-I-
+Venomoth   Lvl 64 -Tinted Lens. Sleep Powder, Quiver Dance, Giga Drain, Bug Buzz-
+Tentacruel Lvl 64 -Liquid Ooze. Surf, Sludge Wave, Wring Out, Knock Off-
+Dodrio     Lvl 64 -Early Bird. Swords Dance, Brave Bird, Jump Kick, Drill Run-
+
+--------------
+Royal Unova
+--------------
+
+[Ace Trainer Mariana]
+Rotom      Lvl 64 -Levitate. Substitute, Double Team, Thunderbolt, Shadow Ball-
+Wormadam-T Lvl 64 -Anticipation. Flash Cannon, Quiver Dance, Signal Beam, Psychic-
+Alomomola  Lvl 64 -Healer. Toxic, Wish, Surf, Protect-
+
+[Ace Trainer Henry]
+Tauros    Lvl 64 -Intimidate. Wild Charge, Close Combat, Rock Climb, Body Slam-
+Spiritomb Lvl 64 -Pressure. Power Gem, Pain Split, Dark Pulse, Shadow Sneak-
+Exploud   Lvl 64 -Scrappy. Flamethrower, Boomburst, Crunch, Hammer Arm-
+
+[Lass Sibyl]
+Chimecho Lvl 64 -Levitate. Boomburst, Psychic, Energy Ball, Ice Beam-
+Mantine  Lvl 64 -Water Absorb. Surf, Air Slash, Roost, Mirror Coat-
+Ampharos Lvl 64 -Static. Paravolt Charge, Cotton Guard, Tail Glow, Dragon Pulse-
+
+[Rich Boy Brad]
+Honchkrow Lvl 64 -Moxie. Superpower, Night Slash, Brave Bird, Heat Wave-
+Houndoom  Lvl 64 -Flash Fire. Crunch, Fire Fang, Thunder Fang, Reversal-
+Umbreon   Lvl 64 -Inner Focus. Snarl, Moonlight, Toxic, Gunk Shot-
+
+[Lady Elizandra]
+Ninetales Lvl 64 -Flash Fire. Inferno, Shadow Ball, Energy Ball, Psychic-
+Persian   Lvl 64 -Technician. Fake Out, Bite, Swift, Seed Bomb-
+Espeon    Lvl 64 -Magic Bounce. Psychic, Morning Sun, Power Gem, Shadow Ball-
+
+[Socialite Cassandra]
+Meganium   Lvl 64 -Overgrow. Earth Power, Giga Drain, Dragon Pulse, Counter-
+Emboar     Lvl 64 -Blaze. Flare Blitz, Drain Punch, Sucker Punch, Scald-
+Feraligatr Lvl 64 -Torrent. Liquidation, Crunch, Dragon Claw, Earthquake-
+
+[Gentleman Robert]
+Probopass  Lvl 64 -Sturdy. Stealth Rock, Volt Switch, Flash Cannon, Power Gem-
+Hypno      Lvl 64 -Insomnia. Dark Void, Psycho Cut, Nightmare, Drain Punch-
+Krookodile Lvl 64 -Intimidate. Crunch, Earthquake, Aqua Tail, Stone Edge-
+
+[Maid Tanya]
+Beartic Lvl 65 -Swift Swim. Rain Dance, Icicle Crash, Liquidation, Crunch-
+Cherrim Lvl 65 -Flower Gift. Sunny Day, Leech Seed, Weather Ball, Giga Drain-
+
+[ClerkM Chaz]
+Flygon   Lvl 64 -Levitate. Quiver Dance, Dragon Pulse, Earth Power, Bug Buzz-
+Sharpedo Lvl 64 -Speed Boost. Protect, Liquidation, Crunch, Earthquake- 
+Pinsir   Lvl 64 -Moxie. Storm Throw, Earthquake, Swords Dance, X-Scissor-
+
+[Youngster Abe]
+Ninjask Lvl 64 -Speed Boost. Substitute, Protect, Baton Pass, Leech Life-
+Drapion Lvl 64 -Sniper. Stone Edge, Storm Throw, Cross Poison, Night Slash- 
+Starmie Lvl 64 -Analytic. Sharpen, Liquidation, Psycho Cut, Brick Break-
+
+-------------
+Black City
+-------------
+-The standard time based system with Black City is still in effect
+so, depending on how long you take to arrive, you may find Black City completely empty.
+Not that you should rush through to get here of course! Black City's trainers are meant
+to be a bit of a bonus and incase you want to challenge yourself.-
+
+Can only be battled once:
+--------------------------
+
+[Roughneck Johnny]
+Rotation Battle
+
+Gothitelle @Light Clay   Lvl 65 -Frisk. Reflect, Light Screen, Psyshock, Mystical Fire-
+Krookodile @Life Orb     Lvl 65 -Moxie. Crunch, Earthquake, Rock Slide, Fire Fang-
+Galvantula @Expert Belt  Lvl 65 -Compoundeyes. Energy Ball, Thunder, Bug Buzz, Sucker Punch-
+Nidoqueen @Red Card      Lvl 65 -Sheer Force. Earth Power, Poison Jab, Rock Slide, Ice Beam-
+Grumpig @Psychic Gem     Lvl 65 -Thick Fat. Psychic, Recover, Icy Wind, Shadow Ball-
+Lickilicky @Sitrus Berry Lvl 65 -Own Tempo. Body Slam, Ice Punch, Slack Off, Zen Headbutt-
+
+[Backpacker Kiyo]
+Rotation Battle
+
+Beartic @Muscle Band   Lvl 65 -Swift Swim. Liquidation, Icicle Crash, Earthquake, Close Combat-
+Excadrill @Focus Sash  Lvl 65 -Sand Rush. Earthquake, Rock Slide, Skull Bash, X-Scissor-
+Heatmor @Fire Gem      Lvl 65 -White Smoke. Sunny Day, Flamethrower, Giga Drain, Sucker Punch-
+Charizard @Choice Band Lvl 65 -Blaze. Flare Blitz, Earthquake, Dragon Claw, Crunch-
+Kabutops @Focus Sash   Lvl 65 -Swift Swim. Rain Dance, Stone Edge, Liquidation, X-Scissor-
+Gorebyss @White Herb   Lvl 65 -Swift Swim. Shell Smash, Ice Beam, Surf, Psychic-
+
+
+
+Black City Resident pool:
+--------------------------
+
+[Ace Trainer Lena]
+Gardevoir @Light Clay    Lvl 65 -Trace. Reflect, Light Screen, Lumina Crash, Aura Sphere-
+Gallade @Leftovers       Lvl 65 -Justified. Bulk Up, Drain Punch, Psycho Cut, Shadow Sneak-
+Sunflora @Choice Specs   Lvl 65 -Chlorophyll. Seed Flare, Energy Ball, Heat Wave, Earth Power-
+Rotom-W @Eject Button    Lvl 65 -Levitate. Will-o-Wisp, Volt Switch, Hydro Pump, Pain Split-
+Liepard @Focus Sash      Lvl 65 -Prankster. Taunt, Night Slash, U-Turn, Psycho Cut-
+Masquerain @Charti Berry Lvl 65 -Intimidate. Quiver Dance, Bug Buzz, Ice Beam, Energy Ball-
+
+[Backpacker Molly]
+Azumarill @Mystic Water Lvl 65 -Huge Power. Aqua Jet, Aqua Step, Drain Punch, Ice Punch-
+Hypno @Psychic Gem      Lvl 65 -Insomnia. Hypnosis, Power-Up Punch, Psycho Cut, ThunderPunch-
+Kecleon @Leftovers      Lvl 65 -Color Change. Recover, Brick Break, Shadow Claw, Sucker Punch- 
+Venusaur @Salac Berry   Lvl 65 -Overgrow. Swords Dance, Power Whip, Earthquake, Skull Bash-
+Hariyama @Chesto Berry  Lvl 65 -Guts. Bulk Up, Bulldoze, Drain Punch, Rest-
+Jellicent @Wise Glasses Lvl 65 -Cursed Body. Scald, Recover, Ice Beam, Shadow Ball-        
+
+[Socialite Grace]
+Salamence @Dragon Gem   Lvl 65 -Intimidate. Dragon Claw, Skull Bash, Earthquake, Dragon Dance-
+Whimsicott @Mental Herb Lvl 65 -Prankster. Leech Seed, U-Turn, Flower Trick, Encore-
+Sharpedo @Focus Sash    Lvl 65 -Speed Boost. Liquidation, Earthquake, Crunch, Ice Fang-
+Swampert @Rindo Berry   Lvl 65 -Torrent. Scald, Earthquake, Yawn, Mirror Coat-
+Beedrill @Choice Scarf  Lvl 65 -Sniper. U-Turn, Brick Break, Poison Jab, Drill Run-
+Excavalier @Occa Berry  Lvl 65 -Shell Armor. Leech Life, Gyro Ball, Drill Run, Counter- 
+
+[ClerkM Collin]
+Alakazam @Life Orb      Lvl 65 -Magic Guard. Psycho Boost, Shadow Ball, Charge Beam, Energy Ball-
+Lanturn @Sitrus Berry   Lvl 65 -Volt Absorb. Paravolt Charge, Scald, Recover, Ice Beam-
+Fearow @Scope Lens      Lvl 65 -Sniper. Drill Run, Drill Peck, Agility, Taunt-
+Vanilluxe @NeverMeltIce Lvl 65 -Weak Armor. Blizzard, Icicle Crash, Ice Shard, Sheer Cold-
+Darmanitan @Air Ballon  Lvl 65 -Sheer Force. Flare Blitz, U-Turn, Earthquake, Rock Slide- 
+Torterra @Yache Berry   Lvl 65 -Overgrow. Shell Smash, Fissure, Wood Hammer, Crunch-
+
+[Backpacker Emi]
+Blissey @Choice Specs Lvl 65 -Serene Grace. Hyper Voice, Fire Blast, Thunder, Blizzard-
+Zebstrika @Life Orb   Lvl 65 -Motor Drive. High Horsepower, Signal Beam, Blaze Kick, Paravolt Charge-
+Cradily @Sitrus Berry Lvl 65 -Storm Drain. Recover, Giga Drain, Rock Slide, Earth Power-
+Dusknoir @Big Root    Lvl 65 -Pressure. Will-o-Wisp, Drain Punch, Shadow Punch, Perish Song-
+Purugly @Silk Scarf   Lvl 65 -Defiant. Hone Claws, Hypnosis, Body Slam, Faint Attack-
+Reuniclus @Leftovers  Lvl 65 -Magic Guard. Calm Mind, Recover, Psychic, Aura Sphere-
+
+[ClerkF Britney]
+Jumpluff @Focus Sash  Lvl 65 -Infiltrator. Cotton Guard, Baton Pass, Giga Drain, Acrobatics-
+Walrein @Leftovers    Lvl 65 -Thick Fat. Slack Off, Ice Beam, Liquidation, Stockpile-
+Ludicolo @Water Gem   Lvl 65 -Swift Swim. Rain Dance, Hydro Pump, Energy Ball, Ice Beam- 
+Infernape @Life Orb   Lvl 65 -Blaze. Flamethrower, Close Combat, ThunderPunch, Earthquake-
+Skuntank @Dark Gem    Lvl 65 -Aftermath. Sludge Bomb, Dark Pulse, Mud Shot, Flamethrower-
+Bisharp @Choice Band  Lvl 65 -Defiant. Night Slash, Iron Head, Leaf Blade, Psycho Cut-
+
+[Gentleman Frederic]
+Roserade @Focus Sash    Lvl 65 -Technician. Spikes, Leaf Storm, Poison Jab, Sleep Powder-
+Tyranitar @Chople Berry Lvl 65 -Unnerve. Dragon Dance, Fire Punch, Rock Slide, Crunch-
+Bronzong @Chesto Berry  Lvl 65 -Levitate. Rest, Calm Mind, Psychic, Flash Cannon-
+Accelgor @Choice Specs  Lvl 65 -Hydration. Bug Buzz, Focus Blast, Energy Ball, U-Turn-
+Vaporeon @Leftovers     Lvl 65 -Hydration. Rain Dance, Rest, Scald, Shadow Ball-
+Sigilyph @Flame Orb     Lvl 65 -Magic Guard. Cosmic Power, Psycho Shift, Roost, Stored Power-
+
+[Scientist Jacques]
+Nidoqueen @Leftovers    Lvl 65 -Poison Point. Lovely Kiss, Toxic Spikes, Earthquake, Crunch-
+Glalie @Life Orb        Lvl 65 -Inner Focus. Power Gem, Ice Beam, Earthquake, Crunch-
+Whiscash @Rindo Berry   Lvl 65 -Hydration. Dragon Dance, Liquidation, Earthquake, Zen Headbutt-
+Sudowoodo @Custap Berry Lvl 65 -Sturdy. Stone Edge, Sucker Punch, Flail, Earthquake- 
+Blaziken @Liechi Berry  Lvl 65 -Blaze. Agility, Blaze Kick, Hi Jump Kick, Drill Peck-
+Drifblim @Flying Gem    Lvl 65 -Unburden. Acrobatics, Mystical Fire, Shadow Ball, Thunderbolt-
+
+[Hiker Gene]
+Aggron @Muscle Band     Lvl 65 -Rock Head. Rock Polish, Head Smash, Earthquake, Ice Punch-
+Politoed @Sitrus Berry  Lvl 65 -Damp. Boomburst, Hypnosis, Surf, Focus Blast-
+Chimecho @Light Clay    Lvl 65 -Levitate. Reflect, Light Screen, Psychic, Ice Beam-
+Magmortar @Choice Specs Lvl 65 -Flame Body. Magma Storm, Aura Sphere, Thunderbolt, Psychic-
+Donphan @Passho Berry   Lvl 65 -Sturdy. Earthquake, Seed Bomb, Ice Shard, Rapid Spin-
+Vespiquen @Leftovers    Lvl 65 -Pressure. Defend Order, Heal Order, Attack Order, Power Gem-
+
+[Battle Girl Karenna]
+Slaking @Choice Band    Lvl 65 -Truant. Giga Impact, Hammer Arm, Ice Punch, Earthquake-
+Medicham @Sitrus Berry  Lvl 65 -Pure Power. Bulk Up, Recover, Drain Punch, Psycho Cut-
+Lucario @Wise Glasses   Lvl 65 -Steadfast. Aura Sphere, Flash Cannon, Dragon Pulse, Vacuum Wave-
+Carracosta @Salac Berry Lvl 65 -Sturdy. Shell Smash, Liquidation, Crunch, Rock Slide-
+Sceptile @Leftovers     Lvl 65 -Overgrow. Substitute, Leech Seed, Giga Drain, Night Slash-
+Rapidash @Fire Gem      Lvl 65 -Flame Body. Flare Blitz, High Horsepower, Zen Headbutt, Wild Charge-
+
+[Lass Miki]
+Togekiss @Red Card      Lvl 65 -Serene Grace. Thunder Wave, Air Slash, Flamethrower, Aura Sphere-
+Pachirisu @Sitrus Berry Lvl 65 -Volt Absorb. Ice Punch, Volt Tackle, Super Fang, Charm-
+Slowbro @Eject Button   Lvl 65 -Regenerator. Scald, Psyshock, Flamethrower, Slack Off-
+Hippowdon @Leftovers    Lvl 65 -Sand Force. Earthquake, Ice Fang, Slack Off, Yawn-
+Flareon @Toxic Orb      Lvl 65 -Guts. Blaze Kick, High Horsepower, Skull Bash, Quick Attack-
+Tangrowth @Big Root     Lvl 65 -Chlorophyll. Sleep Powder, Giga Drain, AncientPower, Earthquake-
+
+[Rich Boy Pierce]
+Ampharos @Light Clay   Lvl 65 -Static. Volt Switch, Reflect, Light Screen, Power Gem-
+Cinccino @Normal Gem   Lvl 65 -Technician. Tail Slap, Rock Blast, Icy Wind, Water Pulse-
+Houndoom @Choice Specs Lvl 65 -Unnerve. Fire Blast, Dark Pulse, Sludge Bomb, Hyper Beam-
+Empoleon @Petaya Berry Lvl 65 -Torrent. Agility, Hydro Pump, Ice Beam, Flash Cannon-
+Dodrio @Muscle Band    Lvl 65 -Early Bird. Swords Dance, Brave Bird, Drill Run, Jump Kick-
+Breloom @Toxic Orb     Lvl 65 -Poison Heal. Substitute, Spore, Focus Punch, Seed Bomb-
+
+[Pokemon Ranger Ralph]
+Ludicolo @Muscle Band   Lvl 65 -Swift Swim. Swords Dance, Ice Punch, Fire Punch, Aqua Step-
+Manectric @Air Balloon  Lvl 65 -Lightningrod. Charge Beam, Thunderbolt, Flamethrower, Signal Beam- 
+Golem @Liechi Berry     Lvl 65 -Sturdy. Stone Edge, Earthquake, Steamroller, Sucker Punch-
+Raichu @Choice Specs    Lvl 65 -Lightningrod. Volt Switch, Thunderbolt, Surf, Grass Knot-
+Altaria @Yache Berry    Lvl 65 -Natural Cure. Dragon Dance, Dragon Claw, Earthquake, Roost-
+Abomasnow @Choice Scarf Lvl 65 -Soundproof. Icicle Crash, Wood Hammer, Earthquake, Skull Bash-
+
+[Ace Trainer Vincent]
+Magmortar @Sitrus Berry Lvl 65 -Vital Spirit. Will-o-Wisp, Flamethrower, Thunderbolt, Mach Punch-
+Steelix @Red Card       Lvl 65 -Sturdy. Stealth Rock, Dragon Tail, Iron Head, Ice Fang-
+Leavanny @Life Orb      Lvl 65 -Overcoat. X-Scissor, Leaf Blade, Psycho Cut, Knock Off-
+Feraligatr @Shell Bell  Lvl 65 -Torrent. Dragon Dance, Liquidation, Ice Punch, Crunch-
+Scrafty @Leftovers      Lvl 65 -Shed Skin. Bulk Up, Drain Punch, Knock Off, Dragon Claw-
+Jolteon @Electric Gem   Lvl 65 -Volt Absorb. Thunder, Shadow Ball, Signal Beam, Thunder Wave-
+
+[Schoolkid Silvia]
+Beautifly @Focus Sash Lvl 65 -Swarm. Quiver Dance, Giga Drain, Bug Buzz, Sludge Bomb-
+Swampert @Life Orb    Lvl 65 -Torrent. Liquidation, Earthquake, Stone Edge, Ice Punch-
+Chatot @Wacan Berry   Lvl 65 -Tangled Feet. Bug Buzz, Heat Wave, Hyper Voice, Chatter-
+Metagross @Steel Gem  Lvl 65 -Clear Body. Agility, Meteor Mash, Ice Punch, Zen Headbutt-
+Stunfisk @Leftovers   Lvl 65 -Static. Earth Power, Thunderbolt, Scald, Slack Off-
+Dustox @Black Sludge  Lvl 65 -Shield Dust. Toxic, Roost, Sludge Bomb, Leech Life-
+
+[Schoolkid Shane]
+Rhyperior @Rindo Berry Lvl 65 -Solid Rock. Stealth Rock, Earthquake, Megahorn, Stone Edge-
+Emboar @Choice Specs   Lvl 65 -Blaze. Fire Blast, Focus Blast, Scald, Mud Bomb-
+Wailord @Choice Scarf  Lvl 65 -Water Veil. Water Spout, Blizzard, Earthquake, Hyper Voice-
+Honchkrow @Scope Lens  Lvl 65 -Super Luck. Night Slash, Brave Bird, Sucker Punch, Superpower-
+Snorlax @Leftovers     Lvl 65 -Thick Fat. Curse, Body Slam, High Horsepower, Slack Off-
+Plusle @Magnet         Lvl 65 -Plus. Nasty Plot, Thunderbolt, Magical Leaf, Signal Beam-
+
+[Roughneck Dave]
+Gengar @Air Balloon     Lvl 65 -Cursed Body. Hypnosis, Dream Eater, Shadow Ball, Focus Blast-
+Mightyena @Chople Berry Lvl 65 -Intimidate. Howl, Crunch, Ice Fang, Skull Bash-
+Qwilfish @Red Card      Lvl 65 -Intimidate. Liquidation, Poison Jab, Sucker Punch, Destiny Bond-
+Garchomp @Rocky Helmet  Lvl 65 -Rough Skin. Stealth Rock, Dragon Claw, Earthquake, Liquidation-
+Noctowl @Leftovers      Lvl 65 -Insomnia. Tailwind, Hyper Voice, Psychic, Air Slash-
+Scolipede @Wide Lens    Lvl 65 -Swarm. Megahorn, Rock Climb, Aqua Tail, Swords Dance-
+
+[ClerkM Doug]
+Forretress @Custap Berry Lvl 65 -Sturdy. Stealth Rock, Explosion, Leech Life, Wild Charge-
+Luxray @Flame Orb        Lvl 65 -Guts. Wild Charge, ExtremeSpeed, Close Combat, Crunch-
+Granbull @Choice Band    Lvl 65 -Intimidate. Body Slam, Close Combat, Fire Fang, Crunch-
+Mantine @Damp Rock       Lvl 65 -Swift Swim. Rain Dance, Hydro Pump, Air Slash, Ice Beam-
+Weezing @Black Sludge    Lvl 65 -Levitate. Will-o-Wisp, Sludge Wave, Pain Split, Shadow Ball-
+Marowak @Thick Club      Lvl 65 -Rock Head. Shadow Sneak, Fissure, Head Smash, Skull Bash-
+
+[Backpacker Carlos]
+Staraptor @Choice Band  Lvl 65 -Intimidate. Brave Bird, U-Turn, Double-Edge, Close Combat-
+Crawdaunt @Mystic Water Lvl 65 -Adaptability. Aqua Jet, Liquidation, Crunch, Swords Dance-
+Amoonguss @Black Sludge Lvl 65 -Effect Spore. Spore, Skull Bash, Giga Drain, Sludge Bomb-
+Hitmonchan @Muscle Band Lvl 65 -Iron Fist. Power-Up Punch, Drain Punch, Ice Punch, Thunderpunch-
+Tauros @Life Orb        Lvl 65 -Sheer Force. Body Slam, Rock Climb, Zen Headbutt, Iron Head-
+Golurk @Ground Gem      Lvl 65 -No Guard. Rock Polish, Fissure, Shadow Force, Stone Edge-
+
+[School Kid Leo]
+Pidgeot @Sitrus Berry   Lvl 65 -Big Pecks. Tailwind, Featherdance, Heat Wave, Hurricane-
+Alomomola @Rocky Helmet Lvl 65 -Healer. Calm Mind, Baton Pass, Scald, Ice Beam-
+Drapion @Black Sludge   Lvl 65 -Battle Armor. Toxic Spikes, Crunch, Storm Throw, Aqua Tail-
+Chimecho @Choice Specs  Lvl 65 -Levitate. Psychic, Hyper Voice, Shadow Ball, Ice Beam-
+Absol @Scope Lens       Lvl 65 -Super Luck. Swords Dance, Night Slash, Psycho Cut, Megahorn-
+Mismagius @Life Orb     Lvl 65 -Levitate. Shadow Ball, Thunderbolt, Mystical Fire, Power Gem-
+
+[Pokemon Ranger Eliza]
+Flygon @Choice Scarf   Lvl 65 -Levitate. Earth Power, U-Turn, Dragon Claw, Flamethrower-
+Samurott @Life Orb     Lvl 65 -Torrent. Shell Smash, Liquidation, Ice Beam, Ceaseless Edge-
+Pinsir @Silverpowder   Lvl 65 -Moxie. X-Scissor, Earthquake, Close Combat, Rock Slide-
+Stantler @Chople Berry Lvl 65 -Intimidate. Horn Leech, Body Slam, Thunderbolt, Shadow Ball-
+Ninetales @Heat Rock   Lvl 65 -Flash Fire. Sunny Day, Inferno, SolarBeam, Shadow Ball-
+Tropius @Sitrus Berry  Lvl 65 -Harvest. SolarBeam, Air Slash, Earthquake, Sunny Day-
+
+[Veteran Ken]
+Nidoking @Life Orb       Lvl 65 -Sheer Force. Earth Power, Poison Jab, Thunderbolt, Fire Punch-
+Lapras @Muscle Band      Lvl 65 -Shell Armor. Dragon Dance, Icicle Crash, Drill Run, Waterfall-
+Conkeldurr @Flame Orb    Lvl 65 -Guts. Bulk Up, Drain Punch, Mach Punch, Payback-
+Jellicent @Leftovers     Lvl 65 -Cursed Body. Scald, Recover, Giga Drain, Shadow Ball-
+Ferrothorn @Rocky Helmet Lvl 65 -Iron Barbs. Leech Seed, Assurance, Gyro Ball, Power Whip-
+Ninjask @Focus Sash      Lvl 65 -Speed Boost. Swords Dance, Baton Pass, Leech Life, Night Slash-
+
+[Scientist Marie]
+Magnezone @Choice Scarf  Lvl 65 -Sturdy. Volt Switch, Thunderbolt, Flash Cannon, Signal Beam-
+Tentacruel @Black Sludge Lvl 65 -Liquid Ooze. Scald, Giga Drain, Sludge Bomb, Knock Off-
+Cofagrigus @Leftovers    Lvl 65 -Mummy. Hypnosis, Nightmare, Shadow Ball, Flash Cannon-
+Gastrodon @Sitrus Berry  Lvl 65 -Storm Drain. Scald, Earth Power, Recover, Toxic-
+Miltank @Red Card        Lvl 65 -Sap Sipper. Body Slam, Milk Drink, Hammer Arm, High Horsepower-
+Gliscor @Toxic Orb       Lvl 65 -Poison Heal. Roost, Earthquake, Ice Fang, Protect-
+
+[Nursery Aide Miho]
+Shiftry @Focus Sash     Lvl 65 -Pickpocket. Leaf Blade, Heat Wave, Knock Off, Extrasensory-
+Stoutland @Silk Scarf   Lvl 65 -Intimidate. Return, Yawn, High Horsepower, Crunch-
+Swanna @Flying Gem      Lvl 65 -Big Pecks. Acrobatics, Aqua Step, Ice Beam, Roost-
+Bastiodon @Chople Berry Lvl 65 -Sturdy. Metal Burst, Flamethrower, Flash Cannon, Earth Power-
+Swalot @Black Sludge    Lvl 65 -Liquid Ooze. Gunk Shot, Seed Bomb, Curse, Recover-
+Hitmontop @Sitrus Berry Lvl 65 -Technician. Triple Kick, Bullet Punch, Faint Attack, Drill Run-
+
+[Lady Lynette]
+Bellossom @Heat Rock    Lvl 65 -Chlorophyll. Sunny Day, SolarBeam, Fiery Dance, Sleep Powder-
+Vileplume @Wise Glasses Lvl 65 -Chlorophyll. SolarBeam, Energy Ball, Sludge Bomb, Earth Power
+Dragonite @Yache Berry  Lvl 65 -Multiscale. Dragon Dance, Fire Punch, Earthquake, Dragon Rush-
+Delcatty @Leftovers     Lvl 65 -Cute Charm. Icy Wind, Wish, Return, Tickle-
+Arcanine @Sitrus Berry  Lvl 65 -Intimidate. Flare Blitz, Morning Sun, Crunch, ExtremeSpeed-
+Glaceon @Choice Specs   Lvl 65 -Snow Cloak. Ice Beam, Shadow Ball, Earth Power, Water Pulse-
+
+[Youngster Robbie]
+Gigalith @Wise Glasses  Lvl 65 -Sturdy. Stealth Rock, Power Gem, Earth Power, Energy Ball-
+Electivire @Muscle Band Lvl 65 -Motor Drive. Wild Charge, Close Combat, Ice Punch, Earthquake-
+Hitmonlee @Black Belt   Lvl 65 -Reckless. Hi Jump Kick, Blaze Kick, Mach Punch, Body Slam-
+Linoone @Sitrus Berry   Lvl 65 -Gluttony. Belly Drum, ExtremeSpeed, Seed Bomb, Gunk Shot-
+Shedinja @Focus Sash    Lvl 65 -Wonder Guard. X-Scissor, Shadow Sneak, Will-o-Wisp, Shadow Claw-
+Zoroark @Dark Gem       Lvl 65 -Illusion. Night Daze, Flamethrower, Focus Blast, Extrasensory-
+
+[Blackbelt Ryder]
+Machamp @Choice Band    Lvl 65 -No Guard. DynamicPunch, Stone Edge, Bulldoze, Ice Punch-
+Probopass @Shuca Berry  Lvl 65 -Sturdy. Stealth Rock, Earth Power, Volt Switch, Power Gem-
+Blastoise @White Herb   Lvl 65 -Torrent. Shell Smash, Hydro Pump, Ice Beam, Aura Sphere-
+Poliwrath @Damp Rock    Lvl 65 -Swift Swim. Rain Dance, Liquidation, Drain Punch, Ice Punch-
+Toxicroak @Fighting Gem Lvl 65 -Dry Skin. Swords Dance, Close Combat, Poison Jab, Sucker Punch-
+Armaldo @Life Orb       Lvl 65 -Swift Swim. Rock Slide, Liquidation, Earthquake, Leech Life-
+
+[ClerkF Piper]
+Victreebel @Poison Gem Lvl 65 -Chlorophyll. Sucker Punch, Poison Jab, Power Whip, Leech Life-
+Kingdra @Haban Berry   Lvl 65 -Sniper. Dragon Dance, Waterfall, Outrage, Yawn-
+Ledian @Focus Sash     Lvl 65 -Iron Fist. Mach Punch, Ice Punch, ThunderPunch, Bug Bite-
+Camerupt @Passho Berry Lvl 65 -Solid Rock. Lava Plume, Rock Polish, Earth Power, Rock Slide-
+Mawile @Life Orb       Lvl 65 -Sheer Force. Iron Head, Fire Fang, Thunder Fang, Ice Fang-
+Electrode @Choice Band Lvl 65 -Aftermath. Volt Tackle, Explosion, Seed Bomb, Skull Bash-
+
+[Veteran Rosa]
+Sableye @Lagging Tail  Lvl 65 -Prankster. Recover, Switcheroo, Shadow Sneak, Tickle-
+Exploud @Red Card      Lvl 65 -Scrappy. Boomburst, Extrasensory, Bug Buzz, Hammer Arm-
+Hydreigon @Expert Belt Lvl 65 -Levitate. Earth Power, Dark Pulse, Fire Blast, Dragon Pulse-
+Gyarados @Wacan Berry  Lvl 65 -Intimidate. Dragon Dance, Earthquake, Liquidation, Stone Edge-
+Serperior @Leftovers   Lvl 65 -Overgrow. Calm Mind, Giga Drain, Earth Power, Dragon Pulse-
+Jynx @White Herb       Lvl 65 -Dry Skin. Sheer Cold, Shadow Ball, Psycho Boost, Ice Beam-
+
+
+[Backpacker Herman]
+Porygon-Z @Normal Gem   Lvl 65 -Adaptability. Hyper Beam, Dark Pulse, Ice Beam, Psychic-
+Rampardos @Salac Berry  Lvl 65 -Sheer Force. Rock Slide, Earthquake, Fire Punch, Zen Headbutt-
+Floatzel @Muscle Band   Lvl 65 -Water Veil. Liquidation, Crunch, Brick Break, Bulk Up-
+Sawsbuck @Big Root      Lvl 65 -Sap Sipper. Swords Dance, Double-Edge, Horn Leech, Wild Charge-
+Emolga @Flying Gem      Lvl 65 -Motor Drive. Acrobatics, Volt Tackle, U-Turn, Thunder Wave-
+Volcarona @Sitrus Berry Lvl 65 -Flame Body. Quiver Dance, Bug Buzz, Fiery Dance, Thunderbolt-
+
+
+------------------
+Marvellous Bridge
+------------------
+
+[Ace Trainer Glinda]
+Triple Battle
+Bronzong @Light Clay     Lvl 64 -Levitate. Earthquake, Reflect, Light Screen, Psychic-
+Salamence @Yache Berry   Lvl 64 -Intimidate. Earthquake, Dragon Claw, Flamethrower, Hydro Pump-
+Gliscor @Toxic Orb       Lvl 64 -Poison Heal. Earthquake, Roost, Knock Off, Rock Slide-
+Froslass @Life Orb       Lvl 64 -Cursed Body. Blizzard, Shadow Ball, Thunderbolt, Protect-
+Heatmor @Fire Gem        Lvl 64 -White Smoke. Heat Wave, Giga Drain, Sucker Punch. Protect- 
+Carracosta @Liechi Berry Lvl 64 -Sturdy. Rock Slide, Aqua Jet, Protect, Liquidation-
+
+------------------
+Rival Rematches
+-----------------
+
+[Pokemon Trainer Cheren]
+-Snivy Chosen-
+Gigalith @Custap Berry Lvl 71 -Sturdy. Stealth Rock, Power Gem, Energy Ball, Earth Power-
+Eelektross @Big Root   Lvl 71 -Levitate. Paravolt Charge, Drain Punch, Giga Drain, Flamethrower-
+Braviary @Choice Band  Lvl 71 -Sheer Force. Close Combat, Brave Bird, Shadow Claw, Rock Slide-
+Liepard @Dark Gem      Lvl 71 -Prankster. Thunder Wave, Fake Out, Night Slash, Psycho Cut-
+Simisage @Salac Berry  Lvl 72 -Gluttony. Work Up, Focus Blast, Energy Ball, Crunch-
+Emboar @Leftovers      Lvl 73 -Blaze. Bulk Up, Drain Punch, Fire Punch, Earthquake-
+
+-Tepig Chosen-
+Gigalith @Custap Berry Lvl 71 -Sturdy. Stealth Rock, Power Gem, Energy Ball, Earth Power-
+Eelektross @Big Root   Lvl 71 -Levitate. Paravolt Charge, Drain Punch, Giga Drain, Flamethrower-
+Braviary @Choice Band  Lvl 71 -Sheer Force. Close Combat, Brave Bird, Shadow Claw, Rock Slide-
+Liepard @Dark Gem      Lvl 71 -Prankster. Thunder Wave, Fake Out, Night Slash, Psycho Cut-
+Simisear @Salac Berry  Lvl 72 -Gluttony. Work Up, Focus Blast, Flamethrower, Crunch-
+Samurott @Leftovers    Lvl 73 -Torrent. Swords Dance, Liquidation, Sacred Sword, Drill Run-
+
+-Oshawott Chosen-
+Gigalith @Custap Berry Lvl 71 -Sturdy. Stealth Rock, Power Gem, Energy Ball, Earth Power-
+Eelektross @Big Root   Lvl 71 -Levitate. Paravolt Charge, Drain Punch, Giga Drain, Flamethrower-
+Braviary @Choice Band  Lvl 71 -Sheer Force. Close Combat, Brave Bird, Shadow Claw, Rock Slide-
+Liepard @Dark Gem      Lvl 71 -Prankster. Thunder Wave, Fake Out, Night Slash, Psycho Cut-
+Simipour @Salac Berry  Lvl 72 -Gluttony. Work Up, Focus Blast, Surf, Crunch-
+Serperior @Leftovers   Lvl 73 -Torrent. Coil, Leaf Blade, Aqua Tail, Knock Off-
+
+
+[Pokemon Trainer Bianca]
+Double Battle. (Only after beating Alder)
+
+-Snivy Chosen-
+Mienshao @Normal Gem    Lvl 68 -Inner Focus. Fake Out, Rock Slide, Hi Jump Kick, Ice Punch-  
+Excavalier @Quick Claw  Lvl 68 -Shell Armor. Gyro Ball, Leech Life, Drill Run, Swords Dance-
+Cinccino @Life Orb      Lvl 68 -Technician. Swift, Water Pulse, Rock Blast, Icy Wind-
+Musharna @Leftovers     Lvl 68 -Synchronize. Yawn, Mist Ball, Ally Switch, Shadow Ball-
+Simisear @Expert Belt   Lvl 69 -Gluttony. Brick Break, Fire Blast, Crunch, Rock Slide-
+Samurott @Sitrus Berry  Lvl 70 -Torrent. Hydro Cannon, Aqua Jet, Sacred Sword, Ice Beam-
+
+-Tepig Chosen-
+Mienshao @Normal Gem    Lvl 68 -Inner Focus. Fake Out, Rock Slide, Hi Jump Kick, Ice Punch-  
+Excavalier @Quick Claw  Lvl 68 -Shell Armor. Gyro Ball, Leech Life, Drill Run, Swords Dance-
+Cinccino @Life Orb      Lvl 68 -Technician. Swift, Water Pulse, Rock Blast, Icy Wind-
+Musharna @Leftovers     Lvl 68 -Synchronize. Yawn, Mist Ball, Ally Switch, Shadow Ball-
+Simipour @Expert Belt   Lvl 69 -Gluttony. Brick Break, Hydro Pump, Crunch, Rock Slide-
+Serperior @Sitrus Berry Lvl 70 -Overgrow. Frenzy Plant, Giga Drain, Psycho Cut, Earth Power-
+
+-Oshawott Chosen-
+Mienshao @Normal Gem    Lvl 68 -Inner Focus. Fake Out, Rock Slide, Hi Jump Kick, Ice Punch-  
+Excavalier @Quick Claw  Lvl 68 -Shell Armor. Gyro Ball, Leech Life, Drill Run, Swords Dance-
+Cinccino @Life Orb      Lvl 68 -Technician. Swift, Water Pulse, Rock Blast, Icy Wind-
+Musharna @Leftovers     Lvl 68 -Synchronize. Yawn, Mist Ball, Ally Switch, Shadow Ball-
+Simisage @Expert Belt   Lvl 69 -Gluttony. Brick Break, Energy Ball, Crunch, Rock Slide-
+Emboar @Sitrus Berry    Lvl 70 -Blaze. Blast Burn, Fire Punch, Hammer Arm, Sucker Punch-
+
+
+------------------------
+Team Plasma Post-Game
+------------------------
+Relic Castle:
+
+[Team Plasma Grunt]
+Golbat Lvl 64     -Inner Focus. Toxic, Venoshock, Giga Drain, Air Slash-
+Cofagrigus Lvl 64 -Mummy. Shadow Ball, Mystical Fire, Will-o-Wisp, Giga Drain-
+Scrafty Lvl 64    -Shed Skin. Bulk Up, Drain Punch, Knock Off, Dragon Claw-
+Garbodor Lvl 64   -Aftermath. Gunk Shot, Drain Punch, Rock Slide, Seed Bomb-
+
+Chargestone Cave:
+
+[Team Plasma Grunt]
+Watchog Lvl 65   -Analytic. Seed Bomb, Crunch, Super Fang, Confuse Ray-
+Muk Lvl 65       -Poison Touch. Fire Punch, Ice Punch, ThunderPunch, Gunk Shot-
+Electrode Lvl 65 -Soundproof. Thunderbolt, Light Screen, Seed Bomb, Explosion-
+
+[Team Plasma Grunt]
+Mandibuzz Lvl 64  -Big Pecks. Roost, Air Slash, Snarl, Heat Wave-
+Gothitelle Lvl 64 -Frisk. Wish, Psychic, Shadow Ball, Aura Sphere-
+Amoonguss Lvl 64  -Effect Spore. Spore, Giga Drain, Clear Smog, Body Slam-
+Crawdaunt Lvl 64  -Adaptability. Aqua Jet, Crunch, Scald, Ice Beam-
+
+
+-------------------------
+Pokemon League Rematches
+--------------------------
+
+Rematches are all Double Battles:
+[Elite Four Shauntal]
+Jellicent @Rindo Berry   Lvl 74 -Cursed Body. Scald, Recover, Shadow Ball, Icy Wind-
+Froslass @Ice Gem        Lvl 74 -Cursed Body. Blizzard, Will-o-Wisp, Hex, Thunderbolt-
+Drifblim @Salac Berry    Lvl 74 -Unburden. Calm Mind, Heat Wave, Shadow Ball, Air Slash-
+Cofagrigus @Sitrus Berry Lvl 74 -Mummy. Ally Switch, Telekinesis, Shadow Ball, Mystical Fire-
+Golurk @Muscle Band      Lvl 74 -Iron Fist. DynamicPunch, Shadow Punch, Bullet Punch, High Horsepower-
+Chandelure @Choice Specs Lvl 76 -Flame Body. Fire Blast, Shadow Ball, Energy Ball, Psychic-
+
+
+[Elite Four Grimsley]
+Krookodile @Focus Band  Lvl 74 -Intimidate. Earthquake, Crunch, Swagger, Fire Fang-
+Honchkrow @Scope Lens   Lvl 74 -Super Luck. Heat Wave, Night Slash, Brave Bird, Sucker Punch- 
+Houndoom @Focus Sash    Lvl 74 -Unnerve. Sunny Day, Fire Blast, Dark Pulse, SolarBeam-
+Liepard @Normal Gem     Lvl 74 -Prankster. Encore, Hyper Voice, Snarl, Thunder Wave-
+Scrafty @BrightPowder   Lvl 74 -Moxie. Drain Punch, Sand-Attack, Crunch, Rock Slide-
+Bisharp @Chople Berry   Lvl 76 -Defiant. Sucker Punch, Low Sweep, Iron Head, Leaf Blade-
+
+
+[Elite Four Caitlyn]
+Metagross @Red Card      Lvl 74 -Clear Body. Meteor Mash, Zen Headbutt, Ice Punch, Hammer Arm-
+Sigilyph @Light Clay     Lvl 74 -Magic Guard. Lumina Crash, Air Slash, Reflect, Light Screen-
+Musharna @Rocky Helmet   Lvl 74 -Synchronize. Ally Switch, Attract, Mist Ball, Thunder Wave
+Reuniclus @Life Orb      Lvl 74 -Magic Guard. Psychic, Aura Sphere, Shadow Ball, Giga Drain-
+Gardevoir @Salac Berry   Lvl 74 -Trace. Charge Beam, Lumina Crash, Aura Sphere, Mystical Fire-
+Gothitelle @Sitrus Berry Lvl 76 -Frisk. Will-o-Wisp, Psychic, Icy Wind, Thunderbolt-
+
+
+[Elite Four Marshall]
+Breloom @Toxic Orb       Lvl 74 -Poison Heal. Spore, Substitute, Focus Punch, Seed Bomb-
+Mienshao @Life Orb       Lvl 74 -Regenerator. U-Turn, High Jump Kick, Blaze Kick, Fake Out-
+Throh @Leftovers         Lvl 74 -Guts. Circle Throw, Rock Slide, Knock Off, Drain Punch-
+Sawk @Liechi Berry       Lvl 74 -Sturdy. Fake Out, Rock Slide, Close Combat, ThunderPunch-
+Toxicroak @Payapa Berry  Lvl 74 -Dry Skin. Nasty Plot, Vacuum Wave, Sludge Bomb, Knock Off-
+Conkeldurr @Flame Orb    Lvl 76 -Guts. Drain Punch, Mach Punch, Payback, Rock Slide-
+
+
+[Champion Alder] 
+Single Battle
+
+Volcarona @Charti Berry  Lvl 79 -Flame Body. Fiery Dance, Quiver Dance, Bug Buzz, Thunderbolt-
+Bouffalant @Muscle Band  Lvl 78 -Sap Sipper. Head Charge, Earthquake, Megahorn, Wild Charge-
+Braviary @Leftovers      Lvl 78 -Defiant. Bulk Up, Roost, Crush Claw, Rock Slide-
+Gigalith @Wise Glasses   Lvl 78 -Sturdy. Flash Cannon, Earth Power, Energy Ball, Power Gem-
+Vanilluxe @White Herb    Lvl 78 -Weak Armor. Autotomize, Sheer Cold, Icicle Crash, Drill Run-
+Druddigon @Choice Band   Lvl 78 -Sheer Force. Outrage, Crunch, Rock Climb, Skull Bash-
+
+
+----------------------
+New Trainer Battles
+-----------------------
+
+--------------
+Main Campaign
+--------------
+
+[Blackbelt Takeshi]
+Location: Pinwheel Forest
+Reward: Muscle Band
+
+Sawk  @Muscle Band Lvl 16 -Sturdy. ThunderPunch, Double Kick, Dual Chop, Rock Tomb-
+Throh @Muscle Band Lvl 16 -Guts. Bulldoze, Knock Off, Fire Punch, Vital Throw-
+
+[Lass Alicia]
+Location: Castelia City
+Reward: Wise Glasses
+
+Vanillite @Wise Glasses Lvl 21 -Ice Body. Frost Breath, Hail, Mirror Shot, Icy Wind-
+Tranquill @Wise Glasses Lvl 21 -Super Luck. Air Cutter, Roost, Echoed Voice, FeatherDance-
+Frillish  @Wise Glasses Lvl 21 -Cursed Body. BubbleBeam, Hex, Will-o-Wisp, Recover- 
+Lilligant @Wise Glasses Lvl 21 -Own Tempo. Sleep Powder, Growth, Mega Drain, Earth Power-
+
+
+[Ace Trainer Sasha]
+Location: Driftveil City
+Reward: Leftovers
+
+Watchog    @Leftovers Lvl 37 -Analytic. Power-Up Punch, Strength, Ice Punch, Baton Pass-
+Escavalier @Leftovers Lvl 37 -Shell Armor. Iron Head, Leech Life, Protect, Knock Off-
+Stunfisk   @Leftovers Lvl 37 -Static. Paravolt Charge, Earth Power, Scald, Mud Shot-
+Fraxure    @Leftovers Lvl 38 -Mold Breaker. Substitute, Dragon Dance, X-Scissor, Dragon Claw-
+
+[Veteran Zenith]
+Location: Dragonspiral Tower
+Reward: TM35 Flamethrower
+
+Chandelure @Life Orb     Lvl 42 -Flame Body. Flamethrower, Infernal Parade, Energy Ball, Psychic-
+Eelektross @Fire Gem     Lvl 42 -Levitate. Flamethrower, Zap Cannon, Surf, Flash Cannon-
+Darmanitan @Focus Sash   Lvl 42 -Zen Mode. Flamethrower, Psystrike, Grass Knot, Work Up-
+Emboar     @Sitrus Berry Lvl 43 -Blaze. Flamethrower, Blast Burn, Scald, Skull Bash-
+
+
+
+----------
+Post-Game
+----------
+
+[Leader Cilan]
+Location: Abundant Shrine
+
+Victreebel @Focus Sash  Lvl 67 -Chlorophyll. Sunny Day, SolarBeam, Poison Jab, Knock Off-
+Sawsbuck @Muscle Band   Lvl 67 -Sap Sipper. Swords Dance, Horn Leech, Double-Edge, High Horsepower-
+Ferrothorn @Leftovers   Lvl 67 -Iron Barbs. Leech Seed, Gyro Ball, Power Whip, Spikes-
+Tangrowth @Rocky Helmet Lvl 67 -Chlorophyll. Sleep Powder, Sunny Day, SolarBeam, Earthquake-
+Exeggutor @Salac Berry  Lvl 67 -Harvest. Giga Drain, Psychic, Softboiled, Shadow Ball-
+Simisage @Miracle Seed  Lvl 69 -Overgrow. Nasty Plot, Flower Trick, Focus Blast, Hidden Power(Dark)- 
+
+
+[Leader Chili]
+Location: Abundant Shrine
+
+Magmortar @Choice Specs Lvl 67 -Vital Spirit. Fire Blast, Thunderbolt, Aura Sphere, Psychic-
+Darmanitan @Fire Gem    Lvl 67 -Sheer Force. Flare Blitz, Superpower, Earthquake, U-Turn-
+Heatmor @Sitrus Berry   Lvl 67 -Gluttony. Stockpile, Giga Drain, Magma Storm, Recycle-
+Rapidash @Heat Rock     Lvl 67 -Flame Body. Flare Blitz, Sunny Day, Hypnosis, High Horsepower-
+Magcargo @Passho Berry  Lvl 67 -Flame Body. Magma Storm, Earth Power, AncientPower, Recover-
+Simisear @Charcoal      Lvl 69 -Blaze. Torch Song, Fire Blast, Focus Blast, Hidden Power(Dark)-
+
+
+[Leader Cress]
+Location: Abundant Shrine
+
+Basculin @Muscle Band Lvl 67 -Adaptability. Liquidation, Crunch, Zen Headbutt, Head Smash-
+Swanna @Life Orb      Lvl 67 -Big Pecks. Liquidation, Air Slash, Ice Beam, Brick Break-
+Politoed @Damp Rock   Lvl 67 -Damp. Rain Dance, Perish Song, Scald, Energy Ball-
+Milotic @Flame Orb    Lvl 67 -Marvel Scale. Recover, Surf, Toxic, Ice Beam-
+Slowbro @Leftovers    Lvl 67 -Own Tempo. Flamethrower, Scald, Ice Beam, Slack Off-
+Simipour @MysticWater Lvl 69 -Torrent. Work Up, Aqua Step, Focus Blast, Hidden Power(Dark)-
+
+
+[Leader Lenora]
+Location: Giant Chasm
+
+Stoutland @Eject Button Lvl 67 -Intimidate. Body Slam, Retaliate, High Horsepower, Skull Bash-
+Watchog @Lum Berry      Lvl 67 -Analytic. Retaliate, Crunch, Zen Headbutt, Fire Punch-
+Lickilicky @Expert Belt Lvl 67 -Own Tempo. Retaliate, Fire Blast, Blizzard, Power Whip-
+Ursaring @Toxic Orb     Lvl 67 -Quick Feet. Facade, High Horsepower, Crunch, Hammer Arm-
+Miltank @Sitrus Berry   Lvl 67 -Thick Fat. Body Slam, Milk Drink, High Horsepower, Heart Stamp-
+Bouffalant @Normal Gem  Lvl 69 -Sap Sipper. Retaliate, Skull Bash, Wild Charge, Earthquake-
+
+
+[Leader Burgh]
+Location: Village Bridge
+
+Crustle @Quick Claw     Lvl 67 -Sturdy. Stealth Rock, Rock Wrecker, Earthquake, X-Scissor-
+Scolipede @Salac Berry  Lvl 67 -Poison Point. Substitute, Swords Dance, Baton Pass, Megahorn-
+Vespiquen @Charti Berry Lvl 67 -Pressure. Defend Order, Attack Order, Heal Order, Power Gem-
+Accelgor @Bug Gem       Lvl 67 -Hydration. Bug Buzz, Energy Ball, Knock Off, Focus Blast-
+Heracross @Choice Scarf Lvl 67 -Moxie. Close Combat, Megahorn, Shadow Claw, Rock Slide-
+Leavanny @Life Orb      Lvl 69 -Swarm. Leaf Blade, X-Scissor, Psycho Cut, Knock Off-
+
+
+[Leader Elesa]
+Location: Route 14
+
+Emolga @Flying Gem      Lvl 67 -Motor Drive. Volt Switch, Acrobatics, Energy Ball, U-Turn-
+Galvantula @Life Orb    Lvl 67 -Compoundeyes. Thunder, Bug Buzz, Energy Ball, Volt Switch-
+Manectric @Wise Glasses Lvl 67 -Lightningrod. Thunderbolt, Volt Switch, Flamethrower, Signal Beam-
+Lanturn @Leftovers      Lvl 67 -Volt Absorb. Paravolt Charge, Scald, Ice Beam, Recover-
+Ampharos @Shuca Berry   Lvl 67 -Static. Reflect, Light Screen, Paravolt Charge, Power Gem-
+Zebstrika @Air Balloon  Lvl 69 -Lightningrod. Wild Charge, Volt Switch, Blaze Kick, High Horsepower-
+
+
+[Leader Clay]
+Location: Black City Pokemon Centre
+
+Rhydon @Eviolite        Lvl 67 -Rock Head. Fissure, Stealth Rock, Stone Edge, Roar-
+Steelix @Life Orb       Lvl 67 -Sheer Force. Coil, Iron Tail, Thunder Fang, Skull Bash-
+Krookodile @Dark Gem    Lvl 67 -Intimidate. Earthquake, Crunch, Rock Climb, Fire Fang-
+Golurk @Power Herb      Lvl 67 -Iron Fist. Earthquake, Shadow Force, Hammer Arm, ThunderPunch-
+Seismitoad @Rindo Berry Lvl 67 -Swift Swim. Earth Power, Scald, Ice Punch, Drain Punch- 
+Excadrill @Focus Sash   Lvl 69 -Sand Rush. Swords Dance, Earthquake, Skull Bash, Megahorn-
+
+
+[Leader Skyla]
+Location: Route 13
+Double Battle
+
+Swoobat @Mental Herb   Lvl 67 -Unaware. Tailwind, Heat Wave, Air Cutter, Protect- 
+Braviary @Muscle Band  Lvl 67 -Defiant. Rock Slide, Close Combat, Brave Bird, Shadow Claw-
+Mandibuzz @Leftovers   Lvl 67 -Overcoat. Tailwind, Roost, Snarl, Air Cutter-
+Skarmory @Rocky Helmet Lvl 67 -Sturdy. Roost, Drill Peck, Drill Run, Protect-
+Togekiss @Choice Specs Lvl 67 -Super Luck. Air Slash, Fire Blast, Aura Sphere, Hyper Voice-
+Swanna @Expert Belt    Lvl 69 -Big Pecks. Ice Beam, Hurricane, Surf, Superpower-
+
+
+[Leader Brycen]
+Location: Route 11 
+
+Glalie @Chople Berry    Lvl 67 -Inner Focus. Spikes, Ice Shard, Earthquake, Crunch-
+Weavile @Focus Sash     Lvl 67 -Pickpocket. Icicle Crash, Knock Off, X-Scissor, Taunt-
+Mienshao @Ice Gem       Lvl 67 -Inner Focus. Blaze Kick, Ice Punch, Hi Jump Kick, Rock Slide-
+Cryonogal @Power Herb   Lvl 67 -Levitate. Ice Beam, Power Gem, SolarBeam, Signal Beam-
+Vanilluxe @NeverMeltIce Lvl 67 -Weak Armor. Icicle Crash, Ice Shard, Sheer Cold, Flash Cannon-
+Beartic @Life Orb       Lvl 69 -Swift Swim. Rain Dance, Liquidation, Icicle Crash, Earthquake-
+
+
+[Leader Drayden]
+Location: Lacunosa Town
+
+Flygon @Yache Berry     Lvl 67 -Levitate. Dragon Dance, Earthquake, Dragon Claw, ThunderPunch-
+Altaria @Leftovers      Lvl 67 -Cloud Nine. Cotton Guard, Roost, Torch Song, Dragon Pulse-
+Krookodile @Salac Berry Lvl 67 -Moxie. Earthquake, Dragon Claw, Crunch, Stone Edge-
+Druddigon @Rocky Helmet Lvl 67 -Rough Skin. Earthquake, Dragon Claw, Glare, Skull Bash-
+Hydreigon @Expert Belt  Lvl 67 -Levitate. Dark Pulse, Dragon Pulse, Earthpower, Flamethrower- 
+Haxorus @Muscle Band    Lvl 69 -Mold Breaker. Dragon Dance, Dragon Claw, Psycho Cut, Earthquake-
+
+
+[Leader Iris]
+Location: Lacunosa Town
+
+Dragonite @Yache Berry Lvl 67 -Multiscale. Dragon Dance, Fire Punch, Dragon Claw, ThunderPunch-
+Kingdra @Scope Lens    Lvl 67 -Sniper. Focus Energy, Hydro Pump, Ice Beam, Outrage-
+Excadrill @Air Balloon Lvl 67 -Sand Rush. Earthquake, Shadow Claw, Stone Edge, Megahorn-
+Druddigon @Life Orb    Lvl 67 -Sheer Force. Crunch, Dragon Claw, Rock Climb, Skull Bash-
+Hydreigon @Salac Berry Lvl 67 -Levitate. Dark Pulse, Dragon Pulse, Earth Power, Surf-
+Haxorus @Muscle Band   Lvl 69 -Mold Breaker. Dragon Dance, Dragon Claw, Close Combat, Earthquake-
+
+
+[Ace Trainer Dheku]
+Location: Shopping Mall Nine
+
+Steelix @Ground Gem     Lvl 71 -Sturdy. Earthquake, Gyro Ball, Stealth Rock, Ice Fang-
+Roserade @Wide Lens     Lvl 71 -Technician. Sleep Powder, Sludge Bomb, Mud Shot, Flower Trick-
+Spiritomb @Sitrus Berry Lvl 72 -Pressure. Attract, Will-o-Wisp, Shadow Sneak, Sucker Punch-
+Rapidash @Charcoal      Lvl 72 -Flame Body. Flare Blitz, Hypnosis, High Horsepower, Zen Headbutt-
+Milotic @Leftovers      Lvl 71 -Marvel Scale. Scald, Recover, Calm Mind, Ice Beam-
+Musharna @Rocky Helmet  Lvl 73 -Synchronize. Yawn, Moonlight, Psychic, Shadow Ball-
+
+
+[Ace Trainer Estreth]
+Location: Shopping Mall Nine
+
+Noctowl @Light Clay    Lvl 71 -Tinted Lens. Reflect, Light Screen, Air Slash, Roost-
+Espeon @Life Orb       Lvl 72 -Magic Bounce. Psychic, Shadow Ball, Power Gem, Grass Knot-
+Mienshao @Flying Gem   Lvl 71 -Regenerator. Drain Punch, U-Turn, Blaze Kick, Acrobatics-
+Zoroark @Focus Sash    Lvl 71 -Illusion. Night Daze, Nasty Plot, Extrasensory, Flamethrower-
+Samurott @Choice Scarf Lvl 72 -Torrent. Liquidation, Ceaseless Edge, Ice Beam, Sacred Sword-
+Gardevoir @Expert Belt Lvl 73 -Trace. Lumina Crash, Mystical Fire, Thunderbolt, Ice Beam-
+
+
+[Veteran Ambrose]
+-Double Battle-
+Location: Nimbasa City
+
+Latias @Soul Dew Lvl 80 -Levitate. Mist Ball, Dragon Pulse, Recover, Ice Beam-
+Latios @Soul Dew Lvl 80 -Levitate. Luster Purge, Dragon Pulse, Recover, Mystical Fire-
+
+
+[Subway Boss Ingo]
+Location: Anville Town
+
+Klinklang @Air Balloon  Lvl 77 -Clear Body. Zap Cannon, Flash Cannon, Power Gem, Energy Ball-
+Crustle @Rock Gem       Lvl 77 -Sturdy. Shell Smash, Rock Wrecker, Earthquake, Flail-
+Haxorus @Yache Berry    Lvl 77 -Mold Breaker. Earthquake, Dragon Claw, Guillotine, Psycho Cut-
+Tangrowth @Leftovers    Lvl 77 -Chlorophyll. Sunny Day, Energy Ball, Earthquake, Knock Off-
+Absol @Life Orb         Lvl 77 -Super Luck. Night Slash, Close Combat, Fire Blast, Psycho Cut-
+Chandelure @Expert Belt Lvl 78 -Flame Body. Fire Blast, Shadow Ball, Energy Ball, Psychic-
+
+[Subway Boss Emmet
+Location: Anville Town
+
+Excadrill @Focus Sash   Lvl 77 -Sand Rush. Stealth Rock, Earthquake, Skull Bash, Rock Tomb-
+Archeops @Choice Band   Lvl 77 -Defeatist. U-Turn, Stone Edge, Earthquake, Dragon Claw-
+Galvantula @Life Orb    Lvl 77 -Compoundeyes. Thunder, Bug Buzz, Rock Climb, Giga Drain-
+Machamp @Salac Berry    Lvl 77 -No Guard. Substitute, DynamicPunch, Stone Edge, Ice Punch-  
+Houndoom @Fire Gem      Lvl 77 -Unnerve. Inferno, Dark Pulse, Sucker Punch, Wild Charge-
+Eelektross @Expert Belt Lvl 78 -Levitate. Wild Charge, Surf, Drain Punch, Flamethrower-
+
+
+
+
+
+
+
+
+
+
+
+
+

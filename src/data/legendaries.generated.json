@@ -1,0 +1,166 @@
+[
+  {
+    "dexNumber": 494,
+    "name": "Victini",
+    "level": 70,
+    "section": "main",
+    "location": "Liberty Garden - Unchanged from Vanilla",
+    "notes": [
+      "*Liberty Garden is now only accessible during the Post-Game after Ace Trainer Dheku in Shopping Mall Nine",
+      "is defeated."
+    ]
+  },
+  {
+    "dexNumber": 571,
+    "name": "Zoroark",
+    "level": 30,
+    "section": "main",
+    "location": "Lostlorn Forest",
+    "notes": [
+      "-Requires talking to the female Pokemon Ranger in Driftveil city (in the main house on the cliff near the gym)",
+      "**Okay yes. Zoroark isn't a Legendary but it's a notable static encounter that will allow",
+      "you to acquire TM95 Snarl from Mr.Lock."
+    ]
+  },
+  {
+    "dexNumber": 638,
+    "name": "Cobalion",
+    "level": 42,
+    "section": "main",
+    "location": "Guidance Chamber - Unchanged from Vanilla",
+    "notes": []
+  },
+  {
+    "dexNumber": 639,
+    "name": "Terrakion",
+    "level": 42,
+    "section": "main",
+    "location": "Trial Chamber - Unchanged from Vanilla",
+    "notes": [
+      "-Requires Cobalion to be encountered"
+    ]
+  },
+  {
+    "dexNumber": 640,
+    "name": "Virizion",
+    "level": 42,
+    "section": "main",
+    "location": "Verdant Chamber - Unchanged from Vanilla",
+    "notes": [
+      "-Requires Cobalion to be encountered"
+    ]
+  },
+  {
+    "dexNumber": 641,
+    "name": "Tornadus",
+    "level": 40,
+    "section": "main",
+    "location": "Various Routes - Unchanged from Vanilla",
+    "notes": []
+  },
+  {
+    "dexNumber": 643,
+    "name": "Reshiram",
+    "level": 50,
+    "section": "main",
+    "location": "N's Castle - Unchanged from Vanilla",
+    "notes": []
+  },
+  {
+    "dexNumber": 645,
+    "name": "Landorus",
+    "level": 70,
+    "section": "main",
+    "location": "Abundant Shrine - Unchanged from Vanilla",
+    "notes": [
+      "**Does not need Thundurus or Tornadus in the",
+      "party."
+    ]
+  },
+  {
+    "dexNumber": 646,
+    "name": "Kyurem",
+    "level": 70,
+    "section": "main",
+    "location": "Giant Chasm - Unchanged from Vanilla",
+    "notes": [
+      "-Ghetsis must be defeated as part of the main campaign"
+    ]
+  },
+  {
+    "dexNumber": 647,
+    "name": "Keldeo",
+    "level": 70,
+    "section": "main",
+    "location": "Challenger's Cave",
+    "notes": [
+      "-After defeating Ghetsis, talk to a new NPC in a Village Bridge building."
+    ]
+  },
+  {
+    "dexNumber": 648,
+    "name": "Meloetta",
+    "level": 70,
+    "section": "main",
+    "location": "Castelia City",
+    "notes": [
+      "-After defeating Ghetsis, talk to a new NPC in a Village Bridge building.",
+      "**The event associated with Meloetta where you get Relic Song will not activate",
+      "upon catching Meloetta."
+    ]
+  },
+  {
+    "dexNumber": 649,
+    "name": "Genesect",
+    "level": 70,
+    "section": "main",
+    "location": "P2 Laboratory",
+    "notes": [
+      "-After defeating Ghetsis, talk to a new NPC in a Village Bridge building.",
+      "**The event associated with Genesect where you get the drives will not activate",
+      "upon catching Genesect.",
+      "---Post-Game---",
+      "With the exception of Latias, Latios, Phione and Manaphy,",
+      "as well as the ones listed above,  all Legendaries are housed",
+      "in the Relic Castle as \"Obelisks\" I was playing around with the",
+      "idea of having the Obelisks scattered all around Unova however",
+      "I was running into major problems like freezes so I wanted to",
+      "play it on the safe side. Besides, this is kinda like a \"resting\"",
+      "place for all the Legendary Spirits and it will be a nice little",
+      "challenge if you wanted to go in and catch them all in one sitting!",
+      "They are all encountered at Level 70."
+    ]
+  },
+  {
+    "dexNumber": 380,
+    "name": "Latias",
+    "level": 80,
+    "section": "post-game",
+    "location": "Nimbasa City",
+    "notes": [
+      "-Can be encountered after defeating Veteran Ambrosia",
+      "and acquiring the God Stone."
+    ]
+  },
+  {
+    "dexNumber": 381,
+    "name": "Latios",
+    "level": 80,
+    "section": "post-game",
+    "location": "Route 12",
+    "notes": [
+      "-Can be encountered after catching/defeating Latias",
+      "in Nimbasa City",
+      "#489 Phione",
+      "Breed Manaphy",
+      "-See Manaphy",
+      "#490 Manaphy",
+      "Undella Town.",
+      "-Found as an egg between the two rocks south of town.",
+      "Does NOT require obtaining the God Stone.",
+      "In order to encounter all of the Gen 1-4 Legendary Pokemon (With the exception of Manaphy)",
+      "you will need to find the Enigma Stone in Giant's Chasm, take it to an NPC in Anville Town",
+      "and then talk to a Veteran NPC in Nimbasa"
+    ]
+  }
+]

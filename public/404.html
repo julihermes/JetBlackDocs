@@ -1,0 +1,27 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>JetBlack Docs</title>
+    <script>
+      // GitHub Pages has no server-side routing, so a deep link like
+      // /pokedex/serperior 404s. This encodes the real path into a query
+      // string and redirects to index.html, which decodes it back on load
+      // (see the matching snippet in index.html). Standard trick for SPAs
+      // hosted on GitHub Pages — see https://github.com/rafgraph/spa-github-pages.
+      // segmentCount = 1 assumes a project page served under /<repo-name>/ (the
+      // GitHub Actions workflow sets Vite's base the same way). Set it to 0 only
+      // if this site is published at the root of a username.github.io page instead.
+      var segmentCount = 1;
+      var l = window.location;
+      l.replace(
+        l.protocol + "//" + l.hostname + (l.port ? ":" + l.port : "") +
+          l.pathname.split("/").slice(0, 1 + segmentCount).join("/") + "/?p=/" +
+          l.pathname.slice(1).split("/").slice(segmentCount).join("/").replace(/&/g, "~and~") +
+          (l.search ? "&q=" + l.search.slice(1).replace(/&/g, "~and~") : "") +
+          l.hash,
+      );
+    </script>
+  </head>
+  <body></body>
+</html>

@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-09-19T19:16:59.821Z",
+  "counts": {
+    "features": 16,
+    "evolutions": 49,
+    "legendaries": 14,
+    "moveChanges": 106,
+    "items": 30,
+    "changelog": 10,
+    "wildEncounterLocations": 58,
+    "pokemon": 649,
+    "trainerLocations": 81
+  }
+}

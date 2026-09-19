@@ -1,0 +1,125 @@
+Due to v1.3 adding the Unova Mythicals into the game, I thought it would be prudent
+to add a small document noting where they are and who is available:
+
+----------------------
+#494 Victini (Lvl 70)
+----------------------
+Liberty Garden - Unchanged from Vanilla*
+*Liberty Garden is now only accessible during the Post-Game after Ace Trainer Dheku in Shopping Mall Nine
+is defeated.
+
+----------------------
+#571 Zoroark (Lvl 30)**
+----------------------
+Lostlorn Forest
+-Requires talking to the female Pokemon Ranger in Driftveil city (in the main house on the cliff near the gym)
+**Okay yes. Zoroark isn't a Legendary but it's a notable static encounter that will allow
+you to acquire TM95 Snarl from Mr.Lock.
+
+-----------------------
+#638 Cobalion (Lvl 42)
+-----------------------
+Guidance Chamber - Unchanged from Vanilla
+
+-----------------------
+#639 Terrakion (Lvl 42)
+------------------------
+Trial Chamber - Unchanged from Vanilla
+-Requires Cobalion to be encountered
+
+-----------------------
+#640 Virizion (Lvl 42)
+-----------------------
+Verdant Chamber - Unchanged from Vanilla
+-Requires Cobalion to be encountered
+
+-----------------------
+#641 Tornadus (Lvl 40)
+-----------------------
+Various Routes - Unchanged from Vanilla
+
+------------------------
+#643 Reshiram (Lvl 50)
+-----------------------
+N's Castle - Unchanged from Vanilla
+
+------------------------
+#645 Landorus (Lvl 70)
+------------------------
+Abundant Shrine - Unchanged from Vanilla
+**Does not need Thundurus or Tornadus in the
+party.
+
+---------------------
+#646 Kyurem (Lvl 70)
+---------------------
+Giant Chasm - Unchanged from Vanilla
+-Ghetsis must be defeated as part of the main campaign
+
+---------------------
+#647 Keldeo (Lvl 70)
+---------------------
+Challenger's Cave
+-After defeating Ghetsis, talk to a new NPC in a Village Bridge building.
+
+-----------------------
+#648 Meloetta (Lvl 70)
+-----------------------
+Castelia City
+-After defeating Ghetsis, talk to a new NPC in a Village Bridge building.
+**The event associated with Meloetta where you get Relic Song will not activate
+upon catching Meloetta.
+
+-----------------------
+#649 Genesect (Lvl 70)
+-----------------------
+P2 Laboratory
+-After defeating Ghetsis, talk to a new NPC in a Village Bridge building.
+**The event associated with Genesect where you get the drives will not activate
+upon catching Genesect.
+
+---Post-Game---
+
+With the exception of Latias, Latios, Phione and Manaphy,
+as well as the ones listed above,  all Legendaries are housed 
+in the Relic Castle as "Obelisks" I was playing around with the
+idea of having the Obelisks scattered all around Unova however 
+I was running into major problems like freezes so I wanted to 
+play it on the safe side. Besides, this is kinda like a "resting"
+place for all the Legendary Spirits and it will be a nice little
+challenge if you wanted to go in and catch them all in one sitting!
+They are all encountered at Level 70.
+
+---------------------
+#380 Latias (Lvl 80)
+---------------------
+Nimbasa City
+-Can be encountered after defeating Veteran Ambrosia
+and acquiring the God Stone.
+
+---------------------
+#381 Latios (Lvl 80)
+---------------------
+Route 12
+-Can be encountered after catching/defeating Latias
+in Nimbasa City
+
+------------
+#489 Phione
+------------
+Breed Manaphy
+-See Manaphy
+
+------------
+#490 Manaphy
+------------
+Undella Town.
+-Found as an egg between the two rocks south of town.
+Does NOT require obtaining the God Stone.
+
+
+In order to encounter all of the Gen 1-4 Legendary Pokemon (With the exception of Manaphy)
+you will need to find the Enigma Stone in Giant's Chasm, take it to an NPC in Anville Town
+and then talk to a Veteran NPC in Nimbasa
+
+

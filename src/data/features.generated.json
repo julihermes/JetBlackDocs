@@ -1,0 +1,221 @@
+{
+  "intro": [
+    "Enhance a playthrough of Pokemon Black by increasing the availabilty of wild Pokemon, tweaking trainer rosters throughout the game while keeping the original spirit of the first installments of Gen 5 intact such as, and this is the most important one, keeping the main campaign limited to the original Unova dex so only Gen 5 Pokemon are available."
+  ],
+  "bullets": [
+    {
+      "text": "Wild Pokemon are a lot more diverse throughout the game, with several species being added earlier to give a fresh new experience to players, such as Minccino being found on Route 2 and Ducklett being added to Route 3. Post-Game areas also receive this change, with as many Pokemon from previous generations being available as possible"
+    },
+    {
+      "text": "All Pokemon have updated Learnsets, adding some moves that they learn from later generations as well as adding some choice Egg moves and moves they would learn through the B2W2 move tutors while also getting a few new toys to play with (Such as Blaze Kick for Zebstrika, Earth Power for Lilligant and Psycho Cut for Serperior)"
+    },
+    {
+      "text": "Trainer rosters have been updated to add a little bit more variety to a playthrough while Gym Leaders and other boss characters have been given extra Pokemon and/or new items and strategies. This should increase the difficulty of a playthrough but it's more to keep players on their toes and be more engaged rather than rip their hair out. [Sidenote - There are going to be some cheeky surprises and potential difficulty spikes, especially with Ace Trainers/Veterans and Lenora living up to her reputation with her added third Pokemon]"
+    },
+    {
+      "text": "Due to the amount of Level 1 moves added to Pokemon's learnsets, Heart Scales have been made a lot more readily available with Alomomola having a 50% chance of holding one (a la Luvdisc) and the Athletes in Big Stadium/Small Court rewarding Heart Scales when they are defeated."
+    },
+    {
+      "text": "There are Four new NPC trainers during the main campaign that each award an item upon being defeated;"
+    },
+    {
+      "text": "Additionally all 11* Gym Leaders can be encountered hanging around the post-game areas and can be challenged to a one time rematch. They will automatically challenge you to a battle if talked to so make sure you're prepared and have saved previously (or just prepared if you're Nuzlocking) *Including the other two Striaton Brothers as well as Iris."
+    },
+    {
+      "text": "A couple of extra bonus battles can be done in the Shopping Mall Nine during the post-game, one of them being a rematch with me! Well, rematch if you encountered me in Victory Road that is."
+    },
+    {
+      "text": "Challenger's Cave and Dreamyard Basement, after certain conditions are met, will be accessible before the Post-Game, opening up a lot of optional content and allowing valuable items like TM13 Ice Beam, TM29 Psychic and the Life Orb to be acquired before the Post-Game -Challenger's Cave: Reach Route 9 -Dreamyard Basement: Beat Skyla"
+    },
+    {
+      "text": "Some item placements have been shifted around during the main campaign; TM59 Incinerate - Route 2 (requires Cut) Shiny Stone - Lostlorn Forest Choice Scarf - Moor of Iccirus (requires Strength) Choice Specs - Lostlorn Forest (requires Waterfall) Choice Band - Dragonspiral Tower TM13 Ice Beam - Challenger's Cave TM29 Psychic - Dreamyard (requires going through the basement) Life Orb - Challenger's Cave The little girl on Route 6 that gives you a Shiny Stone now gives you a RageCandyBar which you can take to the Desert Resort to encounter a Zen Mode Darmanitan for your playthrough."
+    },
+    {
+      "text": "Trainer rosters for the Royal Unova in Castelia has been updated. Completing the event now rewards different items from vanilla;"
+    },
+    {
+      "text": "- Berry Bundle merchants have been added to several towns across Unova, they work similarly to how the MooMoo Milk vendor works in that you pay them that cold hard munty and you get a stack of Berries. They are found in;"
+    },
+    {
+      "text": "As of v1.5, every Pokemon can be obtainable within JetBlack."
+    },
+    {
+      "text": "As of v1.6, Elemental Gems can be obtained by trading Dragon Scales to an NPC in Nacrene City."
+    },
+    {
+      "text": "As of v1.7, in Nimbasa there is an NPC who will allow you to switch what kind of ball your Pokemon are caught in."
+    },
+    {
+      "text": "As of v1.7, Several 2nd clerks in select Pokemon Centres now sell some handy items for your playthrough. Mostly Evolution stones and one use held items."
+    },
+    {
+      "text": "As of v1.7, the Harlequin in Studio Castelia will now let you choose from these items after showing him the Pokemon of the type he requests once per day; Cherish Ball Heart Scale Dragon Scale Rare Candy PP Up"
+    }
+  ],
+  "bonusTrainers": [
+    {
+      "name": "Blackbelt Takeshi",
+      "location": "Outer Pinwheel Forest",
+      "reward": "Muscle Band"
+    },
+    {
+      "name": "Lass Alicia",
+      "location": "Castelia City",
+      "reward": "Wise Glasses"
+    },
+    {
+      "name": "Ace Trainer Sasha",
+      "location": "Driftveil City",
+      "reward": "Leftovers"
+    },
+    {
+      "name": "Veteran Zenith",
+      "location": "Dragonspiral Tower",
+      "reward": "TM35 Flamethrower"
+    }
+  ],
+  "berryVendors": [
+    {
+      "location": "Nacrene City Pokemon Centre*",
+      "kind": "Basic restoration Berries (Oran, Pecha, Cheri etc)"
+    },
+    {
+      "location": "Nimbasa City Pokemon Centre",
+      "kind": "Exotic/Natural Gift Berries"
+    },
+    {
+      "location": "Driftveil City Pokemon Centre",
+      "kind": "Higher End restoration Berries (Sitrus, Leppa, Lum etc)"
+    },
+    {
+      "location": "Driftveil City Market",
+      "kind": "Stat Pinch Berries"
+    },
+    {
+      "location": "Mistralton City Airport",
+      "kind": "Type reducing Berries (fair warning, this will be a very long sequence!"
+    },
+    {
+      "location": "Opelucid City Pokemon Centre",
+      "kind": "Exotic Pinch Berries (Custap, Starf etc)"
+    }
+  ],
+  "royalUnovaRewards": [
+    {
+      "day": "Monday",
+      "item": "Focus Sash"
+    },
+    {
+      "day": "Tuesday",
+      "item": "Toxic Orb"
+    },
+    {
+      "day": "Wednesday",
+      "item": "Flame Orb"
+    },
+    {
+      "day": "Thursday",
+      "item": "5 x White Herb"
+    },
+    {
+      "day": "Friday",
+      "item": "10 x Leppa Berry"
+    },
+    {
+      "day": "Saturday",
+      "item": "Cherish Ball"
+    },
+    {
+      "day": "Sunday",
+      "item": "20 x Rare Candy"
+    }
+  ],
+  "nuzlocke": {
+    "intro": [
+      "For those who want to attempt a Hardcore Nuzlocke of Pokémon JetBlack, I have provided the Level caps for all the main bosses as well as some optional level caps (denoted with a *). If you have the time, I would love it if you considered your Nuzlocke completed after defeating Alder in the Post-Game and become the champion of Unova! But that's entirely optional, it is YOUR run after all and it's up to your discretion.",
+      "As for grinding, I have tried to make it so that Audino have higher-ish levels (especially on Route 10 and Giant Chasm) but I have not provided an infinite source of Rare Candies as I do want to keep the RPG aspect of the series but by all means hack them in via PokeGen,PKHex etc"
+    ],
+    "levelCaps": [
+      {
+        "boss": "Cilan/Chili/Cress",
+        "level": 15,
+        "optional": false
+      },
+      {
+        "boss": "Lenora",
+        "level": 21,
+        "optional": false
+      },
+      {
+        "boss": "Burgh",
+        "level": 25,
+        "optional": false
+      },
+      {
+        "boss": "Elesa",
+        "level": 29,
+        "optional": false
+      },
+      {
+        "boss": "Clay",
+        "level": 34,
+        "optional": false
+      },
+      {
+        "boss": "Skyla",
+        "level": 39,
+        "optional": false
+      },
+      {
+        "boss": "Brycen",
+        "level": 44,
+        "optional": false
+      },
+      {
+        "boss": "Drayden",
+        "level": 51,
+        "optional": false
+      },
+      {
+        "boss": "Elite 4",
+        "level": 56,
+        "optional": false
+      },
+      {
+        "boss": "N",
+        "level": 58,
+        "optional": false
+      },
+      {
+        "boss": "Ghetsis",
+        "level": 60,
+        "optional": false
+      },
+      {
+        "boss": "Leader Rematch",
+        "level": 69,
+        "optional": true
+      },
+      {
+        "boss": "SM9 Trainers",
+        "level": 73,
+        "optional": true
+      },
+      {
+        "boss": "Cynthia",
+        "level": 78,
+        "optional": true
+      },
+      {
+        "boss": "Elite 4 Round 2",
+        "level": 76,
+        "optional": false
+      },
+      {
+        "boss": "Alder",
+        "level": 79,
+        "optional": false
+      }
+    ]
+  }
+}

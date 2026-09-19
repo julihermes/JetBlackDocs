@@ -1,0 +1,1553 @@
+* Means Shaking Grass/Rippling Water/Dust Clouds
+- Means Seasonal changes
+---------
+Route 1
+---------
+
+
+Normal Grass
+------------------------
+Patrat   Lvl 2-4  40%
+Purrloin Lvl 2-5  30%
+Lillipup Lvl 2-4  30%
+Audino*  Lvl 2-4  100%*
+------------------------
+
+Dark Grass
+----------------------
+Herdier Lvl 32-34 40%
+Watchog Lvl 32-35 29%
+Liepard Lvl 32-35 29%
+Scrafty Lvl 32-35  2%
+----------------------
+
+Surfing
+--------------------------
+Basculin-R  Lvl 5-15  60%
+Basculin-B  Lvl 5-15  40%
+Basculin-R* Lvl 5-20  40%
+Basculin-B* Lvl 5-20  60%
+--------------------------
+
+Fishing
+---------------------------
+Basculin-R  Lvl 35-55 60%
+Corphish    Lvl 35-55 30%
+Feebas      Lvl 35-55 10%
+Crawdaunt*  Lvl 35-70 60%*
+Milotic*    Lvl 35-70 30%*
+Basculin-B* Lvl 35-70 10%*
+---------------------------
+
+---------
+Route 2
+---------
+
+Normal Grass
+-----------------------
+Lillipup Lvl 4-7 40%
+Pidove   Lvl 5-7 30%
+Purrloin Lvl 4-7 20%
+Minccino Lvl 4-7 10%
+Audino*  Lvl 4-7 100%*
+-----------------------
+
+
+------------------
+Dreamyard - Outer
+------------------
+
+Normal Grass
+-----------------------
+Purrloin  Lvl 8-11 30%
+Munna     Lvl 9-11 30%
+Patrat    Lvl 9-11 15%
+Trubbish  Lvl 9-11 15%
+Gothita   Lvl 9-11 10%
+Audino*   Lvl 8-11 75%*
+Solosis*  Lvl 9-11 15%*
+Zorua*    Lvl 9-11 5%*
+Musharna* Lvl 11   5%*
+-----------------------
+
+Dark Grass
+------------------------
+Watchog   Lvl 33-34 20%
+Liepard   Lvl 33-34 20%
+Munna     Lvl 33-34 20%
+Gothorita Lvl 33-34 20%
+Duosion   Lvl 33-34 20%
+------------------------
+
+-------------------
+Dreamyard Basement
+-------------------
+
+Dark Grass
+---------------------
+Munna     Lvl 35 40%
+Gothorita Lvl 35 25%
+Duosion   Lvl 35 25%
+Elgyem    Lvl 35 10%
+---------------------
+
+--------
+Route 3
+--------
+
+Normal Grass
+-----------------------
+Pidove   Lvl 9-12 40%
+Blitzle  Lvl 9-12 30%
+Minccino Lvl 9-12 20%
+Ducklett Lvl 9-12 10%
+Audino*  Lvl 9-12 100%*
+------------------------
+
+Dark Grass
+-----------------------
+Pidove   Lvl 14-15 30%
+Blitzle  Lvl 14-15 30%
+Minccino Lvl 14-15 20%
+Ducklett Lvl 14-15 20%
+-----------------------
+
+Surfing
+---------------------------
+Basculin-R  Lvl 5-20 60%
+Basculin-B  Lvl 5-20 40%
+Basculin-B* Lvl 5-20 60%*
+Basculin-R* Lvl 5-20 40%*
+---------------------------
+
+Fishing
+--------------------------
+Goldeen     Lvl 35-55 60%
+Poliwag     Lvl 35-60 30%
+Basculin-R  Lvl 35-55 10%
+Seaking*    Lvl 35-60 60%*
+Poliwhirl*  Lvl 35-70 30%*
+Basculin-B* Lvl 35-60 10%*
+--------------------------
+
+---------------
+Striaton City
+---------------
+
+Surfing
+------------------------
+Basculin-R  Lvl 5-15 100%
+Basculin-B* Lvl 5-20 100%*
+------------------------
+
+Fishing
+------------------------ 
+Goldeen     Lvl 35-55 60%
+Basculin-R  Lvl 35-55 40%
+Seaking*    Lvl 35-60 60%
+Basculin-B* Lvl 35-60 40%
+
+----------------
+Wellspring Cave
+----------------
+
+Land
+---------------------------
+Roggenrola Lvl 11-14 50%
+Woobat     Lvl 11-14 49%
+Axew       Lvl 11-14  1%
+Drilbur*   Lvl 11-14 100%*
+---------------------------
+
+Surf
+---------------------------
+Basculin-R  Lvl 5-15 100%
+Basculin-B* Lvl 5-20 100%*
+---------------------------
+
+Fishing
+--------------------------
+Slowpoke    Lvl 35-55 70%
+Basculin-R  Lvl 35-55 30%
+Slowbro*    Lvl 35-60 60%*
+Slowking*   Lvl 35-60 30%*
+Basculin-B* Lvl 35-60 10%*
+---------------------------
+
+---------------------------
+Pinwheel Forest - Outside
+---------------------------
+
+Normal Grass
+------------------------
+Tympole  Lvl 14-15  30%
+Pidove   Lvl 14-15  30%
+Timburr  Lvl 14-15  20%
+Deerling Lvl 14-15  20%
+Audino*  Lvl 14-15  90%*
+Mienfoo* Lvl 14-15  10%*
+------------------------
+
+Dark Grass
+-----------------------
+Timburr  Lvl 16-17 30%
+Tympole  Lvl 16-17 30%
+Deerling Lvl 16-17 20%
+Throh    Lvl 17    10%
+Sawk     Lvl 17    10%
+-----------------------
+
+-------------------------
+Pinwheel Forest - Inside
+-------------------------
+
+Normal Grass
+------------------------
+Cottonee Lvl 14-17 25%
+Petilil  Lvl 14-17 25%
+Venipede Lvl 14-17 20%
+Sewaddle Lvl 14-17 20%
+Foongus  Lvl 14-17 10%
+Audino*  Lvl 14-17 65%*
+Panpour* Lvl 15    10%*
+Pansear* Lvl 15    10%*
+Pansage* Lvl 15    10%* 
+Joltik*  Lvl 17     5%*
+------------------------
+
+Dark Grass
+--------------------------
+Whimsicott Lvl 24-25 25%
+Lilligant  Lvl 24-25 25%
+Whirlipede Lvl 24-25 20%
+Swadloon   Lvl 24-25 20%
+Foongus    Lvl 24-25 10%
+--------------------------
+
+Surf
+--------------------------
+Basculin-R  Lvl 5-20 100%
+Basculin-B* Lvl 5-20 100%*
+--------------------------
+
+Fishing
+-------------------------
+Goldeen   Lvl 35-55 60%
+Basculin  Lvl 35-55 30%
+Barboach  Lvl 35-55 10%
+Seaking*  Lvl 35-60 60%*
+Whiscash* Lvl 35-60 40%*
+-------------------------
+
+--------
+Route 4
+--------
+
+Sand
+------------------------
+Sandile  Lvl 15-18  30%
+Darumaka Lvl 15-18  30%
+Scraggy  Lvl 16-17  20%
+Trubbish Lvl 15-18  20%
+------------------------
+
+Surf
+-------------------------
+Frillish   Lvl 5-15 60%
+Alomomola  Lvl 5-15 40%
+Alomomola* Lvl 5-20 90%*
+Jellicent* Lvl 5-20 10%*
+-------------------------
+
+Fishing
+--------------------------
+Krabby     Lvl 35-55  60%
+Clamperl   Lvl 35-55  30%
+Luvdisc    Lvl 35-55  10%
+Relicanth* Lvl 35-60  60%
+Luvdisc*   Lvl 35-60  30%
+Huntail*   Lvl 35-70   5%
+Gorebyss*  Lvl 35-70   5%
+--------------------------
+
+--------------------------
+Desert Resort - Entrance
+--------------------------
+Sandile  Lvl 20-21 30%
+Darumaka Lvl 20-21 30%
+Scraggy  Lvl 20-21 20%
+Vullaby  Lvl 20-21 10%
+Maractus Lvl 20-21  5%
+
+------------------------
+Desert Resort - Desert
+------------------------
+Sandile  Lvl 21-22  20%
+Darumaka Lvl 21-22  20%
+Dwebble  Lvl 21-22  20%
+Maractus Lvl 21-22  15%
+Sigilyph Lvl 21-22  14%
+Elgyem   Lvl 21-22  10%
+Larvesta Lvl 22-22   1%
+
+--------------
+Relic Castle
+--------------
+
+1F
+-----------------------
+Yamask  Lvl 19-22  50%
+Sandile Lvl 19-22  50%
+-----------------------
+
+B1F
+------------------------
+Yamask  Lvl 21-23   40%
+Sandile Lvl 21-23   40%
+Golett  Lvl 21-23   20%
+------------------------
+
+B2-5F
+-------------------------
+Krokorok   Lvl 34-37 40%
+Cofagrigus Lvl 34-37 40%
+Golett     Lvl 34-37 20%
+-------------------------
+
+B6F
+-------------------------
+Krokorok   Lvl 34-37 30%
+Cofagrigus Lvl 34-37 30%
+Golett     Lvl 34-37 24%
+Beheeyem   Lvl 39    15%
+Krookodile Lvl 40     1%
+--------------------------
+
+Relic Castle: Post-Game Areas
+------------------------
+Sandslash  Lvl 52  20%
+Onix       Lvl 52  20%
+Claydol    Lvl 52  15%
+Golurk     Lvl 52  10%
+Cofagrigus Lvl 52  10%
+Cranidos   Lvl 52  10%
+Shieldon   Lvl 52  10%
+Aerodactyl Lvl 52  5%
+------------------------
+
+Relic Castle: The "Claydol" rooms
+-------------------
+Room 1
+-------------------
+Claydol Lvl 52 80%
+Unown-A Lvl 52 20%
+-------------------
+Room 2
+-------------------
+Claydol Lvl 52 80%
+Unown-Z Lvl 52 20%
+-------------------
+
+--------
+Route 5
+--------
+
+Normal Grass
+-------------------------
+Solosis  Lvl 22-23  40%
+Minccino Lvl 22-23  30%
+Trubbish Lvl 22-23  20%
+Liepard  Lvl 22-23  10%
+Audino*  Lvl 22-23  80%*
+Emolga*  Lvl 22-23  10%*
+Tepig*   Lvl 22-23  10%*
+-------------------------
+
+Dark Grass
+-------------------------
+Solosis  Lvl 25-26  40%
+Minccino Lvl 25-26  30%
+Trubbish Lvl 25-26  20%
+Liepard  Lvl 25-26  10%
+-------------------------
+
+----------
+Route 16
+----------
+
+Normal Grass
+---------------------------
+Gothita   Lvl 22-23  40%
+Mienfoo   Lvl 22-23  35%
+Solosis   Lvl 22-23  20%
+Liepard   Lvl 22-23   5%
+Audino*   Lvl 20-22  80%*
+Emolga*   Lvl 20     10%*
+Oshawott* Lvl 22     10%*
+---------------------------
+
+Dark Grass
+-------------------------
+Gothita  Lvl 25-26  40%
+Mienfoo  Lvl 25-26  35%
+Solosis  Lvl 25-26  20%
+Liepard  Lvl 25-26   5%
+-------------------------
+
+----------------
+Lostlorn Forest
+----------------
+
+Normal Grass
+--------------------------
+Karrablast Lvl 22-23  20%
+Cottonee   Lvl 22-23  20%
+Petilil    Lvl 22-23  20%
+Tranquill  Lvl 22-23  15%
+Swadloon   Lvl 22-23  10%
+Venipede   Lvl 22-23  10%
+Zorua      Lvl 20      5%
+Audino*    Lvl 22-23  80%*
+Snivy*     Lvl 22-23  10%*
+Zorua*     Lvl 22-23  10%*
+--------------------------
+
+Dark Grass
+-------------------------
+Karrablast Lvl 35-36  35%
+Swadloon   Lvl 35-36  20%
+Whirlipede Lvl 35-36  20%
+Unfezant   Lvl 35-36  25%
+--------------------------
+
+Surfing
+--------------------------
+Basculin-R  Lvl 5-15 100%
+Basculin-B* Lvl 5-20 100%*
+--------------------------
+
+Fishing
+---------------------------
+Goldeen     Lvl 35-55  70%
+Basculin-R  Lvl 35-55  30%
+Seaking*    Lvl 35-70  70%*
+Basculin-B  Lvl 35-60  30%*
+---------------------------
+
+------------------------
+Driftveil Drawbridge
+------------------------
+Ducklett Lvl 24-25  40%
+Rufflet  Lvl 24-25  30%
+Vullaby  Lvl 24-25  30%
+
+----------------
+Driftveil City
+----------------
+
+Surfing
+---------------------------
+Frillish   Lvl 10-25 100%
+Alomomola* Lvl 10-30  95%*
+Jellicent* Lvl 10-30   5%*
+---------------------------
+
+Fishing
+-------------------------
+Chinchou Lvl 35-55  60%
+Staryu   Lvl 35-55  30%
+Luvdisc  Lvl 35-55  10%
+Lanturn* Lvl 35-60  60%*
+Starmie* Lvl 35-60  30%*  
+Luvdisc* Lvl 35-60  10%*
+-------------------------
+
+--------------
+Cold Storage
+--------------
+
+Normal Grass
+---------------------------
+Herdier    Lvl 23-24  40%
+Vanillite  Lvl 23-24  25%
+Timburr    Lvl 23-24  15%
+Minccino   Lvl 23-24  10%
+Cubchoo    Lvl 23-24  10%
+Audino*    Lvl 23-24  90%*
+Stoutland* Lvl 25      5%*
+Cinccino*  Lvl 25      5%*
+---------------------------
+
+Dark Grass
+-------------------------
+Herdier   Lvl 26-27  40%
+Vanillite Lvl 26-27  25%
+Timburr   Lvl 26-27  15%
+Minccino  Lvl 26-27  10%
+Cubchoo   Lvl 26-27  10%
+-------------------------
+
+--------
+Route 6
+--------
+
+Normal Grass
+-----------------------------
+Tranquill  Lvl 24-25  20%-   Spring/Summer/Autumn only
+Vanillite  Lvl 24-25  20%-   Winter Only
+Karrablast Lvl 24-25  20%    
+Shelmet    Lvl 24-25  20%
+Deerling   Lvl 24-25  20%
+Foongus    Lvl 24-25  10%
+Rufflet    Lvl 24-25  10%
+*Audino    Lvl 24-25  80%*
+*Stunfisk  Lvl 24-25  10%*-  Spring/Summer/Autumn Only
+*Sawsbuck  Lvl 24-25  10%*-  (20% in Winter)
+----------------------------
+
+Dark Grass
+---------------------------
+Tranquill  Lvl 27-28  20%-   Spring/Summer/Autumn only
+Vanillite  Lvl 27-28  20%-   Winter Only
+Karrablast Lvl 27-28  20%    
+Shelmet    Lvl 27-28  20%
+Deerling   Lvl 27-28  20%
+Foongus    Lvl 27-28  10%
+Rufflet    Lvl 27-28  10%
+---------------------------
+
+Surfing
+----------------------------
+Basculin-R  Lvl 10-25 100%
+Basculin-B* Lvl 10-30 100%*
+----------------------------
+
+Fishing
+---------------------------
+Poliwag    Lvl 35-55  60%
+Basculin   Lvl 35-55  30%
+Poliwhirl  Lvl 35-55  10%
+Politoed*  Lvl 35-70  60%
+Poliwrath* Lvl 35-70  40%
+---------------------------
+
+--------------------------------------
+Chargestone Cave
+--------------------------------------
+Klink     Lvl 25-27  40% (30% on B2F)
+Tynamo    Lvl 25-27  10% (20% on B2F)
+Ferroseed Lvl 25-27  20%
+Boldore   Lvl 25-27  10%
+Joltik    Lvl 25-27  20%  
+Drilbur*  Lvl 25-27  90% (80% on B2F)
+Durant*   Lvl 25-27  10% (20% on B2F)
+--------------------------------------
+
+--------
+Route 7
+--------
+
+Normal Grass
+---------------------------
+Watchog   Lvl 27-29  30%
+Zebstrika Lvl 27-29  30% 
+Pawniard  Lvl 27-29  10%
+Foongus   Lvl 27-29  10%
+Rufflet   Lvl 27-29  10%  (Spring/Summer/Autumn Only) 
+Vullaby   Lvl 27-29  10%  (Spring/Summer/Autumn Only) 
+Cubchoo   Lvl 27-29  20%  (Winter Only)
+Audino*   Lvl 27-29  85%
+Emolga*   Lvl 27     10%
+Amoongus* Lvl 29      5%  (4% in Winter)
+Beartic   Lvl 27-29   1%  (Winter only)
+--------------------------
+
+Dark Grass
+---------------------------
+Watchog   Lvl 30-32  30%
+Zebstrika Lvl 30-32  30% 
+Pawniard  Lvl 30-32  10%
+Foongus   Lvl 30-32  10%
+Rufflet   Lvl 30-32  10%  (Spring/Summer/Autumn Only) 
+Vullaby   Lvl 30-32  10%  (Spring/Summer/Autumn Only) 
+Cubchoo   Lvl 30-32  20%  (Winter Only)
+---------------------------
+
+----------------
+Celestial Tower
+----------------
+
+2F
+------------------------
+Litwick Lvl 26-29 100%
+------------------------
+
+3F
+------------------------
+Litwick Lvl 28-30  40%
+Elgyem  Lvl 26-29  40%
+Woobat  Lvl 26-29  20%
+------------------------
+
+4F
+------------------------
+Litwick Lvl 28-30  40%
+Elgyem  Lvl 26-30  40%
+Woobat  Lvl 26-30  20%
+------------------------
+
+5F
+------------------------
+Litwick  Lvl 30  40%
+Elgyem   Lvl 30  40%
+Swoobat  Lvl 30  20%
+Lampent  Lvl 32   4%
+Beheeyem Lvl 33   1%
+------------------------
+
+
+-----------------
+Mistralton Cave
+-----------------
+
+1F
+-------------------------
+Boldore  Lvl 28-31  50%
+Woobat   Lvl 28-30  30%
+Axew     Lvl 30-31  20%
+Drilbur* Lvl 28-31 100%*
+-------------------------
+
+2F
+--------------------------
+Boldore    Lvl 30-31  30%
+Woobat     Lvl 30-31  30%
+Axew       Lvl 30-31  20%
+Swoobat    Lvl 31     20%
+Excadrill* Lvl 31     85%*
+Deino*     Lvl 31     15%*
+--------------------------
+
+--------------------------
+Guidance Chamber
+--------------------------      
+Boldore    Lvl 30-31  30%
+Woobat     Lvl 30-31  25%
+Axew       Lvl 30-31  20%   
+Swoobat    Lvl 31     20%
+Deino      Lvl 31      5%
+Excadrill* Lvl 31     99%*
+Zweilous*  Lvl 33      1%*
+--------------------------
+
+---------
+Route 17
+---------
+
+Surfing
+--------------------------
+Frillish   Lvl  5-30  60%
+Alomomola  Lvl  5-30  40% 
+Alomomola* Lvl 15-35  60%*
+Jellicent* Lvl 15-35  40%*
+--------------------------
+
+Fishing
+---------------------------
+Finneon    Lvl 35-55  60%
+Qwilfish   Lvl 35-55  30%
+Seadra     Lvl 35-55  10%
+Lumineon*  Lvl 35-60  60%*
+Kingdra*   Lvl 35-60  30%*
+Alomomola* Lvl 35-60  10%*
+---------------------------
+
+---------
+Route 18
+---------
+
+Normal Grass
+---------------------------
+Scraggy    Lvl 30-31  30%
+Dwebble    Lvl 30-31  30%
+Bouffalant Lvl 30-31  20%
+Throh      Lvl 30-31  10%
+Sawk       Lvl 30-31  10%
+Audino*    Lvl 30-31  90%*
+Larvesta*  Lvl 31     10%*
+---------------------------
+
+Dark Grass
+---------------------------
+Scrafty    Lvl 34-35  30%
+Crustle    Lvl 34-35  30%
+Bouffalant Lvl 34-35  20%
+Throh      Lvl 34-35  10%
+Sawk       Lvl 34-35  10%
+---------------------------
+
+Surfing
+---------------------------
+Frillish   Lvl 15-35  60%
+Alomomola  Lvl 15-35  40%
+Alomomola* Lvl 15-35  60%*
+Jellicent* Lvl 15-35  40%*
+---------------------------
+
+Fishing
+--------------------------
+Finneon    Lvl 35-55  60%
+Seadra     Lvl 35-55  30%
+Qwilfish   Lvl 35-55  10%
+Lumineon*  Lvl 35-60  60%*
+Kingdra*   Lvl 35-60  30%*
+Alomomola* Lvl 35-60  10%*
+--------------------------
+
+---------------
+P2 Laboratory
+---------------
+
+Normal Grass
+---------------------------
+Watchog    Lvl 30-31  30%
+Herdier    Lvl 30-31  30%
+Klink      Lvl 30-31  30%
+Larvesta   Lvl 30-31  10%
+Audino*    Lvl 30-31  95%*
+Stoutland* Lvl 31      5%*
+---------------------------
+
+Surf
+--------------------------
+Frillish   Lvl 5-15 100%   
+Alomomola* Lvl 5-20  95%*
+Jellicent* Lvl 5-20   5%*
+--------------------------
+
+Fishing
+--------------------------
+Finneon    Lvl 35-55  60%
+Qwilfish   Lvl 35-55  30%
+Seadra     Lvl 35-55  10%
+Lumineon*  Lvl 35-60  60%*
+Kingdra*   Lvl 35-60  30%*
+Alomomola* Lvl 35-60  10%*
+---------------------------
+
+----------------------------
+Twist Mountain
+----------------------------
+Woobat     Lvl 30-31  28%-  (10% in Winter)
+Boldore    Lvl 31     20%
+Gurdurr    Lvl 31     20%
+Cubchoo    Lvl 30     20%-  (30% and Level 31 in Winter)
+Heatmor    Lvl 30-31  10%
+Cryogonal  Lvl 31      1%-  (Level 28 in Summer. 9% and Level 33 in Winter)  
+Vanillish  Lvl 31      1%-  (Spring, Summer, Autumn only)
+Vanilluxe  Lvl 35      1%-  (Winter Only)
+Excadrill* Lvl 32     80%
+Durant*    Lvl 32     20%
+----------------------------
+
+-------------
+Iccirus City
+-------------
+
+Normal "grass" (No encounters in Winter)
+-----------------------
+Stunfisk  Lvl 33  40%
+Shelmet   Lvl 33  40%
+Palpitoad Lvl 33  20%
+-----------------------
+
+Surfing
+----------------------------
+Stunfisk    Lvl 30     90%
+Palpitoad   Lvl 30     10%
+Seismitoad* Lvl 30-40  60%*
+Stunfisk*   Lvl 30-40  40%*
+----------------------------
+
+Fishing
+--------------------------
+Barboach   Lvl 35-55  60%
+Shellos    Lvl 35-55  30%
+Stunfisk   Lvl 35-55  10%
+Whiscash*  Lvl 35-60  60%*
+Gastrodon* Lvl 35-60  30%*
+Stunfisk*  Lvl 35-70  10%*
+--------------------------
+
+------------------------------
+Dragonspiral Tower - Outside:
+-------------------------------
+
+Normal Grass
+---------------------------
+Mienfoo   Lvl 31-33  40%- (30% in Winter)
+Cubchoo   Lvl 31-33  20%- (30% in Winter)
+Pawniard  Lvl 31-33  20%
+Rufflet   Lvl 31-33  10%
+Vullaby   Lvl 31-33  10%
+Audino*   Lvl 33     85%*
+Mienshao* Lvl 35     10%*- (5% in Winter)
+Beartic*  Lvl 35      5%*- (10% in Winter)
+----------------------------
+
+Dark Grass
+-------------------------
+Mienshao   Lvl 37   20%
+Beartic    Lvl 37   20%
+Bisharp    Lvl 37   20%
+Braviary   Lvl 37   20%
+Mandibuzz  Lvl 37   20%
+-------------------------
+
+Surfing
+----------------------------
+Basculin-R  Lvl 15-35 100%
+Basculin-B* Lvl 15-40 100%*
+----------------------------
+
+Fishing
+--------------------------
+Dratini    Lvl 35-55  60%
+Horsea     Lvl 35-55  30%
+Magikarp   Lvl 35-55  10%
+Dragonair* Lvl 35-60  60%*
+Seadra*    Lvl 35-60  30%*
+Gyarados*  Lvl 35-60  10%*
+---------------------------
+
+-----------------------------
+Dragonspiral Tower - Inside
+-----------------------------
+Golett    Lvl 34  40%
+Druddigon Lvl 34  40%
+Mienfoo   Lvl 34  20%
+-----------------------------
+
+---------
+Route 8: 
+---------
+Encounters are unavailable in Winter, apart from Surfing/Fishing encounters.
+
+Normal "Grass"
+------------------------
+Stunfisk  Lvl 33 40%
+Shelmet   Lvl 33 40%
+Palpitoad Lvl 33 20%
+-----------------------
+
+Surfing
+---------------------------
+Stunfisk    Lvl 30    90%
+Palpitoad   Lvl 30    10%
+Seismitoad* Lvl 30-40 60%*
+Stunfisk*   Lvl 30-40 40%*
+---------------------------
+
+Fishing
+--------------------------
+Barboach   Lvl 35-55  60%
+Shellos    Lvl 35-55  30%
+Stunfisk   Lvl 35-55  10%
+Whiscash*  Lvl 35-60  60%*
+Gastrodon* Lvl 35-60  30%*
+Stunfisk*  Lvl 35-70  10%*
+--------------------------
+
+----------------
+Moor of Iccirus
+----------------
+Encounters are unavailable in Winter, apart from Surfing/Fishing encounters.
+
+Normal "Grass"
+------------------------
+Stunfisk  Lvl 33 40%
+Shelmet   Lvl 33 40%
+Palpitoad Lvl 33 20%
+-----------------------
+
+Surfing
+---------------------------
+Stunfisk    Lvl 30    100%
+Palpitoad*  Lvl 30-40 60%*
+Seismitoad* Lvl 30-40 40%*
+---------------------------
+
+Fishing
+--------------------------
+Barboach   Lvl 35-55  60%
+Shellos    Lvl 35-55  30%
+Stunfisk   Lvl 35-55  10%
+Whiscash*  Lvl 35-60  60%*
+Gastrodon* Lvl 35-60  30%*
+Stunfisk*  Lvl 35-70  10%*
+--------------------------
+
+--------
+Route 9
+--------
+
+Normal Grass
+-------------------------
+Garbodor  Lvl 35  30%
+Liepard   Lvl 35  30%
+Pawniard  Lvl 35  20%
+Gothorita Lvl 35  10%
+Duosion   Lvl 35  10%
+Audino*   Lvl 35  90%*
+Emolga*   Lvl 35  10%*
+-------------------------
+
+Dark Grass
+-------------------------
+Garbodor   Lvl 39  30%
+Liepard    Lvl 39  30%
+Bisharp    Lvl 39  20%
+Gothitelle Lvl 39  10%
+Reuniclus  Lvl 39  10%
+-------------------------
+
+-----------------
+Challengers Cave
+-----------------
+
+1F and B1F
+---------------------------
+Boldore    Lvl 36-37  30%
+Swoobat    Lvl 36-37  20%
+Druddigon  Lvl 36-37  20%
+Klang      Lvl 36-37  15%
+Fraxure    Lvl 36-37  10%
+Ferrothorn Lvl 37      5%
+Excadrill* Lvl 38    100%*
+----------------------------
+
+B2F
+---------------------------
+Boldore    Lvl 36-37  20%
+Swoobat    Lvl 36-37  20%
+Druddigon  Lvl 36-37  20%
+Klang      Lvl 36-37  15%
+Fraxure    Lvl 36-37  10%
+Archen     Lvl 36-37  10%
+Ferrothorn Lvl 37      5%
+Excadrill* Lvl 38    100%*
+----------------------------
+
+Surfing
+-------------------------
+Basculin-R  Lvl 35  90%
+Tirtouga    Lvl 35  10% 
+Basculin-B* Lvl 38  90%*
+Tirtouga*   Lvl 38  10%*
+-------------------------
+
+Fishing
+-------------------------
+Omanyte  Lvl 35-55   60%
+Kabuto   Lvl 35-55   30%
+Anorith  Lvl 35-55    5%
+Lileep   Lvl 35-55    5%
+Anorith* Lvl 45-70   60%
+Lileep*  Lvl 45-70   30%
+Kabuto*  Lvl 45-70    5%
+Omanyte* Lvl 45-70    5%
+-------------------------
+
+---------
+Route 10
+---------
+
+Normal Grass
+--------------------------
+Stoutland  Lvl 39  20%  
+Rufflet    Lvl 39  20%
+Vullaby    Lvl 39  20%
+Amoonguss  Lvl 39  20%
+Bouffalant Lvl 39  10%
+Gurdurr    Lvl 39  10%
+Audino*    Lvl 40  80%   (100% and Level 43 in the Badge Check Gates)
+Throh*     Lvl 40  10%   (0% in the Badge Check Gates)
+Sawk*      Lvl 40  10%   (0% in the Badge Check Gates)
+---------------------------
+
+Dark Grass
+------------------------
+Stoutland  Lvl 43  20%  
+Braviary   Lvl 43  20%
+Mandibuzz  Lvl 43  20%
+Amoonguss  Lvl 43  20%
+Bouffalant Lvl 43  10%
+Gurdurr    Lvl 43  10%
+------------------------
+
+
+-----------------------
+Victory Road - Outside:
+-----------------------
+Heatmor  Lvl 40  30%
+Mienfoo  Lvl 40  20%
+Fraxure  Lvl 40  20%
+Vullaby  Lvl 40  10%
+Rufflet  Lvl 40  10%
+Larvesta Lvl 40  10%
+------------------------
+
+--------------------------
+Victory Road - 1F
+--------------------------
+Durant     Lvl 41-42  30%
+Boldore    Lvl 41-42  20%
+Mienfoo    Lvl 41-42  20%
+Deino      Lvl 41-42  20%
+Woobat     Lvl 41-42  10%
+Excadrill* Lvl 42-43 100%*
+---------------------------
+
+----------------------------
+Victory Road - 2-6F
+----------------------------
+Heatmor    Lvl 43  30%
+Deino      Lvl 43  20%
+Boldore    Lvl 43  20%
+Mienfoo    Lvl 43  10%
+Woobat     Lvl 43  10%
+Ferrothorn Lvl 43  10%
+Excadrill* Lvl 42-43 100%*
+----------------------------
+
+----------------------------
+Victory Road - 7F Top floor
+----------------------------
+Swoobat    Lvl 44  30%
+Mienshao   Lvl 44  30%
+Boldore    Lvl 44  20%
+Zweilous   Lvl 44  10%
+Ferrothorn Lvl 44  10%
+Excadrill* Lvl 46 100%*
+----------------------------
+
+-----------------------------
+Victory Road - Trial Chamber
+-----------------------------
+Boldore    Lvl 44  30%
+Swoobat    Lvl 44  30%
+Durant     Lvl 44  20%  
+Mienshao   Lvl 44  14%
+Gigalith   Lvl 44   5%
+Hydreigon  Lvl 44   1%
+Excadrill* Lvl 45 100%*
+----------------------------
+
+-----------------------
+Victory Road - Surfing 
+-----------------------
+All Floors with water
+---------------------------
+Basculin-R  Lvl 20-45 100%
+Basculin-B* Lvl 20-50 100%*
+----------------------------
+
+-----------------------
+Victory Road - Fishing 
+-----------------------
+All Floors with water
+---------------------------
+Seadra     Lvl 35-55  60%
+Dratini    Lvl 35-55  30%
+Basculin   Lvl 35-55  10%
+Kingdra*   Lvl 35-70  60%*
+Dragonair* Lvl 35-70  39%*
+Dragonite* Lvl 45-70   1%*
+---------------------------
+
+
+-Post Game Areas-
+
+----------
+Route 11
+----------
+
+Standard Grass
+-----------------------
+Golduck    Lvl 52  20%
+Ursaring   Lvl 52  20%
+Gligar     Lvl 52  10%
+Zangoose   Lvl 52  10%
+Seviper    Lvl 52  10%
+Parasect   Lvl 52  10%
+Breloom    Lvl 52  10% 
+Cacturne   Lvl 52  10%
+Audino*    Lvl 52  80%*
+Magnezone* Lvl 52  10%*
+Gliscor*   Lvl 52  10%*
+------------------------
+
+Dark Grass
+----------------------
+Venomoth  Lvl 58  20%
+Quagsire  Lvl 58  20%
+Tauros    Lvl 58  10%
+Miltank   Lvl 58  10%
+Swalot    Lvl 58  10%
+Torkoal   Lvl 58  10%
+Toxicroak Lvl 58  10%
+Magneton  Lvl 58  10%
+----------------------
+
+Surf
+--------------------------
+Buizel     Lvl 25-55  60%
+Lombre     Lvl 25-55  30%
+Marill     Lvl 35-55  10%
+Floatzel*  Lvl 25-60  60%*
+Ludicolo*  Lvl 25-60  30%*
+Azumarill* Lvl 35-70  10%*
+---------------------------
+
+Fishing
+---------------------------
+Goldeen     Lvl 35-55  70%
+Basculin-R  Lvl 35-55  30% 
+Seaking*    Lvl 35-70  70%* 
+Basculin-B* Lvl 35-70  30%* 
+----------------------------
+
+---------
+Route 12
+---------
+
+Normal Grass
+-----------------------
+Kirlia     Lvl 52  20%
+Rapidash   Lvl 52  20%
+Beedrill   Lvl 52  10%
+Butterfree Lvl 52  10%
+Pinsir     Lvl 52  10%
+Sunkern    Lvl 52  10%
+Cherrim    Lvl 52  10%
+Heracross  Lvl 52  10%
+Audino*    Lvl 54  55%*
+Ivysaur*   Lvl 52  10%*
+Bayleef*   Lvl 52  10%*
+Grovyle*   Lvl 52  10%*
+Grotle*    Lvl 52  10%*
+Munchlax*  Lvl 52   5%*
+-----------------------
+
+Dark Grass
+-----------------------
+Jumpluff   Lvl 58  20%
+Vespiquen  Lvl 58  20%
+Dodrio     Lvl 58  10%
+Linoone    Lvl 58  10%
+Growlithe  Lvl 58  10%
+Gloom      Lvl 58  10%
+Weepinbell Lvl 58  10%
+Carnivine  Lvl 58  10%
+-----------------------
+
+---------
+Route 13
+---------
+
+Normal Grass
+----------------------
+Swellow    Lvl 52  20%
+Drifblim   Lvl 52  20%
+Golbat     Lvl 52  10%
+Tangela    Lvl 52  10%
+Beautifly  Lvl 52  10%
+Dustox     Lvl 52  10%
+Absol      Lvl 52  10%
+Exeggcute  Lvl 52  10%
+Audino*    Lvl 54  80%*
+Castform*  Lvl 54  20%*
+-----------------------
+
+Dark Grass
+-----------------------
+Grumpig   Lvl 58  20%
+Xatu      Lvl 58  20%
+Medicham  Lvl 58  10%
+Kadabra   Lvl 58  10%
+Plusle    Lvl 58  10%
+Minun     Lvl 58  10%
+Pachirisu Lvl 58  10%
+Kecleon   Lvl 58  10%
+-----------------------
+
+Surf
+-------------------------
+Wingull  Lvl 25-55  60% 
+Staryu   Lvl 25-55  30%  
+Swanna   Lvl 25-55  10%
+Starmie* Lvl 25-60  60%*
+Corsola* Lvl 25-60  40%*
+-------------------------
+
+Fishing
+-------------------------
+Krabby    Lvl 35-55  60%
+Shellder  Lvl 35-55  30% 
+Luvdisc   Lvl 35-55  10%
+Luvdisc*  Lvl 35-60  60%*
+Cloyster* Lvl 35-60  30%*
+Kingler*  Lvl 45-70  10%*
+-------------------------
+
+---------
+Route 14
+---------
+
+Normal Grass
+----------------------
+Jigglypuff Lvl 52  20%
+Altaria    Lvl 52  20%
+Electrode  Lvl 52  10%
+Porygon    Lvl 52  10%
+Togepi     Lvl 52  10%
+Machoke    Lvl 52  10%
+Lopunny    Lvl 52  10%
+Nuzleaf    Lvl 52  10%
+Audino*    Lvl 54  60%*
+Wartortle* Lvl 52  10%*
+Croconaw*  Lvl 52  10%*
+Marshtomp* Lvl 52  10%*
+Prinplup*  Lvl 52  10%*
+-----------------------
+
+Dark Grass
+-----------------------
+Yanmega    Lvl 58  20%
+Tropius    Lvl 58  20%
+Nidorino   Lvl 58  10%
+Nidorina   Lvl 58  10%
+Masquerain Lvl 58  10%
+Drapion    Lvl 58  10%
+Vigoroth   Lvl 58  10%
+Manectric  Lvl 58  10%
+-----------------------
+
+Surf
+-------------------------
+Buizel     Lvl 25-55  70% 
+Basculin-R Lvl 25-55  30%  
+Floatzel*  Lvl 25-60  70%*
+Corsola*   Lvl 25-60  30%*
+-------------------------
+
+Fishing
+-------------------------
+Goldeen     Lvl 35-55  70%
+Basculin-R  Lvl 35-55  30% 
+Seaking*    Lvl 35-60  70%*
+Basculin-B* Lvl 35-60  30%*
+-------------------------
+
+---------
+Route 15
+---------
+
+Normal Grass
+----------------------
+Marowak    Lvl 52  20%
+Fearow     Lvl 52  20%
+Shelgon    Lvl 52  10%
+Kangaskhan  Lvl 52  10%
+Graveler   Lvl 52  10%
+Pupitar    Lvl 52  10%
+Nincada    Lvl 52  10%
+Magcargo   Lvl 52  10%
+Audino*    Lvl 57  50%*
+Hippowdon* Lvl 54  20%*
+Camerupt*  Lvl 55  20%*
+Shuckle*   Lvl 52  10%*
+-----------------------
+
+Dark Grass
+-----------------------
+Donphan   Lvl 58  20%
+Vibrava   Lvl 58  20%
+Rhydon    Lvl 58  10%
+Dugtrio   Lvl 58  10%
+Gabite    Lvl 58  10%
+Primeape  Lvl 58  10%
+Muk       Lvl 58  10%
+Weezing   Lvl 58  10%
+-----------------------
+
+-----------------
+Abundant Shrine
+-----------------
+
+Normal Grass
+-----------------------
+Vulpix      Lvl 52  20%
+Noctowl     Lvl 52  20%
+Burmy       Lvl 52  10%
+Chimecho    Lvl 52  10%
+Stantler    Lvl 52  10%
+Murkrow     Lvl 52  10%
+Misdreavus  Lvl 52  10%
+Mr. Mime    Lvl 52  10%
+Chansey*    Lvl 54  60%*
+Charmeleon* Lvl 52  10%*
+Quilava*    Lvl 52  10%*
+Combusken   Lvl 52  10%*
+Monferno    Lvl 52  10%*
+------------------------
+
+Dark Grass
+-----------------------
+Dusclops   Lvl 58  20%
+Banette    Lvl 58  20%
+Kricketune Lvl 58  10%
+Lickitung  Lvl 58  10%
+Haunter    Lvl 58  10%
+Bronzong   Lvl 58  10%
+Roselia    Lvl 58  10%
+Spinda     Lvl 58  10%
+-----------------------
+
+Surf
+----------------------------
+Basculin-R  Lvl 25-55  70% 
+Slowpoke    Lvl 25-55  30%  
+Slowpoke*   Lvl 25-60  60%*
+Basculin-B* Lvl 25-60  30%*
+Slowbro*    Lvl 35-70   5%*
+Slowking*   Lvl 35-70   5%*
+----------------------------
+
+Fishing
+---------------------------
+Goldeen     Lvl 35-55  70%
+Basculin-R  Lvl 35-55  30% 
+Luvdisc*    Lvl 35-60  70%*
+Cloyster*   Lvl 35-60  30%*
+---------------------------
+
+---------------
+Undella Town
+---------------
+
+Surf
+----------------------------
+Mantine  Lvl 25-55  60% 
+Wailmer  Lvl 25-55  30%
+Sealeo   Lvl 25-55  10%
+Wailord* Lvl 25-60  60%*
+Walrein* Lvl 25-60  30%*
+Corsola* Lvl 35-70  10%*
+----------------------------
+
+Fishing
+---------------------------
+Remoraid   Lvl 35-55  60%
+Shellder   Lvl 35-55  30%
+Luvdisc    Lvl 35-55  10% 
+Luvdisc*   Lvl 35-60  70%*
+Octillery* Lvl 35-60  30%*
+Cloyster*  Lvl 35-60  10%*
+---------------------------
+
+--------------
+Undella Bay
+--------------
+
+Surf
+----------------------------
+Mantine     Lvl 25-55  60% 
+Sealeo      Lvl 25-55  30%- (Winter Only)
+Tentacool   Lvl 25-55  30%- (Spring, Summer, Autumn Only)
+Wailmer     Lvl 25-55  10%  
+Wailord*    Lvl 25-60  60%*
+Corsola*    Lvl 25-70  10%*
+Walrein*    Lvl 35-70  10%*- (Winter Only)
+Tentacruel* Lvl 35-70  10%*- (Spring, Summer, Autumn only)
+----------------------------
+
+Fishing
+---------------------------
+Remoraid   Lvl 35-55  60%
+Shellder   Lvl 35-55  30%
+Luvdisc    Lvl 35-55  10% 
+Luvdisc*   Lvl 35-60  70%*
+Octillery* Lvl 35-60  30%*
+Cloyster*  Lvl 35-60  10%*
+---------------------------
+
+---------------------
+Giant Chasm - Outer
+---------------------
+
+Normal Grass
+----------------------
+Raticate  Lvl 52  20%
+Arbok     Lvl 52  20%
+Persian   Lvl 52  10%
+Lunatone  Lvl 52  10%
+Solrock   Lvl 52  10%
+Ampharos  Lvl 52  10%
+Sudowoodo Lvl 52  10%
+Skarmory  Lvl 52  10%
+Audino*  Lvl 59 100%*
+----------------------
+
+Dark Grass
+---------------------
+Raticate  Lvl 58  20%
+Arbok     Lvl 58  20%
+Persian   Lvl 58  10%
+Lunatone  Lvl 58  10%
+Solrock   Lvl 58  10%
+Sudowoodo Lvl 58  10% 
+Ampharos  Lvl 58  10%
+Skarmory  Lvl 58  10%
+---------------------
+
+--------------------
+Giant Chasm - Inner
+--------------------
+
+Normal "Grass"
+-----------------------
+Delibird   Lvl 52  20%
+Jynx       Lvl 52  20%
+Piloswine  Lvl 52  10%
+Sneasel    Lvl 52  10%
+Wobbuffet  Lvl 52  10%
+Loudred    Lvl 52  10%
+Hariyama   Lvl 52  10%
+Nosepass   Lvl 52  10%
+Excadrill* Lvl 54  80%*
+------------------------
+
+Surf
+----------------------------
+Seel        Lvl 25-55  70% 
+Basculin-R  Lvl 25-55  30%  
+Dewgong*    Lvl 25-60  60%*
+Basculin-B* Lvl 25-60  30%*
+----------------------------
+
+Fishing
+---------------------------
+Goldeen     Lvl 35-55  65%
+Basculin-R  Lvl 35-55  30% 
+Poliwhirl   Lvl 35-55   5%
+Poliwhirl*  Lvl 35-70  65%*
+Basculin-B* Lvl 35-60  30%*
+Poliwrath*  Lvl 45-70   5%*
+---------------------------
+
+---------------------
+Giant Chasm - Crater
+----------------------
+
+Normal Grass
+----------------------
+Ditto      Lvl 55  20%   
+Metang     Lvl 55  20%
+Clefairy   Lvl 55  10%
+Tyrogue    Lvl 55  10%
+Hypno      Lvl 55  10%
+Girafarig  Lvl 55  10%
+Forretress Lvl 55  10%
+Houndoom   Lvl 55  10%
+Audino*    Lvl 60 100%*
+----------------------
+
+Dark Grass
+----------------------
+Ditto     Lvl 60  20%
+Tyrogue   Lvl 60  20%
+Espeon    Lvl 60  10%
+Umbreon   Lvl 60  10%
+Glaceon   Lvl 60  10%
+Leafeon   Lvl 60  10%
+Luxray    Lvl 60  10%
+Clefable  Lvl 62   5%
+Metagross Lvl 62   5%
+--------------------- 
+
+--------------------------------
+Giant Chasm - Kyurem's Chamber
+--------------------------------
+Abomasnow  Lvl 58  20%
+Toxicroak  Lvl 58  20%
+Glalie     Lvl 58  10%
+Froslass   Lvl 58  10%
+Mawile     Lvl 58  10%
+Sableye    Lvl 58  10%
+Spiritomb  Lvl 60  10%
+Aggron     Lvl 58  10%
+Excadrill* Lvl 60 100%*
+--------------------------------
+
+----------------
+Village Bridge
+----------------
+
+Normal Grass
+----------------------
+Farfetch'd Lvl 52  20%
+Furret     Lvl 52  20%
+Purugly    Lvl 52  10%
+Skuntank   Lvl 52  10%
+Smeargle   Lvl 52  10%
+Electabuzz Lvl 52  10%
+Magmar     Lvl 52  10%
+Scyther    Lvl 52  10%
+Audino*    Lvl 57  50%*
+Eevee*     Lvl 54  15%*
+Pikachu*   Lvl 54  15%*
+Riolu*     Lvl 54  10%*
+Dunsparce* Lvl 54  10%*
+-----------------------
+
+Dark Grass
+-----------------------
+Mightyena Lvl 58  20%
+Delcatty  Lvl 58  20%
+Ariados   Lvl 58  10%
+Ledian    Lvl 58  10%
+Volbeat   Lvl 58  10%
+Illumise  Lvl 58  10%
+Aipom     Lvl 58  10%
+Granbull  Lvl 58  10%
+-----------------------
+
+Surf
+-------------------------
+Basculin-R Lvl 25-55  60% 
+Lapras     Lvl 35-55  30%  
+Bibarel    Lvl 35-55  10%
+Lapras*    Lvl 35-70  60%*
+Bibarel*   Lvl 25-70  40%*
+-------------------------
+
+Fishing
+-------------------------
+Carvanha    Lvl 35-55  70%
+Basculin-R  Lvl 35-55  30% 
+Sharpedo*   Lvl 35-60  70%*
+Basculin-B* Lvl 35-60  30%*
+-------------------------
+
+------------------
+Marvellous Bridge
+------------------
+Staraptor Lvl 54  20%
+Pidgeot   Lvl 54  20%
+Noctowl   Lvl 54  20%
+Swellow   Lvl 54  20%
+Chatot    Lvl 54  20%
+
+
+

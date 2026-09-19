@@ -1,0 +1,118 @@
+.back {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--text-dim);
+  text-decoration: none;
+  margin-bottom: 12px;
+}
+
+.headRow {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+
+.dexNo {
+  font-family: var(--font-mono);
+  color: var(--text-faint);
+  font-size: 16px;
+}
+
+.abilityList {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.panel {
+  margin-top: 10px;
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-md);
+  padding: 16px;
+}
+
+.noteList {
+  margin: 0;
+  padding-left: 18px;
+  font-size: 13px;
+  color: var(--text-dim);
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.learnTable {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.learnTable th {
+  text-align: left;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--text-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 0 8px 8px 0;
+}
+
+.learnTable td {
+  padding: 7px 8px 7px 0;
+  border-top: 1px solid var(--hairline);
+}
+
+.levelCell {
+  font-family: var(--font-mono);
+  color: var(--text-dim);
+  width: 34px;
+}
+
+.moveCell {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.crossLink {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 9px 0;
+  border-top: 1px solid var(--hairline);
+  text-decoration: none;
+  color: inherit;
+}
+
+.crossLink:first-child {
+  border-top: none;
+}
+
+.crossName {
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.crossMeta {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--text-dim);
+  white-space: nowrap;
+}
+
+.evoLine {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+}
+
+.evoArrow {
+  color: var(--amber);
+}

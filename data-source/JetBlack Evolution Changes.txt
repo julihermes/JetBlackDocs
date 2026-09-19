@@ -1,0 +1,60 @@
+JetBlack Evolution Changes:
+
+Unova:
+
+- Boldore > Gigalith at Level 40
+- Gurdurr > Conkeldurr at Level 40
+- Scraggy > Scrafty at Level 32
+- Ducklett > Swanna at Level 30
+- Vanillite > Vanillish at Level 32
+- Vanillish > Vanilluxe at Level 41
+- Deerling > Sawsbuck at Level 31
+- Karrablast > Escavalier when levelled up with Shelmet in the Party
+- Foongus > Amoonguss at Level 33
+- Klink > Klang at Level 32
+- Klang > Klinklang at Level 42
+- Tynamo > Eelektrik at Level 35
+- Elgyem > Beheeyem at Level 39
+- Litwick > Lampent at Level 35
+- Shelmet > Accelgor when levelled up with Karrablast in the party 
+- Mienfoo > Mienshao at Level 37
+- Golett > Golurk at Level 40
+- Pawniard > Bisharp at Level 42
+- Rufflet > Braviary at Level 36
+- Vullaby > Mandibuzz at Level 36
+- Deino > Zweilous at Level 40
+- Zweilous > Hydreigon at Level 58
+- Larvesta > Volcarona at Level 43
+
+Post-Game:
+
+- Poliwhirl > Politoed by levelling up holding a King's Rock
+- Machoke > Machamp at Level 40
+- Ponyta > Rapidash at Level 34
+- Slowpoke > Slowking by levelling up holding a King's Rock
+- Grimer > Muk at Level 32
+- Haunter > Gengar at Level 40
+- Onix > Steelix when Iron Tail is learned
+- Rhyhorn > Rhydon at Level 36
+- Rhydon > Rhyperior by levelling up holding a Protector
+- Seadra > Kingdra when Dragon Pulse is learned
+- Scyther > Scizor by levelling up holding a Metal Coat
+- Electabuzz > Electivire by levelling up holding an Electrizer
+- Magmar > Magmortar by levelling up holding a Magmarizer
+- Porygon > Porygon2 by levelling up holding an Up-Grade
+- Slugma > Magcargo at Level 30
+- Porygon2 > Porygon-Z by levelling up holding a Dubious Disc
+- Tyrogue > Hitmonchan by levelling up holding an X Defend
+- Tyrogue > Hitmonlee by levelling up holding an X Attack
+- Tyrogue > Hitmontop by levelling up holding an X Speed
+- Feebas > Milotic by levelling up holding a Prism Scale
+- Dusclops > Dusknoir by levelling up holding a Reaper Cloth
+- Snorunt > Glalie at Level 34
+- Clamperl > Huntail by levelling up holding a DeepSeaTooth
+- Clamperl > Gorebyss by levelling up holding a DeepSeaScale
+- Glameow > Purugly at Level 34
+- Snover > Abomasnow at Level 34
+
+
+
+

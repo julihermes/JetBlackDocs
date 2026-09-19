@@ -1,0 +1,122 @@
+.pass {
+  display: flex;
+  text-decoration: none;
+  color: inherit;
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  border-radius: 10px;
+  overflow: hidden;
+  transition: border-color 0.15s ease, transform 0.1s ease;
+}
+
+.pass:hover {
+  border-color: var(--hairline-strong);
+}
+
+.pass:active {
+  transform: scale(0.997);
+}
+
+.pass + .pass {
+  margin-top: 8px;
+}
+
+.main {
+  flex: 1;
+  min-width: 0;
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.topRow {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.dexNo {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--text-faint);
+}
+
+.name {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 16px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.abilities {
+  font-size: 12px;
+  color: var(--text-dim);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.divider {
+  position: relative;
+  width: 1px;
+  border-left: 2px dashed var(--hairline-strong);
+  flex-shrink: 0;
+}
+
+.divider::before,
+.divider::after {
+  content: "";
+  position: absolute;
+  left: -7px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--bg);
+}
+
+.divider::before {
+  top: -8px;
+}
+
+.divider::after {
+  bottom: -8px;
+}
+
+.stub {
+  width: 76px;
+  flex-shrink: 0;
+  background: var(--surface-raised);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  padding: 8px 6px;
+  text-align: center;
+}
+
+.bst {
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.bstLabel {
+  font-family: var(--font-mono);
+  font-size: 9px;
+  color: var(--text-faint);
+  letter-spacing: 0.06em;
+}
+
+.delta {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  font-weight: 700;
+}
+
+.deltaUp {
+  color: var(--amber);
+}

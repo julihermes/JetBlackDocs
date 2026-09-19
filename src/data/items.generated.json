@@ -1,0 +1,230 @@
+{
+  "ground": [
+    {
+      "item": "Shiny Stone",
+      "location": "Lostlorn Forest",
+      "note": "Replaces the TinyMushroom in the Stump"
+    },
+    {
+      "item": "Life Orb",
+      "location": "Challenger's Cave",
+      "note": "Replaces the Oval Stone"
+    },
+    {
+      "item": "TM13 Ice Beam",
+      "location": "Challenger's Cave",
+      "note": "Replaces TM71 Stone Edge"
+    },
+    {
+      "item": "Choice Band",
+      "location": "Dragonspiral Tower - Interior",
+      "note": "Replaces Star Piece"
+    },
+    {
+      "item": "Choice Specs",
+      "location": "Lostlorn Forest",
+      "note": "Replaces Rare Candy"
+    },
+    {
+      "item": "Choice Scarf",
+      "location": "Moor of Iccirus",
+      "note": "Replaces Ultra Ball"
+    },
+    {
+      "item": "Rare Candy",
+      "location": "Route 13",
+      "note": "Replaces Psychic"
+    },
+    {
+      "item": "TM71 Stone Edge",
+      "location": "Giant Chasm",
+      "note": "Replaces TM13 Ice Beam"
+    },
+    {
+      "item": "TM29 Psychic",
+      "location": "Dreamyard",
+      "note": "Replaces Hyper Potion"
+    },
+    {
+      "item": "Enigma Stone",
+      "location": "Giant Chasm - Interior"
+    },
+    {
+      "item": "Binding Band",
+      "location": "Inner Pinwheel Forest",
+      "note": "Replaces Antidote"
+    },
+    {
+      "item": "Shiny Stone",
+      "location": "Abundant Shrine",
+      "note": "Replaces Flamethrower"
+    },
+    {
+      "item": "Gracidea",
+      "location": "Route 12",
+      "note": "Replaces Full Heal"
+    },
+    {
+      "item": "TM53 Energy Ball",
+      "location": "Pinwheel Forest - Interior",
+      "note": "Replaces TM22 SolarBeam"
+    },
+    {
+      "item": "TM22 SolarBeam",
+      "location": "Route 12",
+      "note": "Replaces TM53 Energy Ball"
+    },
+    {
+      "item": "Dragon Scale",
+      "location": "Route 17",
+      "note": "Replaces DeepSeaTooth"
+    },
+    {
+      "item": "Dragon Scale",
+      "location": "Wellspring Cave",
+      "note": "Replaces Dive Ball"
+    },
+    {
+      "item": "Dragon Scale",
+      "location": "Dragonspiral Tower",
+      "note": "Replaces Stardust"
+    },
+    {
+      "item": "TM03 Psyshock",
+      "location": "Route 18",
+      "note": "Replaces TM19 Telekinesis"
+    },
+    {
+      "item": "TM19 Telekinesis",
+      "location": "Giant Chasm",
+      "note": "replaces TM03 Psyshock"
+    }
+  ],
+  "gifts": [
+    {
+      "item": "Muscle Band",
+      "location": "Pinwheel Forest - Outer",
+      "note": "Gift from defeating Black Belt Takeshi"
+    },
+    {
+      "item": "Wise Glasses",
+      "location": "Castelia City",
+      "note": "Gift from defeating Lass Alicia"
+    },
+    {
+      "item": "Leftovers",
+      "location": "Driftveil City",
+      "note": "Gift from defeating Ace Trainer Sasha"
+    },
+    {
+      "item": "TM35 Flamethrower",
+      "location": "Dragonspiral Tower - Exterior",
+      "note": "Gift from defeating Veteran Zenith"
+    },
+    {
+      "item": "RageCandyBar",
+      "location": "Route 6",
+      "note": "Changed from Shiny Stone gift"
+    },
+    {
+      "item": "Liberty Pass",
+      "location": "Shopping Mall Nine",
+      "note": "Gift from defeating Ace Trainer Dheku, Post-Game only"
+    }
+  ],
+  "hidden": [
+    {
+      "item": "Ultra Ball",
+      "location": "Route 3"
+    },
+    {
+      "item": "Super Repel",
+      "location": "Nimbasa City"
+    },
+    {
+      "item": "Hyper Potion",
+      "location": "Mistralton Cave"
+    },
+    {
+      "item": "Max Repel",
+      "location": "Opelucid City"
+    }
+  ],
+  "hiddenItemsReplacedBy": "Dragon Scale",
+  "martStock": [
+    {
+      "location": "Castelia City",
+      "items": [
+        "Heal Ball[V]",
+        "Net Ball[V]",
+        "Nest Ball[V]",
+        "Luxury Ball",
+        "Dusk Ball",
+        "Protein",
+        "Iron",
+        "Calcium",
+        "Zinc",
+        "Carbos",
+        "HP Up"
+      ]
+    },
+    {
+      "location": "Driftveil City",
+      "items": [
+        "Net Ball[V]",
+        "Nest Ball[V]",
+        "Dusk Ball[V}",
+        "Heal Ball",
+        "Luxury Ball",
+        "Fire Stone",
+        "Thunder Stone",
+        "Water Stone",
+        "Leaf Stone",
+        "Sun Stone",
+        "Moon Stone"
+      ]
+    },
+    {
+      "location": "Driftveil Market - Herb Vendor",
+      "items": [
+        "White Herb",
+        "Power Herb",
+        "Mental Herb",
+        "Revival Herb[V]"
+      ]
+    },
+    {
+      "location": "Opelucid City",
+      "items": [
+        "Dusk Ball[V]",
+        "Timer Ball[V]",
+        "Quick Ball[V]",
+        "Luxury Ball",
+        "Repeat Ball",
+        "Dive Ball",
+        "Heal Ball",
+        "Dawn Stone",
+        "Shiny Stone",
+        "Dusk Stone",
+        "PP Up"
+      ]
+    },
+    {
+      "location": "Shopping Mall Nine",
+      "items": [
+        "Top Section - Left Cashier;",
+        "Focus Sash",
+        "Eject Button",
+        "Air Balloon",
+        "Cell Battery",
+        "Absorb Bulb",
+        "Red Card"
+      ]
+    }
+  ],
+  "priceChanges": [
+    "Repels, Super Repels and Max Repels are now $50, $100 and $150 respectively",
+    "White Herb, Mental Herb and Power Herb are all now $500",
+    "Focus Sash is now $2000"
+  ]
+}

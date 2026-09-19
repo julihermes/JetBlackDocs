@@ -1,0 +1,296 @@
+[
+  {
+    "section": "Unova",
+    "from": "Boldore",
+    "to": "Gigalith",
+    "condition": "at Level 40"
+  },
+  {
+    "section": "Unova",
+    "from": "Gurdurr",
+    "to": "Conkeldurr",
+    "condition": "at Level 40"
+  },
+  {
+    "section": "Unova",
+    "from": "Scraggy",
+    "to": "Scrafty",
+    "condition": "at Level 32"
+  },
+  {
+    "section": "Unova",
+    "from": "Ducklett",
+    "to": "Swanna",
+    "condition": "at Level 30"
+  },
+  {
+    "section": "Unova",
+    "from": "Vanillite",
+    "to": "Vanillish",
+    "condition": "at Level 32"
+  },
+  {
+    "section": "Unova",
+    "from": "Vanillish",
+    "to": "Vanilluxe",
+    "condition": "at Level 41"
+  },
+  {
+    "section": "Unova",
+    "from": "Deerling",
+    "to": "Sawsbuck",
+    "condition": "at Level 31"
+  },
+  {
+    "section": "Unova",
+    "from": "Karrablast",
+    "to": "Escavalier",
+    "condition": "when levelled up with Shelmet in the Party"
+  },
+  {
+    "section": "Unova",
+    "from": "Foongus",
+    "to": "Amoonguss",
+    "condition": "at Level 33"
+  },
+  {
+    "section": "Unova",
+    "from": "Klink",
+    "to": "Klang",
+    "condition": "at Level 32"
+  },
+  {
+    "section": "Unova",
+    "from": "Klang",
+    "to": "Klinklang",
+    "condition": "at Level 42"
+  },
+  {
+    "section": "Unova",
+    "from": "Tynamo",
+    "to": "Eelektrik",
+    "condition": "at Level 35"
+  },
+  {
+    "section": "Unova",
+    "from": "Elgyem",
+    "to": "Beheeyem",
+    "condition": "at Level 39"
+  },
+  {
+    "section": "Unova",
+    "from": "Litwick",
+    "to": "Lampent",
+    "condition": "at Level 35"
+  },
+  {
+    "section": "Unova",
+    "from": "Shelmet",
+    "to": "Accelgor",
+    "condition": "when levelled up with Karrablast in the party"
+  },
+  {
+    "section": "Unova",
+    "from": "Mienfoo",
+    "to": "Mienshao",
+    "condition": "at Level 37"
+  },
+  {
+    "section": "Unova",
+    "from": "Golett",
+    "to": "Golurk",
+    "condition": "at Level 40"
+  },
+  {
+    "section": "Unova",
+    "from": "Pawniard",
+    "to": "Bisharp",
+    "condition": "at Level 42"
+  },
+  {
+    "section": "Unova",
+    "from": "Rufflet",
+    "to": "Braviary",
+    "condition": "at Level 36"
+  },
+  {
+    "section": "Unova",
+    "from": "Vullaby",
+    "to": "Mandibuzz",
+    "condition": "at Level 36"
+  },
+  {
+    "section": "Unova",
+    "from": "Deino",
+    "to": "Zweilous",
+    "condition": "at Level 40"
+  },
+  {
+    "section": "Unova",
+    "from": "Zweilous",
+    "to": "Hydreigon",
+    "condition": "at Level 58"
+  },
+  {
+    "section": "Unova",
+    "from": "Larvesta",
+    "to": "Volcarona",
+    "condition": "at Level 43"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Poliwhirl",
+    "to": "Politoed",
+    "condition": "by levelling up holding a King's Rock"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Machoke",
+    "to": "Machamp",
+    "condition": "at Level 40"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Ponyta",
+    "to": "Rapidash",
+    "condition": "at Level 34"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Slowpoke",
+    "to": "Slowking",
+    "condition": "by levelling up holding a King's Rock"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Grimer",
+    "to": "Muk",
+    "condition": "at Level 32"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Haunter",
+    "to": "Gengar",
+    "condition": "at Level 40"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Onix",
+    "to": "Steelix",
+    "condition": "when Iron Tail is learned"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Rhyhorn",
+    "to": "Rhydon",
+    "condition": "at Level 36"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Rhydon",
+    "to": "Rhyperior",
+    "condition": "by levelling up holding a Protector"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Seadra",
+    "to": "Kingdra",
+    "condition": "when Dragon Pulse is learned"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Scyther",
+    "to": "Scizor",
+    "condition": "by levelling up holding a Metal Coat"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Electabuzz",
+    "to": "Electivire",
+    "condition": "by levelling up holding an Electrizer"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Magmar",
+    "to": "Magmortar",
+    "condition": "by levelling up holding a Magmarizer"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Porygon",
+    "to": "Porygon2",
+    "condition": "by levelling up holding an Up-Grade"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Slugma",
+    "to": "Magcargo",
+    "condition": "at Level 30"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Porygon2",
+    "to": "Porygon-Z",
+    "condition": "by levelling up holding a Dubious Disc"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Tyrogue",
+    "to": "Hitmonchan",
+    "condition": "by levelling up holding an X Defend"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Tyrogue",
+    "to": "Hitmonlee",
+    "condition": "by levelling up holding an X Attack"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Tyrogue",
+    "to": "Hitmontop",
+    "condition": "by levelling up holding an X Speed"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Feebas",
+    "to": "Milotic",
+    "condition": "by levelling up holding a Prism Scale"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Dusclops",
+    "to": "Dusknoir",
+    "condition": "by levelling up holding a Reaper Cloth"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Snorunt",
+    "to": "Glalie",
+    "condition": "at Level 34"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Clamperl",
+    "to": "Huntail",
+    "condition": "by levelling up holding a DeepSeaTooth"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Clamperl",
+    "to": "Gorebyss",
+    "condition": "by levelling up holding a DeepSeaScale"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Glameow",
+    "to": "Purugly",
+    "condition": "at Level 34"
+  },
+  {
+    "section": "Post-Game",
+    "from": "Snover",
+    "to": "Abomasnow",
+    "condition": "at Level 34"
+  }
+]

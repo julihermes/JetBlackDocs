@@ -1,0 +1,136 @@
+It should be noted that if it's not listed here than an items location is the same as vanilla.
+
+
+-------------
+Ground Items
+-------------
+Shiny Stone - Lostlorn Forest (Replaces the TinyMushroom in the Stump)
+Life Orb - Challenger's Cave (Replaces the Oval Stone)
+TM13 Ice Beam - Challenger's Cave (Replaces TM71 Stone Edge)
+Choice Band - Dragonspiral Tower - Interior (Replaces Star Piece)
+Choice Specs - Lostlorn Forest (Replaces Rare Candy)
+Choice Scarf - Moor of Iccirus (Replaces Ultra Ball)
+Rare Candy - Route 13 (Replaces Psychic)
+TM71 Stone Edge - Giant Chasm (Replaces TM13 Ice Beam)
+TM29 Psychic - Dreamyard (Replaces Hyper Potion)
+Enigma Stone - Giant Chasm - Interior
+Binding Band - Inner Pinwheel Forest (Replaces Antidote)
+Shiny Stone - Abundant Shrine (Replaces Flamethrower)
+Gracidea - Route 12 (Replaces Full Heal)
+TM53 Energy Ball - Pinwheel Forest - Interior (Replaces TM22 SolarBeam)
+TM22 SolarBeam - Route 12 (Replaces TM53 Energy Ball)
+Dragon Scale - Route 17 (Replaces DeepSeaTooth)
+Dragon Scale - Wellspring Cave (Replaces Dive Ball)
+Dragon Scale - Dragonspiral Tower (Replaces Stardust)
+TM03 Psyshock - Route 18 (Replaces TM19 Telekinesis)
+TM19 Telekinesis - Giant Chasm (replaces TM03 Psyshock)
+
+-----------
+Gift Items
+-----------
+
+Muscle Band - Pinwheel Forest - Outer (Gift from defeating Black Belt Takeshi)
+Wise Glasses - Castelia City (Gift from defeating Lass Alicia)
+Leftovers - Driftveil City (Gift from defeating Ace Trainer Sasha)
+TM35 Flamethrower - Dragonspiral Tower - Exterior (Gift from defeating Veteran Zenith)
+RageCandyBar - Route 6 (Changed from Shiny Stone gift)
+Liberty Pass - Shopping Mall Nine (Gift from defeating Ace Trainer Dheku, Post-Game only)
+
+This should all be accurate, but if I have missed anything please let me know <3
+
+
+------------
+Hidden Items
+------------
+All of the below items are REPLACED by Dragon Scales. 
+
+Ultra Ball  - Route 3
+Super Repel - Nimbasa City
+Hyper Potion - Mistralton Cave
+Max Repel - Opelucid City
+
+
+-----------------
+Castelia Gallery
+-----------------
+The artsy Harlequin will now offer you the choice between these items
+after showing him a Pokemon of the type he requests on that day.
+
+
+
+
+-----------------
+PokeMart Changes
+-----------------
+The second mart clerk will have these items in stock;
+
+-Anything noted with a [V] is Vanilla and unchanged
+
+Pricing Adjustments
+--------------------
+Repels, Super Repels and Max Repels are now $50, $100 and $150 
+respectively
+
+White Herb, Mental Herb and Power Herb are all now $500 
+
+Focus Sash is now $2000
+
+
+Castelia City
+--------------
+Heal Ball[V]
+Net Ball[V]
+Nest Ball[V]
+Luxury Ball
+Dusk Ball
+Protein
+Iron
+Calcium
+Zinc
+Carbos
+HP Up
+
+Driftveil City
+--------------
+Net Ball[V]
+Nest Ball[V]
+Dusk Ball[V}
+Heal Ball
+Luxury Ball
+Fire Stone
+Thunder Stone
+Water Stone
+Leaf Stone
+Sun Stone
+Moon Stone
+
+Driftveil Market - Herb Vendor
+-------------------------------
+White Herb
+Power Herb
+Mental Herb
+Revival Herb[V]
+
+Opelucid City
+-------------
+Dusk Ball[V]
+Timer Ball[V]
+Quick Ball[V]
+Luxury Ball
+Repeat Ball
+Dive Ball
+Heal Ball
+Dawn Stone
+Shiny Stone
+Dusk Stone
+PP Up
+
+Shopping Mall Nine
+-------------------
+Top Section - Left Cashier;
+Focus Sash
+Eject Button
+Air Balloon
+Cell Battery
+Absorb Bulb
+Red Card

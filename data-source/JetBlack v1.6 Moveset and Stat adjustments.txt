@@ -1,0 +1,413 @@
+Due to the amount of Stat and Learnset adjustments in v1.6, I thought I'd just make a seperate document
+showcasing the changes. Please bare in mind that changes are FROM JetBlack v1.5 and not from the vanilla
+Black and White games.
+
+
+--------------------
+Pokemon Adjustments:
+--------------------
+
+Patrat
+--------
+Attack increased from 55 to 58
+Special Attack increased from 45 to 48
+
+Watchog
+--------
+Attack increased from 95 to 98
+Special Attack increased from 85 to 89
+Speed increased from 80 to 82
+
+Purrloin
+---------
+Attack increased from 55 to 58
+Special Attack increased from 55 to 58
+
+Liepard
+--------
+Attack increased from 93 to 95
+Special Attack increased from 93 to 95
+
+Swoobat
+--------
+Attack increased from 72 to 77
+Specal Attack increased from 87 to 90
+
+Maractus
+--------
+Attack increased from 102 to 106
+Special Attack increased from 106 to 110
+Speed increased from 70 to 75
+
+Reuniclus
+---------
+Attack decreased from 80 to 65
+Defense increased from 75 to 85
+Special Defense increased from 85 to 90
+
+Amoonguss
+---------
+Attack increased from 85 to 90
+Special Attack increased from 85 to 90
+
+Alomomola
+----------
+Attack decreased from 75 to 60
+Special Attack increased from 40 to 90
+Special Defense increased from 45 to 65
+Speed decreased from 65 to 45
+
+Staryu
+-------
+Attack increased from 45 to 65
+
+Starmie
+--------
+HP decreased from 80 to 70
+Attack increased from 75 to 95
+Special Attack increased from 100 to 105
+
+
+
+-----------------
+Learnset changes:
+-----------------
+
+
+Patrat, Watchog
+----------------
+Nasty Plot - Lvl 35/40
+Mean Look  - Lvl 1       (Watchog)
+
+
+Purrloin, Liepard
+------------------
+Fury Swipes has been removed from the learnset
+Bite         - Lvl 15
+Yawn         - Lvl 17
+Crunch       - Lvl 34/36
+Swords Dance - Lvl 1      (Liepard)
+Thunder Fang - Lvl 1      (Liepard)
+Ice Fang     - Lvl 1      (Liepard)
+Fire Fang    - Lvl 1      (Liepard)
+
+
+Munna, Musharna
+----------------
+Silver Wind - Lvl 25
+Heal Block  - Lvl 14
+
+ 
+Roggenrola, Boldore, Gigalith
+------------------------------
+Zap Cannon - Level 42/43/45
+
+
+Woobat, Swoobat
+----------------
+Now learns TM83 Work Up
+Confusion -  Lvl 6
+Skill Swap - Lvl 1
+Air Cutter and Knock Off have switched (21 and 23 respectively)
+Heart Stamp - Lvl 26
+Signal Beam - Lvl 31
+
+
+Excadrill
+----------
+Megahorn - Lvl 52
+
+
+Throh
+------
+Skull Bash - Lvl 32
+
+
+Sawk
+-----
+Blaze Kick - Lvl 39
+
+
+Leavanny
+-----------
+GrassWhistle - Lvl 1
+
+
+Venipede, Whirlipede, Scolipede
+----------------------
+Skull Bash - Lvl 1 (Whirlipede, Scolipede)
+Leech Life - Lvl 39/41/44
+
+
+Gothita, Gothorita, Gothitelle
+-------------------------------
+Icy Wind - Lvl 28
+
+
+Reuniclus
+----------
+Zap Cannon - Lvl 1
+
+
+Emolga
+------
+Now learns TM53 Energy Ball [Z-A]
+
+
+Yamask, Cofagrigus
+--------------------
+Psyshock     - Lvl 30
+Icy Wind     - Lvl 15
+Stealth Rock - Lvl 1 (Cofagrigus)
+
+
+Zorua, Zoroark
+----------------
+Icy Wind - Lvl 32/35
+
+
+Amoonguss
+----------
+Skull Bash - Lvl 1
+
+
+Alomomola
+----------
+*Alomomola has had a wide array of level up shifts so the full learnset has been posted*
+1 - Refresh
+1 - Knock Off
+1 - Pound
+1 - Safeguard
+1 - Water Sport
+1 - Soak
+5 - Aqua Ring
+9 - Protect
+13 - Aqua Jet
+17 - Whirlpool
+20 - Tickle
+23 - Icy Wind
+27 - Brine
+30 - Wake Up Slap
+34 - Helping Hand
+37 - Wish
+40 - Heal Pulse
+42 - Liquidation*
+46 - Wide Guard
+49 - Mirror Coat
+53 - Healing Wish
+56 - Baton Pass
+
+Eelektrik, Eelektross
+----------------------
+Now learns TM78 Bulldoze (Eelektross)
+Now learns HM03 Surf (Eelektrik, Eelektross)
+Now learns HM05 Waterfall (Eelektrik, Eelektross)
+Zap Cannon - Lvl 52
+Aqua Tail  - Lvl 60
+
+
+Litwick, Lampent, Chandelure
+------------------------------
+Inferno - Lvl 46/48/48
+Memento - Lvl 52/55/55
+
+
+Haxorus
+--------
+Close Combat - Lvl 1
+
+
+Cubchoo, Beartic
+-----------------
+Endure       - Lvl 1
+Icy Wind     - Lvl 9
+Icicle Spear - Lvl 13 (Cubchoo)
+Ice Shard    - Lvl 20
+Encore       - Lvl 30
+
+
+Golett, Golurk
+---------------
+Shadow Force - Lvl 55/60
+
+
+Braviary
+-----------
+Zen Headbutt - Lvl 1
+
+
+Heatmor
+--------
+Inferno - Lvl 1
+Spit Up and Swallow have been removed from the learnset.
+
+
+Cobalion, Terrakion, Virizion
+------------------------------
+Skull Bash                        - Lvl 15
+Aura Sphere                       - Lvl 1
+Megahorn                          - Lvl 70
+Air Slash/Heavy Slam/Air Slash    - Lvl 22
+
+
+Tornadus, Thundurus, Landorus
+--------------------
+Weather Ball - Lvl 1
+
+
+Keldeo
+---------
+Aura Sphere - Lvl 1
+Earth Power - Lvl 15
+Air Slash   - Lvl 22
+Megahorn    - Lvl 70
+
+
+Meloetta
+----------
+Petal Dance - Lvl 1
+Sing - Lvl 61 (due to Relic Song now able to be learned through the event)
+
+
+Genesect
+----------
+Skull Bash - Lvl 1
+
+
+Ekans, Arbok
+--------------
+Leech Life - Lvl 30/32
+Spit up and Swallow have been removed from the learnset
+
+
+Clefable
+---------
+Air Slash - Lvl 1
+
+
+Primeape
+--------
+Storm Throw - Lvl 1
+
+
+Persian
+--------
+Skull Bash - Lvl 1
+
+
+Psyduck, Golduck
+-----------------
+Soak        - Lvl 1
+Vacuum Wave - Lvl 23
+
+
+Vulpix, Ninetales
+-------------------
+Inferno - Lvl 49
+
+
+Weepinbell, Victreebel
+-----------------------
+Toxic Spikes - Lvl 1
+
+
+Slowpoke, Slowbro, Slowking
+----------------------------
+Now learns TM36 Sludge Bomb
+
+
+Onix, Steelix
+----------------
+Head Smash - Lvl 53
+
+
+Staryu, Starmie
+----------------
+Can learn TM31 Brick Break (Starmie only)
+Rapid Spin   - Lvl 1
+Reflect Type - Lvl 1
+Sharpen      - Lvl 10
+Aqua Jet     - Lvl 29
+Psycho Cut   - Lvl 43
+
+
+Porygon, Porygon2, Porygon-Z
+-----------------------------
+Can now learn Volt Switch via TM
+
+
+Ampharos
+---------
+Zap Cannon - Lvl 1
+
+Heracross
+----------
+Spikes - Lvl 39
+
+
+Ralts, Kirlia, Gardevoir
+--------------------------
+Water Pulse - Lvl 29
+Earth Power - Lvl 1 (Gardevoir)
+
+
+Sableye
+--------
+Foul Play - Lvl 1
+Crunch    - Lvl 40
+
+
+Budew, Roselia, Roserade
+-------------------------
+Mud Shot - 10/1/1
+Level 1 relearn move for Roselia and Roserade.
+
+
+Grumpig
+---------
+Earth Power - Lvl 1
+
+
+Sharpedo
+---------
+Close Combat - Lvl 57
+
+Camerupt
+---------
+Heat Crash - Lvl 1
+
+
+Kecleon
+---------
+Power Whip - Lvl 48
+
+
+Milotic
+--------
+Can now learn Calm Mind via TM
+
+
+Chimecho
+---------
+Boomburst - Lvl 55
+
+
+Absol
+-------
+Close Combat - Lvl 48
+
+
+Chimchar, Monferno, Infernape
+------------------------------
+Fire Spin  - Lvl 1 (Monferno, Infernape)
+Fire Punch - Lvl 24/25/25
+
+
+Staraptor
+-----------
+Blaze Kick - Lvl 1
+
+
+Abomasnow
+-----------
+Earth Power - Lvl 1

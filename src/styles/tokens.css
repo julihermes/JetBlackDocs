@@ -1,0 +1,51 @@
+:root {
+  --bg: #0b0c10;
+  --surface: #15171c;
+  --surface-raised: #1c1f26;
+  --hairline: #2a2d35;
+  --hairline-strong: #3a3e48;
+
+  --text: #edeef0;
+  --text-dim: #9096a1;
+  --text-faint: #5f6570;
+
+  --amber: #f5a623;
+  --amber-dim: #7a5518;
+  --teal: #2fd9c4;
+  --teal-dim: #175e55;
+
+  --red: #e5484d;
+  --green: #4ade80;
+
+  --font-display: "Archivo Expanded", "Archivo", "Arial Narrow", sans-serif;
+  --font-body: "Archivo", -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
+
+  --radius-sm: 4px;
+  --radius-md: 8px;
+
+  --nav-height: 60px;
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+/* Type-badge colors — used as the "gate code" pills throughout the site */
+:root {
+  --type-normal: #a4a291;
+  --type-fire: #e5622b;
+  --type-water: #3c9bd8;
+  --type-electric: #f0c525;
+  --type-grass: #63bc4f;
+  --type-ice: #6fd3e0;
+  --type-fighting: #c0432c;
+  --type-poison: #9a4fa3;
+  --type-ground: #c9a15a;
+  --type-flying: #8ba7e0;
+  --type-psychic: #ec5e8f;
+  --type-bug: #91b52e;
+  --type-rock: #a89158;
+  --type-ghost: #5a5591;
+  --type-dragon: #6a4fd6;
+  --type-dark: #5b5262;
+  --type-steel: #8c9aa8;
+  --type-fairy: #e397d6;
+}
