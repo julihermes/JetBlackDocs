@@ -169,3 +169,94 @@ with open("pipeline/vanilla-data/moves.json", "w") as f:
     json.dump(result, f, indent=0, ensure_ascii=False)
 EOF
 ```
+
+`trainer-portraits.json` maps a notable trainer's first name (as it appears after their title in the trainer roster doc — "Leader Lenora" or "Champion Alder" both key on just "Lenora"/"Alder") to a portrait image URL, for the Trainers page. This is the one file in this directory **not** sourced from PokéAPI — PokéAPI has no trainer/NPC artwork at all (only Pokémon, items, types), so this hotlinks each trainer's official Black/White artwork from Bulbapedia instead. Every URL was verified reachable (HTTP 200, `image/png`) before being committed.
+
+To regenerate (each URL was found via Bulbapedia's own API rather than guessed — do the same if a trainer's file ever moves):
+
+```bash
+python3 - <<'EOF'
+import json, urllib.request, urllib.parse
+
+HEADERS = {"User-Agent": "Mozilla/5.0 (jetblack-docs data pipeline)"}
+API = "https://bulbapedia.bulbagarden.net/w/api.php"
+TRAINERS = ["Chili", "Cress", "Cilan", "Lenora", "Burgh", "Elesa", "Clay", "Skyla", "Drayden", "Iris", "Brycen", "Alder"]
+
+
+def api_get(params):
+    req = urllib.request.Request(API + "?" + urllib.parse.urlencode(params), headers=HEADERS)
+    with urllib.request.urlopen(req, timeout=15) as r:
+        return json.load(r)
+
+
+result = {}
+for name in TRAINERS:
+    data = api_get({"action": "query", "titles": f"File:Black White {name}.png", "prop": "imageinfo", "iiprop": "url", "format": "json"})
+    page = next(iter(data["query"]["pages"].values()), {})
+    imageinfo = page.get("imageinfo")
+    if imageinfo:
+        result[name] = imageinfo[0]["url"]
+
+with open("pipeline/vanilla-data/trainer-portraits.json", "w") as f:
+    json.dump(result, f, indent=2)
+EOF
+```
+
+Since this file was extended with the rival/Elite Four names too (also full official Black/White artwork, for the same "important trainer" big-portrait treatment), note the doc's own spelling sometimes differs from Bulbapedia's canonical one (`Marshal`/`Marshall` both point at Bulbapedia's `Marshal` file, `Caitlyn` at Bulbapedia's `Caitlin` file) — same kind of doc-vs-canonical mismatch already handled for move names in `moves.json`.
+
+`trainer-class-icons.json` maps a *generic* trainer class, exactly as it appears before the personal name in the roster doc (typos and all — e.g. `"Blackbelt"`, `"Black belt"`, and `"Black Belt"` are three separate keys, all pointing at the same icon), to a small official Black/White trainer-class icon from Bulbapedia — 96 files exist for Gen 5 covering every class (with separate male/female sprites for unisex classes). Every key here was resolved against that verified 96-file list, not guessed. **Note on gender:** for a unisex class (Ace Trainer, Backpacker, Cyclist, Pokéfan, Pokémon Breeder/Ranger, Preschooler, Psychic, School Kid, Scientist, Swimmer, Veteran), the actual trainer's in-game gender isn't recoverable from the roster doc's first name alone without guessing — so these all default to the male sprite as a documented, purely decorative simplification (it has no bearing on any gameplay-relevant data on the site). Classes that already encode gender in the doc's own text (Clerk F/M, Waiter/Waitress) use the matching sprite. A few classes have no dedicated Gen 5 sprite at all ("Subway Boss", "The Riches", a couple of one-off Team Plasma names) and are simply left out — the page falls back to no icon for those, same as it already does for any unmatched species elsewhere.
+
+**Important:** unlike `list=allimages` on `bulbapedia.bulbagarden.net` itself (which returns nothing for these — the images live on a separate, shared image repository), you have to query the archive wiki's own API directly: `https://archives.bulbagarden.net/w/api.php`.
+
+To regenerate:
+
+```bash
+python3 - <<'EOF'
+import json, urllib.request
+
+HEADERS = {"User-Agent": "Mozilla/5.0 (jetblack-docs data pipeline)"}
+req = urllib.request.Request(
+    "https://archives.bulbagarden.net/w/api.php?action=query&list=allimages&aiprefix=Spr_BW_&format=json&ailimit=500",
+    headers=HEADERS,
+)
+with urllib.request.urlopen(req, timeout=15) as r:
+    data = json.load(r)
+urls = {img["name"]: img["url"] for img in data["query"]["allimages"]}
+
+
+def u(filename):
+    return urls[f"Spr_BW_{filename}.png"]
+
+
+# Raw class string (as it appears in the roster doc, typos included) -> canonical Spr_BW_ filename.
+CLASS_MAP = {
+    "Ace Trainer": "Ace_Trainer_M", "Artist": "Artist", "Backers": "Backers_M",
+    "Backpacker": "Backpacker_M", "Baker": "Baker", "Battle Girl": "Battle_Girl",
+    "Biker": "Biker", "Black Belt": "Black_Belt", "Black belt": "Black_Belt",
+    "Blackbelt": "Black_Belt", "Clerk F": "Clerk_F", "Clerk M": "Clerk_M_A",
+    "ClerkF": "Clerk_F", "ClerkM": "Clerk_M_A", "Cyclist": "Cyclist_M",
+    "Dancer": "Dancer", "Depot Agent": "Depot_Agent", "Doctor": "Doctor",
+    "Fisher": "Fisherman", "Fisherman": "Fisherman", "Gentleman": "Gentleman",
+    "Harlequin": "Harlequin", "Hike": "Hiker", "Hiker": "Hiker",
+    "Hooligans": "Hooligans", "Hoopster": "Hoopster", "Infielder": "Infielder",
+    "Janitor": "Janitor", "Lady": "Lady", "Lass": "Lass",
+    "Linebacker": "Linebacker", "Maid": "Maid", "Motorcyclist": "Biker",
+    "Musician": "Musician", "Nurse": "Nurse", "Nursery Aide": "Nursery_Aide",
+    "Parasol Lady": "Parasol_Lady", "Pilot": "Pilot", "Pokefan": "Pokéfan_M",
+    "Pokemon Breeder": "Pokémon_Breeder_M", "Pokemon Ranger": "Pokémon_Ranger_M",
+    "Policeman": "Policeman", "Preschooler": "Preschooler_M", "Psychic": "Psychic_M",
+    "Rich Boy": "Rich_Boy", "Roughneck": "Roughneck", "School Kid": "School_Kid_M",
+    "Schoolkid": "School_Kid_M", "Scientist": "Scientist_M", "Smasher": "Smasher",
+    "Socialite": "Socialite", "Striker": "Striker", "Swimmer": "Swimmer_M",
+    "Twins": "Twins", "Veteran": "Veteran_M", "Waiter": "Waiter",
+    "Waitress": "Waitress", "Worker": "Worker", "Youngster": "Youngster",
+    "Team Plasma Ghetsis": "Ghetsis", "Team Plasma N": "N",
+    "Team Plasma Grunt": "Plasma_Grunt_M", "Pokemon Trainer N": "N",
+    "Pokemon Trainer Cynthia": "Cynthia",
+}
+
+result = {raw: u(filename) for raw, filename in CLASS_MAP.items()}
+with open("pipeline/vanilla-data/trainer-class-icons.json", "w") as f:
+    json.dump(result, f, indent=2, ensure_ascii=False)
+EOF
+```

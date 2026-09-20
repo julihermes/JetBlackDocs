@@ -1,16 +1,25 @@
 import { useMemo, useState } from "preact/hooks";
+import { Link } from "wouter-preact";
 import { PageHeader } from "../components/PageHeader";
 import { SearchBox } from "../components/SearchBox";
 import { DataError, EmptyState } from "../components/DataState";
 import { useData } from "../lib/useData";
 import { matches } from "../lib/filter";
 import { useInitialQuery } from "../lib/useInitialQuery";
-import type { LocationEncounters } from "../lib/types";
+import { spriteUrl } from "../lib/sprites";
+import { baseSpeciesName } from "../lib/species";
+import type { LocationEncounters, PokemonEntry } from "../lib/types";
 import styles from "./Encounters.module.css";
 
 export function Encounters() {
   const state = useData<LocationEncounters[]>(() => import("../data/wild-encounters.generated.json"));
+  const pokemonState = useData<PokemonEntry[]>(() => import("../data/pokemon.generated.json"));
   const [query, setQuery] = useState(useInitialQuery());
+
+  const pokemonByName = useMemo(() => {
+    if (pokemonState.status !== "ready") return new Map<string, PokemonEntry>();
+    return new Map(pokemonState.data.map((p) => [p.name.toLowerCase(), p]));
+  }, [pokemonState]);
 
   const filtered = useMemo(() => {
     if (state.status !== "ready") return [];
@@ -50,25 +59,27 @@ export function Encounters() {
                   {loc.methods.map((method) => (
                     <div className={styles.method} key={method.method}>
                       <p className={styles.methodTitle}>{method.method}</p>
-                      {method.rows.map((row, i) => (
-                        <div className={styles.row} key={i}>
-                          <span>
-                            <span className={styles.rowName}>{row.species}</span>
-                            {row.flags.length > 0 && (
-                              <span className={styles.flags}>
-                                {row.flags.map((f) => (
-                                  <span className="tag" key={f}>
-                                    {f}
-                                  </span>
-                                ))}
-                              </span>
-                            )}
-                          </span>
-                          <span className={styles.rowMeta}>
-                            Lv.{row.levelRange} · {row.chance}
-                          </span>
-                        </div>
-                      ))}
+                      <div className={styles.cardGrid}>
+                        {method.rows.map((row, i) => {
+                          const mon = pokemonByName.get(baseSpeciesName(row.species).toLowerCase());
+                          return (
+                            <Link
+                              key={i}
+                              href={mon ? `/pokedex/${encodeURIComponent(mon.name.toLowerCase())}` : "#"}
+                              className={styles.speciesCard}
+                            >
+                              {mon && <img src={spriteUrl(mon.dexNumber)} alt="" className={styles.cardSprite} />}
+                              <div className={styles.cardInfo}>
+                                <span className={styles.cardName}>{row.species}</span>
+                                <span className={styles.cardMeta}>
+                                  Lv.{row.levelRange} · {row.chance}
+                                </span>
+                                {row.flags.length > 0 && <span className={styles.flagNote}>{row.flags.join(" · ")}</span>}
+                              </div>
+                            </Link>
+                          );
+                        })}
+                      </div>
                     </div>
                   ))}
                 </div>
