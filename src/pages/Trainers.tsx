@@ -4,13 +4,14 @@ import { SearchBox } from "../components/SearchBox";
 import { DataError, EmptyState } from "../components/DataState";
 import { useData } from "../lib/useData";
 import { matches } from "../lib/filter";
+import { useInitialQuery } from "../lib/useInitialQuery";
 import type { TrainerLocation } from "../lib/types";
 import styles from "./Trainers.module.css";
 import encStyles from "./Encounters.module.css";
 
 export function Trainers() {
   const state = useData<TrainerLocation[]>(() => import("../data/trainers.generated.json"));
-  const [query, setQuery] = useState("");
+  const [query, setQuery] = useState(useInitialQuery());
 
   const filtered = useMemo(() => {
     if (state.status !== "ready") return [];
@@ -26,7 +27,7 @@ export function Trainers() {
 
   return (
     <main className="page">
-      <PageHeader eyebrow="DEPARTURE · VS" title="TRAINERS" subtitle="Every trainer battle by location — gym leaders, rivals, the Elite Four and post-game rematches." />
+      <PageHeader eyebrow="DEPARTURE" title="TRAINERS" subtitle="Every trainer battle by location — gym leaders, rivals, the Elite Four and post-game rematches." />
 
       <SearchBox value={query} onInput={setQuery} placeholder="Search a trainer, class or a Pokémon…" resultCount={state.status === "ready" ? filtered.length : undefined} />
 

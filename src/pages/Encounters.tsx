@@ -4,12 +4,13 @@ import { SearchBox } from "../components/SearchBox";
 import { DataError, EmptyState } from "../components/DataState";
 import { useData } from "../lib/useData";
 import { matches } from "../lib/filter";
+import { useInitialQuery } from "../lib/useInitialQuery";
 import type { LocationEncounters } from "../lib/types";
 import styles from "./Encounters.module.css";
 
 export function Encounters() {
   const state = useData<LocationEncounters[]>(() => import("../data/wild-encounters.generated.json"));
-  const [query, setQuery] = useState("");
+  const [query, setQuery] = useState(useInitialQuery());
 
   const filtered = useMemo(() => {
     if (state.status !== "ready") return [];
@@ -23,7 +24,7 @@ export function Encounters() {
 
   return (
     <main className="page">
-      <PageHeader eyebrow="DEPARTURE · RTES" title="ENCOUNTERS" subtitle="Wild Pokémon by route and method — search a place (“Route 5”) or a species (“Ducklett”) to find where it turns up." />
+      <PageHeader eyebrow="DEPARTURE" title="ENCOUNTERS" subtitle="Wild Pokémon by route and method — search a place (“Route 5”) or a species (“Ducklett”) to find where it turns up." />
 
       <SearchBox value={query} onInput={setQuery} placeholder="Search a route or a Pokémon…" resultCount={state.status === "ready" ? filtered.length : undefined} />
 
