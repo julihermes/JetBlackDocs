@@ -4,16 +4,16 @@ import { useData } from "../lib/useData";
 import type { BuildManifest, FeaturesData } from "../lib/types";
 import styles from "./Home.module.css";
 
-const BOARD: Array<{ path: string; code: string; name: string; detail: (m?: BuildManifest) => string }> = [
-  { path: "/pokedex", code: "DEX", name: "Pokédex", detail: (m) => `${m?.counts.pokemon ?? "…"} species, stats & learnsets` },
-  { path: "/encounters", code: "RTES", name: "Wild encounters", detail: (m) => `${m?.counts.wildEncounterLocations ?? "…"} locations` },
-  { path: "/trainers", code: "VS", name: "Trainer rosters", detail: (m) => `${m?.counts.trainerLocations ?? "…"} locations, gym leaders to E4` },
-  { path: "/items", code: "ITMS", name: "Item locations", detail: () => "Ground items, gifts, mart stock" },
-  { path: "/moves", code: "MOVE", name: "Move changes", detail: (m) => `${m?.counts.moveChanges ?? "…"} moves rebalanced or added` },
-  { path: "/evolutions", code: "EVO", name: "Evolution changes", detail: (m) => `${m?.counts.evolutions ?? "…"} altered methods` },
-  { path: "/legendaries", code: "LGND", name: "Legendaries & mythicals", detail: (m) => `${m?.counts.legendaries ?? "…"} encounters` },
-  { path: "/nuzlocke", code: "CAPS", name: "Nuzlocke level caps", detail: () => "Boss-by-boss level ceiling" },
-  { path: "/history", code: "LOG", name: "Version history", detail: (m) => `${m?.counts.changelog ?? "…"} releases logged` },
+const BOARD: Array<{ path: string; name: string; detail: (m?: BuildManifest) => string }> = [
+  { path: "/pokedex", name: "Pokédex", detail: (m) => `${m?.counts.pokemon ?? "…"} species, stats & learnsets` },
+  { path: "/encounters", name: "Wild encounters", detail: (m) => `${m?.counts.wildEncounterLocations ?? "…"} locations` },
+  { path: "/trainers", name: "Trainer rosters", detail: (m) => `${m?.counts.trainerLocations ?? "…"} locations, gym leaders to E4` },
+  { path: "/items", name: "Item locations", detail: () => "Ground items, gifts, mart stock" },
+  { path: "/moves", name: "Move changes", detail: (m) => `${m?.counts.moveChanges ?? "…"} moves rebalanced or added` },
+  { path: "/evolutions", name: "Evolution changes", detail: (m) => `${m?.counts.evolutions ?? "…"} altered methods` },
+  { path: "/legendaries", name: "Legendaries & mythicals", detail: (m) => `${m?.counts.legendaries ?? "…"} encounters` },
+  { path: "/nuzlocke", name: "Nuzlocke level caps", detail: () => "Boss-by-boss level ceiling" },
+  { path: "/history", name: "Version history", detail: (m) => `${m?.counts.changelog ?? "…"} releases logged` },
 ];
 
 export function Home() {
@@ -56,13 +56,11 @@ export function Home() {
       <p className="section-title">Departures</p>
       <div className={styles.board}>
         <div className={styles.boardHead}>
-          <span>Gate</span>
           <span>Section</span>
           <span style={{ textAlign: "right" }}>Status</span>
         </div>
         {BOARD.map((b) => (
           <Link key={b.path} href={b.path} className={styles.boardRow}>
-            <span className={styles.code}>{b.code}</span>
             <span className={styles.dest}>
               <span className={styles.destName}>{b.name}</span>
               <span className={styles.destDetail}>{b.detail(m)}</span>

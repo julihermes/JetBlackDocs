@@ -47,12 +47,12 @@ p {
 }
 
 ::selection {
-  background: var(--amber);
-  color: #1a1200;
+  background: var(--teal);
+  color: #06231d;
 }
 
 :focus-visible {
-  outline: 2px solid var(--amber);
+  outline: 2px solid var(--teal);
   outline-offset: 2px;
 }
 
@@ -100,7 +100,7 @@ p {
   font-weight: 600;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: var(--amber);
+  color: var(--teal);
 }
 
 .page-title {

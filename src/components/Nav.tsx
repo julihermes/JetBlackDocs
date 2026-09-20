@@ -21,7 +21,6 @@ export function Nav() {
             href={r.path}
             className={`${styles.topLink} ${location === r.path ? styles.topLinkActive : ""}`}
           >
-            <span className={styles.topCode}>{r.code}</span>
             {r.label}
           </Link>
         ))}
@@ -35,7 +34,6 @@ export function Nav() {
             className={`${styles.bottomLink} ${location === r.path ? styles.bottomLinkActive : ""}`}
             onClick={() => setMoreOpen(false)}
           >
-            <span className={styles.bottomCode}>{r.code}</span>
             <span className={styles.bottomLabel}>{r.label}</span>
           </Link>
         ))}
@@ -45,7 +43,6 @@ export function Nav() {
           onClick={() => setMoreOpen((v) => !v)}
           aria-expanded={moreOpen}
         >
-          <span className={styles.bottomCode}>•••</span>
           <span className={styles.bottomLabel}>More</span>
         </button>
       </nav>
@@ -57,7 +54,6 @@ export function Nav() {
             <div className={styles.sheetGrid}>
               {MORE_ROUTES.map((r) => (
                 <Link key={r.path} href={r.path} className={styles.sheetItem} onClick={() => setMoreOpen(false)}>
-                  <span className={styles.sheetCode}>{r.code}</span>
                   <span className={styles.sheetLabel}>{r.label}</span>
                 </Link>
               ))}

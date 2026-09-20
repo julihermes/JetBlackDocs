@@ -19,7 +19,7 @@
 }
 
 .input:focus {
-  border-color: var(--amber);
+  border-color: var(--teal);
 }
 
 .icon {

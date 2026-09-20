@@ -12,7 +12,7 @@
 
 .boardHead {
   display: grid;
-  grid-template-columns: 56px 1fr 84px;
+  grid-template-columns: 1fr 84px;
   gap: 10px;
   padding: 8px 14px;
   font-family: var(--font-mono);
@@ -25,7 +25,7 @@
 
 .boardRow {
   display: grid;
-  grid-template-columns: 56px 1fr 84px;
+  grid-template-columns: 1fr 84px;
   gap: 10px;
   align-items: center;
   padding: 13px 14px;
@@ -40,13 +40,6 @@
 
 .boardRow:hover {
   background: var(--surface-raised);
-}
-
-.code {
-  font-family: var(--font-mono);
-  font-weight: 700;
-  color: var(--amber);
-  font-size: 13px;
 }
 
 .dest {

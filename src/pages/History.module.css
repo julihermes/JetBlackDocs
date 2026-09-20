@@ -18,7 +18,7 @@
   width: 10px;
   height: 10px;
   border-radius: 50%;
-  background: var(--amber);
+  background: var(--teal);
   box-shadow: 0 0 0 3px var(--bg);
 }
 
@@ -26,7 +26,7 @@
   font-family: var(--font-mono);
   font-weight: 700;
   font-size: 15px;
-  color: var(--amber);
+  color: var(--teal);
 }
 
 .notes {

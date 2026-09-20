@@ -22,7 +22,7 @@ export function Items() {
 
   return (
     <main className="page">
-      <PageHeader eyebrow="DEPARTURE · ITMS" title="ITEMS" subtitle="Ground items, defeat rewards, hidden items and what's new on PokéMart shelves." />
+      <PageHeader eyebrow="DEPARTURE" title="ITEMS" subtitle="Ground items, defeat rewards, hidden items and what's new on PokéMart shelves." />
 
       {state.status === "error" && <DataError label="item locations" />}
       {state.status === "loading" && <EmptyState>Loading items…</EmptyState>}

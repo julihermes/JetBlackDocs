@@ -28,7 +28,7 @@
   --safe-bottom: env(safe-area-inset-bottom, 0px);
 }
 
-/* Type-badge colors — used as the "gate code" pills throughout the site */
+/* Type-badge colors, used where a move/species type is known */
 :root {
   --type-normal: #a4a291;
   --type-fire: #e5622b;

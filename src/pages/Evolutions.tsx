@@ -22,7 +22,7 @@ export function Evolutions() {
 
   return (
     <main className="page">
-      <PageHeader eyebrow="DEPARTURE · EVO" title="EVOLUTIONS" subtitle="Every evolution method changed from vanilla Black — mostly trade evolutions swapped for level-ups." />
+      <PageHeader eyebrow="DEPARTURE" title="EVOLUTIONS" subtitle="Every evolution method changed from vanilla Black — mostly trade evolutions swapped for level-ups." />
 
       <SearchBox value={query} onInput={setQuery} placeholder="Search a Pokémon…" />
 
