@@ -150,12 +150,26 @@
     "location": "Route 12",
     "notes": [
       "-Can be encountered after catching/defeating Latias",
-      "in Nimbasa City",
-      "#489 Phione",
-      "Breed Manaphy",
-      "-See Manaphy",
-      "#490 Manaphy",
-      "Undella Town.",
+      "in Nimbasa City"
+    ]
+  },
+  {
+    "dexNumber": 489,
+    "name": "Phione",
+    "level": null,
+    "section": "post-game",
+    "location": "Breed Manaphy",
+    "notes": [
+      "-See Manaphy"
+    ]
+  },
+  {
+    "dexNumber": 490,
+    "name": "Manaphy",
+    "level": null,
+    "section": "post-game",
+    "location": "Undella Town.",
+    "notes": [
       "-Found as an egg between the two rocks south of town.",
       "Does NOT require obtaining the God Stone.",
       "In order to encounter all of the Gen 1-4 Legendary Pokemon (With the exception of Manaphy)",

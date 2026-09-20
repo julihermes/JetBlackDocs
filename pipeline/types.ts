@@ -8,10 +8,23 @@ export interface EvolutionEntry {
   condition: string;
 }
 
+export interface EvolutionEdge {
+  species: string;
+  method: string;
+  changed: boolean; // true when this is a JetBlack-altered method, false when it's vanilla Black's own
+}
+
+export interface EvolutionLookupEntry {
+  evolvesFrom?: EvolutionEdge;
+  evolvesTo: EvolutionEdge[];
+}
+
+export type EvolutionLookup = Record<string, EvolutionLookupEntry>;
+
 export interface LegendaryEntry {
   dexNumber: number;
   name: string;
-  level: number;
+  level: number | null; // null for Phione/Manaphy — obtained as an egg, not caught at a fixed level
   section: "main" | "post-game";
   location: string;
   notes: string[];
@@ -45,6 +58,25 @@ export interface NewMove {
 export interface MoveChangesData {
   changed: ChangedMove[];
   newMoves: NewMove[];
+}
+
+export interface VanillaMoveInfo {
+  type: string;
+  damageClass: string; // "physical" | "special" | "status" — kept as a plain string here since it's read back from generated JSON; see src/components/DamageClassIcon.tsx for the narrowed union used in the UI
+  power: number | null;
+  accuracy: number | null;
+  pp: number;
+  flavorText: string;
+  effect: string;
+}
+
+export interface MoveEntry extends VanillaMoveInfo {
+  name: string;
+  changed: boolean; // true when JetBlack rebalanced this move
+  fieldChanges: MoveFieldChange[]; // per-field from/to diff, straight from the hack's doc — empty unless changed
+  changeNotes: string[];
+  isNew: boolean; // true for a JetBlack-added move with no vanilla Black counterpart
+  learnedBy: string[]; // species that learn it — level-up reverse index for vanilla moves, doc-curated distribution list for new moves
 }
 
 export interface GroundItemEntry {
@@ -116,9 +148,22 @@ export interface LearnsetMove {
   isNewMove: boolean; // flagged with trailing * in source, cross-references MoveChangesData.newMoves
 }
 
-export interface PokemonEntry {
+export interface VanillaSpeciesInfo {
+  genus: string; // e.g. "Seed Pokémon"
+  heightM: number;
+  weightKg: number;
+  genderRate: number; // -1 genderless, else eighths female (0 = 0% female, 8 = 100% female)
+  eggGroups: string[];
+  catchRate: number;
+  hatchSteps: number;
+  flavorText: string; // Gen 5 (Black version) Pokédex entry
+}
+
+export interface PokemonEntry extends VanillaSpeciesInfo {
   dexNumber: number;
   name: string;
+  obtainable: boolean; // best-effort: false means no documented wild/gift/legendary/breeding path — see pipeline/obtainability.ts
+  types: string[]; // unchanged by the hack — from static reference data, see pipeline/vanilla-data.ts
   abilities: string[];
   abilityNotes: string[];
   stats: StatBlock;
@@ -126,7 +171,8 @@ export interface PokemonEntry {
   statChangeNote?: string;
   hasMultipleFormes: boolean;
   formesRaw?: string;
-  notes: string[]; // freeform TM/egg-move/misc additions
+  tmCompatibility: string[]; // "TM33 Reflect" style entries pulled out of notes
+  notes: string[]; // remaining freeform egg-move/misc additions
   learnset: LearnsetMove[];
 }
 

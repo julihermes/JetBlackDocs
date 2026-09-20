@@ -1,5 +1,8 @@
 export type {
   EvolutionEntry,
+  EvolutionEdge,
+  EvolutionLookupEntry,
+  EvolutionLookup,
   LegendaryEntry,
   MoveFieldChange,
   ChangedMove,
@@ -27,5 +30,7 @@ export type {
   TrainerBattle,
   TrainerLocation,
   BuildManifest,
+  VanillaMoveInfo,
+  MoveEntry,
 } from "../../pipeline/types";
 export type { SpeciesEncounterRef, SpeciesTrainerRef } from "../../pipeline/indices";

@@ -1,0 +1,2258 @@
+{
+"16": [
+"normal",
+"flying"
+],
+"17": [
+"normal",
+"flying"
+],
+"18": [
+"normal",
+"flying"
+],
+"19": [
+"normal"
+],
+"20": [
+"normal"
+],
+"21": [
+"normal",
+"flying"
+],
+"22": [
+"normal",
+"flying"
+],
+"39": [
+"normal",
+"fairy"
+],
+"40": [
+"normal",
+"fairy"
+],
+"52": [
+"normal"
+],
+"53": [
+"normal"
+],
+"83": [
+"normal",
+"flying"
+],
+"84": [
+"normal",
+"flying"
+],
+"85": [
+"normal",
+"flying"
+],
+"108": [
+"normal"
+],
+"113": [
+"normal"
+],
+"115": [
+"normal"
+],
+"128": [
+"normal"
+],
+"132": [
+"normal"
+],
+"133": [
+"normal"
+],
+"137": [
+"normal"
+],
+"143": [
+"normal"
+],
+"161": [
+"normal"
+],
+"162": [
+"normal"
+],
+"163": [
+"normal",
+"flying"
+],
+"164": [
+"normal",
+"flying"
+],
+"174": [
+"normal",
+"fairy"
+],
+"190": [
+"normal"
+],
+"203": [
+"normal",
+"psychic"
+],
+"206": [
+"normal"
+],
+"216": [
+"normal"
+],
+"217": [
+"normal"
+],
+"233": [
+"normal"
+],
+"234": [
+"normal"
+],
+"235": [
+"normal"
+],
+"241": [
+"normal"
+],
+"242": [
+"normal"
+],
+"263": [
+"normal"
+],
+"264": [
+"normal"
+],
+"276": [
+"normal",
+"flying"
+],
+"277": [
+"normal",
+"flying"
+],
+"287": [
+"normal"
+],
+"288": [
+"normal"
+],
+"289": [
+"normal"
+],
+"293": [
+"normal"
+],
+"294": [
+"normal"
+],
+"295": [
+"normal"
+],
+"298": [
+"normal",
+"fairy"
+],
+"300": [
+"normal"
+],
+"301": [
+"normal"
+],
+"327": [
+"normal"
+],
+"333": [
+"normal",
+"flying"
+],
+"335": [
+"normal"
+],
+"351": [
+"normal"
+],
+"352": [
+"normal"
+],
+"396": [
+"normal",
+"flying"
+],
+"397": [
+"normal",
+"flying"
+],
+"398": [
+"normal",
+"flying"
+],
+"399": [
+"normal"
+],
+"400": [
+"normal",
+"water"
+],
+"424": [
+"normal"
+],
+"427": [
+"normal"
+],
+"428": [
+"normal"
+],
+"431": [
+"normal"
+],
+"432": [
+"normal"
+],
+"440": [
+"normal"
+],
+"441": [
+"normal",
+"flying"
+],
+"446": [
+"normal"
+],
+"463": [
+"normal"
+],
+"474": [
+"normal"
+],
+"486": [
+"normal"
+],
+"493": [
+"normal"
+],
+"504": [
+"normal"
+],
+"505": [
+"normal"
+],
+"506": [
+"normal"
+],
+"507": [
+"normal"
+],
+"508": [
+"normal"
+],
+"519": [
+"normal",
+"flying"
+],
+"520": [
+"normal",
+"flying"
+],
+"521": [
+"normal",
+"flying"
+],
+"531": [
+"normal"
+],
+"572": [
+"normal"
+],
+"573": [
+"normal"
+],
+"585": [
+"normal",
+"grass"
+],
+"586": [
+"normal",
+"grass"
+],
+"626": [
+"normal"
+],
+"627": [
+"normal",
+"flying"
+],
+"628": [
+"normal",
+"flying"
+],
+"648": [
+"normal",
+"psychic"
+],
+"56": [
+"fighting"
+],
+"57": [
+"fighting"
+],
+"62": [
+"water",
+"fighting"
+],
+"66": [
+"fighting"
+],
+"67": [
+"fighting"
+],
+"68": [
+"fighting"
+],
+"106": [
+"fighting"
+],
+"107": [
+"fighting"
+],
+"214": [
+"bug",
+"fighting"
+],
+"236": [
+"fighting"
+],
+"237": [
+"fighting"
+],
+"256": [
+"fire",
+"fighting"
+],
+"257": [
+"fire",
+"fighting"
+],
+"286": [
+"grass",
+"fighting"
+],
+"296": [
+"fighting"
+],
+"297": [
+"fighting"
+],
+"307": [
+"fighting",
+"psychic"
+],
+"308": [
+"fighting",
+"psychic"
+],
+"391": [
+"fire",
+"fighting"
+],
+"392": [
+"fire",
+"fighting"
+],
+"447": [
+"fighting"
+],
+"448": [
+"fighting",
+"steel"
+],
+"453": [
+"poison",
+"fighting"
+],
+"454": [
+"poison",
+"fighting"
+],
+"475": [
+"psychic",
+"fighting"
+],
+"499": [
+"fire",
+"fighting"
+],
+"500": [
+"fire",
+"fighting"
+],
+"532": [
+"fighting"
+],
+"533": [
+"fighting"
+],
+"534": [
+"fighting"
+],
+"538": [
+"fighting"
+],
+"539": [
+"fighting"
+],
+"559": [
+"dark",
+"fighting"
+],
+"560": [
+"dark",
+"fighting"
+],
+"619": [
+"fighting"
+],
+"620": [
+"fighting"
+],
+"638": [
+"steel",
+"fighting"
+],
+"639": [
+"rock",
+"fighting"
+],
+"640": [
+"grass",
+"fighting"
+],
+"647": [
+"water",
+"fighting"
+],
+"6": [
+"fire",
+"flying"
+],
+"12": [
+"bug",
+"flying"
+],
+"41": [
+"poison",
+"flying"
+],
+"42": [
+"poison",
+"flying"
+],
+"123": [
+"bug",
+"flying"
+],
+"130": [
+"water",
+"flying"
+],
+"142": [
+"rock",
+"flying"
+],
+"144": [
+"ice",
+"flying"
+],
+"145": [
+"electric",
+"flying"
+],
+"146": [
+"fire",
+"flying"
+],
+"149": [
+"dragon",
+"flying"
+],
+"165": [
+"bug",
+"flying"
+],
+"166": [
+"bug",
+"flying"
+],
+"169": [
+"poison",
+"flying"
+],
+"176": [
+"fairy",
+"flying"
+],
+"177": [
+"psychic",
+"flying"
+],
+"178": [
+"psychic",
+"flying"
+],
+"187": [
+"grass",
+"flying"
+],
+"188": [
+"grass",
+"flying"
+],
+"189": [
+"grass",
+"flying"
+],
+"193": [
+"bug",
+"flying"
+],
+"198": [
+"dark",
+"flying"
+],
+"207": [
+"ground",
+"flying"
+],
+"225": [
+"ice",
+"flying"
+],
+"226": [
+"water",
+"flying"
+],
+"227": [
+"steel",
+"flying"
+],
+"249": [
+"psychic",
+"flying"
+],
+"250": [
+"fire",
+"flying"
+],
+"267": [
+"bug",
+"flying"
+],
+"278": [
+"water",
+"flying"
+],
+"279": [
+"water",
+"flying"
+],
+"284": [
+"bug",
+"flying"
+],
+"291": [
+"bug",
+"flying"
+],
+"334": [
+"dragon",
+"flying"
+],
+"357": [
+"grass",
+"flying"
+],
+"373": [
+"dragon",
+"flying"
+],
+"384": [
+"dragon",
+"flying"
+],
+"414": [
+"bug",
+"flying"
+],
+"415": [
+"bug",
+"flying"
+],
+"416": [
+"bug",
+"flying"
+],
+"425": [
+"ghost",
+"flying"
+],
+"426": [
+"ghost",
+"flying"
+],
+"430": [
+"dark",
+"flying"
+],
+"458": [
+"water",
+"flying"
+],
+"468": [
+"fairy",
+"flying"
+],
+"469": [
+"bug",
+"flying"
+],
+"472": [
+"ground",
+"flying"
+],
+"527": [
+"psychic",
+"flying"
+],
+"528": [
+"psychic",
+"flying"
+],
+"561": [
+"psychic",
+"flying"
+],
+"566": [
+"rock",
+"flying"
+],
+"567": [
+"rock",
+"flying"
+],
+"580": [
+"water",
+"flying"
+],
+"581": [
+"water",
+"flying"
+],
+"587": [
+"electric",
+"flying"
+],
+"629": [
+"dark",
+"flying"
+],
+"630": [
+"dark",
+"flying"
+],
+"641": [
+"flying"
+],
+"642": [
+"electric",
+"flying"
+],
+"645": [
+"ground",
+"flying"
+],
+"1": [
+"grass",
+"poison"
+],
+"2": [
+"grass",
+"poison"
+],
+"3": [
+"grass",
+"poison"
+],
+"13": [
+"bug",
+"poison"
+],
+"14": [
+"bug",
+"poison"
+],
+"15": [
+"bug",
+"poison"
+],
+"23": [
+"poison"
+],
+"24": [
+"poison"
+],
+"29": [
+"poison"
+],
+"30": [
+"poison"
+],
+"31": [
+"poison",
+"ground"
+],
+"32": [
+"poison"
+],
+"33": [
+"poison"
+],
+"34": [
+"poison",
+"ground"
+],
+"43": [
+"grass",
+"poison"
+],
+"44": [
+"grass",
+"poison"
+],
+"45": [
+"grass",
+"poison"
+],
+"48": [
+"bug",
+"poison"
+],
+"49": [
+"bug",
+"poison"
+],
+"69": [
+"grass",
+"poison"
+],
+"70": [
+"grass",
+"poison"
+],
+"71": [
+"grass",
+"poison"
+],
+"72": [
+"water",
+"poison"
+],
+"73": [
+"water",
+"poison"
+],
+"88": [
+"poison"
+],
+"89": [
+"poison"
+],
+"92": [
+"ghost",
+"poison"
+],
+"93": [
+"ghost",
+"poison"
+],
+"94": [
+"ghost",
+"poison"
+],
+"109": [
+"poison"
+],
+"110": [
+"poison"
+],
+"167": [
+"bug",
+"poison"
+],
+"168": [
+"bug",
+"poison"
+],
+"211": [
+"water",
+"poison"
+],
+"269": [
+"bug",
+"poison"
+],
+"315": [
+"grass",
+"poison"
+],
+"316": [
+"poison"
+],
+"317": [
+"poison"
+],
+"336": [
+"poison"
+],
+"406": [
+"grass",
+"poison"
+],
+"407": [
+"grass",
+"poison"
+],
+"434": [
+"poison",
+"dark"
+],
+"435": [
+"poison",
+"dark"
+],
+"451": [
+"poison",
+"bug"
+],
+"452": [
+"poison",
+"dark"
+],
+"543": [
+"bug",
+"poison"
+],
+"544": [
+"bug",
+"poison"
+],
+"545": [
+"bug",
+"poison"
+],
+"568": [
+"poison"
+],
+"569": [
+"poison"
+],
+"590": [
+"grass",
+"poison"
+],
+"591": [
+"grass",
+"poison"
+],
+"27": [
+"ground"
+],
+"28": [
+"ground"
+],
+"50": [
+"ground"
+],
+"51": [
+"ground"
+],
+"74": [
+"rock",
+"ground"
+],
+"75": [
+"rock",
+"ground"
+],
+"76": [
+"rock",
+"ground"
+],
+"95": [
+"rock",
+"ground"
+],
+"104": [
+"ground"
+],
+"105": [
+"ground"
+],
+"111": [
+"ground",
+"rock"
+],
+"112": [
+"ground",
+"rock"
+],
+"194": [
+"water",
+"ground"
+],
+"195": [
+"water",
+"ground"
+],
+"208": [
+"steel",
+"ground"
+],
+"220": [
+"ice",
+"ground"
+],
+"221": [
+"ice",
+"ground"
+],
+"231": [
+"ground"
+],
+"232": [
+"ground"
+],
+"246": [
+"rock",
+"ground"
+],
+"247": [
+"rock",
+"ground"
+],
+"259": [
+"water",
+"ground"
+],
+"260": [
+"water",
+"ground"
+],
+"290": [
+"bug",
+"ground"
+],
+"322": [
+"fire",
+"ground"
+],
+"323": [
+"fire",
+"ground"
+],
+"328": [
+"ground"
+],
+"329": [
+"ground",
+"dragon"
+],
+"330": [
+"ground",
+"dragon"
+],
+"339": [
+"water",
+"ground"
+],
+"340": [
+"water",
+"ground"
+],
+"343": [
+"ground",
+"psychic"
+],
+"344": [
+"ground",
+"psychic"
+],
+"383": [
+"ground"
+],
+"389": [
+"grass",
+"ground"
+],
+"423": [
+"water",
+"ground"
+],
+"443": [
+"dragon",
+"ground"
+],
+"444": [
+"dragon",
+"ground"
+],
+"445": [
+"dragon",
+"ground"
+],
+"449": [
+"ground"
+],
+"450": [
+"ground"
+],
+"464": [
+"ground",
+"rock"
+],
+"473": [
+"ice",
+"ground"
+],
+"529": [
+"ground"
+],
+"530": [
+"ground",
+"steel"
+],
+"536": [
+"water",
+"ground"
+],
+"537": [
+"water",
+"ground"
+],
+"551": [
+"ground",
+"dark"
+],
+"552": [
+"ground",
+"dark"
+],
+"553": [
+"ground",
+"dark"
+],
+"618": [
+"ground",
+"electric"
+],
+"622": [
+"ground",
+"ghost"
+],
+"623": [
+"ground",
+"ghost"
+],
+"138": [
+"rock",
+"water"
+],
+"139": [
+"rock",
+"water"
+],
+"140": [
+"rock",
+"water"
+],
+"141": [
+"rock",
+"water"
+],
+"185": [
+"rock"
+],
+"213": [
+"bug",
+"rock"
+],
+"219": [
+"fire",
+"rock"
+],
+"222": [
+"water",
+"rock"
+],
+"248": [
+"rock",
+"dark"
+],
+"299": [
+"rock"
+],
+"304": [
+"steel",
+"rock"
+],
+"305": [
+"steel",
+"rock"
+],
+"306": [
+"steel",
+"rock"
+],
+"337": [
+"rock",
+"psychic"
+],
+"338": [
+"rock",
+"psychic"
+],
+"345": [
+"rock",
+"grass"
+],
+"346": [
+"rock",
+"grass"
+],
+"347": [
+"rock",
+"bug"
+],
+"348": [
+"rock",
+"bug"
+],
+"369": [
+"water",
+"rock"
+],
+"377": [
+"rock"
+],
+"408": [
+"rock"
+],
+"409": [
+"rock"
+],
+"410": [
+"rock",
+"steel"
+],
+"411": [
+"rock",
+"steel"
+],
+"438": [
+"rock"
+],
+"476": [
+"rock",
+"steel"
+],
+"524": [
+"rock"
+],
+"525": [
+"rock"
+],
+"526": [
+"rock"
+],
+"557": [
+"bug",
+"rock"
+],
+"558": [
+"bug",
+"rock"
+],
+"564": [
+"water",
+"rock"
+],
+"565": [
+"water",
+"rock"
+],
+"10": [
+"bug"
+],
+"11": [
+"bug"
+],
+"46": [
+"bug",
+"grass"
+],
+"47": [
+"bug",
+"grass"
+],
+"127": [
+"bug"
+],
+"204": [
+"bug"
+],
+"205": [
+"bug",
+"steel"
+],
+"212": [
+"bug",
+"steel"
+],
+"265": [
+"bug"
+],
+"266": [
+"bug"
+],
+"268": [
+"bug"
+],
+"283": [
+"bug",
+"water"
+],
+"292": [
+"bug",
+"ghost"
+],
+"313": [
+"bug"
+],
+"314": [
+"bug"
+],
+"401": [
+"bug"
+],
+"402": [
+"bug"
+],
+"412": [
+"bug"
+],
+"413": [
+"bug",
+"grass"
+],
+"540": [
+"bug",
+"grass"
+],
+"541": [
+"bug",
+"grass"
+],
+"542": [
+"bug",
+"grass"
+],
+"588": [
+"bug"
+],
+"589": [
+"bug",
+"steel"
+],
+"595": [
+"bug",
+"electric"
+],
+"596": [
+"bug",
+"electric"
+],
+"616": [
+"bug"
+],
+"617": [
+"bug"
+],
+"632": [
+"bug",
+"steel"
+],
+"636": [
+"bug",
+"fire"
+],
+"637": [
+"bug",
+"fire"
+],
+"649": [
+"bug",
+"steel"
+],
+"200": [
+"ghost"
+],
+"302": [
+"dark",
+"ghost"
+],
+"353": [
+"ghost"
+],
+"354": [
+"ghost"
+],
+"355": [
+"ghost"
+],
+"356": [
+"ghost"
+],
+"429": [
+"ghost"
+],
+"442": [
+"ghost",
+"dark"
+],
+"477": [
+"ghost"
+],
+"478": [
+"ice",
+"ghost"
+],
+"479": [
+"electric",
+"ghost"
+],
+"487": [
+"ghost",
+"dragon"
+],
+"562": [
+"ghost"
+],
+"563": [
+"ghost"
+],
+"592": [
+"water",
+"ghost"
+],
+"593": [
+"water",
+"ghost"
+],
+"607": [
+"ghost",
+"fire"
+],
+"608": [
+"ghost",
+"fire"
+],
+"609": [
+"ghost",
+"fire"
+],
+"81": [
+"electric",
+"steel"
+],
+"82": [
+"electric",
+"steel"
+],
+"303": [
+"steel",
+"fairy"
+],
+"374": [
+"steel",
+"psychic"
+],
+"375": [
+"steel",
+"psychic"
+],
+"376": [
+"steel",
+"psychic"
+],
+"379": [
+"steel"
+],
+"385": [
+"steel",
+"psychic"
+],
+"395": [
+"water",
+"steel"
+],
+"436": [
+"steel",
+"psychic"
+],
+"437": [
+"steel",
+"psychic"
+],
+"462": [
+"electric",
+"steel"
+],
+"483": [
+"steel",
+"dragon"
+],
+"485": [
+"fire",
+"steel"
+],
+"597": [
+"grass",
+"steel"
+],
+"598": [
+"grass",
+"steel"
+],
+"599": [
+"steel"
+],
+"600": [
+"steel"
+],
+"601": [
+"steel"
+],
+"624": [
+"dark",
+"steel"
+],
+"625": [
+"dark",
+"steel"
+],
+"4": [
+"fire"
+],
+"5": [
+"fire"
+],
+"37": [
+"fire"
+],
+"38": [
+"fire"
+],
+"58": [
+"fire"
+],
+"59": [
+"fire"
+],
+"77": [
+"fire"
+],
+"78": [
+"fire"
+],
+"126": [
+"fire"
+],
+"136": [
+"fire"
+],
+"155": [
+"fire"
+],
+"156": [
+"fire"
+],
+"157": [
+"fire"
+],
+"218": [
+"fire"
+],
+"228": [
+"dark",
+"fire"
+],
+"229": [
+"dark",
+"fire"
+],
+"240": [
+"fire"
+],
+"244": [
+"fire"
+],
+"255": [
+"fire"
+],
+"324": [
+"fire"
+],
+"390": [
+"fire"
+],
+"467": [
+"fire"
+],
+"494": [
+"psychic",
+"fire"
+],
+"498": [
+"fire"
+],
+"513": [
+"fire"
+],
+"514": [
+"fire"
+],
+"554": [
+"fire"
+],
+"555": [
+"fire"
+],
+"631": [
+"fire"
+],
+"643": [
+"dragon",
+"fire"
+],
+"7": [
+"water"
+],
+"8": [
+"water"
+],
+"9": [
+"water"
+],
+"54": [
+"water"
+],
+"55": [
+"water"
+],
+"60": [
+"water"
+],
+"61": [
+"water"
+],
+"79": [
+"water",
+"psychic"
+],
+"80": [
+"water",
+"psychic"
+],
+"86": [
+"water"
+],
+"87": [
+"water",
+"ice"
+],
+"90": [
+"water"
+],
+"91": [
+"water",
+"ice"
+],
+"98": [
+"water"
+],
+"99": [
+"water"
+],
+"116": [
+"water"
+],
+"117": [
+"water"
+],
+"118": [
+"water"
+],
+"119": [
+"water"
+],
+"120": [
+"water"
+],
+"121": [
+"water",
+"psychic"
+],
+"129": [
+"water"
+],
+"131": [
+"water",
+"ice"
+],
+"134": [
+"water"
+],
+"158": [
+"water"
+],
+"159": [
+"water"
+],
+"160": [
+"water"
+],
+"170": [
+"water",
+"electric"
+],
+"171": [
+"water",
+"electric"
+],
+"183": [
+"water",
+"fairy"
+],
+"184": [
+"water",
+"fairy"
+],
+"186": [
+"water"
+],
+"199": [
+"water",
+"psychic"
+],
+"223": [
+"water"
+],
+"224": [
+"water"
+],
+"230": [
+"water",
+"dragon"
+],
+"245": [
+"water"
+],
+"258": [
+"water"
+],
+"270": [
+"water",
+"grass"
+],
+"271": [
+"water",
+"grass"
+],
+"272": [
+"water",
+"grass"
+],
+"318": [
+"water",
+"dark"
+],
+"319": [
+"water",
+"dark"
+],
+"320": [
+"water"
+],
+"321": [
+"water"
+],
+"341": [
+"water"
+],
+"342": [
+"water",
+"dark"
+],
+"349": [
+"water"
+],
+"350": [
+"water"
+],
+"363": [
+"ice",
+"water"
+],
+"364": [
+"ice",
+"water"
+],
+"365": [
+"ice",
+"water"
+],
+"366": [
+"water"
+],
+"367": [
+"water"
+],
+"368": [
+"water"
+],
+"370": [
+"water"
+],
+"382": [
+"water"
+],
+"393": [
+"water"
+],
+"394": [
+"water"
+],
+"418": [
+"water"
+],
+"419": [
+"water"
+],
+"422": [
+"water"
+],
+"456": [
+"water"
+],
+"457": [
+"water"
+],
+"484": [
+"water",
+"dragon"
+],
+"489": [
+"water"
+],
+"490": [
+"water"
+],
+"501": [
+"water"
+],
+"502": [
+"water"
+],
+"503": [
+"water"
+],
+"515": [
+"water"
+],
+"516": [
+"water"
+],
+"535": [
+"water"
+],
+"550": [
+"water"
+],
+"594": [
+"water"
+],
+"102": [
+"grass",
+"psychic"
+],
+"103": [
+"grass",
+"psychic"
+],
+"114": [
+"grass"
+],
+"152": [
+"grass"
+],
+"153": [
+"grass"
+],
+"154": [
+"grass"
+],
+"182": [
+"grass"
+],
+"191": [
+"grass"
+],
+"192": [
+"grass"
+],
+"251": [
+"psychic",
+"grass"
+],
+"252": [
+"grass"
+],
+"253": [
+"grass"
+],
+"254": [
+"grass"
+],
+"273": [
+"grass"
+],
+"274": [
+"grass",
+"dark"
+],
+"275": [
+"grass",
+"dark"
+],
+"285": [
+"grass"
+],
+"331": [
+"grass"
+],
+"332": [
+"grass",
+"dark"
+],
+"387": [
+"grass"
+],
+"388": [
+"grass"
+],
+"420": [
+"grass"
+],
+"421": [
+"grass"
+],
+"455": [
+"grass"
+],
+"459": [
+"grass",
+"ice"
+],
+"460": [
+"grass",
+"ice"
+],
+"465": [
+"grass"
+],
+"470": [
+"grass"
+],
+"492": [
+"grass"
+],
+"495": [
+"grass"
+],
+"496": [
+"grass"
+],
+"497": [
+"grass"
+],
+"511": [
+"grass"
+],
+"512": [
+"grass"
+],
+"546": [
+"grass",
+"fairy"
+],
+"547": [
+"grass",
+"fairy"
+],
+"548": [
+"grass"
+],
+"549": [
+"grass"
+],
+"556": [
+"grass"
+],
+"25": [
+"electric"
+],
+"26": [
+"electric"
+],
+"100": [
+"electric"
+],
+"101": [
+"electric"
+],
+"125": [
+"electric"
+],
+"135": [
+"electric"
+],
+"172": [
+"electric"
+],
+"179": [
+"electric"
+],
+"180": [
+"electric"
+],
+"181": [
+"electric"
+],
+"239": [
+"electric"
+],
+"243": [
+"electric"
+],
+"309": [
+"electric"
+],
+"310": [
+"electric"
+],
+"311": [
+"electric"
+],
+"312": [
+"electric"
+],
+"403": [
+"electric"
+],
+"404": [
+"electric"
+],
+"405": [
+"electric"
+],
+"417": [
+"electric"
+],
+"466": [
+"electric"
+],
+"522": [
+"electric"
+],
+"523": [
+"electric"
+],
+"602": [
+"electric"
+],
+"603": [
+"electric"
+],
+"604": [
+"electric"
+],
+"644": [
+"dragon",
+"electric"
+],
+"63": [
+"psychic"
+],
+"64": [
+"psychic"
+],
+"65": [
+"psychic"
+],
+"96": [
+"psychic"
+],
+"97": [
+"psychic"
+],
+"122": [
+"psychic",
+"fairy"
+],
+"124": [
+"ice",
+"psychic"
+],
+"150": [
+"psychic"
+],
+"151": [
+"psychic"
+],
+"196": [
+"psychic"
+],
+"201": [
+"psychic"
+],
+"202": [
+"psychic"
+],
+"238": [
+"ice",
+"psychic"
+],
+"280": [
+"psychic",
+"fairy"
+],
+"281": [
+"psychic",
+"fairy"
+],
+"282": [
+"psychic",
+"fairy"
+],
+"325": [
+"psychic"
+],
+"326": [
+"psychic"
+],
+"358": [
+"psychic"
+],
+"360": [
+"psychic"
+],
+"380": [
+"dragon",
+"psychic"
+],
+"381": [
+"dragon",
+"psychic"
+],
+"386": [
+"psychic"
+],
+"433": [
+"psychic"
+],
+"439": [
+"psychic",
+"fairy"
+],
+"480": [
+"psychic"
+],
+"481": [
+"psychic"
+],
+"482": [
+"psychic"
+],
+"488": [
+"psychic"
+],
+"517": [
+"psychic"
+],
+"518": [
+"psychic"
+],
+"574": [
+"psychic"
+],
+"575": [
+"psychic"
+],
+"576": [
+"psychic"
+],
+"577": [
+"psychic"
+],
+"578": [
+"psychic"
+],
+"579": [
+"psychic"
+],
+"605": [
+"psychic"
+],
+"606": [
+"psychic"
+],
+"215": [
+"dark",
+"ice"
+],
+"361": [
+"ice"
+],
+"362": [
+"ice"
+],
+"378": [
+"ice"
+],
+"461": [
+"dark",
+"ice"
+],
+"471": [
+"ice"
+],
+"582": [
+"ice"
+],
+"583": [
+"ice"
+],
+"584": [
+"ice"
+],
+"613": [
+"ice"
+],
+"614": [
+"ice"
+],
+"615": [
+"ice"
+],
+"646": [
+"dragon",
+"ice"
+],
+"147": [
+"dragon"
+],
+"148": [
+"dragon"
+],
+"371": [
+"dragon"
+],
+"372": [
+"dragon"
+],
+"610": [
+"dragon"
+],
+"611": [
+"dragon"
+],
+"612": [
+"dragon"
+],
+"621": [
+"dragon"
+],
+"633": [
+"dark",
+"dragon"
+],
+"634": [
+"dark",
+"dragon"
+],
+"635": [
+"dark",
+"dragon"
+],
+"197": [
+"dark"
+],
+"261": [
+"dark"
+],
+"262": [
+"dark"
+],
+"359": [
+"dark"
+],
+"491": [
+"dark"
+],
+"509": [
+"dark"
+],
+"510": [
+"dark"
+],
+"570": [
+"dark"
+],
+"571": [
+"dark"
+],
+"35": [
+"fairy"
+],
+"36": [
+"fairy"
+],
+"173": [
+"fairy"
+],
+"175": [
+"fairy"
+],
+"209": [
+"fairy"
+],
+"210": [
+"fairy"
+]
+}

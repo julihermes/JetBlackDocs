@@ -133,6 +133,31 @@ function parseStats(
   };
 }
 
+const TM_MENTION_RE = /TM(\d{1,3})\s+([A-Z][a-zA-Z'-]*(?:\s+[A-Z][a-zA-Z'-]*)*)/g;
+const TM_BOILERPLATE_RE = /(?:Now learns|Can [Ll]earn)\s+TM\d{1,3}\s+[A-Za-z' -]+?\s+via TM(?:\s*\([^)]*\))?\.?/g;
+
+/**
+ * Pulls "Can learn TM33 Reflect via TM (RomHack)" style mentions out of the
+ * freeform notes into a proper `tmCompatibility` list. A note that's nothing
+ * but one or more of these mentions is dropped entirely (now redundant); one
+ * that says something else too is left as-is rather than partially mangled.
+ */
+function extractTmCompatibility(notes: string[]): { tmCompatibility: string[]; notes: string[] } {
+  const tmCompatibility: string[] = [];
+  const remaining: string[] = [];
+  for (const note of notes) {
+    const mentions = [...note.matchAll(TM_MENTION_RE)].map((m) => `TM${m[1]} ${m[2].trim()}`);
+    if (mentions.length === 0) {
+      remaining.push(note);
+      continue;
+    }
+    tmCompatibility.push(...mentions);
+    const strippedOfBoilerplate = note.replace(TM_BOILERPLATE_RE, "").trim();
+    if (strippedOfBoilerplate) remaining.push(note);
+  }
+  return { tmCompatibility, notes: remaining };
+}
+
 function parseLearnset(para: Para, dexLabel: string): LearnsetMove[] {
   const [first, ...rest] = para;
   assertParse(LEARNSET_HEADER_RE.test(first.text.trim()), SOURCE_LABEL, first.n, first.text, `${dexLabel}: expected a "Level up Learnset:" header`);
@@ -184,13 +209,24 @@ export function parseStatsAndLearnsets(file: SourceFile): PokemonEntry[] {
     const { stats, vanillaStats, statChangeNote, hasMultipleFormes, formesRaw, extraNotes } = parseStats(paras.slice(1, statsEnd).flat(), dexLabel);
 
     const noteParagraphs = paras.slice(statsEnd, learnsetIdx).map((p) => p.map((l) => l.text.trim()).join(" "));
-    const notes = [...extraNotes, ...(statChangeNote ? [] : []), ...noteParagraphs].filter(Boolean);
+    const allNotes = [...extraNotes, ...noteParagraphs].filter(Boolean);
+    const { tmCompatibility, notes } = extractTmCompatibility(allNotes);
 
     const learnset = parseLearnset(paras[learnsetIdx], dexLabel);
 
     return {
       dexNumber,
       name,
+      types: [], // filled in from static reference data — see pipeline/vanilla-data.ts
+      obtainable: true, // recomputed once every dataset is available — see pipeline/obtainability.ts
+      genus: "", // vanilla species info filled in from static reference data — see pipeline/vanilla-data.ts
+      heightM: 0,
+      weightKg: 0,
+      genderRate: -1,
+      eggGroups: [],
+      catchRate: 0,
+      hatchSteps: 0,
+      flavorText: "",
       abilities,
       abilityNotes,
       stats,
@@ -198,6 +234,7 @@ export function parseStatsAndLearnsets(file: SourceFile): PokemonEntry[] {
       statChangeNote,
       hasMultipleFormes,
       formesRaw,
+      tmCompatibility,
       notes,
       learnset,
     };

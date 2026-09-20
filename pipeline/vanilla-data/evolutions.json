@@ -1,0 +1,2249 @@
+[
+ {
+  "fromId": 1,
+  "from": "Bulbasaur",
+  "toId": 2,
+  "to": "Ivysaur",
+  "method": "Level 16"
+ },
+ {
+  "fromId": 2,
+  "from": "Ivysaur",
+  "toId": 3,
+  "to": "Venusaur",
+  "method": "Level 32"
+ },
+ {
+  "fromId": 4,
+  "from": "Charmander",
+  "toId": 5,
+  "to": "Charmeleon",
+  "method": "Level 16"
+ },
+ {
+  "fromId": 5,
+  "from": "Charmeleon",
+  "toId": 6,
+  "to": "Charizard",
+  "method": "Level 36"
+ },
+ {
+  "fromId": 7,
+  "from": "Squirtle",
+  "toId": 8,
+  "to": "Wartortle",
+  "method": "Level 16"
+ },
+ {
+  "fromId": 8,
+  "from": "Wartortle",
+  "toId": 9,
+  "to": "Blastoise",
+  "method": "Level 36"
+ },
+ {
+  "fromId": 10,
+  "from": "Caterpie",
+  "toId": 11,
+  "to": "Metapod",
+  "method": "Level 7"
+ },
+ {
+  "fromId": 11,
+  "from": "Metapod",
+  "toId": 12,
+  "to": "Butterfree",
+  "method": "Level 10"
+ },
+ {
+  "fromId": 13,
+  "from": "Weedle",
+  "toId": 14,
+  "to": "Kakuna",
+  "method": "Level 7"
+ },
+ {
+  "fromId": 14,
+  "from": "Kakuna",
+  "toId": 15,
+  "to": "Beedrill",
+  "method": "Level 10"
+ },
+ {
+  "fromId": 16,
+  "from": "Pidgey",
+  "toId": 17,
+  "to": "Pidgeotto",
+  "method": "Level 18"
+ },
+ {
+  "fromId": 17,
+  "from": "Pidgeotto",
+  "toId": 18,
+  "to": "Pidgeot",
+  "method": "Level 36"
+ },
+ {
+  "fromId": 19,
+  "from": "Rattata",
+  "toId": 20,
+  "to": "Raticate",
+  "method": "Level 20"
+ },
+ {
+  "fromId": 21,
+  "from": "Spearow",
+  "toId": 22,
+  "to": "Fearow",
+  "method": "Level 20"
+ },
+ {
+  "fromId": 23,
+  "from": "Ekans",
+  "toId": 24,
+  "to": "Arbok",
+  "method": "Level 22"
+ },
+ {
+  "fromId": 172,
+  "from": "Pichu",
+  "toId": 25,
+  "to": "Pikachu",
+  "method": "Level up (high friendship)"
+ },
+ {
+  "fromId": 25,
+  "from": "Pikachu",
+  "toId": 26,
+  "to": "Raichu",
+  "method": "Thunder Stone"
+ },
+ {
+  "fromId": 27,
+  "from": "Sandshrew",
+  "toId": 28,
+  "to": "Sandslash",
+  "method": "Level 22"
+ },
+ {
+  "fromId": 29,
+  "from": "Nidoran F",
+  "toId": 30,
+  "to": "Nidorina",
+  "method": "Level 16"
+ },
+ {
+  "fromId": 30,
+  "from": "Nidorina",
+  "toId": 31,
+  "to": "Nidoqueen",
+  "method": "Moon Stone"
+ },
+ {
+  "fromId": 32,
+  "from": "Nidoran M",
+  "toId": 33,
+  "to": "Nidorino",
+  "method": "Level 16"
+ },
+ {
+  "fromId": 33,
+  "from": "Nidorino",
+  "toId": 34,
+  "to": "Nidoking",
+  "method": "Moon Stone"
+ },
+ {
+  "fromId": 173,
+  "from": "Cleffa",
+  "toId": 35,
+  "to": "Clefairy",
+  "method": "Level up (high friendship)"
+ },
+ {
+  "fromId": 35,
+  "from": "Clefairy",
+  "toId": 36,
+  "to": "Clefable",
+  "method": "Moon Stone"
+ },
+ {
+  "fromId": 37,
+  "from": "Vulpix",
+  "toId": 38,
+  "to": "Ninetales",
+  "method": "Fire Stone"
+ },
+ {
+  "fromId": 174,
+  "from": "Igglybuff",
+  "toId": 39,
+  "to": "Jigglypuff",
+  "method": "Level up (high friendship)"
+ },
+ {
+  "fromId": 39,
+  "from": "Jigglypuff",
+  "toId": 40,
+  "to": "Wigglytuff",
+  "method": "Moon Stone"
+ },
+ {
+  "fromId": 41,
+  "from": "Zubat",
+  "toId": 42,
+  "to": "Golbat",
+  "method": "Level 22"
+ },
+ {
+  "fromId": 42,
+  "from": "Golbat",
+  "toId": 169,
+  "to": "Crobat",
+  "method": "Level up (high friendship)"
+ },
+ {
+  "fromId": 43,
+  "from": "Oddish",
+  "toId": 44,
+  "to": "Gloom",
+  "method": "Level 21"
+ },
+ {
+  "fromId": 44,
+  "from": "Gloom",
+  "toId": 45,
+  "to": "Vileplume",
+  "method": "Leaf Stone"
+ },
+ {
+  "fromId": 44,
+  "from": "Gloom",
+  "toId": 182,
+  "to": "Bellossom",
+  "method": "Sun Stone"
+ },
+ {
+  "fromId": 46,
+  "from": "Paras",
+  "toId": 47,
+  "to": "Parasect",
+  "method": "Level 24"
+ },
+ {
+  "fromId": 48,
+  "from": "Venonat",
+  "toId": 49,
+  "to": "Venomoth",
+  "method": "Level 31"
+ },
+ {
+  "fromId": 50,
+  "from": "Diglett",
+  "toId": 51,
+  "to": "Dugtrio",
+  "method": "Level 26"
+ },
+ {
+  "fromId": 52,
+  "from": "Meowth",
+  "toId": 53,
+  "to": "Persian",
+  "method": "Level 28"
+ },
+ {
+  "fromId": 54,
+  "from": "Psyduck",
+  "toId": 55,
+  "to": "Golduck",
+  "method": "Level 33"
+ },
+ {
+  "fromId": 56,
+  "from": "Mankey",
+  "toId": 57,
+  "to": "Primeape",
+  "method": "Level 28"
+ },
+ {
+  "fromId": 58,
+  "from": "Growlithe",
+  "toId": 59,
+  "to": "Arcanine",
+  "method": "Fire Stone"
+ },
+ {
+  "fromId": 60,
+  "from": "Poliwag",
+  "toId": 61,
+  "to": "Poliwhirl",
+  "method": "Level 25"
+ },
+ {
+  "fromId": 61,
+  "from": "Poliwhirl",
+  "toId": 62,
+  "to": "Poliwrath",
+  "method": "Water Stone"
+ },
+ {
+  "fromId": 61,
+  "from": "Poliwhirl",
+  "toId": 186,
+  "to": "Politoed",
+  "method": "Trade holding Kings Rock"
+ },
+ {
+  "fromId": 63,
+  "from": "Abra",
+  "toId": 64,
+  "to": "Kadabra",
+  "method": "Level 16"
+ },
+ {
+  "fromId": 64,
+  "from": "Kadabra",
+  "toId": 65,
+  "to": "Alakazam",
+  "method": "Trade"
+ },
+ {
+  "fromId": 66,
+  "from": "Machop",
+  "toId": 67,
+  "to": "Machoke",
+  "method": "Level 28"
+ },
+ {
+  "fromId": 67,
+  "from": "Machoke",
+  "toId": 68,
+  "to": "Machamp",
+  "method": "Trade"
+ },
+ {
+  "fromId": 69,
+  "from": "Bellsprout",
+  "toId": 70,
+  "to": "Weepinbell",
+  "method": "Level 21"
+ },
+ {
+  "fromId": 70,
+  "from": "Weepinbell",
+  "toId": 71,
+  "to": "Victreebel",
+  "method": "Leaf Stone"
+ },
+ {
+  "fromId": 72,
+  "from": "Tentacool",
+  "toId": 73,
+  "to": "Tentacruel",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 74,
+  "from": "Geodude",
+  "toId": 75,
+  "to": "Graveler",
+  "method": "Level 25"
+ },
+ {
+  "fromId": 75,
+  "from": "Graveler",
+  "toId": 76,
+  "to": "Golem",
+  "method": "Trade"
+ },
+ {
+  "fromId": 77,
+  "from": "Ponyta",
+  "toId": 78,
+  "to": "Rapidash",
+  "method": "Level 40"
+ },
+ {
+  "fromId": 79,
+  "from": "Slowpoke",
+  "toId": 80,
+  "to": "Slowbro",
+  "method": "Level 37"
+ },
+ {
+  "fromId": 79,
+  "from": "Slowpoke",
+  "toId": 199,
+  "to": "Slowking",
+  "method": "Trade holding Kings Rock"
+ },
+ {
+  "fromId": 81,
+  "from": "Magnemite",
+  "toId": 82,
+  "to": "Magneton",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 82,
+  "from": "Magneton",
+  "toId": 462,
+  "to": "Magnezone",
+  "method": "Level up (at Mt Coronet)"
+ },
+ {
+  "fromId": 84,
+  "from": "Doduo",
+  "toId": 85,
+  "to": "Dodrio",
+  "method": "Level 31"
+ },
+ {
+  "fromId": 86,
+  "from": "Seel",
+  "toId": 87,
+  "to": "Dewgong",
+  "method": "Level 34"
+ },
+ {
+  "fromId": 88,
+  "from": "Grimer",
+  "toId": 89,
+  "to": "Muk",
+  "method": "Level 38"
+ },
+ {
+  "fromId": 90,
+  "from": "Shellder",
+  "toId": 91,
+  "to": "Cloyster",
+  "method": "Water Stone"
+ },
+ {
+  "fromId": 92,
+  "from": "Gastly",
+  "toId": 93,
+  "to": "Haunter",
+  "method": "Level 25"
+ },
+ {
+  "fromId": 93,
+  "from": "Haunter",
+  "toId": 94,
+  "to": "Gengar",
+  "method": "Trade"
+ },
+ {
+  "fromId": 95,
+  "from": "Onix",
+  "toId": 208,
+  "to": "Steelix",
+  "method": "Trade holding Metal Coat"
+ },
+ {
+  "fromId": 96,
+  "from": "Drowzee",
+  "toId": 97,
+  "to": "Hypno",
+  "method": "Level 26"
+ },
+ {
+  "fromId": 98,
+  "from": "Krabby",
+  "toId": 99,
+  "to": "Kingler",
+  "method": "Level 28"
+ },
+ {
+  "fromId": 100,
+  "from": "Voltorb",
+  "toId": 101,
+  "to": "Electrode",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 102,
+  "from": "Exeggcute",
+  "toId": 103,
+  "to": "Exeggutor",
+  "method": "Leaf Stone"
+ },
+ {
+  "fromId": 104,
+  "from": "Cubone",
+  "toId": 105,
+  "to": "Marowak",
+  "method": "Level 28"
+ },
+ {
+  "fromId": 236,
+  "from": "Tyrogue",
+  "toId": 106,
+  "to": "Hitmonlee",
+  "method": "Level 20 (Atk > Def)"
+ },
+ {
+  "fromId": 236,
+  "from": "Tyrogue",
+  "toId": 107,
+  "to": "Hitmonchan",
+  "method": "Level 20 (Atk < Def)"
+ },
+ {
+  "fromId": 236,
+  "from": "Tyrogue",
+  "toId": 237,
+  "to": "Hitmontop",
+  "method": "Level 20 (Atk = Def)"
+ },
+ {
+  "fromId": 108,
+  "from": "Lickitung",
+  "toId": 463,
+  "to": "Lickilicky",
+  "method": "Level up (knowing Rollout)"
+ },
+ {
+  "fromId": 109,
+  "from": "Koffing",
+  "toId": 110,
+  "to": "Weezing",
+  "method": "Level 35"
+ },
+ {
+  "fromId": 111,
+  "from": "Rhyhorn",
+  "toId": 112,
+  "to": "Rhydon",
+  "method": "Level 42"
+ },
+ {
+  "fromId": 112,
+  "from": "Rhydon",
+  "toId": 464,
+  "to": "Rhyperior",
+  "method": "Trade holding Protector"
+ },
+ {
+  "fromId": 440,
+  "from": "Happiny",
+  "toId": 113,
+  "to": "Chansey",
+  "method": "Level up (holding Oval Stone, during day)"
+ },
+ {
+  "fromId": 113,
+  "from": "Chansey",
+  "toId": 242,
+  "to": "Blissey",
+  "method": "Level up (high friendship)"
+ },
+ {
+  "fromId": 114,
+  "from": "Tangela",
+  "toId": 465,
+  "to": "Tangrowth",
+  "method": "Level up (knowing Ancient Power)"
+ },
+ {
+  "fromId": 116,
+  "from": "Horsea",
+  "toId": 117,
+  "to": "Seadra",
+  "method": "Level 32"
+ },
+ {
+  "fromId": 117,
+  "from": "Seadra",
+  "toId": 230,
+  "to": "Kingdra",
+  "method": "Trade holding Dragon Scale"
+ },
+ {
+  "fromId": 118,
+  "from": "Goldeen",
+  "toId": 119,
+  "to": "Seaking",
+  "method": "Level 33"
+ },
+ {
+  "fromId": 120,
+  "from": "Staryu",
+  "toId": 121,
+  "to": "Starmie",
+  "method": "Water Stone"
+ },
+ {
+  "fromId": 439,
+  "from": "Mime Jr",
+  "toId": 122,
+  "to": "Mr Mime",
+  "method": "Level up (knowing Mimic)"
+ },
+ {
+  "fromId": 123,
+  "from": "Scyther",
+  "toId": 212,
+  "to": "Scizor",
+  "method": "Trade holding Metal Coat"
+ },
+ {
+  "fromId": 238,
+  "from": "Smoochum",
+  "toId": 124,
+  "to": "Jynx",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 239,
+  "from": "Elekid",
+  "toId": 125,
+  "to": "Electabuzz",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 125,
+  "from": "Electabuzz",
+  "toId": 466,
+  "to": "Electivire",
+  "method": "Trade holding Electirizer"
+ },
+ {
+  "fromId": 240,
+  "from": "Magby",
+  "toId": 126,
+  "to": "Magmar",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 126,
+  "from": "Magmar",
+  "toId": 467,
+  "to": "Magmortar",
+  "method": "Trade holding Magmarizer"
+ },
+ {
+  "fromId": 129,
+  "from": "Magikarp",
+  "toId": 130,
+  "to": "Gyarados",
+  "method": "Level 20"
+ },
+ {
+  "fromId": 133,
+  "from": "Eevee",
+  "toId": 134,
+  "to": "Vaporeon",
+  "method": "Water Stone"
+ },
+ {
+  "fromId": 133,
+  "from": "Eevee",
+  "toId": 135,
+  "to": "Jolteon",
+  "method": "Thunder Stone"
+ },
+ {
+  "fromId": 133,
+  "from": "Eevee",
+  "toId": 136,
+  "to": "Flareon",
+  "method": "Fire Stone"
+ },
+ {
+  "fromId": 133,
+  "from": "Eevee",
+  "toId": 196,
+  "to": "Espeon",
+  "method": "Level up (high friendship, during day)"
+ },
+ {
+  "fromId": 133,
+  "from": "Eevee",
+  "toId": 197,
+  "to": "Umbreon",
+  "method": "Level up (high friendship, during night)"
+ },
+ {
+  "fromId": 133,
+  "from": "Eevee",
+  "toId": 470,
+  "to": "Leafeon",
+  "method": "Level up (at Eterna Forest)"
+ },
+ {
+  "fromId": 133,
+  "from": "Eevee",
+  "toId": 471,
+  "to": "Glaceon",
+  "method": "Level up (at Sinnoh Route 217)"
+ },
+ {
+  "fromId": 137,
+  "from": "Porygon",
+  "toId": 233,
+  "to": "Porygon2",
+  "method": "Trade holding Up Grade"
+ },
+ {
+  "fromId": 233,
+  "from": "Porygon2",
+  "toId": 474,
+  "to": "Porygon Z",
+  "method": "Trade holding Dubious Disc"
+ },
+ {
+  "fromId": 138,
+  "from": "Omanyte",
+  "toId": 139,
+  "to": "Omastar",
+  "method": "Level 40"
+ },
+ {
+  "fromId": 140,
+  "from": "Kabuto",
+  "toId": 141,
+  "to": "Kabutops",
+  "method": "Level 40"
+ },
+ {
+  "fromId": 446,
+  "from": "Munchlax",
+  "toId": 143,
+  "to": "Snorlax",
+  "method": "Level up (high friendship)"
+ },
+ {
+  "fromId": 147,
+  "from": "Dratini",
+  "toId": 148,
+  "to": "Dragonair",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 148,
+  "from": "Dragonair",
+  "toId": 149,
+  "to": "Dragonite",
+  "method": "Level 55"
+ },
+ {
+  "fromId": 152,
+  "from": "Chikorita",
+  "toId": 153,
+  "to": "Bayleef",
+  "method": "Level 16"
+ },
+ {
+  "fromId": 153,
+  "from": "Bayleef",
+  "toId": 154,
+  "to": "Meganium",
+  "method": "Level 32"
+ },
+ {
+  "fromId": 155,
+  "from": "Cyndaquil",
+  "toId": 156,
+  "to": "Quilava",
+  "method": "Level 14"
+ },
+ {
+  "fromId": 156,
+  "from": "Quilava",
+  "toId": 157,
+  "to": "Typhlosion",
+  "method": "Level 36"
+ },
+ {
+  "fromId": 158,
+  "from": "Totodile",
+  "toId": 159,
+  "to": "Croconaw",
+  "method": "Level 18"
+ },
+ {
+  "fromId": 159,
+  "from": "Croconaw",
+  "toId": 160,
+  "to": "Feraligatr",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 161,
+  "from": "Sentret",
+  "toId": 162,
+  "to": "Furret",
+  "method": "Level 15"
+ },
+ {
+  "fromId": 163,
+  "from": "Hoothoot",
+  "toId": 164,
+  "to": "Noctowl",
+  "method": "Level 20"
+ },
+ {
+  "fromId": 165,
+  "from": "Ledyba",
+  "toId": 166,
+  "to": "Ledian",
+  "method": "Level 18"
+ },
+ {
+  "fromId": 167,
+  "from": "Spinarak",
+  "toId": 168,
+  "to": "Ariados",
+  "method": "Level 22"
+ },
+ {
+  "fromId": 170,
+  "from": "Chinchou",
+  "toId": 171,
+  "to": "Lanturn",
+  "method": "Level 27"
+ },
+ {
+  "fromId": 175,
+  "from": "Togepi",
+  "toId": 176,
+  "to": "Togetic",
+  "method": "Level up (high friendship)"
+ },
+ {
+  "fromId": 176,
+  "from": "Togetic",
+  "toId": 468,
+  "to": "Togekiss",
+  "method": "Shiny Stone"
+ },
+ {
+  "fromId": 177,
+  "from": "Natu",
+  "toId": 178,
+  "to": "Xatu",
+  "method": "Level 25"
+ },
+ {
+  "fromId": 179,
+  "from": "Mareep",
+  "toId": 180,
+  "to": "Flaaffy",
+  "method": "Level 15"
+ },
+ {
+  "fromId": 180,
+  "from": "Flaaffy",
+  "toId": 181,
+  "to": "Ampharos",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 298,
+  "from": "Azurill",
+  "toId": 183,
+  "to": "Marill",
+  "method": "Level up (high friendship)"
+ },
+ {
+  "fromId": 183,
+  "from": "Marill",
+  "toId": 184,
+  "to": "Azumarill",
+  "method": "Level 18"
+ },
+ {
+  "fromId": 438,
+  "from": "Bonsly",
+  "toId": 185,
+  "to": "Sudowoodo",
+  "method": "Level up (knowing Mimic)"
+ },
+ {
+  "fromId": 187,
+  "from": "Hoppip",
+  "toId": 188,
+  "to": "Skiploom",
+  "method": "Level 18"
+ },
+ {
+  "fromId": 188,
+  "from": "Skiploom",
+  "toId": 189,
+  "to": "Jumpluff",
+  "method": "Level 27"
+ },
+ {
+  "fromId": 190,
+  "from": "Aipom",
+  "toId": 424,
+  "to": "Ambipom",
+  "method": "Level up (knowing Double Hit)"
+ },
+ {
+  "fromId": 191,
+  "from": "Sunkern",
+  "toId": 192,
+  "to": "Sunflora",
+  "method": "Sun Stone"
+ },
+ {
+  "fromId": 193,
+  "from": "Yanma",
+  "toId": 469,
+  "to": "Yanmega",
+  "method": "Level up (knowing Ancient Power)"
+ },
+ {
+  "fromId": 194,
+  "from": "Wooper",
+  "toId": 195,
+  "to": "Quagsire",
+  "method": "Level 20"
+ },
+ {
+  "fromId": 198,
+  "from": "Murkrow",
+  "toId": 430,
+  "to": "Honchkrow",
+  "method": "Dusk Stone"
+ },
+ {
+  "fromId": 200,
+  "from": "Misdreavus",
+  "toId": 429,
+  "to": "Mismagius",
+  "method": "Dusk Stone"
+ },
+ {
+  "fromId": 360,
+  "from": "Wynaut",
+  "toId": 202,
+  "to": "Wobbuffet",
+  "method": "Level 15"
+ },
+ {
+  "fromId": 204,
+  "from": "Pineco",
+  "toId": 205,
+  "to": "Forretress",
+  "method": "Level 31"
+ },
+ {
+  "fromId": 207,
+  "from": "Gligar",
+  "toId": 472,
+  "to": "Gliscor",
+  "method": "Level up (holding Razor Fang, during night)"
+ },
+ {
+  "fromId": 209,
+  "from": "Snubbull",
+  "toId": 210,
+  "to": "Granbull",
+  "method": "Level 23"
+ },
+ {
+  "fromId": 215,
+  "from": "Sneasel",
+  "toId": 461,
+  "to": "Weavile",
+  "method": "Level up (holding Razor Claw, during night)"
+ },
+ {
+  "fromId": 216,
+  "from": "Teddiursa",
+  "toId": 217,
+  "to": "Ursaring",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 218,
+  "from": "Slugma",
+  "toId": 219,
+  "to": "Magcargo",
+  "method": "Level 38"
+ },
+ {
+  "fromId": 220,
+  "from": "Swinub",
+  "toId": 221,
+  "to": "Piloswine",
+  "method": "Level 33"
+ },
+ {
+  "fromId": 221,
+  "from": "Piloswine",
+  "toId": 473,
+  "to": "Mamoswine",
+  "method": "Level up (knowing Ancient Power)"
+ },
+ {
+  "fromId": 223,
+  "from": "Remoraid",
+  "toId": 224,
+  "to": "Octillery",
+  "method": "Level 25"
+ },
+ {
+  "fromId": 458,
+  "from": "Mantyke",
+  "toId": 226,
+  "to": "Mantine",
+  "method": "Level up"
+ },
+ {
+  "fromId": 228,
+  "from": "Houndour",
+  "toId": 229,
+  "to": "Houndoom",
+  "method": "Level 24"
+ },
+ {
+  "fromId": 231,
+  "from": "Phanpy",
+  "toId": 232,
+  "to": "Donphan",
+  "method": "Level 25"
+ },
+ {
+  "fromId": 246,
+  "from": "Larvitar",
+  "toId": 247,
+  "to": "Pupitar",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 247,
+  "from": "Pupitar",
+  "toId": 248,
+  "to": "Tyranitar",
+  "method": "Level 55"
+ },
+ {
+  "fromId": 252,
+  "from": "Treecko",
+  "toId": 253,
+  "to": "Grovyle",
+  "method": "Level 16"
+ },
+ {
+  "fromId": 253,
+  "from": "Grovyle",
+  "toId": 254,
+  "to": "Sceptile",
+  "method": "Level 36"
+ },
+ {
+  "fromId": 255,
+  "from": "Torchic",
+  "toId": 256,
+  "to": "Combusken",
+  "method": "Level 16"
+ },
+ {
+  "fromId": 256,
+  "from": "Combusken",
+  "toId": 257,
+  "to": "Blaziken",
+  "method": "Level 36"
+ },
+ {
+  "fromId": 258,
+  "from": "Mudkip",
+  "toId": 259,
+  "to": "Marshtomp",
+  "method": "Level 16"
+ },
+ {
+  "fromId": 259,
+  "from": "Marshtomp",
+  "toId": 260,
+  "to": "Swampert",
+  "method": "Level 36"
+ },
+ {
+  "fromId": 261,
+  "from": "Poochyena",
+  "toId": 262,
+  "to": "Mightyena",
+  "method": "Level 18"
+ },
+ {
+  "fromId": 263,
+  "from": "Zigzagoon",
+  "toId": 264,
+  "to": "Linoone",
+  "method": "Level 20"
+ },
+ {
+  "fromId": 265,
+  "from": "Wurmple",
+  "toId": 266,
+  "to": "Silcoon",
+  "method": "Level 7"
+ },
+ {
+  "fromId": 266,
+  "from": "Silcoon",
+  "toId": 267,
+  "to": "Beautifly",
+  "method": "Level 10"
+ },
+ {
+  "fromId": 265,
+  "from": "Wurmple",
+  "toId": 268,
+  "to": "Cascoon",
+  "method": "Level 7"
+ },
+ {
+  "fromId": 268,
+  "from": "Cascoon",
+  "toId": 269,
+  "to": "Dustox",
+  "method": "Level 10"
+ },
+ {
+  "fromId": 270,
+  "from": "Lotad",
+  "toId": 271,
+  "to": "Lombre",
+  "method": "Level 14"
+ },
+ {
+  "fromId": 271,
+  "from": "Lombre",
+  "toId": 272,
+  "to": "Ludicolo",
+  "method": "Water Stone"
+ },
+ {
+  "fromId": 273,
+  "from": "Seedot",
+  "toId": 274,
+  "to": "Nuzleaf",
+  "method": "Level 14"
+ },
+ {
+  "fromId": 274,
+  "from": "Nuzleaf",
+  "toId": 275,
+  "to": "Shiftry",
+  "method": "Leaf Stone"
+ },
+ {
+  "fromId": 276,
+  "from": "Taillow",
+  "toId": 277,
+  "to": "Swellow",
+  "method": "Level 22"
+ },
+ {
+  "fromId": 278,
+  "from": "Wingull",
+  "toId": 279,
+  "to": "Pelipper",
+  "method": "Level 25"
+ },
+ {
+  "fromId": 280,
+  "from": "Ralts",
+  "toId": 281,
+  "to": "Kirlia",
+  "method": "Level 20"
+ },
+ {
+  "fromId": 281,
+  "from": "Kirlia",
+  "toId": 282,
+  "to": "Gardevoir",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 281,
+  "from": "Kirlia",
+  "toId": 475,
+  "to": "Gallade",
+  "method": "Dawn Stone"
+ },
+ {
+  "fromId": 283,
+  "from": "Surskit",
+  "toId": 284,
+  "to": "Masquerain",
+  "method": "Level 22"
+ },
+ {
+  "fromId": 285,
+  "from": "Shroomish",
+  "toId": 286,
+  "to": "Breloom",
+  "method": "Level 23"
+ },
+ {
+  "fromId": 287,
+  "from": "Slakoth",
+  "toId": 288,
+  "to": "Vigoroth",
+  "method": "Level 18"
+ },
+ {
+  "fromId": 288,
+  "from": "Vigoroth",
+  "toId": 289,
+  "to": "Slaking",
+  "method": "Level 36"
+ },
+ {
+  "fromId": 290,
+  "from": "Nincada",
+  "toId": 291,
+  "to": "Ninjask",
+  "method": "Level 20"
+ },
+ {
+  "fromId": 290,
+  "from": "Nincada",
+  "toId": 292,
+  "to": "Shedinja",
+  "method": "Empty party slot + spare Pok\u00e9 Ball"
+ },
+ {
+  "fromId": 293,
+  "from": "Whismur",
+  "toId": 294,
+  "to": "Loudred",
+  "method": "Level 20"
+ },
+ {
+  "fromId": 294,
+  "from": "Loudred",
+  "toId": 295,
+  "to": "Exploud",
+  "method": "Level 40"
+ },
+ {
+  "fromId": 296,
+  "from": "Makuhita",
+  "toId": 297,
+  "to": "Hariyama",
+  "method": "Level 24"
+ },
+ {
+  "fromId": 299,
+  "from": "Nosepass",
+  "toId": 476,
+  "to": "Probopass",
+  "method": "Level up (at Mt Coronet)"
+ },
+ {
+  "fromId": 300,
+  "from": "Skitty",
+  "toId": 301,
+  "to": "Delcatty",
+  "method": "Moon Stone"
+ },
+ {
+  "fromId": 304,
+  "from": "Aron",
+  "toId": 305,
+  "to": "Lairon",
+  "method": "Level 32"
+ },
+ {
+  "fromId": 305,
+  "from": "Lairon",
+  "toId": 306,
+  "to": "Aggron",
+  "method": "Level 42"
+ },
+ {
+  "fromId": 307,
+  "from": "Meditite",
+  "toId": 308,
+  "to": "Medicham",
+  "method": "Level 37"
+ },
+ {
+  "fromId": 309,
+  "from": "Electrike",
+  "toId": 310,
+  "to": "Manectric",
+  "method": "Level 26"
+ },
+ {
+  "fromId": 406,
+  "from": "Budew",
+  "toId": 315,
+  "to": "Roselia",
+  "method": "Level up (high friendship, during day)"
+ },
+ {
+  "fromId": 315,
+  "from": "Roselia",
+  "toId": 407,
+  "to": "Roserade",
+  "method": "Shiny Stone"
+ },
+ {
+  "fromId": 316,
+  "from": "Gulpin",
+  "toId": 317,
+  "to": "Swalot",
+  "method": "Level 26"
+ },
+ {
+  "fromId": 318,
+  "from": "Carvanha",
+  "toId": 319,
+  "to": "Sharpedo",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 320,
+  "from": "Wailmer",
+  "toId": 321,
+  "to": "Wailord",
+  "method": "Level 40"
+ },
+ {
+  "fromId": 322,
+  "from": "Numel",
+  "toId": 323,
+  "to": "Camerupt",
+  "method": "Level 33"
+ },
+ {
+  "fromId": 325,
+  "from": "Spoink",
+  "toId": 326,
+  "to": "Grumpig",
+  "method": "Level 32"
+ },
+ {
+  "fromId": 328,
+  "from": "Trapinch",
+  "toId": 329,
+  "to": "Vibrava",
+  "method": "Level 35"
+ },
+ {
+  "fromId": 329,
+  "from": "Vibrava",
+  "toId": 330,
+  "to": "Flygon",
+  "method": "Level 45"
+ },
+ {
+  "fromId": 331,
+  "from": "Cacnea",
+  "toId": 332,
+  "to": "Cacturne",
+  "method": "Level 32"
+ },
+ {
+  "fromId": 333,
+  "from": "Swablu",
+  "toId": 334,
+  "to": "Altaria",
+  "method": "Level 35"
+ },
+ {
+  "fromId": 339,
+  "from": "Barboach",
+  "toId": 340,
+  "to": "Whiscash",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 341,
+  "from": "Corphish",
+  "toId": 342,
+  "to": "Crawdaunt",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 343,
+  "from": "Baltoy",
+  "toId": 344,
+  "to": "Claydol",
+  "method": "Level 36"
+ },
+ {
+  "fromId": 345,
+  "from": "Lileep",
+  "toId": 346,
+  "to": "Cradily",
+  "method": "Level 40"
+ },
+ {
+  "fromId": 347,
+  "from": "Anorith",
+  "toId": 348,
+  "to": "Armaldo",
+  "method": "Level 40"
+ },
+ {
+  "fromId": 349,
+  "from": "Feebas",
+  "toId": 350,
+  "to": "Milotic",
+  "method": "Level up (high beauty)"
+ },
+ {
+  "fromId": 353,
+  "from": "Shuppet",
+  "toId": 354,
+  "to": "Banette",
+  "method": "Level 37"
+ },
+ {
+  "fromId": 355,
+  "from": "Duskull",
+  "toId": 356,
+  "to": "Dusclops",
+  "method": "Level 37"
+ },
+ {
+  "fromId": 356,
+  "from": "Dusclops",
+  "toId": 477,
+  "to": "Dusknoir",
+  "method": "Trade holding Reaper Cloth"
+ },
+ {
+  "fromId": 433,
+  "from": "Chingling",
+  "toId": 358,
+  "to": "Chimecho",
+  "method": "Level up (high friendship, during night)"
+ },
+ {
+  "fromId": 361,
+  "from": "Snorunt",
+  "toId": 362,
+  "to": "Glalie",
+  "method": "Level 42"
+ },
+ {
+  "fromId": 361,
+  "from": "Snorunt",
+  "toId": 478,
+  "to": "Froslass",
+  "method": "Dawn Stone"
+ },
+ {
+  "fromId": 363,
+  "from": "Spheal",
+  "toId": 364,
+  "to": "Sealeo",
+  "method": "Level 32"
+ },
+ {
+  "fromId": 364,
+  "from": "Sealeo",
+  "toId": 365,
+  "to": "Walrein",
+  "method": "Level 44"
+ },
+ {
+  "fromId": 366,
+  "from": "Clamperl",
+  "toId": 367,
+  "to": "Huntail",
+  "method": "Trade holding Deep Sea Tooth"
+ },
+ {
+  "fromId": 366,
+  "from": "Clamperl",
+  "toId": 368,
+  "to": "Gorebyss",
+  "method": "Trade holding Deep Sea Scale"
+ },
+ {
+  "fromId": 371,
+  "from": "Bagon",
+  "toId": 372,
+  "to": "Shelgon",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 372,
+  "from": "Shelgon",
+  "toId": 373,
+  "to": "Salamence",
+  "method": "Level 50"
+ },
+ {
+  "fromId": 374,
+  "from": "Beldum",
+  "toId": 375,
+  "to": "Metang",
+  "method": "Level 20"
+ },
+ {
+  "fromId": 375,
+  "from": "Metang",
+  "toId": 376,
+  "to": "Metagross",
+  "method": "Level 45"
+ },
+ {
+  "fromId": 387,
+  "from": "Turtwig",
+  "toId": 388,
+  "to": "Grotle",
+  "method": "Level 18"
+ },
+ {
+  "fromId": 388,
+  "from": "Grotle",
+  "toId": 389,
+  "to": "Torterra",
+  "method": "Level 32"
+ },
+ {
+  "fromId": 390,
+  "from": "Chimchar",
+  "toId": 391,
+  "to": "Monferno",
+  "method": "Level 14"
+ },
+ {
+  "fromId": 391,
+  "from": "Monferno",
+  "toId": 392,
+  "to": "Infernape",
+  "method": "Level 36"
+ },
+ {
+  "fromId": 393,
+  "from": "Piplup",
+  "toId": 394,
+  "to": "Prinplup",
+  "method": "Level 16"
+ },
+ {
+  "fromId": 394,
+  "from": "Prinplup",
+  "toId": 395,
+  "to": "Empoleon",
+  "method": "Level 36"
+ },
+ {
+  "fromId": 396,
+  "from": "Starly",
+  "toId": 397,
+  "to": "Staravia",
+  "method": "Level 14"
+ },
+ {
+  "fromId": 397,
+  "from": "Staravia",
+  "toId": 398,
+  "to": "Staraptor",
+  "method": "Level 34"
+ },
+ {
+  "fromId": 399,
+  "from": "Bidoof",
+  "toId": 400,
+  "to": "Bibarel",
+  "method": "Level 15"
+ },
+ {
+  "fromId": 401,
+  "from": "Kricketot",
+  "toId": 402,
+  "to": "Kricketune",
+  "method": "Level 10"
+ },
+ {
+  "fromId": 403,
+  "from": "Shinx",
+  "toId": 404,
+  "to": "Luxio",
+  "method": "Level 15"
+ },
+ {
+  "fromId": 404,
+  "from": "Luxio",
+  "toId": 405,
+  "to": "Luxray",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 408,
+  "from": "Cranidos",
+  "toId": 409,
+  "to": "Rampardos",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 410,
+  "from": "Shieldon",
+  "toId": 411,
+  "to": "Bastiodon",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 412,
+  "from": "Burmy",
+  "toId": 413,
+  "to": "Wormadam",
+  "method": "Level 20"
+ },
+ {
+  "fromId": 412,
+  "from": "Burmy",
+  "toId": 414,
+  "to": "Mothim",
+  "method": "Level 20"
+ },
+ {
+  "fromId": 415,
+  "from": "Combee",
+  "toId": 416,
+  "to": "Vespiquen",
+  "method": "Level 21"
+ },
+ {
+  "fromId": 418,
+  "from": "Buizel",
+  "toId": 419,
+  "to": "Floatzel",
+  "method": "Level 26"
+ },
+ {
+  "fromId": 420,
+  "from": "Cherubi",
+  "toId": 421,
+  "to": "Cherrim",
+  "method": "Level 25"
+ },
+ {
+  "fromId": 422,
+  "from": "Shellos",
+  "toId": 423,
+  "to": "Gastrodon",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 425,
+  "from": "Drifloon",
+  "toId": 426,
+  "to": "Drifblim",
+  "method": "Level 28"
+ },
+ {
+  "fromId": 427,
+  "from": "Buneary",
+  "toId": 428,
+  "to": "Lopunny",
+  "method": "Level up (high friendship)"
+ },
+ {
+  "fromId": 431,
+  "from": "Glameow",
+  "toId": 432,
+  "to": "Purugly",
+  "method": "Level 38"
+ },
+ {
+  "fromId": 434,
+  "from": "Stunky",
+  "toId": 435,
+  "to": "Skuntank",
+  "method": "Level 34"
+ },
+ {
+  "fromId": 436,
+  "from": "Bronzor",
+  "toId": 437,
+  "to": "Bronzong",
+  "method": "Level 33"
+ },
+ {
+  "fromId": 443,
+  "from": "Gible",
+  "toId": 444,
+  "to": "Gabite",
+  "method": "Level 24"
+ },
+ {
+  "fromId": 444,
+  "from": "Gabite",
+  "toId": 445,
+  "to": "Garchomp",
+  "method": "Level 48"
+ },
+ {
+  "fromId": 447,
+  "from": "Riolu",
+  "toId": 448,
+  "to": "Lucario",
+  "method": "Level up (high friendship, during day)"
+ },
+ {
+  "fromId": 449,
+  "from": "Hippopotas",
+  "toId": 450,
+  "to": "Hippowdon",
+  "method": "Level 34"
+ },
+ {
+  "fromId": 451,
+  "from": "Skorupi",
+  "toId": 452,
+  "to": "Drapion",
+  "method": "Level 40"
+ },
+ {
+  "fromId": 453,
+  "from": "Croagunk",
+  "toId": 454,
+  "to": "Toxicroak",
+  "method": "Level 37"
+ },
+ {
+  "fromId": 456,
+  "from": "Finneon",
+  "toId": 457,
+  "to": "Lumineon",
+  "method": "Level 31"
+ },
+ {
+  "fromId": 459,
+  "from": "Snover",
+  "toId": 460,
+  "to": "Abomasnow",
+  "method": "Level 40"
+ },
+ {
+  "fromId": 489,
+  "from": "Phione",
+  "toId": 490,
+  "to": "Manaphy",
+  "method": "Special condition"
+ },
+ {
+  "fromId": 495,
+  "from": "Snivy",
+  "toId": 496,
+  "to": "Servine",
+  "method": "Level 17"
+ },
+ {
+  "fromId": 496,
+  "from": "Servine",
+  "toId": 497,
+  "to": "Serperior",
+  "method": "Level 36"
+ },
+ {
+  "fromId": 498,
+  "from": "Tepig",
+  "toId": 499,
+  "to": "Pignite",
+  "method": "Level 17"
+ },
+ {
+  "fromId": 499,
+  "from": "Pignite",
+  "toId": 500,
+  "to": "Emboar",
+  "method": "Level 36"
+ },
+ {
+  "fromId": 501,
+  "from": "Oshawott",
+  "toId": 502,
+  "to": "Dewott",
+  "method": "Level 17"
+ },
+ {
+  "fromId": 502,
+  "from": "Dewott",
+  "toId": 503,
+  "to": "Samurott",
+  "method": "Level 36"
+ },
+ {
+  "fromId": 504,
+  "from": "Patrat",
+  "toId": 505,
+  "to": "Watchog",
+  "method": "Level 20"
+ },
+ {
+  "fromId": 506,
+  "from": "Lillipup",
+  "toId": 507,
+  "to": "Herdier",
+  "method": "Level 16"
+ },
+ {
+  "fromId": 507,
+  "from": "Herdier",
+  "toId": 508,
+  "to": "Stoutland",
+  "method": "Level 32"
+ },
+ {
+  "fromId": 509,
+  "from": "Purrloin",
+  "toId": 510,
+  "to": "Liepard",
+  "method": "Level 20"
+ },
+ {
+  "fromId": 511,
+  "from": "Pansage",
+  "toId": 512,
+  "to": "Simisage",
+  "method": "Leaf Stone"
+ },
+ {
+  "fromId": 513,
+  "from": "Pansear",
+  "toId": 514,
+  "to": "Simisear",
+  "method": "Fire Stone"
+ },
+ {
+  "fromId": 515,
+  "from": "Panpour",
+  "toId": 516,
+  "to": "Simipour",
+  "method": "Water Stone"
+ },
+ {
+  "fromId": 517,
+  "from": "Munna",
+  "toId": 518,
+  "to": "Musharna",
+  "method": "Moon Stone"
+ },
+ {
+  "fromId": 519,
+  "from": "Pidove",
+  "toId": 520,
+  "to": "Tranquill",
+  "method": "Level 21"
+ },
+ {
+  "fromId": 520,
+  "from": "Tranquill",
+  "toId": 521,
+  "to": "Unfezant",
+  "method": "Level 32"
+ },
+ {
+  "fromId": 522,
+  "from": "Blitzle",
+  "toId": 523,
+  "to": "Zebstrika",
+  "method": "Level 27"
+ },
+ {
+  "fromId": 524,
+  "from": "Roggenrola",
+  "toId": 525,
+  "to": "Boldore",
+  "method": "Level 25"
+ },
+ {
+  "fromId": 525,
+  "from": "Boldore",
+  "toId": 526,
+  "to": "Gigalith",
+  "method": "Trade"
+ },
+ {
+  "fromId": 527,
+  "from": "Woobat",
+  "toId": 528,
+  "to": "Swoobat",
+  "method": "Level up (high friendship)"
+ },
+ {
+  "fromId": 529,
+  "from": "Drilbur",
+  "toId": 530,
+  "to": "Excadrill",
+  "method": "Level 31"
+ },
+ {
+  "fromId": 532,
+  "from": "Timburr",
+  "toId": 533,
+  "to": "Gurdurr",
+  "method": "Level 25"
+ },
+ {
+  "fromId": 533,
+  "from": "Gurdurr",
+  "toId": 534,
+  "to": "Conkeldurr",
+  "method": "Trade"
+ },
+ {
+  "fromId": 535,
+  "from": "Tympole",
+  "toId": 536,
+  "to": "Palpitoad",
+  "method": "Level 25"
+ },
+ {
+  "fromId": 536,
+  "from": "Palpitoad",
+  "toId": 537,
+  "to": "Seismitoad",
+  "method": "Level 36"
+ },
+ {
+  "fromId": 540,
+  "from": "Sewaddle",
+  "toId": 541,
+  "to": "Swadloon",
+  "method": "Level 20"
+ },
+ {
+  "fromId": 541,
+  "from": "Swadloon",
+  "toId": 542,
+  "to": "Leavanny",
+  "method": "Level up (high friendship)"
+ },
+ {
+  "fromId": 543,
+  "from": "Venipede",
+  "toId": 544,
+  "to": "Whirlipede",
+  "method": "Level 22"
+ },
+ {
+  "fromId": 544,
+  "from": "Whirlipede",
+  "toId": 545,
+  "to": "Scolipede",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 546,
+  "from": "Cottonee",
+  "toId": 547,
+  "to": "Whimsicott",
+  "method": "Sun Stone"
+ },
+ {
+  "fromId": 548,
+  "from": "Petilil",
+  "toId": 549,
+  "to": "Lilligant",
+  "method": "Sun Stone"
+ },
+ {
+  "fromId": 551,
+  "from": "Sandile",
+  "toId": 552,
+  "to": "Krokorok",
+  "method": "Level 29"
+ },
+ {
+  "fromId": 552,
+  "from": "Krokorok",
+  "toId": 553,
+  "to": "Krookodile",
+  "method": "Level 40"
+ },
+ {
+  "fromId": 554,
+  "from": "Darumaka",
+  "toId": 555,
+  "to": "Darmanitan",
+  "method": "Level 35"
+ },
+ {
+  "fromId": 557,
+  "from": "Dwebble",
+  "toId": 558,
+  "to": "Crustle",
+  "method": "Level 34"
+ },
+ {
+  "fromId": 559,
+  "from": "Scraggy",
+  "toId": 560,
+  "to": "Scrafty",
+  "method": "Level 39"
+ },
+ {
+  "fromId": 562,
+  "from": "Yamask",
+  "toId": 563,
+  "to": "Cofagrigus",
+  "method": "Level 34"
+ },
+ {
+  "fromId": 564,
+  "from": "Tirtouga",
+  "toId": 565,
+  "to": "Carracosta",
+  "method": "Level 37"
+ },
+ {
+  "fromId": 566,
+  "from": "Archen",
+  "toId": 567,
+  "to": "Archeops",
+  "method": "Level 37"
+ },
+ {
+  "fromId": 568,
+  "from": "Trubbish",
+  "toId": 569,
+  "to": "Garbodor",
+  "method": "Level 36"
+ },
+ {
+  "fromId": 570,
+  "from": "Zorua",
+  "toId": 571,
+  "to": "Zoroark",
+  "method": "Level 30"
+ },
+ {
+  "fromId": 572,
+  "from": "Minccino",
+  "toId": 573,
+  "to": "Cinccino",
+  "method": "Shiny Stone"
+ },
+ {
+  "fromId": 574,
+  "from": "Gothita",
+  "toId": 575,
+  "to": "Gothorita",
+  "method": "Level 32"
+ },
+ {
+  "fromId": 575,
+  "from": "Gothorita",
+  "toId": 576,
+  "to": "Gothitelle",
+  "method": "Level 41"
+ },
+ {
+  "fromId": 577,
+  "from": "Solosis",
+  "toId": 578,
+  "to": "Duosion",
+  "method": "Level 32"
+ },
+ {
+  "fromId": 578,
+  "from": "Duosion",
+  "toId": 579,
+  "to": "Reuniclus",
+  "method": "Level 41"
+ },
+ {
+  "fromId": 580,
+  "from": "Ducklett",
+  "toId": 581,
+  "to": "Swanna",
+  "method": "Level 35"
+ },
+ {
+  "fromId": 582,
+  "from": "Vanillite",
+  "toId": 583,
+  "to": "Vanillish",
+  "method": "Level 35"
+ },
+ {
+  "fromId": 583,
+  "from": "Vanillish",
+  "toId": 584,
+  "to": "Vanilluxe",
+  "method": "Level 47"
+ },
+ {
+  "fromId": 585,
+  "from": "Deerling",
+  "toId": 586,
+  "to": "Sawsbuck",
+  "method": "Level 34"
+ },
+ {
+  "fromId": 588,
+  "from": "Karrablast",
+  "toId": 589,
+  "to": "Escavalier",
+  "method": "Trade for Shelmet"
+ },
+ {
+  "fromId": 590,
+  "from": "Foongus",
+  "toId": 591,
+  "to": "Amoonguss",
+  "method": "Level 39"
+ },
+ {
+  "fromId": 592,
+  "from": "Frillish",
+  "toId": 593,
+  "to": "Jellicent",
+  "method": "Level 40"
+ },
+ {
+  "fromId": 595,
+  "from": "Joltik",
+  "toId": 596,
+  "to": "Galvantula",
+  "method": "Level 36"
+ },
+ {
+  "fromId": 597,
+  "from": "Ferroseed",
+  "toId": 598,
+  "to": "Ferrothorn",
+  "method": "Level 40"
+ },
+ {
+  "fromId": 599,
+  "from": "Klink",
+  "toId": 600,
+  "to": "Klang",
+  "method": "Level 38"
+ },
+ {
+  "fromId": 600,
+  "from": "Klang",
+  "toId": 601,
+  "to": "Klinklang",
+  "method": "Level 49"
+ },
+ {
+  "fromId": 602,
+  "from": "Tynamo",
+  "toId": 603,
+  "to": "Eelektrik",
+  "method": "Level 39"
+ },
+ {
+  "fromId": 603,
+  "from": "Eelektrik",
+  "toId": 604,
+  "to": "Eelektross",
+  "method": "Thunder Stone"
+ },
+ {
+  "fromId": 605,
+  "from": "Elgyem",
+  "toId": 606,
+  "to": "Beheeyem",
+  "method": "Level 42"
+ },
+ {
+  "fromId": 607,
+  "from": "Litwick",
+  "toId": 608,
+  "to": "Lampent",
+  "method": "Level 41"
+ },
+ {
+  "fromId": 608,
+  "from": "Lampent",
+  "toId": 609,
+  "to": "Chandelure",
+  "method": "Dusk Stone"
+ },
+ {
+  "fromId": 610,
+  "from": "Axew",
+  "toId": 611,
+  "to": "Fraxure",
+  "method": "Level 38"
+ },
+ {
+  "fromId": 611,
+  "from": "Fraxure",
+  "toId": 612,
+  "to": "Haxorus",
+  "method": "Level 48"
+ },
+ {
+  "fromId": 613,
+  "from": "Cubchoo",
+  "toId": 614,
+  "to": "Beartic",
+  "method": "Level 37"
+ },
+ {
+  "fromId": 616,
+  "from": "Shelmet",
+  "toId": 617,
+  "to": "Accelgor",
+  "method": "Trade for Karrablast"
+ },
+ {
+  "fromId": 619,
+  "from": "Mienfoo",
+  "toId": 620,
+  "to": "Mienshao",
+  "method": "Level 50"
+ },
+ {
+  "fromId": 622,
+  "from": "Golett",
+  "toId": 623,
+  "to": "Golurk",
+  "method": "Level 43"
+ },
+ {
+  "fromId": 624,
+  "from": "Pawniard",
+  "toId": 625,
+  "to": "Bisharp",
+  "method": "Level 52"
+ },
+ {
+  "fromId": 627,
+  "from": "Rufflet",
+  "toId": 628,
+  "to": "Braviary",
+  "method": "Level 54"
+ },
+ {
+  "fromId": 629,
+  "from": "Vullaby",
+  "toId": 630,
+  "to": "Mandibuzz",
+  "method": "Level 54"
+ },
+ {
+  "fromId": 633,
+  "from": "Deino",
+  "toId": 634,
+  "to": "Zweilous",
+  "method": "Level 50"
+ },
+ {
+  "fromId": 634,
+  "from": "Zweilous",
+  "toId": 635,
+  "to": "Hydreigon",
+  "method": "Level 64"
+ },
+ {
+  "fromId": 636,
+  "from": "Larvesta",
+  "toId": 637,
+  "to": "Volcarona",
+  "method": "Level 59"
+ }
+]

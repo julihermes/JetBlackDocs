@@ -10,8 +10,11 @@ import { parseChangelog } from "./parsers/changelog.ts";
 import { parseWildEncounters } from "./parsers/wild-encounters.ts";
 import { parseStatsAndLearnsets } from "./parsers/stats-learnsets.ts";
 import { parseTrainerRosters } from "./parsers/trainer-rosters.ts";
-import { buildEncountersBySpecies, buildTrainersBySpecies } from "./indices.ts";
-import type { BuildManifest } from "./types.ts";
+import { buildEncountersBySpecies, buildTrainersBySpecies, buildLearnedByMove } from "./indices.ts";
+import { attachTypes, attachSpeciesInfo, buildEvolutionLookup, buildMoveList } from "./vanilla-data.ts";
+import { computeObtainableSpecies } from "./obtainability.ts";
+import { alnumKey } from "./lib/text.ts";
+import type { BuildManifest, EvolutionLookup } from "./types.ts";
 
 const OUT_DIR = join(process.cwd(), "src", "data");
 
@@ -47,10 +50,17 @@ function main() {
   const summary: string[] = [];
   let hadError = false;
 
-  function run<T>(name: string, signatureLabel: string, signature: RegExp, parse: (file: SourceFile) => T, count: (data: T) => number) {
+  function run<T>(
+    name: string,
+    signatureLabel: string,
+    signature: RegExp,
+    parse: (file: SourceFile) => T,
+    count: (data: T) => number,
+    postProcess?: (data: T) => T,
+  ) {
     try {
       const file = findBySignature(files, signatureLabel, signature);
-      const data = parse(file);
+      const data = postProcess ? postProcess(parse(file)) : parse(file);
       const before = readPreviousJson<T>(name);
       writeJson(name, data);
       summary.push(diffCount(name, before ? count(before) : null, count(data)));
@@ -71,7 +81,7 @@ function main() {
   const items = run("items", "Item location changes", /Ground Items/, parseItems, (d) => d.ground.length + d.gifts.length + d.hidden.length);
   const changelog = run("changelog", "Changelog notes", /changenotes/i, parseChangelog, (d) => d.length);
   const wildEncounters = run("wild-encounters", "Wild Pokemon locations", /^\* Means Shaking Grass/m, parseWildEncounters, (d) => d.length);
-  const pokemon = run("pokemon", "Stats and Learnsets", /^Ability:/m, parseStatsAndLearnsets, (d) => d.length);
+  const pokemon = run("pokemon", "Stats and Learnsets", /^Ability:/m, parseStatsAndLearnsets, (d) => d.length, (d) => attachSpeciesInfo(attachTypes(d)));
   const trainers = run("trainers", "Trainer Rosters", /^Unless specified, Trainer/m, parseTrainerRosters, (d) => d.length);
 
   if (wildEncounters) {
@@ -83,6 +93,28 @@ function main() {
     const index = buildTrainersBySpecies(trainers);
     writeJson("trainers-by-species", index);
     summary.push(`trainers-by-species: ${Object.keys(index).length} species indexed`);
+  }
+  let evolutionLookup: EvolutionLookup | null = null;
+  if (evolutions) {
+    evolutionLookup = buildEvolutionLookup(evolutions);
+    writeJson("evolution-lookup", evolutionLookup);
+    summary.push(`evolution-lookup: ${Object.keys(evolutionLookup).length} species indexed`);
+  }
+
+  if (pokemon && wildEncounters && legendaries && evolutionLookup) {
+    const obtainable = computeObtainableSpecies(pokemon, wildEncounters, legendaries, evolutionLookup);
+    for (const p of pokemon) p.obtainable = obtainable.has(p.name);
+    writeJson("pokemon", pokemon);
+    summary.push(`obtainable species: ${obtainable.size} / ${pokemon.length}`);
+  }
+
+  let moves = null as ReturnType<typeof buildMoveList> | null;
+  if (moveChanges && pokemon) {
+    moves = buildMoveList(moveChanges);
+    const learnedByMove = buildLearnedByMove(pokemon);
+    for (const m of moves) if (!m.isNew) m.learnedBy = learnedByMove[alnumKey(m.name)] ?? [];
+    writeJson("moves", moves);
+    summary.push(`moves: ${moves.length} (${moves.filter((m) => m.changed).length} changed, ${moves.filter((m) => m.isNew).length} new)`);
   }
 
   const manifest: BuildManifest = {
@@ -98,6 +130,7 @@ function main() {
         ["wildEncounterLocations", wildEncounters?.length],
         ["pokemon", pokemon?.length],
         ["trainerLocations", trainers?.length],
+        ["moves", moves?.length],
       ].filter(([, v]) => v !== undefined),
     ),
   };

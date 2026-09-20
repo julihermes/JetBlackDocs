@@ -2375,6 +2375,16 @@
       "level": null
     },
     {
+      "location": "Route 4",
+      "trainerName": "Fisherman Andrew",
+      "level": 18
+    },
+    {
+      "location": "Route 4",
+      "trainerName": "Fisherman Andrew",
+      "level": 18
+    },
+    {
       "location": "Driftveil City",
       "trainerName": "Motorcyclist Charles",
       "level": 30
@@ -2386,10 +2396,40 @@
       "heldItem": "MysticWater"
     },
     {
+      "location": "Route 17",
+      "trainerName": "Fisherman Lydon",
+      "level": 36
+    },
+    {
+      "location": "Route 17",
+      "trainerName": "Fisherman Lydon",
+      "level": 36
+    },
+    {
+      "location": "Route 17",
+      "trainerName": "Swimmer Berke",
+      "level": 36
+    },
+    {
       "location": "Route 18",
       "trainerName": "Veteran Ray",
       "level": 36,
       "heldItem": "MysticWater"
+    },
+    {
+      "location": "Route 8",
+      "trainerName": "Fisherman Bruce",
+      "level": 37
+    },
+    {
+      "location": "Route 8",
+      "trainerName": "Fisherman Bruce",
+      "level": 37
+    },
+    {
+      "location": "Route 9",
+      "trainerName": "Roughneck Chance",
+      "level": 40
     },
     {
       "location": "Route 13",
@@ -2912,50 +2952,6 @@
       "heldItem": "Wise Glasses"
     }
   ],
-  "Basculin-R": [
-    {
-      "location": "Route 4",
-      "trainerName": "Fisherman Andrew",
-      "level": 18
-    },
-    {
-      "location": "Route 17",
-      "trainerName": "Fisherman Lydon",
-      "level": 36
-    },
-    {
-      "location": "Route 8",
-      "trainerName": "Fisherman Bruce",
-      "level": 37
-    },
-    {
-      "location": "Route 9",
-      "trainerName": "Roughneck Chance",
-      "level": 40
-    }
-  ],
-  "Basculin-B": [
-    {
-      "location": "Route 4",
-      "trainerName": "Fisherman Andrew",
-      "level": 18
-    },
-    {
-      "location": "Route 17",
-      "trainerName": "Fisherman Lydon",
-      "level": 36
-    },
-    {
-      "location": "Route 17",
-      "trainerName": "Swimmer Berke",
-      "level": 36
-    },
-    {
-      "location": "Route 8",
-      "trainerName": "Fisherman Bruce",
-      "level": 37
-    }
-  ],
   "Drilbur": [
     {
       "location": "Route 4",
@@ -2998,7 +2994,7 @@
       "level": 35
     }
   ],
-  "*You can fight them after the badge of course, but these guys are still going to be around": [
+  "You can fight them after the badge of course, but these guys are still going to be around": [
     {
       "location": "Route 4",
       "trainerName": "Parasol Lady April",

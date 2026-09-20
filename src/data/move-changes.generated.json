@@ -750,13 +750,51 @@
       "notes": []
     },
     {
-      "name": "Elemental Hyper Beams",
-      "changes": [],
+      "name": "Frenzy Plant",
+      "changes": [
+        {
+          "field": "Power",
+          "to": "200"
+        },
+        {
+          "field": "PP",
+          "to": "1"
+        }
+      ],
       "notes": [
-        "All have 200 Base Power, 1 PP and have an additional effect.",
-        "-Frenzy Plant, Grass: Restores health by 50% of Damage done.",
-        "-Blast Burn, Fire: Burns the target.",
-        "-Hydro Cannon, Water: Lowers the target's speed by 2 stages."
+        "Restores health by 50% of Damage done."
+      ]
+    },
+    {
+      "name": "Blast Burn",
+      "changes": [
+        {
+          "field": "Power",
+          "to": "200"
+        },
+        {
+          "field": "PP",
+          "to": "1"
+        }
+      ],
+      "notes": [
+        "Burns the target."
+      ]
+    },
+    {
+      "name": "Hydro Cannon",
+      "changes": [
+        {
+          "field": "Power",
+          "to": "200"
+        },
+        {
+          "field": "PP",
+          "to": "1"
+        }
+      ],
+      "notes": [
+        "Lowers the target's speed by 2 stages."
       ]
     },
     {

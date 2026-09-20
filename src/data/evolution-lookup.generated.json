@@ -1,0 +1,5170 @@
+{
+  "Boldore": {
+    "evolvesTo": [
+      {
+        "species": "Gigalith",
+        "method": "at Level 40",
+        "changed": true
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Roggenrola",
+      "method": "Level 25",
+      "changed": false
+    }
+  },
+  "Gigalith": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Boldore",
+      "method": "at Level 40",
+      "changed": true
+    }
+  },
+  "Gurdurr": {
+    "evolvesTo": [
+      {
+        "species": "Conkeldurr",
+        "method": "at Level 40",
+        "changed": true
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Timburr",
+      "method": "Level 25",
+      "changed": false
+    }
+  },
+  "Conkeldurr": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Gurdurr",
+      "method": "at Level 40",
+      "changed": true
+    }
+  },
+  "Scraggy": {
+    "evolvesTo": [
+      {
+        "species": "Scrafty",
+        "method": "at Level 32",
+        "changed": true
+      }
+    ]
+  },
+  "Scrafty": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Scraggy",
+      "method": "at Level 32",
+      "changed": true
+    }
+  },
+  "Ducklett": {
+    "evolvesTo": [
+      {
+        "species": "Swanna",
+        "method": "at Level 30",
+        "changed": true
+      }
+    ]
+  },
+  "Swanna": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Ducklett",
+      "method": "at Level 30",
+      "changed": true
+    }
+  },
+  "Vanillite": {
+    "evolvesTo": [
+      {
+        "species": "Vanillish",
+        "method": "at Level 32",
+        "changed": true
+      }
+    ]
+  },
+  "Vanillish": {
+    "evolvesTo": [
+      {
+        "species": "Vanilluxe",
+        "method": "at Level 41",
+        "changed": true
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Vanillite",
+      "method": "at Level 32",
+      "changed": true
+    }
+  },
+  "Vanilluxe": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Vanillish",
+      "method": "at Level 41",
+      "changed": true
+    }
+  },
+  "Deerling": {
+    "evolvesTo": [
+      {
+        "species": "Sawsbuck",
+        "method": "at Level 31",
+        "changed": true
+      }
+    ]
+  },
+  "Sawsbuck": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Deerling",
+      "method": "at Level 31",
+      "changed": true
+    }
+  },
+  "Karrablast": {
+    "evolvesTo": [
+      {
+        "species": "Escavalier",
+        "method": "when levelled up with Shelmet in the Party",
+        "changed": true
+      }
+    ]
+  },
+  "Escavalier": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Karrablast",
+      "method": "when levelled up with Shelmet in the Party",
+      "changed": true
+    }
+  },
+  "Foongus": {
+    "evolvesTo": [
+      {
+        "species": "Amoonguss",
+        "method": "at Level 33",
+        "changed": true
+      }
+    ]
+  },
+  "Amoonguss": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Foongus",
+      "method": "at Level 33",
+      "changed": true
+    }
+  },
+  "Klink": {
+    "evolvesTo": [
+      {
+        "species": "Klang",
+        "method": "at Level 32",
+        "changed": true
+      }
+    ]
+  },
+  "Klang": {
+    "evolvesTo": [
+      {
+        "species": "Klinklang",
+        "method": "at Level 42",
+        "changed": true
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Klink",
+      "method": "at Level 32",
+      "changed": true
+    }
+  },
+  "Klinklang": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Klang",
+      "method": "at Level 42",
+      "changed": true
+    }
+  },
+  "Tynamo": {
+    "evolvesTo": [
+      {
+        "species": "Eelektrik",
+        "method": "at Level 35",
+        "changed": true
+      }
+    ]
+  },
+  "Eelektrik": {
+    "evolvesTo": [
+      {
+        "species": "Eelektross",
+        "method": "Thunder Stone",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Tynamo",
+      "method": "at Level 35",
+      "changed": true
+    }
+  },
+  "Elgyem": {
+    "evolvesTo": [
+      {
+        "species": "Beheeyem",
+        "method": "at Level 39",
+        "changed": true
+      }
+    ]
+  },
+  "Beheeyem": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Elgyem",
+      "method": "at Level 39",
+      "changed": true
+    }
+  },
+  "Litwick": {
+    "evolvesTo": [
+      {
+        "species": "Lampent",
+        "method": "at Level 35",
+        "changed": true
+      }
+    ]
+  },
+  "Lampent": {
+    "evolvesTo": [
+      {
+        "species": "Chandelure",
+        "method": "Dusk Stone",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Litwick",
+      "method": "at Level 35",
+      "changed": true
+    }
+  },
+  "Shelmet": {
+    "evolvesTo": [
+      {
+        "species": "Accelgor",
+        "method": "when levelled up with Karrablast in the party",
+        "changed": true
+      }
+    ]
+  },
+  "Accelgor": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Shelmet",
+      "method": "when levelled up with Karrablast in the party",
+      "changed": true
+    }
+  },
+  "Mienfoo": {
+    "evolvesTo": [
+      {
+        "species": "Mienshao",
+        "method": "at Level 37",
+        "changed": true
+      }
+    ]
+  },
+  "Mienshao": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Mienfoo",
+      "method": "at Level 37",
+      "changed": true
+    }
+  },
+  "Golett": {
+    "evolvesTo": [
+      {
+        "species": "Golurk",
+        "method": "at Level 40",
+        "changed": true
+      }
+    ]
+  },
+  "Golurk": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Golett",
+      "method": "at Level 40",
+      "changed": true
+    }
+  },
+  "Pawniard": {
+    "evolvesTo": [
+      {
+        "species": "Bisharp",
+        "method": "at Level 42",
+        "changed": true
+      }
+    ]
+  },
+  "Bisharp": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Pawniard",
+      "method": "at Level 42",
+      "changed": true
+    }
+  },
+  "Rufflet": {
+    "evolvesTo": [
+      {
+        "species": "Braviary",
+        "method": "at Level 36",
+        "changed": true
+      }
+    ]
+  },
+  "Braviary": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Rufflet",
+      "method": "at Level 36",
+      "changed": true
+    }
+  },
+  "Vullaby": {
+    "evolvesTo": [
+      {
+        "species": "Mandibuzz",
+        "method": "at Level 36",
+        "changed": true
+      }
+    ]
+  },
+  "Mandibuzz": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Vullaby",
+      "method": "at Level 36",
+      "changed": true
+    }
+  },
+  "Deino": {
+    "evolvesTo": [
+      {
+        "species": "Zweilous",
+        "method": "at Level 40",
+        "changed": true
+      }
+    ]
+  },
+  "Zweilous": {
+    "evolvesTo": [
+      {
+        "species": "Hydreigon",
+        "method": "at Level 58",
+        "changed": true
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Deino",
+      "method": "at Level 40",
+      "changed": true
+    }
+  },
+  "Hydreigon": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Zweilous",
+      "method": "at Level 58",
+      "changed": true
+    }
+  },
+  "Larvesta": {
+    "evolvesTo": [
+      {
+        "species": "Volcarona",
+        "method": "at Level 43",
+        "changed": true
+      }
+    ]
+  },
+  "Volcarona": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Larvesta",
+      "method": "at Level 43",
+      "changed": true
+    }
+  },
+  "Poliwhirl": {
+    "evolvesTo": [
+      {
+        "species": "Politoed",
+        "method": "by levelling up holding a King's Rock",
+        "changed": true
+      },
+      {
+        "species": "Poliwrath",
+        "method": "Water Stone",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Poliwag",
+      "method": "Level 25",
+      "changed": false
+    }
+  },
+  "Politoed": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Poliwhirl",
+      "method": "by levelling up holding a King's Rock",
+      "changed": true
+    }
+  },
+  "Machoke": {
+    "evolvesTo": [
+      {
+        "species": "Machamp",
+        "method": "at Level 40",
+        "changed": true
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Machop",
+      "method": "Level 28",
+      "changed": false
+    }
+  },
+  "Machamp": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Machoke",
+      "method": "at Level 40",
+      "changed": true
+    }
+  },
+  "Ponyta": {
+    "evolvesTo": [
+      {
+        "species": "Rapidash",
+        "method": "at Level 34",
+        "changed": true
+      }
+    ]
+  },
+  "Rapidash": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Ponyta",
+      "method": "at Level 34",
+      "changed": true
+    }
+  },
+  "Slowpoke": {
+    "evolvesTo": [
+      {
+        "species": "Slowking",
+        "method": "by levelling up holding a King's Rock",
+        "changed": true
+      },
+      {
+        "species": "Slowbro",
+        "method": "Level 37",
+        "changed": false
+      }
+    ]
+  },
+  "Slowking": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Slowpoke",
+      "method": "by levelling up holding a King's Rock",
+      "changed": true
+    }
+  },
+  "Grimer": {
+    "evolvesTo": [
+      {
+        "species": "Muk",
+        "method": "at Level 32",
+        "changed": true
+      }
+    ]
+  },
+  "Muk": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Grimer",
+      "method": "at Level 32",
+      "changed": true
+    }
+  },
+  "Haunter": {
+    "evolvesTo": [
+      {
+        "species": "Gengar",
+        "method": "at Level 40",
+        "changed": true
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Gastly",
+      "method": "Level 25",
+      "changed": false
+    }
+  },
+  "Gengar": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Haunter",
+      "method": "at Level 40",
+      "changed": true
+    }
+  },
+  "Onix": {
+    "evolvesTo": [
+      {
+        "species": "Steelix",
+        "method": "when Iron Tail is learned",
+        "changed": true
+      }
+    ]
+  },
+  "Steelix": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Onix",
+      "method": "when Iron Tail is learned",
+      "changed": true
+    }
+  },
+  "Rhyhorn": {
+    "evolvesTo": [
+      {
+        "species": "Rhydon",
+        "method": "at Level 36",
+        "changed": true
+      }
+    ]
+  },
+  "Rhydon": {
+    "evolvesTo": [
+      {
+        "species": "Rhyperior",
+        "method": "by levelling up holding a Protector",
+        "changed": true
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Rhyhorn",
+      "method": "at Level 36",
+      "changed": true
+    }
+  },
+  "Rhyperior": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Rhydon",
+      "method": "by levelling up holding a Protector",
+      "changed": true
+    }
+  },
+  "Seadra": {
+    "evolvesTo": [
+      {
+        "species": "Kingdra",
+        "method": "when Dragon Pulse is learned",
+        "changed": true
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Horsea",
+      "method": "Level 32",
+      "changed": false
+    }
+  },
+  "Kingdra": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Seadra",
+      "method": "when Dragon Pulse is learned",
+      "changed": true
+    }
+  },
+  "Scyther": {
+    "evolvesTo": [
+      {
+        "species": "Scizor",
+        "method": "by levelling up holding a Metal Coat",
+        "changed": true
+      }
+    ]
+  },
+  "Scizor": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Scyther",
+      "method": "by levelling up holding a Metal Coat",
+      "changed": true
+    }
+  },
+  "Electabuzz": {
+    "evolvesTo": [
+      {
+        "species": "Electivire",
+        "method": "by levelling up holding an Electrizer",
+        "changed": true
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Elekid",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Electivire": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Electabuzz",
+      "method": "by levelling up holding an Electrizer",
+      "changed": true
+    }
+  },
+  "Magmar": {
+    "evolvesTo": [
+      {
+        "species": "Magmortar",
+        "method": "by levelling up holding a Magmarizer",
+        "changed": true
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Magby",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Magmortar": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Magmar",
+      "method": "by levelling up holding a Magmarizer",
+      "changed": true
+    }
+  },
+  "Porygon": {
+    "evolvesTo": [
+      {
+        "species": "Porygon2",
+        "method": "by levelling up holding an Up-Grade",
+        "changed": true
+      }
+    ]
+  },
+  "Porygon2": {
+    "evolvesTo": [
+      {
+        "species": "Porygon-Z",
+        "method": "by levelling up holding a Dubious Disc",
+        "changed": true
+      },
+      {
+        "species": "Porygon Z",
+        "method": "Trade holding Dubious Disc",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Porygon",
+      "method": "by levelling up holding an Up-Grade",
+      "changed": true
+    }
+  },
+  "Slugma": {
+    "evolvesTo": [
+      {
+        "species": "Magcargo",
+        "method": "at Level 30",
+        "changed": true
+      }
+    ]
+  },
+  "Magcargo": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Slugma",
+      "method": "at Level 30",
+      "changed": true
+    }
+  },
+  "Porygon-Z": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Porygon2",
+      "method": "by levelling up holding a Dubious Disc",
+      "changed": true
+    }
+  },
+  "Tyrogue": {
+    "evolvesTo": [
+      {
+        "species": "Hitmonchan",
+        "method": "by levelling up holding an X Defend",
+        "changed": true
+      },
+      {
+        "species": "Hitmonlee",
+        "method": "by levelling up holding an X Attack",
+        "changed": true
+      },
+      {
+        "species": "Hitmontop",
+        "method": "by levelling up holding an X Speed",
+        "changed": true
+      }
+    ]
+  },
+  "Hitmonchan": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Tyrogue",
+      "method": "by levelling up holding an X Defend",
+      "changed": true
+    }
+  },
+  "Hitmonlee": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Tyrogue",
+      "method": "by levelling up holding an X Attack",
+      "changed": true
+    }
+  },
+  "Hitmontop": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Tyrogue",
+      "method": "by levelling up holding an X Speed",
+      "changed": true
+    }
+  },
+  "Feebas": {
+    "evolvesTo": [
+      {
+        "species": "Milotic",
+        "method": "by levelling up holding a Prism Scale",
+        "changed": true
+      }
+    ]
+  },
+  "Milotic": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Feebas",
+      "method": "by levelling up holding a Prism Scale",
+      "changed": true
+    }
+  },
+  "Dusclops": {
+    "evolvesTo": [
+      {
+        "species": "Dusknoir",
+        "method": "by levelling up holding a Reaper Cloth",
+        "changed": true
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Duskull",
+      "method": "Level 37",
+      "changed": false
+    }
+  },
+  "Dusknoir": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Dusclops",
+      "method": "by levelling up holding a Reaper Cloth",
+      "changed": true
+    }
+  },
+  "Snorunt": {
+    "evolvesTo": [
+      {
+        "species": "Glalie",
+        "method": "at Level 34",
+        "changed": true
+      },
+      {
+        "species": "Froslass",
+        "method": "Dawn Stone",
+        "changed": false
+      }
+    ]
+  },
+  "Glalie": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Snorunt",
+      "method": "at Level 34",
+      "changed": true
+    }
+  },
+  "Clamperl": {
+    "evolvesTo": [
+      {
+        "species": "Huntail",
+        "method": "by levelling up holding a DeepSeaTooth",
+        "changed": true
+      },
+      {
+        "species": "Gorebyss",
+        "method": "by levelling up holding a DeepSeaScale",
+        "changed": true
+      }
+    ]
+  },
+  "Huntail": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Clamperl",
+      "method": "by levelling up holding a DeepSeaTooth",
+      "changed": true
+    }
+  },
+  "Gorebyss": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Clamperl",
+      "method": "by levelling up holding a DeepSeaScale",
+      "changed": true
+    }
+  },
+  "Glameow": {
+    "evolvesTo": [
+      {
+        "species": "Purugly",
+        "method": "at Level 34",
+        "changed": true
+      }
+    ]
+  },
+  "Purugly": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Glameow",
+      "method": "at Level 34",
+      "changed": true
+    }
+  },
+  "Snover": {
+    "evolvesTo": [
+      {
+        "species": "Abomasnow",
+        "method": "at Level 34",
+        "changed": true
+      }
+    ]
+  },
+  "Abomasnow": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Snover",
+      "method": "at Level 34",
+      "changed": true
+    }
+  },
+  "Bulbasaur": {
+    "evolvesTo": [
+      {
+        "species": "Ivysaur",
+        "method": "Level 16",
+        "changed": false
+      }
+    ]
+  },
+  "Ivysaur": {
+    "evolvesTo": [
+      {
+        "species": "Venusaur",
+        "method": "Level 32",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Bulbasaur",
+      "method": "Level 16",
+      "changed": false
+    }
+  },
+  "Venusaur": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Ivysaur",
+      "method": "Level 32",
+      "changed": false
+    }
+  },
+  "Charmander": {
+    "evolvesTo": [
+      {
+        "species": "Charmeleon",
+        "method": "Level 16",
+        "changed": false
+      }
+    ]
+  },
+  "Charmeleon": {
+    "evolvesTo": [
+      {
+        "species": "Charizard",
+        "method": "Level 36",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Charmander",
+      "method": "Level 16",
+      "changed": false
+    }
+  },
+  "Charizard": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Charmeleon",
+      "method": "Level 36",
+      "changed": false
+    }
+  },
+  "Squirtle": {
+    "evolvesTo": [
+      {
+        "species": "Wartortle",
+        "method": "Level 16",
+        "changed": false
+      }
+    ]
+  },
+  "Wartortle": {
+    "evolvesTo": [
+      {
+        "species": "Blastoise",
+        "method": "Level 36",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Squirtle",
+      "method": "Level 16",
+      "changed": false
+    }
+  },
+  "Blastoise": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Wartortle",
+      "method": "Level 36",
+      "changed": false
+    }
+  },
+  "Caterpie": {
+    "evolvesTo": [
+      {
+        "species": "Metapod",
+        "method": "Level 7",
+        "changed": false
+      }
+    ]
+  },
+  "Metapod": {
+    "evolvesTo": [
+      {
+        "species": "Butterfree",
+        "method": "Level 10",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Caterpie",
+      "method": "Level 7",
+      "changed": false
+    }
+  },
+  "Butterfree": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Metapod",
+      "method": "Level 10",
+      "changed": false
+    }
+  },
+  "Weedle": {
+    "evolvesTo": [
+      {
+        "species": "Kakuna",
+        "method": "Level 7",
+        "changed": false
+      }
+    ]
+  },
+  "Kakuna": {
+    "evolvesTo": [
+      {
+        "species": "Beedrill",
+        "method": "Level 10",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Weedle",
+      "method": "Level 7",
+      "changed": false
+    }
+  },
+  "Beedrill": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Kakuna",
+      "method": "Level 10",
+      "changed": false
+    }
+  },
+  "Pidgey": {
+    "evolvesTo": [
+      {
+        "species": "Pidgeotto",
+        "method": "Level 18",
+        "changed": false
+      }
+    ]
+  },
+  "Pidgeotto": {
+    "evolvesTo": [
+      {
+        "species": "Pidgeot",
+        "method": "Level 36",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Pidgey",
+      "method": "Level 18",
+      "changed": false
+    }
+  },
+  "Pidgeot": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Pidgeotto",
+      "method": "Level 36",
+      "changed": false
+    }
+  },
+  "Rattata": {
+    "evolvesTo": [
+      {
+        "species": "Raticate",
+        "method": "Level 20",
+        "changed": false
+      }
+    ]
+  },
+  "Raticate": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Rattata",
+      "method": "Level 20",
+      "changed": false
+    }
+  },
+  "Spearow": {
+    "evolvesTo": [
+      {
+        "species": "Fearow",
+        "method": "Level 20",
+        "changed": false
+      }
+    ]
+  },
+  "Fearow": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Spearow",
+      "method": "Level 20",
+      "changed": false
+    }
+  },
+  "Ekans": {
+    "evolvesTo": [
+      {
+        "species": "Arbok",
+        "method": "Level 22",
+        "changed": false
+      }
+    ]
+  },
+  "Arbok": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Ekans",
+      "method": "Level 22",
+      "changed": false
+    }
+  },
+  "Pichu": {
+    "evolvesTo": [
+      {
+        "species": "Pikachu",
+        "method": "Level up (high friendship)",
+        "changed": false
+      }
+    ]
+  },
+  "Pikachu": {
+    "evolvesTo": [
+      {
+        "species": "Raichu",
+        "method": "Thunder Stone",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Pichu",
+      "method": "Level up (high friendship)",
+      "changed": false
+    }
+  },
+  "Raichu": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Pikachu",
+      "method": "Thunder Stone",
+      "changed": false
+    }
+  },
+  "Sandshrew": {
+    "evolvesTo": [
+      {
+        "species": "Sandslash",
+        "method": "Level 22",
+        "changed": false
+      }
+    ]
+  },
+  "Sandslash": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Sandshrew",
+      "method": "Level 22",
+      "changed": false
+    }
+  },
+  "Nidoran F": {
+    "evolvesTo": [
+      {
+        "species": "Nidorina",
+        "method": "Level 16",
+        "changed": false
+      }
+    ]
+  },
+  "Nidorina": {
+    "evolvesTo": [
+      {
+        "species": "Nidoqueen",
+        "method": "Moon Stone",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Nidoran F",
+      "method": "Level 16",
+      "changed": false
+    }
+  },
+  "Nidoqueen": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Nidorina",
+      "method": "Moon Stone",
+      "changed": false
+    }
+  },
+  "Nidoran M": {
+    "evolvesTo": [
+      {
+        "species": "Nidorino",
+        "method": "Level 16",
+        "changed": false
+      }
+    ]
+  },
+  "Nidorino": {
+    "evolvesTo": [
+      {
+        "species": "Nidoking",
+        "method": "Moon Stone",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Nidoran M",
+      "method": "Level 16",
+      "changed": false
+    }
+  },
+  "Nidoking": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Nidorino",
+      "method": "Moon Stone",
+      "changed": false
+    }
+  },
+  "Cleffa": {
+    "evolvesTo": [
+      {
+        "species": "Clefairy",
+        "method": "Level up (high friendship)",
+        "changed": false
+      }
+    ]
+  },
+  "Clefairy": {
+    "evolvesTo": [
+      {
+        "species": "Clefable",
+        "method": "Moon Stone",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Cleffa",
+      "method": "Level up (high friendship)",
+      "changed": false
+    }
+  },
+  "Clefable": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Clefairy",
+      "method": "Moon Stone",
+      "changed": false
+    }
+  },
+  "Vulpix": {
+    "evolvesTo": [
+      {
+        "species": "Ninetales",
+        "method": "Fire Stone",
+        "changed": false
+      }
+    ]
+  },
+  "Ninetales": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Vulpix",
+      "method": "Fire Stone",
+      "changed": false
+    }
+  },
+  "Igglybuff": {
+    "evolvesTo": [
+      {
+        "species": "Jigglypuff",
+        "method": "Level up (high friendship)",
+        "changed": false
+      }
+    ]
+  },
+  "Jigglypuff": {
+    "evolvesTo": [
+      {
+        "species": "Wigglytuff",
+        "method": "Moon Stone",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Igglybuff",
+      "method": "Level up (high friendship)",
+      "changed": false
+    }
+  },
+  "Wigglytuff": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Jigglypuff",
+      "method": "Moon Stone",
+      "changed": false
+    }
+  },
+  "Zubat": {
+    "evolvesTo": [
+      {
+        "species": "Golbat",
+        "method": "Level 22",
+        "changed": false
+      }
+    ]
+  },
+  "Golbat": {
+    "evolvesTo": [
+      {
+        "species": "Crobat",
+        "method": "Level up (high friendship)",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Zubat",
+      "method": "Level 22",
+      "changed": false
+    }
+  },
+  "Crobat": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Golbat",
+      "method": "Level up (high friendship)",
+      "changed": false
+    }
+  },
+  "Oddish": {
+    "evolvesTo": [
+      {
+        "species": "Gloom",
+        "method": "Level 21",
+        "changed": false
+      }
+    ]
+  },
+  "Gloom": {
+    "evolvesTo": [
+      {
+        "species": "Vileplume",
+        "method": "Leaf Stone",
+        "changed": false
+      },
+      {
+        "species": "Bellossom",
+        "method": "Sun Stone",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Oddish",
+      "method": "Level 21",
+      "changed": false
+    }
+  },
+  "Vileplume": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Gloom",
+      "method": "Leaf Stone",
+      "changed": false
+    }
+  },
+  "Bellossom": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Gloom",
+      "method": "Sun Stone",
+      "changed": false
+    }
+  },
+  "Paras": {
+    "evolvesTo": [
+      {
+        "species": "Parasect",
+        "method": "Level 24",
+        "changed": false
+      }
+    ]
+  },
+  "Parasect": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Paras",
+      "method": "Level 24",
+      "changed": false
+    }
+  },
+  "Venonat": {
+    "evolvesTo": [
+      {
+        "species": "Venomoth",
+        "method": "Level 31",
+        "changed": false
+      }
+    ]
+  },
+  "Venomoth": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Venonat",
+      "method": "Level 31",
+      "changed": false
+    }
+  },
+  "Diglett": {
+    "evolvesTo": [
+      {
+        "species": "Dugtrio",
+        "method": "Level 26",
+        "changed": false
+      }
+    ]
+  },
+  "Dugtrio": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Diglett",
+      "method": "Level 26",
+      "changed": false
+    }
+  },
+  "Meowth": {
+    "evolvesTo": [
+      {
+        "species": "Persian",
+        "method": "Level 28",
+        "changed": false
+      }
+    ]
+  },
+  "Persian": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Meowth",
+      "method": "Level 28",
+      "changed": false
+    }
+  },
+  "Psyduck": {
+    "evolvesTo": [
+      {
+        "species": "Golduck",
+        "method": "Level 33",
+        "changed": false
+      }
+    ]
+  },
+  "Golduck": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Psyduck",
+      "method": "Level 33",
+      "changed": false
+    }
+  },
+  "Mankey": {
+    "evolvesTo": [
+      {
+        "species": "Primeape",
+        "method": "Level 28",
+        "changed": false
+      }
+    ]
+  },
+  "Primeape": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Mankey",
+      "method": "Level 28",
+      "changed": false
+    }
+  },
+  "Growlithe": {
+    "evolvesTo": [
+      {
+        "species": "Arcanine",
+        "method": "Fire Stone",
+        "changed": false
+      }
+    ]
+  },
+  "Arcanine": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Growlithe",
+      "method": "Fire Stone",
+      "changed": false
+    }
+  },
+  "Poliwag": {
+    "evolvesTo": [
+      {
+        "species": "Poliwhirl",
+        "method": "Level 25",
+        "changed": false
+      }
+    ]
+  },
+  "Poliwrath": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Poliwhirl",
+      "method": "Water Stone",
+      "changed": false
+    }
+  },
+  "Abra": {
+    "evolvesTo": [
+      {
+        "species": "Kadabra",
+        "method": "Level 16",
+        "changed": false
+      }
+    ]
+  },
+  "Kadabra": {
+    "evolvesTo": [
+      {
+        "species": "Alakazam",
+        "method": "Trade",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Abra",
+      "method": "Level 16",
+      "changed": false
+    }
+  },
+  "Alakazam": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Kadabra",
+      "method": "Trade",
+      "changed": false
+    }
+  },
+  "Machop": {
+    "evolvesTo": [
+      {
+        "species": "Machoke",
+        "method": "Level 28",
+        "changed": false
+      }
+    ]
+  },
+  "Bellsprout": {
+    "evolvesTo": [
+      {
+        "species": "Weepinbell",
+        "method": "Level 21",
+        "changed": false
+      }
+    ]
+  },
+  "Weepinbell": {
+    "evolvesTo": [
+      {
+        "species": "Victreebel",
+        "method": "Leaf Stone",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Bellsprout",
+      "method": "Level 21",
+      "changed": false
+    }
+  },
+  "Victreebel": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Weepinbell",
+      "method": "Leaf Stone",
+      "changed": false
+    }
+  },
+  "Tentacool": {
+    "evolvesTo": [
+      {
+        "species": "Tentacruel",
+        "method": "Level 30",
+        "changed": false
+      }
+    ]
+  },
+  "Tentacruel": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Tentacool",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Geodude": {
+    "evolvesTo": [
+      {
+        "species": "Graveler",
+        "method": "Level 25",
+        "changed": false
+      }
+    ]
+  },
+  "Graveler": {
+    "evolvesTo": [
+      {
+        "species": "Golem",
+        "method": "Trade",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Geodude",
+      "method": "Level 25",
+      "changed": false
+    }
+  },
+  "Golem": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Graveler",
+      "method": "Trade",
+      "changed": false
+    }
+  },
+  "Slowbro": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Slowpoke",
+      "method": "Level 37",
+      "changed": false
+    }
+  },
+  "Magnemite": {
+    "evolvesTo": [
+      {
+        "species": "Magneton",
+        "method": "Level 30",
+        "changed": false
+      }
+    ]
+  },
+  "Magneton": {
+    "evolvesTo": [
+      {
+        "species": "Magnezone",
+        "method": "Level up (at Mt Coronet)",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Magnemite",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Magnezone": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Magneton",
+      "method": "Level up (at Mt Coronet)",
+      "changed": false
+    }
+  },
+  "Doduo": {
+    "evolvesTo": [
+      {
+        "species": "Dodrio",
+        "method": "Level 31",
+        "changed": false
+      }
+    ]
+  },
+  "Dodrio": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Doduo",
+      "method": "Level 31",
+      "changed": false
+    }
+  },
+  "Seel": {
+    "evolvesTo": [
+      {
+        "species": "Dewgong",
+        "method": "Level 34",
+        "changed": false
+      }
+    ]
+  },
+  "Dewgong": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Seel",
+      "method": "Level 34",
+      "changed": false
+    }
+  },
+  "Shellder": {
+    "evolvesTo": [
+      {
+        "species": "Cloyster",
+        "method": "Water Stone",
+        "changed": false
+      }
+    ]
+  },
+  "Cloyster": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Shellder",
+      "method": "Water Stone",
+      "changed": false
+    }
+  },
+  "Gastly": {
+    "evolvesTo": [
+      {
+        "species": "Haunter",
+        "method": "Level 25",
+        "changed": false
+      }
+    ]
+  },
+  "Drowzee": {
+    "evolvesTo": [
+      {
+        "species": "Hypno",
+        "method": "Level 26",
+        "changed": false
+      }
+    ]
+  },
+  "Hypno": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Drowzee",
+      "method": "Level 26",
+      "changed": false
+    }
+  },
+  "Krabby": {
+    "evolvesTo": [
+      {
+        "species": "Kingler",
+        "method": "Level 28",
+        "changed": false
+      }
+    ]
+  },
+  "Kingler": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Krabby",
+      "method": "Level 28",
+      "changed": false
+    }
+  },
+  "Voltorb": {
+    "evolvesTo": [
+      {
+        "species": "Electrode",
+        "method": "Level 30",
+        "changed": false
+      }
+    ]
+  },
+  "Electrode": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Voltorb",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Exeggcute": {
+    "evolvesTo": [
+      {
+        "species": "Exeggutor",
+        "method": "Leaf Stone",
+        "changed": false
+      }
+    ]
+  },
+  "Exeggutor": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Exeggcute",
+      "method": "Leaf Stone",
+      "changed": false
+    }
+  },
+  "Cubone": {
+    "evolvesTo": [
+      {
+        "species": "Marowak",
+        "method": "Level 28",
+        "changed": false
+      }
+    ]
+  },
+  "Marowak": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Cubone",
+      "method": "Level 28",
+      "changed": false
+    }
+  },
+  "Lickitung": {
+    "evolvesTo": [
+      {
+        "species": "Lickilicky",
+        "method": "Level up (knowing Rollout)",
+        "changed": false
+      }
+    ]
+  },
+  "Lickilicky": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Lickitung",
+      "method": "Level up (knowing Rollout)",
+      "changed": false
+    }
+  },
+  "Koffing": {
+    "evolvesTo": [
+      {
+        "species": "Weezing",
+        "method": "Level 35",
+        "changed": false
+      }
+    ]
+  },
+  "Weezing": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Koffing",
+      "method": "Level 35",
+      "changed": false
+    }
+  },
+  "Happiny": {
+    "evolvesTo": [
+      {
+        "species": "Chansey",
+        "method": "Level up (holding Oval Stone, during day)",
+        "changed": false
+      }
+    ]
+  },
+  "Chansey": {
+    "evolvesTo": [
+      {
+        "species": "Blissey",
+        "method": "Level up (high friendship)",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Happiny",
+      "method": "Level up (holding Oval Stone, during day)",
+      "changed": false
+    }
+  },
+  "Blissey": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Chansey",
+      "method": "Level up (high friendship)",
+      "changed": false
+    }
+  },
+  "Tangela": {
+    "evolvesTo": [
+      {
+        "species": "Tangrowth",
+        "method": "Level up (knowing Ancient Power)",
+        "changed": false
+      }
+    ]
+  },
+  "Tangrowth": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Tangela",
+      "method": "Level up (knowing Ancient Power)",
+      "changed": false
+    }
+  },
+  "Horsea": {
+    "evolvesTo": [
+      {
+        "species": "Seadra",
+        "method": "Level 32",
+        "changed": false
+      }
+    ]
+  },
+  "Goldeen": {
+    "evolvesTo": [
+      {
+        "species": "Seaking",
+        "method": "Level 33",
+        "changed": false
+      }
+    ]
+  },
+  "Seaking": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Goldeen",
+      "method": "Level 33",
+      "changed": false
+    }
+  },
+  "Staryu": {
+    "evolvesTo": [
+      {
+        "species": "Starmie",
+        "method": "Water Stone",
+        "changed": false
+      }
+    ]
+  },
+  "Starmie": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Staryu",
+      "method": "Water Stone",
+      "changed": false
+    }
+  },
+  "Mime Jr": {
+    "evolvesTo": [
+      {
+        "species": "Mr Mime",
+        "method": "Level up (knowing Mimic)",
+        "changed": false
+      }
+    ]
+  },
+  "Mr Mime": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Mime Jr",
+      "method": "Level up (knowing Mimic)",
+      "changed": false
+    }
+  },
+  "Smoochum": {
+    "evolvesTo": [
+      {
+        "species": "Jynx",
+        "method": "Level 30",
+        "changed": false
+      }
+    ]
+  },
+  "Jynx": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Smoochum",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Elekid": {
+    "evolvesTo": [
+      {
+        "species": "Electabuzz",
+        "method": "Level 30",
+        "changed": false
+      }
+    ]
+  },
+  "Magby": {
+    "evolvesTo": [
+      {
+        "species": "Magmar",
+        "method": "Level 30",
+        "changed": false
+      }
+    ]
+  },
+  "Magikarp": {
+    "evolvesTo": [
+      {
+        "species": "Gyarados",
+        "method": "Level 20",
+        "changed": false
+      }
+    ]
+  },
+  "Gyarados": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Magikarp",
+      "method": "Level 20",
+      "changed": false
+    }
+  },
+  "Eevee": {
+    "evolvesTo": [
+      {
+        "species": "Vaporeon",
+        "method": "Water Stone",
+        "changed": false
+      },
+      {
+        "species": "Jolteon",
+        "method": "Thunder Stone",
+        "changed": false
+      },
+      {
+        "species": "Flareon",
+        "method": "Fire Stone",
+        "changed": false
+      },
+      {
+        "species": "Espeon",
+        "method": "Level up (high friendship, during day)",
+        "changed": false
+      },
+      {
+        "species": "Umbreon",
+        "method": "Level up (high friendship, during night)",
+        "changed": false
+      },
+      {
+        "species": "Leafeon",
+        "method": "Level up (at Eterna Forest)",
+        "changed": false
+      },
+      {
+        "species": "Glaceon",
+        "method": "Level up (at Sinnoh Route 217)",
+        "changed": false
+      }
+    ]
+  },
+  "Vaporeon": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Eevee",
+      "method": "Water Stone",
+      "changed": false
+    }
+  },
+  "Jolteon": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Eevee",
+      "method": "Thunder Stone",
+      "changed": false
+    }
+  },
+  "Flareon": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Eevee",
+      "method": "Fire Stone",
+      "changed": false
+    }
+  },
+  "Espeon": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Eevee",
+      "method": "Level up (high friendship, during day)",
+      "changed": false
+    }
+  },
+  "Umbreon": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Eevee",
+      "method": "Level up (high friendship, during night)",
+      "changed": false
+    }
+  },
+  "Leafeon": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Eevee",
+      "method": "Level up (at Eterna Forest)",
+      "changed": false
+    }
+  },
+  "Glaceon": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Eevee",
+      "method": "Level up (at Sinnoh Route 217)",
+      "changed": false
+    }
+  },
+  "Porygon Z": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Porygon2",
+      "method": "Trade holding Dubious Disc",
+      "changed": false
+    }
+  },
+  "Omanyte": {
+    "evolvesTo": [
+      {
+        "species": "Omastar",
+        "method": "Level 40",
+        "changed": false
+      }
+    ]
+  },
+  "Omastar": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Omanyte",
+      "method": "Level 40",
+      "changed": false
+    }
+  },
+  "Kabuto": {
+    "evolvesTo": [
+      {
+        "species": "Kabutops",
+        "method": "Level 40",
+        "changed": false
+      }
+    ]
+  },
+  "Kabutops": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Kabuto",
+      "method": "Level 40",
+      "changed": false
+    }
+  },
+  "Munchlax": {
+    "evolvesTo": [
+      {
+        "species": "Snorlax",
+        "method": "Level up (high friendship)",
+        "changed": false
+      }
+    ]
+  },
+  "Snorlax": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Munchlax",
+      "method": "Level up (high friendship)",
+      "changed": false
+    }
+  },
+  "Dratini": {
+    "evolvesTo": [
+      {
+        "species": "Dragonair",
+        "method": "Level 30",
+        "changed": false
+      }
+    ]
+  },
+  "Dragonair": {
+    "evolvesTo": [
+      {
+        "species": "Dragonite",
+        "method": "Level 55",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Dratini",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Dragonite": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Dragonair",
+      "method": "Level 55",
+      "changed": false
+    }
+  },
+  "Chikorita": {
+    "evolvesTo": [
+      {
+        "species": "Bayleef",
+        "method": "Level 16",
+        "changed": false
+      }
+    ]
+  },
+  "Bayleef": {
+    "evolvesTo": [
+      {
+        "species": "Meganium",
+        "method": "Level 32",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Chikorita",
+      "method": "Level 16",
+      "changed": false
+    }
+  },
+  "Meganium": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Bayleef",
+      "method": "Level 32",
+      "changed": false
+    }
+  },
+  "Cyndaquil": {
+    "evolvesTo": [
+      {
+        "species": "Quilava",
+        "method": "Level 14",
+        "changed": false
+      }
+    ]
+  },
+  "Quilava": {
+    "evolvesTo": [
+      {
+        "species": "Typhlosion",
+        "method": "Level 36",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Cyndaquil",
+      "method": "Level 14",
+      "changed": false
+    }
+  },
+  "Typhlosion": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Quilava",
+      "method": "Level 36",
+      "changed": false
+    }
+  },
+  "Totodile": {
+    "evolvesTo": [
+      {
+        "species": "Croconaw",
+        "method": "Level 18",
+        "changed": false
+      }
+    ]
+  },
+  "Croconaw": {
+    "evolvesTo": [
+      {
+        "species": "Feraligatr",
+        "method": "Level 30",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Totodile",
+      "method": "Level 18",
+      "changed": false
+    }
+  },
+  "Feraligatr": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Croconaw",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Sentret": {
+    "evolvesTo": [
+      {
+        "species": "Furret",
+        "method": "Level 15",
+        "changed": false
+      }
+    ]
+  },
+  "Furret": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Sentret",
+      "method": "Level 15",
+      "changed": false
+    }
+  },
+  "Hoothoot": {
+    "evolvesTo": [
+      {
+        "species": "Noctowl",
+        "method": "Level 20",
+        "changed": false
+      }
+    ]
+  },
+  "Noctowl": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Hoothoot",
+      "method": "Level 20",
+      "changed": false
+    }
+  },
+  "Ledyba": {
+    "evolvesTo": [
+      {
+        "species": "Ledian",
+        "method": "Level 18",
+        "changed": false
+      }
+    ]
+  },
+  "Ledian": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Ledyba",
+      "method": "Level 18",
+      "changed": false
+    }
+  },
+  "Spinarak": {
+    "evolvesTo": [
+      {
+        "species": "Ariados",
+        "method": "Level 22",
+        "changed": false
+      }
+    ]
+  },
+  "Ariados": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Spinarak",
+      "method": "Level 22",
+      "changed": false
+    }
+  },
+  "Chinchou": {
+    "evolvesTo": [
+      {
+        "species": "Lanturn",
+        "method": "Level 27",
+        "changed": false
+      }
+    ]
+  },
+  "Lanturn": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Chinchou",
+      "method": "Level 27",
+      "changed": false
+    }
+  },
+  "Togepi": {
+    "evolvesTo": [
+      {
+        "species": "Togetic",
+        "method": "Level up (high friendship)",
+        "changed": false
+      }
+    ]
+  },
+  "Togetic": {
+    "evolvesTo": [
+      {
+        "species": "Togekiss",
+        "method": "Shiny Stone",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Togepi",
+      "method": "Level up (high friendship)",
+      "changed": false
+    }
+  },
+  "Togekiss": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Togetic",
+      "method": "Shiny Stone",
+      "changed": false
+    }
+  },
+  "Natu": {
+    "evolvesTo": [
+      {
+        "species": "Xatu",
+        "method": "Level 25",
+        "changed": false
+      }
+    ]
+  },
+  "Xatu": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Natu",
+      "method": "Level 25",
+      "changed": false
+    }
+  },
+  "Mareep": {
+    "evolvesTo": [
+      {
+        "species": "Flaaffy",
+        "method": "Level 15",
+        "changed": false
+      }
+    ]
+  },
+  "Flaaffy": {
+    "evolvesTo": [
+      {
+        "species": "Ampharos",
+        "method": "Level 30",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Mareep",
+      "method": "Level 15",
+      "changed": false
+    }
+  },
+  "Ampharos": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Flaaffy",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Azurill": {
+    "evolvesTo": [
+      {
+        "species": "Marill",
+        "method": "Level up (high friendship)",
+        "changed": false
+      }
+    ]
+  },
+  "Marill": {
+    "evolvesTo": [
+      {
+        "species": "Azumarill",
+        "method": "Level 18",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Azurill",
+      "method": "Level up (high friendship)",
+      "changed": false
+    }
+  },
+  "Azumarill": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Marill",
+      "method": "Level 18",
+      "changed": false
+    }
+  },
+  "Bonsly": {
+    "evolvesTo": [
+      {
+        "species": "Sudowoodo",
+        "method": "Level up (knowing Mimic)",
+        "changed": false
+      }
+    ]
+  },
+  "Sudowoodo": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Bonsly",
+      "method": "Level up (knowing Mimic)",
+      "changed": false
+    }
+  },
+  "Hoppip": {
+    "evolvesTo": [
+      {
+        "species": "Skiploom",
+        "method": "Level 18",
+        "changed": false
+      }
+    ]
+  },
+  "Skiploom": {
+    "evolvesTo": [
+      {
+        "species": "Jumpluff",
+        "method": "Level 27",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Hoppip",
+      "method": "Level 18",
+      "changed": false
+    }
+  },
+  "Jumpluff": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Skiploom",
+      "method": "Level 27",
+      "changed": false
+    }
+  },
+  "Aipom": {
+    "evolvesTo": [
+      {
+        "species": "Ambipom",
+        "method": "Level up (knowing Double Hit)",
+        "changed": false
+      }
+    ]
+  },
+  "Ambipom": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Aipom",
+      "method": "Level up (knowing Double Hit)",
+      "changed": false
+    }
+  },
+  "Sunkern": {
+    "evolvesTo": [
+      {
+        "species": "Sunflora",
+        "method": "Sun Stone",
+        "changed": false
+      }
+    ]
+  },
+  "Sunflora": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Sunkern",
+      "method": "Sun Stone",
+      "changed": false
+    }
+  },
+  "Yanma": {
+    "evolvesTo": [
+      {
+        "species": "Yanmega",
+        "method": "Level up (knowing Ancient Power)",
+        "changed": false
+      }
+    ]
+  },
+  "Yanmega": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Yanma",
+      "method": "Level up (knowing Ancient Power)",
+      "changed": false
+    }
+  },
+  "Wooper": {
+    "evolvesTo": [
+      {
+        "species": "Quagsire",
+        "method": "Level 20",
+        "changed": false
+      }
+    ]
+  },
+  "Quagsire": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Wooper",
+      "method": "Level 20",
+      "changed": false
+    }
+  },
+  "Murkrow": {
+    "evolvesTo": [
+      {
+        "species": "Honchkrow",
+        "method": "Dusk Stone",
+        "changed": false
+      }
+    ]
+  },
+  "Honchkrow": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Murkrow",
+      "method": "Dusk Stone",
+      "changed": false
+    }
+  },
+  "Misdreavus": {
+    "evolvesTo": [
+      {
+        "species": "Mismagius",
+        "method": "Dusk Stone",
+        "changed": false
+      }
+    ]
+  },
+  "Mismagius": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Misdreavus",
+      "method": "Dusk Stone",
+      "changed": false
+    }
+  },
+  "Wynaut": {
+    "evolvesTo": [
+      {
+        "species": "Wobbuffet",
+        "method": "Level 15",
+        "changed": false
+      }
+    ]
+  },
+  "Wobbuffet": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Wynaut",
+      "method": "Level 15",
+      "changed": false
+    }
+  },
+  "Pineco": {
+    "evolvesTo": [
+      {
+        "species": "Forretress",
+        "method": "Level 31",
+        "changed": false
+      }
+    ]
+  },
+  "Forretress": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Pineco",
+      "method": "Level 31",
+      "changed": false
+    }
+  },
+  "Gligar": {
+    "evolvesTo": [
+      {
+        "species": "Gliscor",
+        "method": "Level up (holding Razor Fang, during night)",
+        "changed": false
+      }
+    ]
+  },
+  "Gliscor": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Gligar",
+      "method": "Level up (holding Razor Fang, during night)",
+      "changed": false
+    }
+  },
+  "Snubbull": {
+    "evolvesTo": [
+      {
+        "species": "Granbull",
+        "method": "Level 23",
+        "changed": false
+      }
+    ]
+  },
+  "Granbull": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Snubbull",
+      "method": "Level 23",
+      "changed": false
+    }
+  },
+  "Sneasel": {
+    "evolvesTo": [
+      {
+        "species": "Weavile",
+        "method": "Level up (holding Razor Claw, during night)",
+        "changed": false
+      }
+    ]
+  },
+  "Weavile": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Sneasel",
+      "method": "Level up (holding Razor Claw, during night)",
+      "changed": false
+    }
+  },
+  "Teddiursa": {
+    "evolvesTo": [
+      {
+        "species": "Ursaring",
+        "method": "Level 30",
+        "changed": false
+      }
+    ]
+  },
+  "Ursaring": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Teddiursa",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Swinub": {
+    "evolvesTo": [
+      {
+        "species": "Piloswine",
+        "method": "Level 33",
+        "changed": false
+      }
+    ]
+  },
+  "Piloswine": {
+    "evolvesTo": [
+      {
+        "species": "Mamoswine",
+        "method": "Level up (knowing Ancient Power)",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Swinub",
+      "method": "Level 33",
+      "changed": false
+    }
+  },
+  "Mamoswine": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Piloswine",
+      "method": "Level up (knowing Ancient Power)",
+      "changed": false
+    }
+  },
+  "Remoraid": {
+    "evolvesTo": [
+      {
+        "species": "Octillery",
+        "method": "Level 25",
+        "changed": false
+      }
+    ]
+  },
+  "Octillery": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Remoraid",
+      "method": "Level 25",
+      "changed": false
+    }
+  },
+  "Mantyke": {
+    "evolvesTo": [
+      {
+        "species": "Mantine",
+        "method": "Level up",
+        "changed": false
+      }
+    ]
+  },
+  "Mantine": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Mantyke",
+      "method": "Level up",
+      "changed": false
+    }
+  },
+  "Houndour": {
+    "evolvesTo": [
+      {
+        "species": "Houndoom",
+        "method": "Level 24",
+        "changed": false
+      }
+    ]
+  },
+  "Houndoom": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Houndour",
+      "method": "Level 24",
+      "changed": false
+    }
+  },
+  "Phanpy": {
+    "evolvesTo": [
+      {
+        "species": "Donphan",
+        "method": "Level 25",
+        "changed": false
+      }
+    ]
+  },
+  "Donphan": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Phanpy",
+      "method": "Level 25",
+      "changed": false
+    }
+  },
+  "Larvitar": {
+    "evolvesTo": [
+      {
+        "species": "Pupitar",
+        "method": "Level 30",
+        "changed": false
+      }
+    ]
+  },
+  "Pupitar": {
+    "evolvesTo": [
+      {
+        "species": "Tyranitar",
+        "method": "Level 55",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Larvitar",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Tyranitar": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Pupitar",
+      "method": "Level 55",
+      "changed": false
+    }
+  },
+  "Treecko": {
+    "evolvesTo": [
+      {
+        "species": "Grovyle",
+        "method": "Level 16",
+        "changed": false
+      }
+    ]
+  },
+  "Grovyle": {
+    "evolvesTo": [
+      {
+        "species": "Sceptile",
+        "method": "Level 36",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Treecko",
+      "method": "Level 16",
+      "changed": false
+    }
+  },
+  "Sceptile": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Grovyle",
+      "method": "Level 36",
+      "changed": false
+    }
+  },
+  "Torchic": {
+    "evolvesTo": [
+      {
+        "species": "Combusken",
+        "method": "Level 16",
+        "changed": false
+      }
+    ]
+  },
+  "Combusken": {
+    "evolvesTo": [
+      {
+        "species": "Blaziken",
+        "method": "Level 36",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Torchic",
+      "method": "Level 16",
+      "changed": false
+    }
+  },
+  "Blaziken": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Combusken",
+      "method": "Level 36",
+      "changed": false
+    }
+  },
+  "Mudkip": {
+    "evolvesTo": [
+      {
+        "species": "Marshtomp",
+        "method": "Level 16",
+        "changed": false
+      }
+    ]
+  },
+  "Marshtomp": {
+    "evolvesTo": [
+      {
+        "species": "Swampert",
+        "method": "Level 36",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Mudkip",
+      "method": "Level 16",
+      "changed": false
+    }
+  },
+  "Swampert": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Marshtomp",
+      "method": "Level 36",
+      "changed": false
+    }
+  },
+  "Poochyena": {
+    "evolvesTo": [
+      {
+        "species": "Mightyena",
+        "method": "Level 18",
+        "changed": false
+      }
+    ]
+  },
+  "Mightyena": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Poochyena",
+      "method": "Level 18",
+      "changed": false
+    }
+  },
+  "Zigzagoon": {
+    "evolvesTo": [
+      {
+        "species": "Linoone",
+        "method": "Level 20",
+        "changed": false
+      }
+    ]
+  },
+  "Linoone": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Zigzagoon",
+      "method": "Level 20",
+      "changed": false
+    }
+  },
+  "Wurmple": {
+    "evolvesTo": [
+      {
+        "species": "Silcoon",
+        "method": "Level 7",
+        "changed": false
+      },
+      {
+        "species": "Cascoon",
+        "method": "Level 7",
+        "changed": false
+      }
+    ]
+  },
+  "Silcoon": {
+    "evolvesTo": [
+      {
+        "species": "Beautifly",
+        "method": "Level 10",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Wurmple",
+      "method": "Level 7",
+      "changed": false
+    }
+  },
+  "Beautifly": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Silcoon",
+      "method": "Level 10",
+      "changed": false
+    }
+  },
+  "Cascoon": {
+    "evolvesTo": [
+      {
+        "species": "Dustox",
+        "method": "Level 10",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Wurmple",
+      "method": "Level 7",
+      "changed": false
+    }
+  },
+  "Dustox": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Cascoon",
+      "method": "Level 10",
+      "changed": false
+    }
+  },
+  "Lotad": {
+    "evolvesTo": [
+      {
+        "species": "Lombre",
+        "method": "Level 14",
+        "changed": false
+      }
+    ]
+  },
+  "Lombre": {
+    "evolvesTo": [
+      {
+        "species": "Ludicolo",
+        "method": "Water Stone",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Lotad",
+      "method": "Level 14",
+      "changed": false
+    }
+  },
+  "Ludicolo": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Lombre",
+      "method": "Water Stone",
+      "changed": false
+    }
+  },
+  "Seedot": {
+    "evolvesTo": [
+      {
+        "species": "Nuzleaf",
+        "method": "Level 14",
+        "changed": false
+      }
+    ]
+  },
+  "Nuzleaf": {
+    "evolvesTo": [
+      {
+        "species": "Shiftry",
+        "method": "Leaf Stone",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Seedot",
+      "method": "Level 14",
+      "changed": false
+    }
+  },
+  "Shiftry": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Nuzleaf",
+      "method": "Leaf Stone",
+      "changed": false
+    }
+  },
+  "Taillow": {
+    "evolvesTo": [
+      {
+        "species": "Swellow",
+        "method": "Level 22",
+        "changed": false
+      }
+    ]
+  },
+  "Swellow": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Taillow",
+      "method": "Level 22",
+      "changed": false
+    }
+  },
+  "Wingull": {
+    "evolvesTo": [
+      {
+        "species": "Pelipper",
+        "method": "Level 25",
+        "changed": false
+      }
+    ]
+  },
+  "Pelipper": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Wingull",
+      "method": "Level 25",
+      "changed": false
+    }
+  },
+  "Ralts": {
+    "evolvesTo": [
+      {
+        "species": "Kirlia",
+        "method": "Level 20",
+        "changed": false
+      }
+    ]
+  },
+  "Kirlia": {
+    "evolvesTo": [
+      {
+        "species": "Gardevoir",
+        "method": "Level 30",
+        "changed": false
+      },
+      {
+        "species": "Gallade",
+        "method": "Dawn Stone",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Ralts",
+      "method": "Level 20",
+      "changed": false
+    }
+  },
+  "Gardevoir": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Kirlia",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Gallade": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Kirlia",
+      "method": "Dawn Stone",
+      "changed": false
+    }
+  },
+  "Surskit": {
+    "evolvesTo": [
+      {
+        "species": "Masquerain",
+        "method": "Level 22",
+        "changed": false
+      }
+    ]
+  },
+  "Masquerain": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Surskit",
+      "method": "Level 22",
+      "changed": false
+    }
+  },
+  "Shroomish": {
+    "evolvesTo": [
+      {
+        "species": "Breloom",
+        "method": "Level 23",
+        "changed": false
+      }
+    ]
+  },
+  "Breloom": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Shroomish",
+      "method": "Level 23",
+      "changed": false
+    }
+  },
+  "Slakoth": {
+    "evolvesTo": [
+      {
+        "species": "Vigoroth",
+        "method": "Level 18",
+        "changed": false
+      }
+    ]
+  },
+  "Vigoroth": {
+    "evolvesTo": [
+      {
+        "species": "Slaking",
+        "method": "Level 36",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Slakoth",
+      "method": "Level 18",
+      "changed": false
+    }
+  },
+  "Slaking": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Vigoroth",
+      "method": "Level 36",
+      "changed": false
+    }
+  },
+  "Nincada": {
+    "evolvesTo": [
+      {
+        "species": "Ninjask",
+        "method": "Level 20",
+        "changed": false
+      },
+      {
+        "species": "Shedinja",
+        "method": "Empty party slot + spare Poké Ball",
+        "changed": false
+      }
+    ]
+  },
+  "Ninjask": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Nincada",
+      "method": "Level 20",
+      "changed": false
+    }
+  },
+  "Shedinja": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Nincada",
+      "method": "Empty party slot + spare Poké Ball",
+      "changed": false
+    }
+  },
+  "Whismur": {
+    "evolvesTo": [
+      {
+        "species": "Loudred",
+        "method": "Level 20",
+        "changed": false
+      }
+    ]
+  },
+  "Loudred": {
+    "evolvesTo": [
+      {
+        "species": "Exploud",
+        "method": "Level 40",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Whismur",
+      "method": "Level 20",
+      "changed": false
+    }
+  },
+  "Exploud": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Loudred",
+      "method": "Level 40",
+      "changed": false
+    }
+  },
+  "Makuhita": {
+    "evolvesTo": [
+      {
+        "species": "Hariyama",
+        "method": "Level 24",
+        "changed": false
+      }
+    ]
+  },
+  "Hariyama": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Makuhita",
+      "method": "Level 24",
+      "changed": false
+    }
+  },
+  "Nosepass": {
+    "evolvesTo": [
+      {
+        "species": "Probopass",
+        "method": "Level up (at Mt Coronet)",
+        "changed": false
+      }
+    ]
+  },
+  "Probopass": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Nosepass",
+      "method": "Level up (at Mt Coronet)",
+      "changed": false
+    }
+  },
+  "Skitty": {
+    "evolvesTo": [
+      {
+        "species": "Delcatty",
+        "method": "Moon Stone",
+        "changed": false
+      }
+    ]
+  },
+  "Delcatty": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Skitty",
+      "method": "Moon Stone",
+      "changed": false
+    }
+  },
+  "Aron": {
+    "evolvesTo": [
+      {
+        "species": "Lairon",
+        "method": "Level 32",
+        "changed": false
+      }
+    ]
+  },
+  "Lairon": {
+    "evolvesTo": [
+      {
+        "species": "Aggron",
+        "method": "Level 42",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Aron",
+      "method": "Level 32",
+      "changed": false
+    }
+  },
+  "Aggron": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Lairon",
+      "method": "Level 42",
+      "changed": false
+    }
+  },
+  "Meditite": {
+    "evolvesTo": [
+      {
+        "species": "Medicham",
+        "method": "Level 37",
+        "changed": false
+      }
+    ]
+  },
+  "Medicham": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Meditite",
+      "method": "Level 37",
+      "changed": false
+    }
+  },
+  "Electrike": {
+    "evolvesTo": [
+      {
+        "species": "Manectric",
+        "method": "Level 26",
+        "changed": false
+      }
+    ]
+  },
+  "Manectric": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Electrike",
+      "method": "Level 26",
+      "changed": false
+    }
+  },
+  "Budew": {
+    "evolvesTo": [
+      {
+        "species": "Roselia",
+        "method": "Level up (high friendship, during day)",
+        "changed": false
+      }
+    ]
+  },
+  "Roselia": {
+    "evolvesTo": [
+      {
+        "species": "Roserade",
+        "method": "Shiny Stone",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Budew",
+      "method": "Level up (high friendship, during day)",
+      "changed": false
+    }
+  },
+  "Roserade": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Roselia",
+      "method": "Shiny Stone",
+      "changed": false
+    }
+  },
+  "Gulpin": {
+    "evolvesTo": [
+      {
+        "species": "Swalot",
+        "method": "Level 26",
+        "changed": false
+      }
+    ]
+  },
+  "Swalot": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Gulpin",
+      "method": "Level 26",
+      "changed": false
+    }
+  },
+  "Carvanha": {
+    "evolvesTo": [
+      {
+        "species": "Sharpedo",
+        "method": "Level 30",
+        "changed": false
+      }
+    ]
+  },
+  "Sharpedo": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Carvanha",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Wailmer": {
+    "evolvesTo": [
+      {
+        "species": "Wailord",
+        "method": "Level 40",
+        "changed": false
+      }
+    ]
+  },
+  "Wailord": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Wailmer",
+      "method": "Level 40",
+      "changed": false
+    }
+  },
+  "Numel": {
+    "evolvesTo": [
+      {
+        "species": "Camerupt",
+        "method": "Level 33",
+        "changed": false
+      }
+    ]
+  },
+  "Camerupt": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Numel",
+      "method": "Level 33",
+      "changed": false
+    }
+  },
+  "Spoink": {
+    "evolvesTo": [
+      {
+        "species": "Grumpig",
+        "method": "Level 32",
+        "changed": false
+      }
+    ]
+  },
+  "Grumpig": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Spoink",
+      "method": "Level 32",
+      "changed": false
+    }
+  },
+  "Trapinch": {
+    "evolvesTo": [
+      {
+        "species": "Vibrava",
+        "method": "Level 35",
+        "changed": false
+      }
+    ]
+  },
+  "Vibrava": {
+    "evolvesTo": [
+      {
+        "species": "Flygon",
+        "method": "Level 45",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Trapinch",
+      "method": "Level 35",
+      "changed": false
+    }
+  },
+  "Flygon": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Vibrava",
+      "method": "Level 45",
+      "changed": false
+    }
+  },
+  "Cacnea": {
+    "evolvesTo": [
+      {
+        "species": "Cacturne",
+        "method": "Level 32",
+        "changed": false
+      }
+    ]
+  },
+  "Cacturne": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Cacnea",
+      "method": "Level 32",
+      "changed": false
+    }
+  },
+  "Swablu": {
+    "evolvesTo": [
+      {
+        "species": "Altaria",
+        "method": "Level 35",
+        "changed": false
+      }
+    ]
+  },
+  "Altaria": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Swablu",
+      "method": "Level 35",
+      "changed": false
+    }
+  },
+  "Barboach": {
+    "evolvesTo": [
+      {
+        "species": "Whiscash",
+        "method": "Level 30",
+        "changed": false
+      }
+    ]
+  },
+  "Whiscash": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Barboach",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Corphish": {
+    "evolvesTo": [
+      {
+        "species": "Crawdaunt",
+        "method": "Level 30",
+        "changed": false
+      }
+    ]
+  },
+  "Crawdaunt": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Corphish",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Baltoy": {
+    "evolvesTo": [
+      {
+        "species": "Claydol",
+        "method": "Level 36",
+        "changed": false
+      }
+    ]
+  },
+  "Claydol": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Baltoy",
+      "method": "Level 36",
+      "changed": false
+    }
+  },
+  "Lileep": {
+    "evolvesTo": [
+      {
+        "species": "Cradily",
+        "method": "Level 40",
+        "changed": false
+      }
+    ]
+  },
+  "Cradily": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Lileep",
+      "method": "Level 40",
+      "changed": false
+    }
+  },
+  "Anorith": {
+    "evolvesTo": [
+      {
+        "species": "Armaldo",
+        "method": "Level 40",
+        "changed": false
+      }
+    ]
+  },
+  "Armaldo": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Anorith",
+      "method": "Level 40",
+      "changed": false
+    }
+  },
+  "Shuppet": {
+    "evolvesTo": [
+      {
+        "species": "Banette",
+        "method": "Level 37",
+        "changed": false
+      }
+    ]
+  },
+  "Banette": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Shuppet",
+      "method": "Level 37",
+      "changed": false
+    }
+  },
+  "Duskull": {
+    "evolvesTo": [
+      {
+        "species": "Dusclops",
+        "method": "Level 37",
+        "changed": false
+      }
+    ]
+  },
+  "Chingling": {
+    "evolvesTo": [
+      {
+        "species": "Chimecho",
+        "method": "Level up (high friendship, during night)",
+        "changed": false
+      }
+    ]
+  },
+  "Chimecho": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Chingling",
+      "method": "Level up (high friendship, during night)",
+      "changed": false
+    }
+  },
+  "Froslass": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Snorunt",
+      "method": "Dawn Stone",
+      "changed": false
+    }
+  },
+  "Spheal": {
+    "evolvesTo": [
+      {
+        "species": "Sealeo",
+        "method": "Level 32",
+        "changed": false
+      }
+    ]
+  },
+  "Sealeo": {
+    "evolvesTo": [
+      {
+        "species": "Walrein",
+        "method": "Level 44",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Spheal",
+      "method": "Level 32",
+      "changed": false
+    }
+  },
+  "Walrein": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Sealeo",
+      "method": "Level 44",
+      "changed": false
+    }
+  },
+  "Bagon": {
+    "evolvesTo": [
+      {
+        "species": "Shelgon",
+        "method": "Level 30",
+        "changed": false
+      }
+    ]
+  },
+  "Shelgon": {
+    "evolvesTo": [
+      {
+        "species": "Salamence",
+        "method": "Level 50",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Bagon",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Salamence": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Shelgon",
+      "method": "Level 50",
+      "changed": false
+    }
+  },
+  "Beldum": {
+    "evolvesTo": [
+      {
+        "species": "Metang",
+        "method": "Level 20",
+        "changed": false
+      }
+    ]
+  },
+  "Metang": {
+    "evolvesTo": [
+      {
+        "species": "Metagross",
+        "method": "Level 45",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Beldum",
+      "method": "Level 20",
+      "changed": false
+    }
+  },
+  "Metagross": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Metang",
+      "method": "Level 45",
+      "changed": false
+    }
+  },
+  "Turtwig": {
+    "evolvesTo": [
+      {
+        "species": "Grotle",
+        "method": "Level 18",
+        "changed": false
+      }
+    ]
+  },
+  "Grotle": {
+    "evolvesTo": [
+      {
+        "species": "Torterra",
+        "method": "Level 32",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Turtwig",
+      "method": "Level 18",
+      "changed": false
+    }
+  },
+  "Torterra": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Grotle",
+      "method": "Level 32",
+      "changed": false
+    }
+  },
+  "Chimchar": {
+    "evolvesTo": [
+      {
+        "species": "Monferno",
+        "method": "Level 14",
+        "changed": false
+      }
+    ]
+  },
+  "Monferno": {
+    "evolvesTo": [
+      {
+        "species": "Infernape",
+        "method": "Level 36",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Chimchar",
+      "method": "Level 14",
+      "changed": false
+    }
+  },
+  "Infernape": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Monferno",
+      "method": "Level 36",
+      "changed": false
+    }
+  },
+  "Piplup": {
+    "evolvesTo": [
+      {
+        "species": "Prinplup",
+        "method": "Level 16",
+        "changed": false
+      }
+    ]
+  },
+  "Prinplup": {
+    "evolvesTo": [
+      {
+        "species": "Empoleon",
+        "method": "Level 36",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Piplup",
+      "method": "Level 16",
+      "changed": false
+    }
+  },
+  "Empoleon": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Prinplup",
+      "method": "Level 36",
+      "changed": false
+    }
+  },
+  "Starly": {
+    "evolvesTo": [
+      {
+        "species": "Staravia",
+        "method": "Level 14",
+        "changed": false
+      }
+    ]
+  },
+  "Staravia": {
+    "evolvesTo": [
+      {
+        "species": "Staraptor",
+        "method": "Level 34",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Starly",
+      "method": "Level 14",
+      "changed": false
+    }
+  },
+  "Staraptor": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Staravia",
+      "method": "Level 34",
+      "changed": false
+    }
+  },
+  "Bidoof": {
+    "evolvesTo": [
+      {
+        "species": "Bibarel",
+        "method": "Level 15",
+        "changed": false
+      }
+    ]
+  },
+  "Bibarel": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Bidoof",
+      "method": "Level 15",
+      "changed": false
+    }
+  },
+  "Kricketot": {
+    "evolvesTo": [
+      {
+        "species": "Kricketune",
+        "method": "Level 10",
+        "changed": false
+      }
+    ]
+  },
+  "Kricketune": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Kricketot",
+      "method": "Level 10",
+      "changed": false
+    }
+  },
+  "Shinx": {
+    "evolvesTo": [
+      {
+        "species": "Luxio",
+        "method": "Level 15",
+        "changed": false
+      }
+    ]
+  },
+  "Luxio": {
+    "evolvesTo": [
+      {
+        "species": "Luxray",
+        "method": "Level 30",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Shinx",
+      "method": "Level 15",
+      "changed": false
+    }
+  },
+  "Luxray": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Luxio",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Cranidos": {
+    "evolvesTo": [
+      {
+        "species": "Rampardos",
+        "method": "Level 30",
+        "changed": false
+      }
+    ]
+  },
+  "Rampardos": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Cranidos",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Shieldon": {
+    "evolvesTo": [
+      {
+        "species": "Bastiodon",
+        "method": "Level 30",
+        "changed": false
+      }
+    ]
+  },
+  "Bastiodon": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Shieldon",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Burmy": {
+    "evolvesTo": [
+      {
+        "species": "Wormadam",
+        "method": "Level 20",
+        "changed": false
+      },
+      {
+        "species": "Mothim",
+        "method": "Level 20",
+        "changed": false
+      }
+    ]
+  },
+  "Wormadam": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Burmy",
+      "method": "Level 20",
+      "changed": false
+    }
+  },
+  "Mothim": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Burmy",
+      "method": "Level 20",
+      "changed": false
+    }
+  },
+  "Combee": {
+    "evolvesTo": [
+      {
+        "species": "Vespiquen",
+        "method": "Level 21",
+        "changed": false
+      }
+    ]
+  },
+  "Vespiquen": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Combee",
+      "method": "Level 21",
+      "changed": false
+    }
+  },
+  "Buizel": {
+    "evolvesTo": [
+      {
+        "species": "Floatzel",
+        "method": "Level 26",
+        "changed": false
+      }
+    ]
+  },
+  "Floatzel": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Buizel",
+      "method": "Level 26",
+      "changed": false
+    }
+  },
+  "Cherubi": {
+    "evolvesTo": [
+      {
+        "species": "Cherrim",
+        "method": "Level 25",
+        "changed": false
+      }
+    ]
+  },
+  "Cherrim": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Cherubi",
+      "method": "Level 25",
+      "changed": false
+    }
+  },
+  "Shellos": {
+    "evolvesTo": [
+      {
+        "species": "Gastrodon",
+        "method": "Level 30",
+        "changed": false
+      }
+    ]
+  },
+  "Gastrodon": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Shellos",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Drifloon": {
+    "evolvesTo": [
+      {
+        "species": "Drifblim",
+        "method": "Level 28",
+        "changed": false
+      }
+    ]
+  },
+  "Drifblim": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Drifloon",
+      "method": "Level 28",
+      "changed": false
+    }
+  },
+  "Buneary": {
+    "evolvesTo": [
+      {
+        "species": "Lopunny",
+        "method": "Level up (high friendship)",
+        "changed": false
+      }
+    ]
+  },
+  "Lopunny": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Buneary",
+      "method": "Level up (high friendship)",
+      "changed": false
+    }
+  },
+  "Stunky": {
+    "evolvesTo": [
+      {
+        "species": "Skuntank",
+        "method": "Level 34",
+        "changed": false
+      }
+    ]
+  },
+  "Skuntank": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Stunky",
+      "method": "Level 34",
+      "changed": false
+    }
+  },
+  "Bronzor": {
+    "evolvesTo": [
+      {
+        "species": "Bronzong",
+        "method": "Level 33",
+        "changed": false
+      }
+    ]
+  },
+  "Bronzong": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Bronzor",
+      "method": "Level 33",
+      "changed": false
+    }
+  },
+  "Gible": {
+    "evolvesTo": [
+      {
+        "species": "Gabite",
+        "method": "Level 24",
+        "changed": false
+      }
+    ]
+  },
+  "Gabite": {
+    "evolvesTo": [
+      {
+        "species": "Garchomp",
+        "method": "Level 48",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Gible",
+      "method": "Level 24",
+      "changed": false
+    }
+  },
+  "Garchomp": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Gabite",
+      "method": "Level 48",
+      "changed": false
+    }
+  },
+  "Riolu": {
+    "evolvesTo": [
+      {
+        "species": "Lucario",
+        "method": "Level up (high friendship, during day)",
+        "changed": false
+      }
+    ]
+  },
+  "Lucario": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Riolu",
+      "method": "Level up (high friendship, during day)",
+      "changed": false
+    }
+  },
+  "Hippopotas": {
+    "evolvesTo": [
+      {
+        "species": "Hippowdon",
+        "method": "Level 34",
+        "changed": false
+      }
+    ]
+  },
+  "Hippowdon": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Hippopotas",
+      "method": "Level 34",
+      "changed": false
+    }
+  },
+  "Skorupi": {
+    "evolvesTo": [
+      {
+        "species": "Drapion",
+        "method": "Level 40",
+        "changed": false
+      }
+    ]
+  },
+  "Drapion": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Skorupi",
+      "method": "Level 40",
+      "changed": false
+    }
+  },
+  "Croagunk": {
+    "evolvesTo": [
+      {
+        "species": "Toxicroak",
+        "method": "Level 37",
+        "changed": false
+      }
+    ]
+  },
+  "Toxicroak": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Croagunk",
+      "method": "Level 37",
+      "changed": false
+    }
+  },
+  "Finneon": {
+    "evolvesTo": [
+      {
+        "species": "Lumineon",
+        "method": "Level 31",
+        "changed": false
+      }
+    ]
+  },
+  "Lumineon": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Finneon",
+      "method": "Level 31",
+      "changed": false
+    }
+  },
+  "Phione": {
+    "evolvesTo": [
+      {
+        "species": "Manaphy",
+        "method": "Special condition",
+        "changed": false
+      }
+    ]
+  },
+  "Manaphy": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Phione",
+      "method": "Special condition",
+      "changed": false
+    }
+  },
+  "Snivy": {
+    "evolvesTo": [
+      {
+        "species": "Servine",
+        "method": "Level 17",
+        "changed": false
+      }
+    ]
+  },
+  "Servine": {
+    "evolvesTo": [
+      {
+        "species": "Serperior",
+        "method": "Level 36",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Snivy",
+      "method": "Level 17",
+      "changed": false
+    }
+  },
+  "Serperior": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Servine",
+      "method": "Level 36",
+      "changed": false
+    }
+  },
+  "Tepig": {
+    "evolvesTo": [
+      {
+        "species": "Pignite",
+        "method": "Level 17",
+        "changed": false
+      }
+    ]
+  },
+  "Pignite": {
+    "evolvesTo": [
+      {
+        "species": "Emboar",
+        "method": "Level 36",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Tepig",
+      "method": "Level 17",
+      "changed": false
+    }
+  },
+  "Emboar": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Pignite",
+      "method": "Level 36",
+      "changed": false
+    }
+  },
+  "Oshawott": {
+    "evolvesTo": [
+      {
+        "species": "Dewott",
+        "method": "Level 17",
+        "changed": false
+      }
+    ]
+  },
+  "Dewott": {
+    "evolvesTo": [
+      {
+        "species": "Samurott",
+        "method": "Level 36",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Oshawott",
+      "method": "Level 17",
+      "changed": false
+    }
+  },
+  "Samurott": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Dewott",
+      "method": "Level 36",
+      "changed": false
+    }
+  },
+  "Patrat": {
+    "evolvesTo": [
+      {
+        "species": "Watchog",
+        "method": "Level 20",
+        "changed": false
+      }
+    ]
+  },
+  "Watchog": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Patrat",
+      "method": "Level 20",
+      "changed": false
+    }
+  },
+  "Lillipup": {
+    "evolvesTo": [
+      {
+        "species": "Herdier",
+        "method": "Level 16",
+        "changed": false
+      }
+    ]
+  },
+  "Herdier": {
+    "evolvesTo": [
+      {
+        "species": "Stoutland",
+        "method": "Level 32",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Lillipup",
+      "method": "Level 16",
+      "changed": false
+    }
+  },
+  "Stoutland": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Herdier",
+      "method": "Level 32",
+      "changed": false
+    }
+  },
+  "Purrloin": {
+    "evolvesTo": [
+      {
+        "species": "Liepard",
+        "method": "Level 20",
+        "changed": false
+      }
+    ]
+  },
+  "Liepard": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Purrloin",
+      "method": "Level 20",
+      "changed": false
+    }
+  },
+  "Pansage": {
+    "evolvesTo": [
+      {
+        "species": "Simisage",
+        "method": "Leaf Stone",
+        "changed": false
+      }
+    ]
+  },
+  "Simisage": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Pansage",
+      "method": "Leaf Stone",
+      "changed": false
+    }
+  },
+  "Pansear": {
+    "evolvesTo": [
+      {
+        "species": "Simisear",
+        "method": "Fire Stone",
+        "changed": false
+      }
+    ]
+  },
+  "Simisear": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Pansear",
+      "method": "Fire Stone",
+      "changed": false
+    }
+  },
+  "Panpour": {
+    "evolvesTo": [
+      {
+        "species": "Simipour",
+        "method": "Water Stone",
+        "changed": false
+      }
+    ]
+  },
+  "Simipour": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Panpour",
+      "method": "Water Stone",
+      "changed": false
+    }
+  },
+  "Munna": {
+    "evolvesTo": [
+      {
+        "species": "Musharna",
+        "method": "Moon Stone",
+        "changed": false
+      }
+    ]
+  },
+  "Musharna": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Munna",
+      "method": "Moon Stone",
+      "changed": false
+    }
+  },
+  "Pidove": {
+    "evolvesTo": [
+      {
+        "species": "Tranquill",
+        "method": "Level 21",
+        "changed": false
+      }
+    ]
+  },
+  "Tranquill": {
+    "evolvesTo": [
+      {
+        "species": "Unfezant",
+        "method": "Level 32",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Pidove",
+      "method": "Level 21",
+      "changed": false
+    }
+  },
+  "Unfezant": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Tranquill",
+      "method": "Level 32",
+      "changed": false
+    }
+  },
+  "Blitzle": {
+    "evolvesTo": [
+      {
+        "species": "Zebstrika",
+        "method": "Level 27",
+        "changed": false
+      }
+    ]
+  },
+  "Zebstrika": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Blitzle",
+      "method": "Level 27",
+      "changed": false
+    }
+  },
+  "Roggenrola": {
+    "evolvesTo": [
+      {
+        "species": "Boldore",
+        "method": "Level 25",
+        "changed": false
+      }
+    ]
+  },
+  "Woobat": {
+    "evolvesTo": [
+      {
+        "species": "Swoobat",
+        "method": "Level up (high friendship)",
+        "changed": false
+      }
+    ]
+  },
+  "Swoobat": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Woobat",
+      "method": "Level up (high friendship)",
+      "changed": false
+    }
+  },
+  "Drilbur": {
+    "evolvesTo": [
+      {
+        "species": "Excadrill",
+        "method": "Level 31",
+        "changed": false
+      }
+    ]
+  },
+  "Excadrill": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Drilbur",
+      "method": "Level 31",
+      "changed": false
+    }
+  },
+  "Timburr": {
+    "evolvesTo": [
+      {
+        "species": "Gurdurr",
+        "method": "Level 25",
+        "changed": false
+      }
+    ]
+  },
+  "Tympole": {
+    "evolvesTo": [
+      {
+        "species": "Palpitoad",
+        "method": "Level 25",
+        "changed": false
+      }
+    ]
+  },
+  "Palpitoad": {
+    "evolvesTo": [
+      {
+        "species": "Seismitoad",
+        "method": "Level 36",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Tympole",
+      "method": "Level 25",
+      "changed": false
+    }
+  },
+  "Seismitoad": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Palpitoad",
+      "method": "Level 36",
+      "changed": false
+    }
+  },
+  "Sewaddle": {
+    "evolvesTo": [
+      {
+        "species": "Swadloon",
+        "method": "Level 20",
+        "changed": false
+      }
+    ]
+  },
+  "Swadloon": {
+    "evolvesTo": [
+      {
+        "species": "Leavanny",
+        "method": "Level up (high friendship)",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Sewaddle",
+      "method": "Level 20",
+      "changed": false
+    }
+  },
+  "Leavanny": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Swadloon",
+      "method": "Level up (high friendship)",
+      "changed": false
+    }
+  },
+  "Venipede": {
+    "evolvesTo": [
+      {
+        "species": "Whirlipede",
+        "method": "Level 22",
+        "changed": false
+      }
+    ]
+  },
+  "Whirlipede": {
+    "evolvesTo": [
+      {
+        "species": "Scolipede",
+        "method": "Level 30",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Venipede",
+      "method": "Level 22",
+      "changed": false
+    }
+  },
+  "Scolipede": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Whirlipede",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Cottonee": {
+    "evolvesTo": [
+      {
+        "species": "Whimsicott",
+        "method": "Sun Stone",
+        "changed": false
+      }
+    ]
+  },
+  "Whimsicott": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Cottonee",
+      "method": "Sun Stone",
+      "changed": false
+    }
+  },
+  "Petilil": {
+    "evolvesTo": [
+      {
+        "species": "Lilligant",
+        "method": "Sun Stone",
+        "changed": false
+      }
+    ]
+  },
+  "Lilligant": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Petilil",
+      "method": "Sun Stone",
+      "changed": false
+    }
+  },
+  "Sandile": {
+    "evolvesTo": [
+      {
+        "species": "Krokorok",
+        "method": "Level 29",
+        "changed": false
+      }
+    ]
+  },
+  "Krokorok": {
+    "evolvesTo": [
+      {
+        "species": "Krookodile",
+        "method": "Level 40",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Sandile",
+      "method": "Level 29",
+      "changed": false
+    }
+  },
+  "Krookodile": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Krokorok",
+      "method": "Level 40",
+      "changed": false
+    }
+  },
+  "Darumaka": {
+    "evolvesTo": [
+      {
+        "species": "Darmanitan",
+        "method": "Level 35",
+        "changed": false
+      }
+    ]
+  },
+  "Darmanitan": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Darumaka",
+      "method": "Level 35",
+      "changed": false
+    }
+  },
+  "Dwebble": {
+    "evolvesTo": [
+      {
+        "species": "Crustle",
+        "method": "Level 34",
+        "changed": false
+      }
+    ]
+  },
+  "Crustle": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Dwebble",
+      "method": "Level 34",
+      "changed": false
+    }
+  },
+  "Yamask": {
+    "evolvesTo": [
+      {
+        "species": "Cofagrigus",
+        "method": "Level 34",
+        "changed": false
+      }
+    ]
+  },
+  "Cofagrigus": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Yamask",
+      "method": "Level 34",
+      "changed": false
+    }
+  },
+  "Tirtouga": {
+    "evolvesTo": [
+      {
+        "species": "Carracosta",
+        "method": "Level 37",
+        "changed": false
+      }
+    ]
+  },
+  "Carracosta": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Tirtouga",
+      "method": "Level 37",
+      "changed": false
+    }
+  },
+  "Archen": {
+    "evolvesTo": [
+      {
+        "species": "Archeops",
+        "method": "Level 37",
+        "changed": false
+      }
+    ]
+  },
+  "Archeops": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Archen",
+      "method": "Level 37",
+      "changed": false
+    }
+  },
+  "Trubbish": {
+    "evolvesTo": [
+      {
+        "species": "Garbodor",
+        "method": "Level 36",
+        "changed": false
+      }
+    ]
+  },
+  "Garbodor": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Trubbish",
+      "method": "Level 36",
+      "changed": false
+    }
+  },
+  "Zorua": {
+    "evolvesTo": [
+      {
+        "species": "Zoroark",
+        "method": "Level 30",
+        "changed": false
+      }
+    ]
+  },
+  "Zoroark": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Zorua",
+      "method": "Level 30",
+      "changed": false
+    }
+  },
+  "Minccino": {
+    "evolvesTo": [
+      {
+        "species": "Cinccino",
+        "method": "Shiny Stone",
+        "changed": false
+      }
+    ]
+  },
+  "Cinccino": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Minccino",
+      "method": "Shiny Stone",
+      "changed": false
+    }
+  },
+  "Gothita": {
+    "evolvesTo": [
+      {
+        "species": "Gothorita",
+        "method": "Level 32",
+        "changed": false
+      }
+    ]
+  },
+  "Gothorita": {
+    "evolvesTo": [
+      {
+        "species": "Gothitelle",
+        "method": "Level 41",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Gothita",
+      "method": "Level 32",
+      "changed": false
+    }
+  },
+  "Gothitelle": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Gothorita",
+      "method": "Level 41",
+      "changed": false
+    }
+  },
+  "Solosis": {
+    "evolvesTo": [
+      {
+        "species": "Duosion",
+        "method": "Level 32",
+        "changed": false
+      }
+    ]
+  },
+  "Duosion": {
+    "evolvesTo": [
+      {
+        "species": "Reuniclus",
+        "method": "Level 41",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Solosis",
+      "method": "Level 32",
+      "changed": false
+    }
+  },
+  "Reuniclus": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Duosion",
+      "method": "Level 41",
+      "changed": false
+    }
+  },
+  "Frillish": {
+    "evolvesTo": [
+      {
+        "species": "Jellicent",
+        "method": "Level 40",
+        "changed": false
+      }
+    ]
+  },
+  "Jellicent": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Frillish",
+      "method": "Level 40",
+      "changed": false
+    }
+  },
+  "Joltik": {
+    "evolvesTo": [
+      {
+        "species": "Galvantula",
+        "method": "Level 36",
+        "changed": false
+      }
+    ]
+  },
+  "Galvantula": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Joltik",
+      "method": "Level 36",
+      "changed": false
+    }
+  },
+  "Ferroseed": {
+    "evolvesTo": [
+      {
+        "species": "Ferrothorn",
+        "method": "Level 40",
+        "changed": false
+      }
+    ]
+  },
+  "Ferrothorn": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Ferroseed",
+      "method": "Level 40",
+      "changed": false
+    }
+  },
+  "Eelektross": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Eelektrik",
+      "method": "Thunder Stone",
+      "changed": false
+    }
+  },
+  "Chandelure": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Lampent",
+      "method": "Dusk Stone",
+      "changed": false
+    }
+  },
+  "Axew": {
+    "evolvesTo": [
+      {
+        "species": "Fraxure",
+        "method": "Level 38",
+        "changed": false
+      }
+    ]
+  },
+  "Fraxure": {
+    "evolvesTo": [
+      {
+        "species": "Haxorus",
+        "method": "Level 48",
+        "changed": false
+      }
+    ],
+    "evolvesFrom": {
+      "species": "Axew",
+      "method": "Level 38",
+      "changed": false
+    }
+  },
+  "Haxorus": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Fraxure",
+      "method": "Level 48",
+      "changed": false
+    }
+  },
+  "Cubchoo": {
+    "evolvesTo": [
+      {
+        "species": "Beartic",
+        "method": "Level 37",
+        "changed": false
+      }
+    ]
+  },
+  "Beartic": {
+    "evolvesTo": [],
+    "evolvesFrom": {
+      "species": "Cubchoo",
+      "method": "Level 37",
+      "changed": false
+    }
+  }
+}

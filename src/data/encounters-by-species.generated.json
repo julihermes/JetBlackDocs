@@ -423,12 +423,19 @@
       "flags": []
     }
   ],
-  "Basculin-R": [
+  "Basculin": [
     {
       "location": "Route 1",
       "method": "Surfing",
       "levelRange": "5-15",
       "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Route 1",
+      "method": "Surfing",
+      "levelRange": "5-15",
+      "chance": "40%",
       "flags": []
     },
     {
@@ -442,191 +449,19 @@
     },
     {
       "location": "Route 1",
-      "method": "Fishing",
-      "levelRange": "35-55",
-      "chance": "60%",
-      "flags": []
-    },
-    {
-      "location": "Route 3",
-      "method": "Surfing",
-      "levelRange": "5-20",
-      "chance": "60%",
-      "flags": []
-    },
-    {
-      "location": "Route 3",
-      "method": "Surfing",
-      "levelRange": "5-20",
-      "chance": "40%",
-      "flags": [
-        "shaking grass / rippling water / dust cloud"
-      ]
-    },
-    {
-      "location": "Route 3",
-      "method": "Fishing",
-      "levelRange": "35-55",
-      "chance": "10%",
-      "flags": []
-    },
-    {
-      "location": "Striaton City",
-      "method": "Surfing",
-      "levelRange": "5-15",
-      "chance": "100%",
-      "flags": []
-    },
-    {
-      "location": "Striaton City",
-      "method": "Fishing",
-      "levelRange": "35-55",
-      "chance": "40%",
-      "flags": []
-    },
-    {
-      "location": "Wellspring Cave",
-      "method": "Surf",
-      "levelRange": "5-15",
-      "chance": "100%",
-      "flags": []
-    },
-    {
-      "location": "Wellspring Cave",
-      "method": "Fishing",
-      "levelRange": "35-55",
-      "chance": "30%",
-      "flags": []
-    },
-    {
-      "location": "Pinwheel Forest - Inside",
-      "method": "Surf",
-      "levelRange": "5-20",
-      "chance": "100%",
-      "flags": []
-    },
-    {
-      "location": "Lostlorn Forest",
-      "method": "Surfing",
-      "levelRange": "5-15",
-      "chance": "100%",
-      "flags": []
-    },
-    {
-      "location": "Lostlorn Forest",
-      "method": "Fishing",
-      "levelRange": "35-55",
-      "chance": "30%",
-      "flags": []
-    },
-    {
-      "location": "Route 6",
-      "method": "Surfing",
-      "levelRange": "10-25",
-      "chance": "100%",
-      "flags": []
-    },
-    {
-      "location": "Dragonspiral Tower - Outside:",
-      "method": "Surfing",
-      "levelRange": "15-35",
-      "chance": "100%",
-      "flags": []
-    },
-    {
-      "location": "Challengers Cave",
-      "method": "Surfing",
-      "levelRange": "35",
-      "chance": "90%",
-      "flags": []
-    },
-    {
-      "location": "Victory Road - Surfing",
-      "method": "All Floors with water",
-      "levelRange": "20-45",
-      "chance": "100%",
-      "flags": []
-    },
-    {
-      "location": "Route 11",
-      "method": "Fishing",
-      "levelRange": "35-55",
-      "chance": "30%",
-      "flags": []
-    },
-    {
-      "location": "Route 14",
-      "method": "Surf",
-      "levelRange": "25-55",
-      "chance": "30%",
-      "flags": []
-    },
-    {
-      "location": "Route 14",
-      "method": "Fishing",
-      "levelRange": "35-55",
-      "chance": "30%",
-      "flags": []
-    },
-    {
-      "location": "Abundant Shrine",
-      "method": "Surf",
-      "levelRange": "25-55",
-      "chance": "70%",
-      "flags": []
-    },
-    {
-      "location": "Abundant Shrine",
-      "method": "Fishing",
-      "levelRange": "35-55",
-      "chance": "30%",
-      "flags": []
-    },
-    {
-      "location": "Giant Chasm - Inner",
-      "method": "Surf",
-      "levelRange": "25-55",
-      "chance": "30%",
-      "flags": []
-    },
-    {
-      "location": "Giant Chasm - Inner",
-      "method": "Fishing",
-      "levelRange": "35-55",
-      "chance": "30%",
-      "flags": []
-    },
-    {
-      "location": "Village Bridge",
-      "method": "Surf",
-      "levelRange": "25-55",
-      "chance": "60%",
-      "flags": []
-    },
-    {
-      "location": "Village Bridge",
-      "method": "Fishing",
-      "levelRange": "35-55",
-      "chance": "30%",
-      "flags": []
-    }
-  ],
-  "Basculin-B": [
-    {
-      "location": "Route 1",
-      "method": "Surfing",
-      "levelRange": "5-15",
-      "chance": "40%",
-      "flags": []
-    },
-    {
-      "location": "Route 1",
       "method": "Surfing",
       "levelRange": "5-20",
       "chance": "60%",
       "flags": [
         "shaking grass / rippling water / dust cloud"
       ]
+    },
+    {
+      "location": "Route 1",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "60%",
+      "flags": []
     },
     {
       "location": "Route 1",
@@ -641,6 +476,13 @@
       "location": "Route 3",
       "method": "Surfing",
       "levelRange": "5-20",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Route 3",
+      "method": "Surfing",
+      "levelRange": "5-20",
       "chance": "40%",
       "flags": []
     },
@@ -655,12 +497,35 @@
     },
     {
       "location": "Route 3",
+      "method": "Surfing",
+      "levelRange": "5-20",
+      "chance": "40%",
+      "flags": [
+        "shaking grass / rippling water / dust cloud"
+      ]
+    },
+    {
+      "location": "Route 3",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 3",
       "method": "Fishing",
       "levelRange": "35-60",
       "chance": "10%",
       "flags": [
         "shaking grass / rippling water / dust cloud"
       ]
+    },
+    {
+      "location": "Striaton City",
+      "method": "Surfing",
+      "levelRange": "5-15",
+      "chance": "100%",
+      "flags": []
     },
     {
       "location": "Striaton City",
@@ -672,6 +537,20 @@
       ]
     },
     {
+      "location": "Striaton City",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "40%",
+      "flags": []
+    },
+    {
+      "location": "Wellspring Cave",
+      "method": "Surf",
+      "levelRange": "5-15",
+      "chance": "100%",
+      "flags": []
+    },
+    {
       "location": "Wellspring Cave",
       "method": "Surf",
       "levelRange": "5-20",
@@ -679,6 +558,13 @@
       "flags": [
         "shaking grass / rippling water / dust cloud"
       ]
+    },
+    {
+      "location": "Wellspring Cave",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
     },
     {
       "location": "Wellspring Cave",
@@ -694,9 +580,30 @@
       "method": "Surf",
       "levelRange": "5-20",
       "chance": "100%",
+      "flags": []
+    },
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Surf",
+      "levelRange": "5-20",
+      "chance": "100%",
       "flags": [
         "shaking grass / rippling water / dust cloud"
       ]
+    },
+    {
+      "location": "Pinwheel Forest - Inside",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Lostlorn Forest",
+      "method": "Surfing",
+      "levelRange": "5-15",
+      "chance": "100%",
+      "flags": []
     },
     {
       "location": "Lostlorn Forest",
@@ -710,6 +617,13 @@
     {
       "location": "Lostlorn Forest",
       "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Lostlorn Forest",
+      "method": "Fishing",
       "levelRange": "35-60",
       "chance": "30%",
       "flags": [
@@ -719,11 +633,32 @@
     {
       "location": "Route 6",
       "method": "Surfing",
+      "levelRange": "10-25",
+      "chance": "100%",
+      "flags": []
+    },
+    {
+      "location": "Route 6",
+      "method": "Surfing",
       "levelRange": "10-30",
       "chance": "100%",
       "flags": [
         "shaking grass / rippling water / dust cloud"
       ]
+    },
+    {
+      "location": "Route 6",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Dragonspiral Tower - Outside:",
+      "method": "Surfing",
+      "levelRange": "15-35",
+      "chance": "100%",
+      "flags": []
     },
     {
       "location": "Dragonspiral Tower - Outside:",
@@ -737,11 +672,25 @@
     {
       "location": "Challengers Cave",
       "method": "Surfing",
+      "levelRange": "35",
+      "chance": "90%",
+      "flags": []
+    },
+    {
+      "location": "Challengers Cave",
+      "method": "Surfing",
       "levelRange": "38",
       "chance": "90%",
       "flags": [
         "shaking grass / rippling water / dust cloud"
       ]
+    },
+    {
+      "location": "Victory Road - Surfing",
+      "method": "All Floors with water",
+      "levelRange": "20-45",
+      "chance": "100%",
+      "flags": []
     },
     {
       "location": "Victory Road - Surfing",
@@ -753,6 +702,20 @@
       ]
     },
     {
+      "location": "Victory Road - Fishing",
+      "method": "All Floors with water",
+      "levelRange": "35-55",
+      "chance": "10%",
+      "flags": []
+    },
+    {
+      "location": "Route 11",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
       "location": "Route 11",
       "method": "Fishing",
       "levelRange": "35-70",
@@ -760,6 +723,20 @@
       "flags": [
         "shaking grass / rippling water / dust cloud"
       ]
+    },
+    {
+      "location": "Route 14",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Route 14",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
     },
     {
       "location": "Route 14",
@@ -773,11 +750,32 @@
     {
       "location": "Abundant Shrine",
       "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "70%",
+      "flags": []
+    },
+    {
+      "location": "Abundant Shrine",
+      "method": "Surf",
       "levelRange": "25-60",
       "chance": "30%",
       "flags": [
         "shaking grass / rippling water / dust cloud"
       ]
+    },
+    {
+      "location": "Abundant Shrine",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "30%",
+      "flags": []
     },
     {
       "location": "Giant Chasm - Inner",
@@ -791,11 +789,32 @@
     {
       "location": "Giant Chasm - Inner",
       "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
+    },
+    {
+      "location": "Giant Chasm - Inner",
+      "method": "Fishing",
       "levelRange": "35-60",
       "chance": "30%",
       "flags": [
         "shaking grass / rippling water / dust cloud"
       ]
+    },
+    {
+      "location": "Village Bridge",
+      "method": "Surf",
+      "levelRange": "25-55",
+      "chance": "60%",
+      "flags": []
+    },
+    {
+      "location": "Village Bridge",
+      "method": "Fishing",
+      "levelRange": "35-55",
+      "chance": "30%",
+      "flags": []
     },
     {
       "location": "Village Bridge",
@@ -1981,29 +2000,6 @@
       "flags": []
     }
   ],
-  "Basculin": [
-    {
-      "location": "Pinwheel Forest - Inside",
-      "method": "Fishing",
-      "levelRange": "35-55",
-      "chance": "30%",
-      "flags": []
-    },
-    {
-      "location": "Route 6",
-      "method": "Fishing",
-      "levelRange": "35-55",
-      "chance": "30%",
-      "flags": []
-    },
-    {
-      "location": "Victory Road - Fishing",
-      "method": "All Floors with water",
-      "levelRange": "35-55",
-      "chance": "10%",
-      "flags": []
-    }
-  ],
   "Barboach": [
     {
       "location": "Pinwheel Forest - Inside",
@@ -2798,16 +2794,14 @@
       "flags": []
     }
   ],
-  "Unown-A": [
+  "Unown": [
     {
       "location": "Relic Castle",
       "method": "Room 1",
       "levelRange": "52",
       "chance": "20%",
       "flags": []
-    }
-  ],
-  "Unown-Z": [
+    },
     {
       "location": "Relic Castle",
       "method": "Room 2",

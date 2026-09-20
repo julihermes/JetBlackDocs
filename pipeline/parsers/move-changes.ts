@@ -78,6 +78,28 @@ export function parseMoveChanges(file: SourceFile): MoveChangesData {
   });
   flush();
 
+  // "[Elemental Hyper Beams]" is a single freeform block covering three
+  // separate moves (Frenzy Plant/Blast Burn/Hydro Cannon) instead of the
+  // usual one-move-per-block format, so it doesn't fit parseFieldBlock's
+  // structured field parsing — expand it into three ChangedMove entries here.
+  const groupIdx = changed.findIndex((m) => m.name === "Elemental Hyper Beams");
+  if (groupIdx !== -1) {
+    const group = changed[groupIdx];
+    const expanded = group.notes
+      .map((line) => /^-(.+?),\s*\w+:\s*(.+)$/.exec(line))
+      .filter((m): m is RegExpExecArray => m !== null)
+      .map(([, name, effect]) => ({
+        name: name.trim(),
+        changes: [
+          { field: "Power", to: "200" },
+          { field: "PP", to: "1" },
+        ],
+        notes: [effect.trim()],
+      }));
+    assertParse(expanded.length === 3, SOURCE_LABEL, 1, "", `expected 3 moves in "Elemental Hyper Beams", found ${expanded.length}`);
+    changed.splice(groupIdx, 1, ...expanded);
+  }
+
   assertParse(changed.length > 10, SOURCE_LABEL, 1, "", `expected many changed moves, found ${changed.length}`);
 
   // --- Part 2: new moves list ("Name[vX.X]** - Replaces OldMove") ---

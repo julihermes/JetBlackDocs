@@ -2,6 +2,11 @@ export function isBlank(line: string): boolean {
   return line.trim().length === 0;
 }
 
+/** Alphanumeric-only, lowercased key — for matching a name across spelling variants (spacing/hyphenation) that show up inconsistently in the hack's own docs (e.g. "PoisonPowder" / "Poisonpowder" / "Poison Powder" all refer to the same move). */
+export function alnumKey(s: string): string {
+  return s.toLowerCase().replace(/[^a-z0-9]/g, "");
+}
+
 export function isDashLine(line: string): boolean {
   return /^-{2,}\s*$/.test(line.trim());
 }

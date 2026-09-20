@@ -4,7 +4,9 @@ import { meaningfulLines, splitIntoBlocks } from "../lib/text.ts";
 import type { LegendaryEntry } from "../types.ts";
 
 const SOURCE_LABEL = "Legendary and Mythical locations";
-const HEADER_RE = /^#(\d+)\s+(.+?)\s*\(Lvl\.?\s*(\d+)\)\*{0,2}\s*$/;
+// The level is usually given ("#494 Victini (Lvl 70)") but Phione and Manaphy
+// (obtained as an egg, not caught at a fixed level) omit it entirely.
+const HEADER_RE = /^#(\d+)\s+(.+?)\s*(?:\(Lvl\.?\s*(\d+)\))?\*{0,2}\s*$/;
 const POST_GAME_MARKER = /^-{2,}Post-Game-{2,}$/;
 
 export function parseLegendaries(file: SourceFile): LegendaryEntry[] {
@@ -32,7 +34,7 @@ export function parseLegendaries(file: SourceFile): LegendaryEntry[] {
     return {
       dexNumber: Number(dexStr),
       name: name.trim(),
-      level: Number(levelStr),
+      level: levelStr ? Number(levelStr) : null,
       section,
       location: locationLine.text.trim().replace(/\*+$/, ""),
       notes: rest.map((l) => l.text.trim()),
