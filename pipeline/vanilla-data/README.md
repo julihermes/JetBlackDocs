@@ -260,3 +260,56 @@ with open("pipeline/vanilla-data/trainer-class-icons.json", "w") as f:
     json.dump(result, f, indent=2, ensure_ascii=False)
 EOF
 ```
+
+`tm-compatibility.json` maps National Dex number → the TMs and HMs that species
+can learn in vanilla Pokémon Black, as `{ "tm": "TM83", "move": "Work Up" }`
+entries. The hack's own docs only mention machines it *adds* to a species
+("Can learn TM83 Work Up via TM"), so without this the site's "Compatible TMs"
+panel listed one or two entries per species instead of the real list — see
+`attachTmCompatibility` in `pipeline/vanilla-data.ts` for the merge (a hack
+addition is renumbered from this file when its move name is a Gen 5 machine,
+because the doc's hand-written TM numbers are occasionally wrong).
+
+Machine → move assignment is version-group specific, so both the item lookup
+and the per-species filter are pinned to `black-white`.
+
+To regenerate:
+
+```bash
+python3 - <<'EOF'
+import json, urllib.request, time
+
+HEADERS = {"User-Agent": "Mozilla/5.0 (jetblack-docs data pipeline)"}
+VG = "black-white"
+
+
+def get(url):
+    req = urllib.request.Request(url, headers=HEADERS)
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return json.load(r)
+
+
+move_to_tm = {}
+for name in [f"tm{i:02d}" for i in range(1, 96)] + [f"hm{i:02d}" for i in range(1, 7)]:
+    item = get(f"https://pokeapi.co/api/v2/item/{name}")
+    entry = next((m for m in item["machines"] if m["version_group"]["name"] == VG), None)
+    if entry:
+        move_to_tm[get(entry["machine"]["url"])["move"]["name"]] = name.upper()
+    time.sleep(0.02)
+
+result = {}
+for dex in range(1, 650):
+    mon = get(f"https://pokeapi.co/api/v2/pokemon/{dex}")
+    entries = [
+        {"tm": move_to_tm[m["move"]["name"]], "move": " ".join(w.capitalize() for w in m["move"]["name"].split("-"))}
+        for m in mon["moves"]
+        if m["move"]["name"] in move_to_tm
+        and any(d["version_group"]["name"] == VG and d["move_learn_method"]["name"] == "machine" for d in m["version_group_details"])
+    ]
+    result[str(dex)] = sorted(entries, key=lambda e: e["tm"])
+    time.sleep(0.02)
+
+with open("pipeline/vanilla-data/tm-compatibility.json", "w") as f:
+    json.dump(result, f, indent=0)
+EOF
+```

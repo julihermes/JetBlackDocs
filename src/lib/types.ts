@@ -19,6 +19,7 @@ export type {
   LocationEncounters,
   StatBlock,
   LearnsetMove,
+  TmEntry,
   PokemonEntry,
   FeatureBullet,
   BonusTrainer,

@@ -11,7 +11,7 @@ import { parseWildEncounters } from "./parsers/wild-encounters.ts";
 import { parseStatsAndLearnsets } from "./parsers/stats-learnsets.ts";
 import { parseTrainerRosters } from "./parsers/trainer-rosters.ts";
 import { buildEncountersBySpecies, buildTrainersBySpecies, buildLearnedByMove } from "./indices.ts";
-import { attachTypes, attachSpeciesInfo, buildEvolutionLookup, buildMoveList } from "./vanilla-data.ts";
+import { attachTypes, attachSpeciesInfo, buildTmCompatibility, buildEvolutionLookup, buildMoveList } from "./vanilla-data.ts";
 import { computeObtainableSpecies } from "./obtainability.ts";
 import { alnumKey } from "./lib/text.ts";
 import type { BuildManifest, EvolutionLookup } from "./types.ts";
@@ -121,6 +121,12 @@ function main() {
     for (const p of pokemon) p.obtainable = obtainable.has(p.name);
     writeJson("pokemon", pokemon);
     summary.push(`obtainable species: ${obtainable.size} / ${pokemon.length}`);
+  }
+
+  if (pokemon) {
+    const tms = buildTmCompatibility(pokemon);
+    writeJson("tm-compatibility", tms);
+    summary.push(`tm-compatibility: ${Object.values(tms).reduce((n, list) => n + list.length, 0)} entries`);
   }
 
   let moves = null as ReturnType<typeof buildMoveList> | null;

@@ -8,7 +8,7 @@ import { DataError, EmptyState } from "../components/DataState";
 import { useData } from "../lib/useData";
 import { spriteUrl } from "../lib/sprites";
 import { alnumKey } from "../lib/textKey";
-import type { EvolutionEdge, EvolutionLookup, MoveEntry, PokemonEntry, SpeciesEncounterRef, SpeciesTrainerRef } from "../lib/types";
+import type { EvolutionEdge, EvolutionLookup, MoveEntry, PokemonEntry, SpeciesEncounterRef, SpeciesTrainerRef, TmEntry } from "../lib/types";
 import styles from "./PokemonDetail.module.css";
 
 function findByName(list: PokemonEntry[], name: string) {
@@ -61,6 +61,7 @@ export function PokemonDetail() {
   const trainersState = useData<Record<string, SpeciesTrainerRef[]>>(() => import("../data/trainers-by-species.generated.json"));
   const evolutionState = useData<EvolutionLookup>(() => import("../data/evolution-lookup.generated.json"));
   const movesState = useData<MoveEntry[]>(() => import("../data/moves.generated.json"));
+  const tmState = useData<Record<string, TmEntry[]>>(() => import("../data/tm-compatibility.generated.json"));
 
   const movesByKey = useMemo(() => {
     if (movesState.status !== "ready") return new Map<string, MoveEntry>();
@@ -76,6 +77,7 @@ export function PokemonDetail() {
   if (pokemonState.status === "loading") return <main className="page"><EmptyState>Loading…</EmptyState></main>;
   if (!pokemon) return <main className="page"><EmptyState>No entry named “{name}” — check the spelling.</EmptyState></main>;
 
+  const tmCompatibility = tmState.status === "ready" ? tmState.data[pokemon.name] ?? [] : [];
   const encounters = encountersState.status === "ready" ? encountersState.data[pokemon.name] ?? [] : [];
   const trainerUses = trainersState.status === "ready" ? trainersState.data[pokemon.name] ?? [] : [];
   const evoEntry = evolutionState.status === "ready" ? evolutionState.data[pokemon.name] : undefined;
@@ -228,14 +230,16 @@ export function PokemonDetail() {
                   </table>
                 </div>
 
-                {pokemon.tmCompatibility.length > 0 && (
+                {tmCompatibility.length > 0 && (
                   <div className={styles.panel}>
-                    <p className="section-title" style={{ marginTop: 0 }}>Compatible TMs</p>
-                    <div style={{ display: "flex", flexWrap: "wrap", gap: 6 }}>
-                      {pokemon.tmCompatibility.map((tm) => (
-                        <span className="tag" key={tm}>
-                          {tm}
-                        </span>
+                    <p className="section-title" style={{ marginTop: 0 }}>Compatible TMs &amp; HMs</p>
+                    <div className={styles.tmGrid}>
+                      {tmCompatibility.map((tm) => (
+                        <Link key={tm.tm} href={`/moves/${encodeURIComponent(tm.move.toLowerCase())}`} className={styles.tmCell}>
+                          <span className={styles.tmNumber}>{tm.tm}</span>
+                          <span className={styles.tmMove}>{tm.move}</span>
+                          {tm.addedByHack && <span className="tag tag--amber">added</span>}
+                        </Link>
                       ))}
                     </div>
                   </div>

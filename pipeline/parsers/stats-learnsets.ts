@@ -1,7 +1,7 @@
 import type { SourceFile } from "../lib/source.ts";
 import { assertParse } from "../lib/errors.ts";
 import { paragraphs, splitIntoBlocks, type Block } from "../lib/text.ts";
-import type { LearnsetMove, PokemonEntry, StatBlock } from "../types.ts";
+import type { LearnsetMove, PokemonEntry, StatBlock, TmEntry } from "../types.ts";
 
 const SOURCE_LABEL = "Stats and Learnsets";
 const DEX_HEADER_RE = /^#(\d+)\s+(.+)$/;
@@ -133,29 +133,39 @@ function parseStats(
   };
 }
 
-const TM_MENTION_RE = /TM(\d{1,3})\s+([A-Z][a-zA-Z'-]*(?:\s+[A-Z][a-zA-Z'-]*)*)/g;
-const TM_BOILERPLATE_RE = /(?:Now learns|Can [Ll]earn)\s+TM\d{1,3}\s+[A-Za-z' -]+?\s+via TM(?:\s*\([^)]*\))?\.?/g;
+// "Can learn TM83 Work Up via TM (RomHack)", "Now learns TM43 Flame Charge Via
+// TM", "Can learn HM03 Surf via HM (SwSh)" — the trailing "via TM"/"via HM" is
+// what bounds the move name, otherwise a capitalized "Via TM" gets swallowed
+// into it.
+const TM_MENTION_RE = /\b(TM|HM)(\d{1,3})\s+(.+?)\s+via\s+(?:TM|HM)\b/gi;
+const TM_BOILERPLATE_RE = /(?:Can\s+(?:now\s+)?learn|Now\s+learns)\s+(?:TM|HM)\d{1,3}\s+.+?\s+via\s+(?:TM|HM)(?:\s*\([^)]*\))?\.?/gi;
 
 /**
  * Pulls "Can learn TM33 Reflect via TM (RomHack)" style mentions out of the
- * freeform notes into a proper `tmCompatibility` list. A note that's nothing
- * but one or more of these mentions is dropped entirely (now redundant); one
- * that says something else too is left as-is rather than partially mangled.
+ * freeform notes — these are machines the species can't learn in vanilla, so
+ * they're merged onto the vanilla compatibility list in pipeline/vanilla-data.ts
+ * rather than kept as prose. A note that's nothing but such mentions is dropped
+ * entirely (now redundant); one that says something else too is left as-is
+ * rather than partially mangled.
  */
-function extractTmCompatibility(notes: string[]): { tmCompatibility: string[]; notes: string[] } {
-  const tmCompatibility: string[] = [];
+function extractTmAdditions(notes: string[]): { tmAdditions: TmEntry[]; notes: string[] } {
+  const tmAdditions: TmEntry[] = [];
   const remaining: string[] = [];
   for (const note of notes) {
-    const mentions = [...note.matchAll(TM_MENTION_RE)].map((m) => `TM${m[1]} ${m[2].trim()}`);
+    const mentions = [...note.matchAll(TM_MENTION_RE)].map((m) => ({
+      tm: `${m[1].toUpperCase()}${m[2].padStart(2, "0")}`,
+      move: m[3].trim(),
+      addedByHack: true,
+    }));
     if (mentions.length === 0) {
       remaining.push(note);
       continue;
     }
-    tmCompatibility.push(...mentions);
+    tmAdditions.push(...mentions);
     const strippedOfBoilerplate = note.replace(TM_BOILERPLATE_RE, "").trim();
-    if (strippedOfBoilerplate) remaining.push(note);
+    if (strippedOfBoilerplate) remaining.push(strippedOfBoilerplate);
   }
-  return { tmCompatibility, notes: remaining };
+  return { tmAdditions, notes: remaining };
 }
 
 function parseLearnset(para: Para, dexLabel: string): LearnsetMove[] {
@@ -210,7 +220,7 @@ export function parseStatsAndLearnsets(file: SourceFile): PokemonEntry[] {
 
     const noteParagraphs = paras.slice(statsEnd, learnsetIdx).map((p) => p.map((l) => l.text.trim()).join(" "));
     const allNotes = [...extraNotes, ...noteParagraphs].filter(Boolean);
-    const { tmCompatibility, notes } = extractTmCompatibility(allNotes);
+    const { tmAdditions, notes } = extractTmAdditions(allNotes);
 
     const learnset = parseLearnset(paras[learnsetIdx], dexLabel);
 
@@ -234,7 +244,7 @@ export function parseStatsAndLearnsets(file: SourceFile): PokemonEntry[] {
       statChangeNote,
       hasMultipleFormes,
       formesRaw,
-      tmCompatibility,
+      tmAdditions,
       notes,
       learnset,
     };

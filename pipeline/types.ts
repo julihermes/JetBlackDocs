@@ -159,6 +159,13 @@ export interface VanillaSpeciesInfo {
   flavorText: string; // Gen 5 (Black version) Pokédex entry
 }
 
+/** One machine a species can learn. See buildTmCompatibility in pipeline/vanilla-data.ts. */
+export interface TmEntry {
+  tm: string; // "TM83", "HM03"
+  move: string;
+  addedByHack?: boolean; // the species can't learn this machine in vanilla Black
+}
+
 export interface PokemonEntry extends VanillaSpeciesInfo {
   dexNumber: number;
   name: string;
@@ -171,7 +178,7 @@ export interface PokemonEntry extends VanillaSpeciesInfo {
   statChangeNote?: string;
   hasMultipleFormes: boolean;
   formesRaw?: string;
-  tmCompatibility: string[]; // "TM33 Reflect" style entries pulled out of notes
+  tmAdditions: TmEntry[]; // machines the hack grants on top of vanilla — the full list lives in tm-compatibility.generated.json
   notes: string[]; // remaining freeform egg-move/misc additions
   learnset: LearnsetMove[];
 }

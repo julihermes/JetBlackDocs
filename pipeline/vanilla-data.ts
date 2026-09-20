@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
 import { alnumKey } from "./lib/text.ts";
-import type { EvolutionEntry, EvolutionEdge, EvolutionLookup, MoveChangesData, MoveEntry, PokemonEntry, VanillaMoveInfo, VanillaSpeciesInfo } from "./types.ts";
+import type { EvolutionEntry, EvolutionEdge, EvolutionLookup, MoveChangesData, MoveEntry, PokemonEntry, TmEntry, VanillaMoveInfo, VanillaSpeciesInfo } from "./types.ts";
 
 interface VanillaEvolutionEdge {
   fromId: number;
@@ -50,6 +50,55 @@ export function attachSpeciesInfo(pokemon: PokemonEntry[]): PokemonEntry[] {
     if (!info) return p;
     return { ...p, ...info };
   });
+}
+
+/**
+ * Builds the TM/HM list for every species: the vanilla Gen 5 (Black/White)
+ * machine compatibility from PokeAPI, plus the extra machines JetBlack's notes
+ * grant ("Can learn TM83 Work Up via TM"), flagged so the site can mark them.
+ * The hack's doc is prose written by hand, so its TM *numbers* are occasionally
+ * wrong (it calls Grass Knot TM53, which is Energy Ball) — the move name is the
+ * reliable half, so an addition whose move exists in the Gen 5 machine list is
+ * renumbered from that list rather than trusted as written.
+ *
+ * Kept out of pokemon.generated.json and written as its own file: ~20k entries
+ * would more than double a payload every list page already pays for, while only
+ * the species detail page ever needs them.
+ */
+export function buildTmCompatibility(pokemon: PokemonEntry[]): Record<string, TmEntry[]> {
+  const path = join(process.cwd(), "pipeline", "vanilla-data", "tm-compatibility.json");
+  const byDexNumber: Record<string, TmEntry[]> = JSON.parse(readFileSync(path, "utf-8"));
+
+  // PokeAPI's slugs title-case every word ("Will-O-Wisp", "X-Scissor"), so move
+  // names are re-spelled from the move list the rest of the site links against.
+  const movesPath = join(process.cwd(), "pipeline", "vanilla-data", "moves.json");
+  const moveNames = new Map<string, string>(
+    Object.keys(JSON.parse(readFileSync(movesPath, "utf-8")) as Record<string, VanillaMoveInfo>).map((name) => [alnumKey(name), name]),
+  );
+  const spell = (move: string) => moveNames.get(alnumKey(move)) ?? move;
+
+  const canonical = new Map<string, TmEntry>();
+  for (const entries of Object.values(byDexNumber)) {
+    for (const e of entries) if (!canonical.has(alnumKey(e.move))) canonical.set(alnumKey(e.move), { ...e, move: spell(e.move) });
+  }
+
+  const result: Record<string, TmEntry[]> = {};
+  for (const p of pokemon) {
+    const vanilla = (byDexNumber[String(p.dexNumber)] ?? []).map((e) => ({ ...e, move: spell(e.move) }));
+    const seen = new Set(vanilla.map((e) => e.tm));
+    const added: TmEntry[] = [];
+    for (const raw of p.tmAdditions) {
+      const known = canonical.get(alnumKey(raw.move));
+      const entry: TmEntry = known ? { ...known, addedByHack: true } : raw;
+      // A machine the species already learns in vanilla is just the doc
+      // restating a vanilla fact — keep the vanilla entry, don't duplicate it.
+      if (seen.has(entry.tm)) continue;
+      seen.add(entry.tm);
+      added.push(entry);
+    }
+    result[p.name] = [...vanilla, ...added].sort((a, b) => a.tm.localeCompare(b.tm));
+  }
+  return result;
 }
 
 /**
