@@ -82,7 +82,22 @@ function main() {
   const changelog = run("changelog", "Changelog notes", /changenotes/i, parseChangelog, (d) => d.length);
   const wildEncounters = run("wild-encounters", "Wild Pokemon locations", /^\* Means Shaking Grass/m, parseWildEncounters, (d) => d.length);
   const pokemon = run("pokemon", "Stats and Learnsets", /^Ability:/m, parseStatsAndLearnsets, (d) => d.length, (d) => attachSpeciesInfo(attachTypes(d)));
-  const trainers = run("trainers", "Trainer Rosters", /^Unless specified, Trainer/m, parseTrainerRosters, (d) => d.length);
+  // Roster rows are recognized by their species name, so the Pokédex has to be parsed first.
+  const knownSpecies = new Set((pokemon ?? []).map((p) => p.name.toLowerCase()));
+  const unrecognizedRows: string[] = [];
+  const trainers = run(
+    "trainers",
+    "Trainer Rosters",
+    /^Unless specified, Trainer/m,
+    (file) => parseTrainerRosters(file, knownSpecies, (text, lineNo) => unrecognizedRows.push(`line ${lineNo}: ${text}`)),
+    (d) => d.length,
+  );
+
+  if (unrecognizedRows.length > 0) {
+    console.warn(`\n⚠ ${unrecognizedRows.length} trainer roster row(s) look like a Pokémon but the species didn't resolve — likely a new typo in the source doc:`);
+    for (const row of unrecognizedRows) console.warn(`    ${row}`);
+    console.warn("  Add the spelling to SPECIES_ALIASES in pipeline/lib/species.ts if so.\n");
+  }
 
   if (wildEncounters) {
     const index = buildEncountersBySpecies(wildEncounters);
@@ -116,6 +131,18 @@ function main() {
     writeJson("moves", moves);
     summary.push(`moves: ${moves.length} (${moves.filter((m) => m.changed).length} changed, ${moves.filter((m) => m.isNew).length} new)`);
   }
+
+  const trainerPortraits: Record<string, string> = JSON.parse(
+    readFileSync(join(process.cwd(), "pipeline", "vanilla-data", "trainer-portraits.json"), "utf-8"),
+  );
+  writeJson("trainer-portraits", trainerPortraits);
+  summary.push(`trainer-portraits: ${Object.keys(trainerPortraits).length} portraits`);
+
+  const trainerClassIcons: Record<string, string> = JSON.parse(
+    readFileSync(join(process.cwd(), "pipeline", "vanilla-data", "trainer-class-icons.json"), "utf-8"),
+  );
+  writeJson("trainer-class-icons", trainerClassIcons);
+  summary.push(`trainer-class-icons: ${Object.keys(trainerClassIcons).length} classes`);
 
   const manifest: BuildManifest = {
     generatedAt: new Date().toISOString(),

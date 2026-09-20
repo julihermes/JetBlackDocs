@@ -3594,7 +3594,7 @@
       "flags": []
     }
   ],
-  "Amoongus": [
+  "Amoonguss": [
     {
       "location": "Route 7",
       "method": "Normal Grass",
@@ -3604,6 +3604,20 @@
         "shaking grass / rippling water / dust cloud",
         "(4% in Winter)"
       ]
+    },
+    {
+      "location": "Route 10",
+      "method": "Normal Grass",
+      "levelRange": "39",
+      "chance": "20%",
+      "flags": []
+    },
+    {
+      "location": "Route 10",
+      "method": "Dark Grass",
+      "levelRange": "43",
+      "chance": "20%",
+      "flags": []
     }
   ],
   "Beartic": [
@@ -4643,22 +4657,6 @@
       ]
     }
   ],
-  "Amoonguss": [
-    {
-      "location": "Route 10",
-      "method": "Normal Grass",
-      "levelRange": "39",
-      "chance": "20%",
-      "flags": []
-    },
-    {
-      "location": "Route 10",
-      "method": "Dark Grass",
-      "levelRange": "43",
-      "chance": "20%",
-      "flags": []
-    }
-  ],
   "Gigalith": [
     {
       "location": "Victory Road - Trial Chamber",
@@ -5641,7 +5639,7 @@
       "flags": []
     }
   ],
-  "Kangaskhan": [
+  "Kangaskan": [
     {
       "location": "Route 15",
       "method": "Normal Grass",

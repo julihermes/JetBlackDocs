@@ -39032,7 +39032,7 @@
     "types": [
       "normal"
     ],
-    "obtainable": false,
+    "obtainable": true,
     "genus": "Parent Pokémon",
     "heightM": 2.2,
     "weightKg": 80,

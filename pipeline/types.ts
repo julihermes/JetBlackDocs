@@ -223,10 +223,13 @@ export interface TrainerPokemon {
 
 export interface TrainerBattle {
   trainerName: string;
-  condition?: string; // e.g. "If Snivy was Chosen"
+  condition?: string; // e.g. "If Snivy was Chosen", or a roster variant like "3/4 Badges"
   subArea?: string; // e.g. "NORTHERN SIDE/PLAYGROUND", "B1F" — a label within a larger location
+  battleFormat?: string; // e.g. "Double Battle", "Rotation Battle" — absent means a plain single battle
   pokemon: TrainerPokemon[];
   rewardNote?: string; // e.g. "(2 x Potion)"
+  locationNote?: string; // where to find this trainer, for post-game rematches listed under a campaign-wide header
+  notes: string[]; // freeform annotations from the roster doc that aren't any of the above
 }
 
 export interface TrainerLocation {

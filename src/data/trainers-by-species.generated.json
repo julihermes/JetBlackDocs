@@ -1,158 +1,37 @@
 {
-  "3": [
+  "Oshawott": [
     {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Infielder Alex",
-      "level": null
+      "location": "Nuvema Town",
+      "trainerName": "Pokemon Trainer Bianca",
+      "level": 5
     },
     {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Striker Tony",
-      "level": null
+      "location": "Nuvema Town",
+      "trainerName": "Cheren",
+      "level": 5
     },
     {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Linebacker Dan",
-      "level": null
+      "location": "Route 2",
+      "trainerName": "Pokemon Trainer Bianca",
+      "level": 10
     },
     {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Smasher Elena",
-      "level": null
+      "location": "Striaton City",
+      "trainerName": "Pokemon Trainer Cheren",
+      "level": 11,
+      "heldItem": "Oran Berry"
     },
     {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Hoopster Bobby",
-      "level": null
-    }
-  ],
-  "5": [
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Infielder Alex",
-      "level": null
+      "location": "Route 3",
+      "trainerName": "Pokemon Trainer Cheren",
+      "level": 16,
+      "heldItem": "Oran Berry"
     },
     {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Striker Tony",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Linebacker Dan",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Amy and Eira",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Kay and Ali",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Hawk and Dar",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Smasher Elena",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Hoopster Bobby",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Joe and Ross",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Masa and Yas",
-      "level": null
-    }
-  ],
-  "7": [
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Infielder Alex",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Striker Tony",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Linebacker Dan",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Amy and Eira",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Kay and Ali",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Hawk and Dar",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Infielder Connor",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Striker Roberto",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Linebacker Bob",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Smasher Elena",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Hoopster Bobby",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Joe and Ross",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Masa and Yas",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Smasher Aspen",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Hoopster John",
-      "level": null
+      "location": "Battle Company",
+      "trainerName": "Clerk M Wade",
+      "level": 22,
+      "heldItem": "Mystic Water"
     }
   ],
   "Snivy": [
@@ -223,41 +102,6 @@
       "trainerName": "Clerk M Wade",
       "level": 22,
       "heldItem": "Charcoal"
-    }
-  ],
-  "Oshawott": [
-    {
-      "location": "Nuvema Town",
-      "trainerName": "Pokemon Trainer Bianca",
-      "level": 5
-    },
-    {
-      "location": "Nuvema Town",
-      "trainerName": "Cheren",
-      "level": 5
-    },
-    {
-      "location": "Route 2",
-      "trainerName": "Pokemon Trainer Bianca",
-      "level": 10
-    },
-    {
-      "location": "Striaton City",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": 11,
-      "heldItem": "Oran Berry"
-    },
-    {
-      "location": "Route 3",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": 16,
-      "heldItem": "Oran Berry"
-    },
-    {
-      "location": "Battle Company",
-      "trainerName": "Clerk M Wade",
-      "level": 22,
-      "heldItem": "Mystic Water"
     }
   ],
   "Lillipup": [
@@ -408,6 +252,18 @@
       "heldItem": "Oran Berry"
     },
     {
+      "location": "Striaton City",
+      "trainerName": "Pokemon Trainer Cheren",
+      "level": 10,
+      "heldItem": "Oran Berry"
+    },
+    {
+      "location": "Striaton City",
+      "trainerName": "Pokemon Trainer Cheren",
+      "level": 10,
+      "heldItem": "Oran Berry"
+    },
+    {
       "location": "Dreamyard - Before Trio Badge",
       "trainerName": "Lass Eri",
       "level": 8
@@ -509,6 +365,16 @@
     }
   ],
   "Minccino": [
+    {
+      "location": "Route 2",
+      "trainerName": "Pokemon Trainer Bianca",
+      "level": 9
+    },
+    {
+      "location": "Route 2",
+      "trainerName": "Pokemon Trainer Bianca",
+      "level": 9
+    },
     {
       "location": "Route 2",
       "trainerName": "Pokemon Trainer Bianca",
@@ -670,6 +536,12 @@
       "heldItem": "Oran Berry"
     },
     {
+      "location": "Pinwheel Forest - Inside",
+      "trainerName": "Pokemon Ranger Miguel",
+      "level": 18,
+      "heldItem": "Pecha Berry"
+    },
+    {
       "location": "Big Stadium and Small Court",
       "trainerName": "Infielder Alex",
       "level": 25
@@ -735,6 +607,12 @@
       "trainerName": "Pokemon Trainer Cheren",
       "level": null,
       "heldItem": "Oran Berry"
+    },
+    {
+      "location": "Pinwheel Forest - Inside",
+      "trainerName": "Pokemon Ranger Irene",
+      "level": 18,
+      "heldItem": "Pecha Berry"
     },
     {
       "location": "Big Stadium and Small Court",
@@ -832,6 +710,12 @@
       "trainerName": "Pokemon Trainer Cheren",
       "level": 14,
       "heldItem": "Oran Berry"
+    },
+    {
+      "location": "Pinwheel Forest - Inside",
+      "trainerName": "Pokemon Ranger Audra",
+      "level": 18,
+      "heldItem": "Sitrus Berry"
     },
     {
       "location": "Big Stadium and Small Court",
@@ -1126,58 +1010,6 @@
       "location": "Big Stadium and Small Court",
       "trainerName": "Linebacker Dan",
       "level": 25
-    }
-  ],
-  "Double Battle": [
-    {
-      "location": "Nacrene City",
-      "trainerName": "Pokemon Trainer N",
-      "level": null
-    },
-    {
-      "location": "Pinwheel Forest - Inside",
-      "trainerName": "Team Plasma Grunt",
-      "level": null
-    },
-    {
-      "location": "Mistralton Gym",
-      "trainerName": "Leader Skyla",
-      "level": null
-    },
-    {
-      "location": "Dragonspiral Tower",
-      "trainerName": "Team Plasma Grunt",
-      "level": null
-    },
-    {
-      "location": "Dragonspiral Tower",
-      "trainerName": "Team Plasma Grunt",
-      "level": null
-    },
-    {
-      "location": "Dragonspiral Tower",
-      "trainerName": "Team Plasma Grunt",
-      "level": null
-    },
-    {
-      "location": "Dragonspiral Tower",
-      "trainerName": "Team Plasma Grunt",
-      "level": null
-    },
-    {
-      "location": "Route 9",
-      "trainerName": "Hooligans Jim and Cas",
-      "level": null
-    },
-    {
-      "location": "Route 12",
-      "trainerName": "Backers Fey and Sue",
-      "level": null
-    },
-    {
-      "location": "Post-Game",
-      "trainerName": "Leader Skyla",
-      "level": null
     }
   ],
   "Timburr": [
@@ -1475,6 +1307,12 @@
       "level": 19
     },
     {
+      "location": "Pinwheel Forest - Inside",
+      "trainerName": "Pokemon Ranger Forrest",
+      "level": 19,
+      "heldItem": "Sitrus Berry"
+    },
+    {
       "location": "Castelia City",
       "trainerName": "Dancer Mickey",
       "level": 20
@@ -1676,44 +1514,196 @@
       "heldItem": "Normal Gem"
     }
   ],
-  "Herdier Lvl 19": [
-    {
-      "location": "Pinwheel Forest - Inside",
-      "trainerName": "Pokemon Ranger Forrest",
-      "level": null,
-      "heldItem": "Sitrus Berry"
-    }
-  ],
-  "Pansage Lvl 18": [
-    {
-      "location": "Pinwheel Forest - Inside",
-      "trainerName": "Pokemon Ranger Audra",
-      "level": null,
-      "heldItem": "Sitrus Berry"
-    }
-  ],
-  "Panpour Lvl 18": [
-    {
-      "location": "Pinwheel Forest - Inside",
-      "trainerName": "Pokemon Ranger Irene",
-      "level": null,
-      "heldItem": "Pecha Berry"
-    }
-  ],
-  "Pansear Lvl 18": [
-    {
-      "location": "Pinwheel Forest - Inside",
-      "trainerName": "Pokemon Ranger Miguel",
-      "level": null,
-      "heldItem": "Pecha Berry"
-    }
-  ],
-  "Lipard": [
+  "Liepard": [
     {
       "location": "Pinwheel Forest - Inside",
       "trainerName": "Team Plasma Grunt",
       "level": 20,
       "heldItem": "Oran Berry"
+    },
+    {
+      "location": "Castelia City",
+      "trainerName": "Dancer Raymond",
+      "level": 20
+    },
+    {
+      "location": "Route 4",
+      "trainerName": "Pokemon Trainer Cheren",
+      "level": 23,
+      "heldItem": "Sharp Beak"
+    },
+    {
+      "location": "Route 4",
+      "trainerName": "Pokemon Trainer Cheren",
+      "level": 23,
+      "heldItem": "Sharp Beak"
+    },
+    {
+      "location": "Route 4",
+      "trainerName": "Pokemon Trainer Cheren",
+      "level": 23,
+      "heldItem": "Sharp Beak"
+    },
+    {
+      "location": "Big Stadium and Small Court",
+      "trainerName": "Striker Roberto",
+      "level": 42
+    },
+    {
+      "location": "Big Stadium and Small Court",
+      "trainerName": "Striker Roberto",
+      "level": 64
+    },
+    {
+      "location": "Route 5",
+      "trainerName": "Pokemon Trainer Cheren",
+      "level": 28,
+      "heldItem": "Muscle Band"
+    },
+    {
+      "location": "Route 5",
+      "trainerName": "Pokemon Trainer Cheren",
+      "level": 28,
+      "heldItem": "Muscle Band"
+    },
+    {
+      "location": "Route 5",
+      "trainerName": "Pokemon Trainer Cheren",
+      "level": 28,
+      "heldItem": "Muscle Band"
+    },
+    {
+      "location": "Route 16",
+      "trainerName": "Backpacker Lora",
+      "level": 26
+    },
+    {
+      "location": "Cold Storage - Inside",
+      "trainerName": "Team Plasma Grunt",
+      "level": 27
+    },
+    {
+      "location": "Chargestone Cave",
+      "trainerName": "Team Plasma Grunt",
+      "level": 30
+    },
+    {
+      "location": "Route 7",
+      "trainerName": "Pokemon Trainer Cheren",
+      "level": 38,
+      "heldItem": "Dark Gem"
+    },
+    {
+      "location": "Route 7",
+      "trainerName": "Pokemon Trainer Cheren",
+      "level": 38,
+      "heldItem": "Dark Gem"
+    },
+    {
+      "location": "Route 7",
+      "trainerName": "Pokemon Trainer Cheren",
+      "level": 38,
+      "heldItem": "Dark Gem"
+    },
+    {
+      "location": "Dragonspiral Tower",
+      "trainerName": "Team Plasma Grunt",
+      "level": 37
+    },
+    {
+      "location": "Dragonspiral Tower",
+      "trainerName": "Team Plasma Grunt",
+      "level": 36
+    },
+    {
+      "location": "Dragonspiral Tower",
+      "trainerName": "Team Plasma Grunt",
+      "level": 42,
+      "heldItem": "Sitrus Berry"
+    },
+    {
+      "location": "Relic Castle - Team Plasma time",
+      "trainerName": "Team Plasma Grunt",
+      "level": 38
+    },
+    {
+      "location": "Shopping Disctrict 9",
+      "trainerName": "Rich Boy Manuel",
+      "level": 41
+    },
+    {
+      "location": "Challenger's Cave",
+      "trainerName": "Veteran Julia",
+      "level": 44
+    },
+    {
+      "location": "Route 10",
+      "trainerName": "Pokemon Trainer Cheren",
+      "level": 49,
+      "heldItem": "Sitrus Berry"
+    },
+    {
+      "location": "Route 10",
+      "trainerName": "Pokemon Trainer Cheren",
+      "level": 49,
+      "heldItem": "Sitrus Berry"
+    },
+    {
+      "location": "Route 10",
+      "trainerName": "Pokemon Trainer Cheren",
+      "level": 49,
+      "heldItem": "Sitrus Berry"
+    },
+    {
+      "location": "Pokemon League",
+      "trainerName": "Elite 4 Grimsley",
+      "level": 54,
+      "heldItem": "Petaya Berry"
+    },
+    {
+      "location": "Route 13",
+      "trainerName": "Twins Emy and Lin",
+      "level": 63
+    },
+    {
+      "location": "Big Stadium",
+      "trainerName": "Backers Les and Web",
+      "level": 63
+    },
+    {
+      "location": "Stadium Additional Trainers",
+      "trainerName": "Rich Boy Anthony",
+      "level": 64
+    },
+    {
+      "location": "Black City",
+      "trainerName": "Ace Trainer Lena",
+      "level": 65,
+      "heldItem": "Focus Sash"
+    },
+    {
+      "location": "Rival Rematches",
+      "trainerName": "Pokemon Trainer Cheren",
+      "level": 71,
+      "heldItem": "Dark Gem"
+    },
+    {
+      "location": "Rival Rematches",
+      "trainerName": "Pokemon Trainer Cheren",
+      "level": 71,
+      "heldItem": "Dark Gem"
+    },
+    {
+      "location": "Rival Rematches",
+      "trainerName": "Pokemon Trainer Cheren",
+      "level": 71,
+      "heldItem": "Dark Gem"
+    },
+    {
+      "location": "Pokemon League Rematches",
+      "trainerName": "Elite Four Grimsley",
+      "level": 74,
+      "heldItem": "Normal Gem"
     }
   ],
   "Simisage": [
@@ -1916,192 +1906,6 @@
       "heldItem": "MysticWater"
     }
   ],
-  "Liepard": [
-    {
-      "location": "Castelia City",
-      "trainerName": "Dancer Raymond",
-      "level": 20
-    },
-    {
-      "location": "Route 4",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": 23,
-      "heldItem": "Sharp Beak"
-    },
-    {
-      "location": "Route 4",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": 23,
-      "heldItem": "Sharp Beak"
-    },
-    {
-      "location": "Route 4",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": 23,
-      "heldItem": "Sharp Beak"
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Striker Roberto",
-      "level": 42
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Striker Roberto",
-      "level": 64
-    },
-    {
-      "location": "Route 5",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": 28,
-      "heldItem": "Muscle Band"
-    },
-    {
-      "location": "Route 5",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": 28,
-      "heldItem": "Muscle Band"
-    },
-    {
-      "location": "Route 5",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": 28,
-      "heldItem": "Muscle Band"
-    },
-    {
-      "location": "Route 16",
-      "trainerName": "Backpacker Lora",
-      "level": 26
-    },
-    {
-      "location": "Cold Storage - Inside",
-      "trainerName": "Team Plasma Grunt",
-      "level": 27
-    },
-    {
-      "location": "Chargestone Cave",
-      "trainerName": "Team Plasma Grunt",
-      "level": 30
-    },
-    {
-      "location": "Route 7",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": 38,
-      "heldItem": "Dark Gem"
-    },
-    {
-      "location": "Route 7",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": 38,
-      "heldItem": "Dark Gem"
-    },
-    {
-      "location": "Route 7",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": 38,
-      "heldItem": "Dark Gem"
-    },
-    {
-      "location": "Dragonspiral Tower",
-      "trainerName": "Team Plasma Grunt",
-      "level": 37
-    },
-    {
-      "location": "Dragonspiral Tower",
-      "trainerName": "Team Plasma Grunt",
-      "level": 36
-    },
-    {
-      "location": "Dragonspiral Tower",
-      "trainerName": "Team Plasma Grunt",
-      "level": 42,
-      "heldItem": "Sitrus Berry"
-    },
-    {
-      "location": "Relic Castle - Team Plasma time",
-      "trainerName": "Team Plasma Grunt",
-      "level": 38
-    },
-    {
-      "location": "Shopping Disctrict 9",
-      "trainerName": "Rich Boy Manuel",
-      "level": 41
-    },
-    {
-      "location": "Challenger's Cave",
-      "trainerName": "Veteran Julia",
-      "level": 44
-    },
-    {
-      "location": "Route 10",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": 49,
-      "heldItem": "Sitrus Berry"
-    },
-    {
-      "location": "Route 10",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": 49,
-      "heldItem": "Sitrus Berry"
-    },
-    {
-      "location": "Route 10",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": 49,
-      "heldItem": "Sitrus Berry"
-    },
-    {
-      "location": "Pokemon League",
-      "trainerName": "Elite 4 Grimsley",
-      "level": 54,
-      "heldItem": "Petaya Berry"
-    },
-    {
-      "location": "Route 13",
-      "trainerName": "Twins Emy and Lin",
-      "level": 63
-    },
-    {
-      "location": "Big Stadium",
-      "trainerName": "Backers Les and Web",
-      "level": 63
-    },
-    {
-      "location": "Stadium Additional Trainers",
-      "trainerName": "Rich Boy Anthony",
-      "level": 64
-    },
-    {
-      "location": "Black City",
-      "trainerName": "Ace Trainer Lena",
-      "level": 65,
-      "heldItem": "Focus Sash"
-    },
-    {
-      "location": "Rival Rematches",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": 71,
-      "heldItem": "Dark Gem"
-    },
-    {
-      "location": "Rival Rematches",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": 71,
-      "heldItem": "Dark Gem"
-    },
-    {
-      "location": "Rival Rematches",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": 71,
-      "heldItem": "Dark Gem"
-    },
-    {
-      "location": "Pokemon League Rematches",
-      "trainerName": "Elite Four Grimsley",
-      "level": 74,
-      "heldItem": "Normal Gem"
-    }
-  ],
   "Simisear": [
     {
       "location": "Castelia City",
@@ -2210,9 +2014,24 @@
       "heldItem": "Scope Lens"
     },
     {
+      "location": "Route 4",
+      "trainerName": "Backpacker Jerome",
+      "level": 21
+    },
+    {
       "location": "Desert Resort",
       "trainerName": "Backpacker Kelsey",
       "level": 21
+    },
+    {
+      "location": "Nimbasa City - Ferris Wheel Seasonal Trainers",
+      "trainerName": "Rich Boy Martin",
+      "level": 27
+    },
+    {
+      "location": "Mistralton Gym",
+      "trainerName": "Worker Cliff",
+      "level": 33
     },
     {
       "location": "Route 8",
@@ -2367,12 +2186,14 @@
     {
       "location": "Battle Company",
       "trainerName": "Clerk M Warren",
-      "level": null
+      "level": 20,
+      "heldItem": "Muscle Band"
     },
     {
       "location": "Battle Company",
       "trainerName": "Clerk M Warren",
-      "level": null
+      "level": 20,
+      "heldItem": "Mystic Water"
     },
     {
       "location": "Route 4",
@@ -2434,7 +2255,22 @@
     {
       "location": "Route 13",
       "trainerName": "Fisherman Mick",
-      "level": null
+      "level": 63
+    },
+    {
+      "location": "Route 14",
+      "trainerName": "Fisherman Sid",
+      "level": 63
+    },
+    {
+      "location": "Route 14",
+      "trainerName": "Fisherman Sid",
+      "level": 63
+    },
+    {
+      "location": "Route 14",
+      "trainerName": "Fisherman Sid",
+      "level": 63
     },
     {
       "location": "Post-Game",
@@ -2570,7 +2406,7 @@
       "heldItem": "Wise Glasses"
     }
   ],
-  "Cincinno": [
+  "Cinccino": [
     {
       "location": "Battle Company",
       "trainerName": "Janitor Geoff",
@@ -2581,6 +2417,93 @@
       "location": "Nimbasa City - Ferris Wheel Seasonal Trainers",
       "trainerName": "Clerk F Trisha",
       "level": 28
+    },
+    {
+      "location": "Big Stadium and Small Court",
+      "trainerName": "Backers Kay and Ali",
+      "level": 40
+    },
+    {
+      "location": "Big Stadium and Small Court",
+      "trainerName": "Backers Kay and Ali",
+      "level": 63
+    },
+    {
+      "location": "Driftveil City",
+      "trainerName": "Pokemon Trainer Bianca",
+      "level": 30
+    },
+    {
+      "location": "Driftveil City",
+      "trainerName": "Pokemon Trainer Bianca",
+      "level": 30
+    },
+    {
+      "location": "Driftveil City",
+      "trainerName": "Pokemon Trainer Bianca",
+      "level": 30
+    },
+    {
+      "location": "Route 1 - After Surf",
+      "trainerName": "Pokemon Ranger Claude",
+      "level": 35
+    },
+    {
+      "location": "Route 8",
+      "trainerName": "Pokemon Trainer Bianca",
+      "level": 44,
+      "heldItem": "Silk Scarf"
+    },
+    {
+      "location": "Route 8",
+      "trainerName": "Pokemon Trainer Bianca",
+      "level": 44,
+      "heldItem": "Silk Scarf"
+    },
+    {
+      "location": "Route 8",
+      "trainerName": "Pokemon Trainer Bianca",
+      "level": 44,
+      "heldItem": "Silk Scarf"
+    },
+    {
+      "location": "Moor of Iccirus",
+      "trainerName": "Pokemon Ranger Chloris",
+      "level": 37
+    },
+    {
+      "location": "Route 12",
+      "trainerName": "Pokemon Breeder Ethel",
+      "level": 62
+    },
+    {
+      "location": "Stadium Additional Trainers",
+      "trainerName": "Maid Alica",
+      "level": 63
+    },
+    {
+      "location": "Black City",
+      "trainerName": "Rich Boy Pierce",
+      "level": 65,
+      "heldItem": "Normal Gem"
+    },
+    {
+      "location": "Rival Rematches",
+      "trainerName": "Pokemon Trainer Bianca",
+      "level": 68,
+      "heldItem": "Life Orb"
+    },
+    {
+      "location": "Rival Rematches",
+      "trainerName": "Pokemon Trainer Bianca",
+      "level": 68,
+      "heldItem": "Life Orb"
+    },
+    {
+      "location": "Rival Rematches",
+      "trainerName": "Pokemon Trainer Bianca",
+      "level": 68,
+      "heldItem": "Life Orb"
     }
   ],
   "Dwebble": [
@@ -2816,6 +2739,12 @@
       "heldItem": "Sitrus Berry"
     },
     {
+      "location": "Chargestone Cave",
+      "trainerName": "Ace Trainer Stella",
+      "level": 30,
+      "heldItem": "Sitrus Berry"
+    },
+    {
       "location": "Route 17",
       "trainerName": "Swimmer Caroline",
       "level": 36
@@ -2850,6 +2779,12 @@
       "trainerName": "Pokemon Trainer Bianca",
       "level": 32,
       "heldItem": "Sitrus Berry"
+    },
+    {
+      "location": "Chargestone Cave",
+      "trainerName": "Ace Trainer Stella",
+      "level": 30,
+      "heldItem": "Sitrus Berry"
     }
   ],
   "Pignite": [
@@ -2880,6 +2815,12 @@
       "location": "Driftveil City",
       "trainerName": "Pokemon Trainer Bianca",
       "level": 32,
+      "heldItem": "Sitrus Berry"
+    },
+    {
+      "location": "Chargestone Cave",
+      "trainerName": "Ace Trainer Stella",
+      "level": 30,
       "heldItem": "Sitrus Berry"
     },
     {
@@ -2994,27 +2935,6 @@
       "level": 35
     }
   ],
-  "You can fight them after the badge of course, but these guys are still going to be around": [
-    {
-      "location": "Route 4",
-      "trainerName": "Parasol Lady April",
-      "level": null
-    }
-  ],
-  "the level that the Pinwheel Forest trainers are.": [
-    {
-      "location": "Route 4",
-      "trainerName": "Parasol Lady April",
-      "level": null
-    }
-  ],
-  "Post Insect Badge": [
-    {
-      "location": "Route 4",
-      "trainerName": "Parasol Lady April",
-      "level": null
-    }
-  ],
   "Gurdurr": [
     {
       "location": "Route 4",
@@ -3101,23 +3021,6 @@
       "trainerName": "Ace Trainer Jesse",
       "level": 41,
       "heldItem": "Eviolite"
-    }
-  ],
-  "Tranquil": [
-    {
-      "location": "Route 4",
-      "trainerName": "Backpacker Jerome",
-      "level": 21
-    },
-    {
-      "location": "Nimbasa City - Ferris Wheel Seasonal Trainers",
-      "trainerName": "Rich Boy Martin",
-      "level": 27
-    },
-    {
-      "location": "Mistralton Gym",
-      "trainerName": "Worker Cliff",
-      "level": 33
     }
   ],
   "Elgyem": [
@@ -3388,31 +3291,14 @@
     {
       "location": "Pokemon League Rematches",
       "trainerName": "Elite Four Caitlyn",
-      "level": null,
-      "heldItem": "Rocky Helmet   Lvl 74 -Synchronize. Ally Switch, Attract, Mist Ball, Thunder Wave"
+      "level": 74,
+      "heldItem": "Rocky Helmet"
     },
     {
       "location": "Post-Game",
       "trainerName": "Ace Trainer Dheku",
       "level": 73,
       "heldItem": "Rocky Helmet"
-    }
-  ],
-  "Triple Battle": [
-    {
-      "location": "Nimbasa City",
-      "trainerName": "Team Plasma N",
-      "level": null
-    },
-    {
-      "location": "Route 7",
-      "trainerName": "Ace Trainer Elmer",
-      "level": null
-    },
-    {
-      "location": "Marvellous Bridge",
-      "trainerName": "Ace Trainer Glinda",
-      "level": null
     }
   ],
   "Vullaby": [
@@ -3450,18 +3336,6 @@
       "location": "Moor of Iccirus",
       "trainerName": "Parasol Lady Mariah",
       "level": 35
-    }
-  ],
-  "Summer:": [
-    {
-      "location": "Nimbasa City - Ferris Wheel Seasonal Trainers",
-      "trainerName": "Lass Maya",
-      "level": null
-    },
-    {
-      "location": "Nimbasa City - Ferris Wheel Seasonal Trainers",
-      "trainerName": "Dancer Dirk",
-      "level": null
     }
   ],
   "Boldore": [
@@ -3545,54 +3419,6 @@
       "location": "Twist Mountain",
       "trainerName": "Hiker Neil",
       "level": 37
-    }
-  ],
-  "Autumn:": [
-    {
-      "location": "Nimbasa City - Ferris Wheel Seasonal Trainers",
-      "trainerName": "Hiker Andy",
-      "level": null
-    },
-    {
-      "location": "Nimbasa City - Ferris Wheel Seasonal Trainers",
-      "trainerName": "Ace Trainer Austin",
-      "level": null
-    }
-  ],
-  "Winter:": [
-    {
-      "location": "Nimbasa City - Ferris Wheel Seasonal Trainers",
-      "trainerName": "Clerk F Trisha",
-      "level": null
-    },
-    {
-      "location": "Nimbasa City - Ferris Wheel Seasonal Trainers",
-      "trainerName": "Waitress Aurora",
-      "level": null
-    }
-  ],
-  "-": [
-    {
-      "location": "Nimbasa City - Ferris Wheel Seasonal Trainers",
-      "trainerName": "Preschooler Winter",
-      "level": null
-    },
-    {
-      "location": "Route 7",
-      "trainerName": "Harlequin Ian",
-      "level": null
-    },
-    {
-      "location": "Route 8",
-      "trainerName": "Pokemon Trainer Bianca",
-      "level": null
-    }
-  ],
-  "Spring:": [
-    {
-      "location": "Nimbasa City - Ferris Wheel Seasonal Trainers",
-      "trainerName": "Preschooler Winter",
-      "level": null
     }
   ],
   "Heatmor": [
@@ -3727,6 +3553,12 @@
       "location": "Route 6",
       "trainerName": "Pokemon Ranger Richard",
       "level": 28
+    },
+    {
+      "location": "Chargestone Cave",
+      "trainerName": "Ace Trainer Stella",
+      "level": 30,
+      "heldItem": "Focus Sash"
     },
     {
       "location": "Route 7",
@@ -3926,162 +3758,6 @@
       "heldItem": "Air Balloon"
     }
   ],
-  "4 Badges:": [
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Infielder Alex",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Striker Tony",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Linebacker Dan",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Smasher Elena",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Hoopster Bobby",
-      "level": null
-    }
-  ],
-  "6 Badges:": [
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Infielder Alex",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Striker Tony",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Linebacker Dan",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Amy and Eira",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Kay and Ali",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Hawk and Dar",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Smasher Elena",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Hoopster Bobby",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Joe and Ross",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Masa and Yas",
-      "level": null
-    }
-  ],
-  "8 Badges:": [
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Infielder Alex",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Striker Tony",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Linebacker Dan",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Amy and Eira",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Kay and Ali",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Hawk and Dar",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Infielder Connor",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Striker Roberto",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Linebacker Bob",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Smasher Elena",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Hoopster Bobby",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Joe and Ross",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Masa and Yas",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Smasher Aspen",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Hoopster John",
-      "level": null
-    }
-  ],
   "Stoutland": [
     {
       "location": "Big Stadium and Small Court",
@@ -4141,73 +3817,6 @@
       "trainerName": "Leader Lenora",
       "level": 67,
       "heldItem": "Eject Button"
-    }
-  ],
-  "Post-Game:": [
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Infielder Alex",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Striker Tony",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Linebacker Dan",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Hawk and Dar",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Infielder Connor",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Striker Roberto",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Linebacker Bob",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Smasher Elena",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Hoopster Bobby",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Joe and Ross",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Masa and Yas",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Smasher Aspen",
-      "level": null
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Hoopster John",
-      "level": null
     }
   ],
   "Swanna": [
@@ -4609,9 +4218,20 @@
     },
     {
       "location": "Victory Road",
+      "trainerName": "Ace Trainer Shanta",
+      "level": 50,
+      "heldItem": "Wise Glasses"
+    },
+    {
+      "location": "Victory Road",
       "trainerName": "Ace Trainer Estreth",
       "level": 50,
       "heldItem": "Light Clay"
+    },
+    {
+      "location": "Stadium Additional Trainers",
+      "trainerName": "Nursery Aide Leah",
+      "level": 65
     },
     {
       "location": "Black City",
@@ -4718,6 +4338,11 @@
       "level": 44
     },
     {
+      "location": "Route 10",
+      "trainerName": "Ace Trainer Cheyenne",
+      "level": 46
+    },
+    {
       "location": "Victory Road",
       "trainerName": "Ace Trainer Dheku",
       "level": 50,
@@ -4739,20 +4364,6 @@
       "trainerName": "Leader Cilan",
       "level": 67,
       "heldItem": "Muscle Band"
-    }
-  ],
-  "Post-Game: Movesets are the same as 7": [
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Amy and Eira",
-      "level": null
-    }
-  ],
-  "8 Badges": [
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Amy and Eira",
-      "level": null
     }
   ],
   "Rufflet": [
@@ -4954,102 +4565,6 @@
       "heldItem": "Leftovers"
     }
   ],
-  "Cinccino": [
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Kay and Ali",
-      "level": 40
-    },
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Kay and Ali",
-      "level": 63
-    },
-    {
-      "location": "Driftveil City",
-      "trainerName": "Pokemon Trainer Bianca",
-      "level": 30
-    },
-    {
-      "location": "Driftveil City",
-      "trainerName": "Pokemon Trainer Bianca",
-      "level": 30
-    },
-    {
-      "location": "Driftveil City",
-      "trainerName": "Pokemon Trainer Bianca",
-      "level": 30
-    },
-    {
-      "location": "Route 1 - After Surf",
-      "trainerName": "Pokemon Ranger Claude",
-      "level": 35
-    },
-    {
-      "location": "Route 8",
-      "trainerName": "Pokemon Trainer Bianca",
-      "level": 44,
-      "heldItem": "Silk Scarf"
-    },
-    {
-      "location": "Route 8",
-      "trainerName": "Pokemon Trainer Bianca",
-      "level": 44,
-      "heldItem": "Silk Scarf"
-    },
-    {
-      "location": "Route 8",
-      "trainerName": "Pokemon Trainer Bianca",
-      "level": 44,
-      "heldItem": "Silk Scarf"
-    },
-    {
-      "location": "Moor of Iccirus",
-      "trainerName": "Pokemon Ranger Chloris",
-      "level": 37
-    },
-    {
-      "location": "Route 12",
-      "trainerName": "Pokemon Breeder Ethel",
-      "level": 62
-    },
-    {
-      "location": "Stadium Additional Trainers",
-      "trainerName": "Maid Alica",
-      "level": 63
-    },
-    {
-      "location": "Black City",
-      "trainerName": "Rich Boy Pierce",
-      "level": 65,
-      "heldItem": "Normal Gem"
-    },
-    {
-      "location": "Rival Rematches",
-      "trainerName": "Pokemon Trainer Bianca",
-      "level": 68,
-      "heldItem": "Life Orb"
-    },
-    {
-      "location": "Rival Rematches",
-      "trainerName": "Pokemon Trainer Bianca",
-      "level": 68,
-      "heldItem": "Life Orb"
-    },
-    {
-      "location": "Rival Rematches",
-      "trainerName": "Pokemon Trainer Bianca",
-      "level": 68,
-      "heldItem": "Life Orb"
-    }
-  ],
-  "Post-game:": [
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Kay and Ali",
-      "level": null
-    }
-  ],
   "Tirtouga": [
     {
       "location": "Big Stadium and Small Court",
@@ -5099,6 +4614,11 @@
       "location": "Big Stadium and Small Court",
       "trainerName": "Backers Hawk and Dar",
       "level": 40
+    },
+    {
+      "location": "Big Stadium and Small Court",
+      "trainerName": "Backers Hawk and Dar",
+      "level": 63
     },
     {
       "location": "Relic Castle - Team Plasma time",
@@ -5173,16 +4693,9 @@
     },
     {
       "location": "Post-Game",
-      "trainerName": "Subway Boss Ingo",
+      "trainerName": "Subway Boss Emmet",
       "level": 77,
       "heldItem": "Choice Band"
-    }
-  ],
-  "Carracosta Lvl 63 -Solid Rock. Rock Slide, Crunch, Liquidation, Ice Beam": [
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Backers Hawk and Dar",
-      "level": null
     }
   ],
   "Steelix": [
@@ -5465,13 +4978,6 @@
       "trainerName": "Scientist Jacques",
       "level": 65,
       "heldItem": "Custap Berry"
-    }
-  ],
-  "Small Court -": [
-    {
-      "location": "Big Stadium and Small Court",
-      "trainerName": "Linebacker Bob",
-      "level": null
     }
   ],
   "Pidgeot": [
@@ -5818,6 +5324,30 @@
       "heldItem": "Sitrus Berry"
     },
     {
+      "location": "Black City",
+      "trainerName": "Socialite Grace",
+      "level": 65,
+      "heldItem": "Occa Berry"
+    },
+    {
+      "location": "Rival Rematches",
+      "trainerName": "Pokemon Trainer Bianca",
+      "level": 68,
+      "heldItem": "Quick Claw"
+    },
+    {
+      "location": "Rival Rematches",
+      "trainerName": "Pokemon Trainer Bianca",
+      "level": 68,
+      "heldItem": "Quick Claw"
+    },
+    {
+      "location": "Rival Rematches",
+      "trainerName": "Pokemon Trainer Bianca",
+      "level": 68,
+      "heldItem": "Quick Claw"
+    },
+    {
       "location": "Main Campaign",
       "trainerName": "Ace Trainer Sasha",
       "level": 37,
@@ -5866,7 +5396,7 @@
     },
     {
       "location": "Post-Game",
-      "trainerName": "Subway Boss Ingo",
+      "trainerName": "Subway Boss Emmet",
       "level": 77,
       "heldItem": "Life Orb"
     }
@@ -6177,52 +5707,6 @@
       "level": 39
     }
   ],
-  "-After Beating Elesa-": [
-    {
-      "location": "Route 5",
-      "trainerName": "Backpacker Michael",
-      "level": null
-    }
-  ],
-  "Multi Battle with Cheren:": [
-    {
-      "location": "Route 5",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": null
-    }
-  ],
-  "Rotation Battle": [
-    {
-      "location": "Driftveil City",
-      "trainerName": "Motorcyclist Charles",
-      "level": null
-    },
-    {
-      "location": "Chargestone Cave",
-      "trainerName": "Team Plasma N",
-      "level": null
-    },
-    {
-      "location": "Opelucid City",
-      "trainerName": "Ace Trainer Eileen",
-      "level": null
-    },
-    {
-      "location": "Opelucid City",
-      "trainerName": "Ace Trainer Lou",
-      "level": null
-    },
-    {
-      "location": "Black City",
-      "trainerName": "Roughneck Johnny",
-      "level": null
-    },
-    {
-      "location": "Black City",
-      "trainerName": "Backpacker Kiyo",
-      "level": null
-    }
-  ],
   "Krokorok": [
     {
       "location": "Driftveil City",
@@ -6276,13 +5760,6 @@
       "level": 45
     }
   ],
-  "-After Clay is defeated-": [
-    {
-      "location": "Driftveil City",
-      "trainerName": "Motorcyclist Charles",
-      "level": null
-    }
-  ],
   "Excadrill": [
     {
       "location": "Driftveil Gym",
@@ -6330,7 +5807,7 @@
     },
     {
       "location": "Post-Game",
-      "trainerName": "Subway Boss Ingo",
+      "trainerName": "Subway Boss Emmet",
       "level": 77,
       "heldItem": "Focus Sash"
     }
@@ -6345,6 +5822,11 @@
       "location": "Relic Castle - Team Plasma time",
       "trainerName": "Team Plasma Grunt",
       "level": 38
+    },
+    {
+      "location": "Opelucid Gym",
+      "trainerName": "Ace Trainer Olwen",
+      "level": 45
     },
     {
       "location": "Opelucid Gym",
@@ -6373,6 +5855,11 @@
       "trainerName": "Team Plasma Grunt",
       "level": 42,
       "heldItem": "Sitrus Berry"
+    },
+    {
+      "location": "Relic Castle - Team Plasma time",
+      "trainerName": "Team Plasma Grunt",
+      "level": 39
     },
     {
       "location": "Route 9",
@@ -6428,45 +5915,6 @@
       "location": "Dreamyard Basement",
       "trainerName": "Psychic Rudolf",
       "level": 36
-    }
-  ],
-  "Servine Lvl 30": [
-    {
-      "location": "Chargestone Cave",
-      "trainerName": "Ace Trainer Stella",
-      "level": null,
-      "heldItem": "Sitrus Berry"
-    }
-  ],
-  "Pignite Lvl 30": [
-    {
-      "location": "Chargestone Cave",
-      "trainerName": "Ace Trainer Stella",
-      "level": null,
-      "heldItem": "Sitrus Berry"
-    }
-  ],
-  "Dewott  Lvl 30": [
-    {
-      "location": "Chargestone Cave",
-      "trainerName": "Ace Trainer Stella",
-      "level": null,
-      "heldItem": "Sitrus Berry"
-    }
-  ],
-  "Emolga  Lvl 30": [
-    {
-      "location": "Chargestone Cave",
-      "trainerName": "Ace Trainer Stella",
-      "level": null,
-      "heldItem": "Focus Sash"
-    }
-  ],
-  "1F exit": [
-    {
-      "location": "Chargestone Cave",
-      "trainerName": "Ace Trainer Stella",
-      "level": null
     }
   ],
   "Axew": [
@@ -6900,33 +6348,29 @@
       "level": 64
     }
   ],
-  "-Can only be encountered and battled after catching Genesect and having it in your party-": [
+  "Porygon-Z": [
     {
       "location": "P2 Laboratory",
       "trainerName": "Scientist Dudley",
-      "level": null
-    }
-  ],
-  "Porygon": [
-    {
-      "location": "P2 Laboratory",
-      "trainerName": "Scientist Dudley",
-      "level": null
+      "level": 74,
+      "heldItem": "Choice Specs"
     },
     {
       "location": "Route 13",
       "trainerName": "Artist Zach",
-      "level": null
+      "level": 63
     },
     {
       "location": "Undella Town",
       "trainerName": "The Riches Miles",
-      "level": null
+      "level": 64,
+      "heldItem": "Choice Specs"
     },
     {
       "location": "Black City",
       "trainerName": "Backpacker Herman",
-      "level": null
+      "level": 65,
+      "heldItem": "Normal Gem"
     }
   ],
   "Klinklang": [
@@ -7100,13 +6544,6 @@
       "level": 64
     }
   ],
-  "Inside -": [
-    {
-      "location": "Twist Mountain",
-      "trainerName": "Hiker Terrell",
-      "level": null
-    }
-  ],
   "Cryogonal": [
     {
       "location": "Twist Mountain",
@@ -7139,27 +6576,12 @@
       "location": "Liberty Garden",
       "trainerName": "Team Plasma Grunt",
       "level": 68
-    }
-  ],
-  "Season Dependant:": [
+    },
     {
-      "location": "Twist Mountain",
-      "trainerName": "Doctor Hank",
-      "level": null
-    }
-  ],
-  "-Spring, Summer, Autumn only-": [
-    {
-      "location": "Twist Mountain",
-      "trainerName": "Doctor Hank",
-      "level": null
-    }
-  ],
-  "-Winter Only-": [
-    {
-      "location": "Twist Mountain",
-      "trainerName": "Worker Rich",
-      "level": null
+      "location": "Post-Game",
+      "trainerName": "Leader Brycen",
+      "level": 67,
+      "heldItem": "Power Herb"
     }
   ],
   "Seismitoad": [
@@ -7265,20 +6687,6 @@
       "heldItem": "NeverMeltIce"
     }
   ],
-  "Inside:": [
-    {
-      "location": "Dragonspiral Tower",
-      "trainerName": "Ace Trainer Jamie",
-      "level": null
-    }
-  ],
-  "6F": [
-    {
-      "location": "Dragonspiral Tower",
-      "trainerName": "Team Plasma Grunt",
-      "level": null
-    }
-  ],
   "Gothitelle": [
     {
       "location": "Dragonspiral Tower",
@@ -7324,13 +6732,6 @@
       "trainerName": "Elite Four Caitlyn",
       "level": 76,
       "heldItem": "Sitrus Berry"
-    }
-  ],
-  "Amoongus": [
-    {
-      "location": "Relic Castle - Team Plasma time",
-      "trainerName": "Team Plasma Grunt",
-      "level": 39
     }
   ],
   "Krookodile": [
@@ -7468,41 +6869,6 @@
       "heldItem": "Leftovers"
     }
   ],
-  "Spring": [
-    {
-      "location": "Moor of Iccirus",
-      "trainerName": "Pokemon Ranger Harry",
-      "level": null
-    }
-  ],
-  "Summer": [
-    {
-      "location": "Moor of Iccirus",
-      "trainerName": "Pokemon Ranger Harry",
-      "level": null
-    }
-  ],
-  "Autumn Only:": [
-    {
-      "location": "Moor of Iccirus",
-      "trainerName": "Pokemon Ranger Harry",
-      "level": null
-    }
-  ],
-  "Middle Section:": [
-    {
-      "location": "Shopping Disctrict 9",
-      "trainerName": "Waitress Flo",
-      "level": null
-    }
-  ],
-  "Upper Section:": [
-    {
-      "location": "Shopping Disctrict 9",
-      "trainerName": "Rich Boy Manuel",
-      "level": null
-    }
-  ],
   "Bisharp": [
     {
       "location": "Challenger's Cave",
@@ -7532,13 +6898,6 @@
       "trainerName": "Elite Four Grimsley",
       "level": 76,
       "heldItem": "Chople Berry"
-    }
-  ],
-  "Deino Lvl 45 - Crunch, Body Slam, Hyper Voice, Dragon Rush": [
-    {
-      "location": "Opelucid Gym",
-      "trainerName": "Ace Trainer Olwen",
-      "level": null
     }
   ],
   "Zweilous": [
@@ -7602,13 +6961,6 @@
       "heldItem": "Yache Berry"
     }
   ],
-  "Sawbuck": [
-    {
-      "location": "Route 10",
-      "trainerName": "Ace Trainer Cheyenne",
-      "level": 46
-    }
-  ],
   "Eelektross": [
     {
       "location": "Route 10",
@@ -7660,17 +7012,9 @@
     },
     {
       "location": "Post-Game",
-      "trainerName": "Subway Boss Ingo",
+      "trainerName": "Subway Boss Emmet",
       "level": 78,
       "heldItem": "Expert Belt"
-    }
-  ],
-  "Whismicott": [
-    {
-      "location": "Victory Road",
-      "trainerName": "Ace Trainer Shanta",
-      "level": 50,
-      "heldItem": "Wise Glasses"
     }
   ],
   "Reuniclus": [
@@ -7824,13 +7168,6 @@
       "heldItem": "Salac Berry"
     }
   ],
-  "-Post Game-": [
-    {
-      "location": "N's Castle",
-      "trainerName": "Team Plasma Ghetsis",
-      "level": null
-    }
-  ],
   "Weezing": [
     {
       "location": "Liberty Garden",
@@ -7900,13 +7237,6 @@
       "level": 64
     }
   ],
-  "Inside": [
-    {
-      "location": "Liberty Garden",
-      "trainerName": "Team Plasma Grunt",
-      "level": null
-    }
-  ],
   "Houndoom": [
     {
       "location": "Liberty Garden",
@@ -7943,7 +7273,7 @@
     },
     {
       "location": "Post-Game",
-      "trainerName": "Subway Boss Ingo",
+      "trainerName": "Subway Boss Emmet",
       "level": 77,
       "heldItem": "Fire Gem"
     }
@@ -8106,7 +7436,7 @@
       "heldItem": "Red Card"
     }
   ],
-  "Mr.Mime": [
+  "Mr. Mime": [
     {
       "location": "Route 11",
       "trainerName": "Backpacker Talon",
@@ -8329,27 +7659,27 @@
     {
       "location": "Village Bridge",
       "trainerName": "Scientist Shannon",
-      "level": null
+      "level": 60
     },
     {
       "location": "Village Bridge",
       "trainerName": "Scientist Shannon",
-      "level": null
+      "level": 60
     },
     {
       "location": "Village Bridge",
       "trainerName": "Scientist Shannon",
-      "level": null
+      "level": 60
     },
     {
       "location": "Village Bridge",
       "trainerName": "Scientist Shannon",
-      "level": null
+      "level": 60
     },
     {
       "location": "Village Bridge",
       "trainerName": "Scientist Shannon",
-      "level": null
+      "level": 60
     },
     {
       "location": "Royal Unova",
@@ -8359,7 +7689,8 @@
     {
       "location": "Black City",
       "trainerName": "Ace Trainer Lena",
-      "level": null
+      "level": 65,
+      "heldItem": "Eject Button"
     }
   ],
   "Ursaring": [
@@ -8632,11 +7963,16 @@
       "heldItem": "Chesto Berry"
     }
   ],
-  "Carnivine Lvl 62 -Levitate. Power Whip, Crunch, Sleep Powder,": [
+  "Carnivine": [
     {
       "location": "Route 12",
       "trainerName": "Pokemon Breeder Eustace",
-      "level": null
+      "level": 62
+    },
+    {
+      "location": "Stadium Additional Trainers",
+      "trainerName": "Pokemon Ranger Alain",
+      "level": 63
     }
   ],
   "Clefable": [
@@ -8942,12 +8278,12 @@
     {
       "location": "Route 13",
       "trainerName": "Parasol Lady Laura",
-      "level": null
+      "level": 63
     },
     {
       "location": "Royal Unova",
       "trainerName": "Ace Trainer Mariana",
-      "level": null
+      "level": 64
     }
   ],
   "Lapras": [
@@ -9192,15 +8528,21 @@
     {
       "location": "Black City",
       "trainerName": "Lady Lynette",
-      "level": null,
-      "heldItem": "Wise Glasses Lvl 65 -Chlorophyll. SolarBeam, Energy Ball, Sludge Bomb, Earth Power"
+      "level": 65,
+      "heldItem": "Wise Glasses"
     }
   ],
-  "Granbull  Lvl 63 -Intimidate. Close Combat": [
+  "Granbull": [
     {
       "location": "Route 13",
       "trainerName": "Socialite Marian",
-      "level": null
+      "level": 63
+    },
+    {
+      "location": "Black City",
+      "trainerName": "ClerkM Doug",
+      "level": 65,
+      "heldItem": "Choice Band"
     }
   ],
   "Altaria": [
@@ -9276,11 +8618,21 @@
       "heldItem": "Muscle Band"
     }
   ],
-  "Primeape   Lvl 63 -Defiant. Outrage, Close Combat, U-turn, Stone Edge": [
+  "Primeape": [
     {
       "location": "Route 13",
       "trainerName": "Black Belt Benjamin",
-      "level": null
+      "level": 63
+    },
+    {
+      "location": "Big Stadium",
+      "trainerName": "Backers Les and Web",
+      "level": 63
+    },
+    {
+      "location": "Stadium Additional Trainers",
+      "trainerName": "Black Belt Lao",
+      "level": 64
     }
   ],
   "Spiritomb": [
@@ -9350,8 +8702,8 @@
     {
       "location": "Undella Town",
       "trainerName": "Pokemon Trainer Cynthia",
-      "level": null,
-      "heldItem": "Leftovers      Lvl 76 -Marvel Scale. Scald, Recover, Ice Beam, Dragon Pulse"
+      "level": 76,
+      "heldItem": "Leftovers"
     },
     {
       "location": "Post-Game",
@@ -9388,13 +8740,6 @@
       "trainerName": "Roughneck Dave",
       "level": 65,
       "heldItem": "Rocky Helmet"
-    }
-  ],
-  "The Riches Gauntlet:": [
-    {
-      "location": "Undella Town",
-      "trainerName": "Pokemon Trainer Cynthia",
-      "level": null
     }
   ],
   "Floatzel": [
@@ -9478,7 +8823,7 @@
       "level": 66
     }
   ],
-  "Kangaskhan": [
+  "Kangaskan": [
     {
       "location": "Undella Town",
       "trainerName": "The Riches Clairdonna",
@@ -9849,25 +9194,6 @@
       "level": 63
     }
   ],
-  "BasculinB": [
-    {
-      "location": "Route 14",
-      "trainerName": "Fisherman Sid",
-      "level": 63
-    }
-  ],
-  "BasculinR": [
-    {
-      "location": "Route 14",
-      "trainerName": "Fisherman Sid",
-      "level": 63
-    },
-    {
-      "location": "Route 14",
-      "trainerName": "Fisherman Sid",
-      "level": 63
-    }
-  ],
   "Chatot": [
     {
       "location": "Route 14",
@@ -9910,7 +9236,7 @@
     },
     {
       "location": "Post-Game",
-      "trainerName": "Subway Boss Ingo",
+      "trainerName": "Subway Boss Emmet",
       "level": 77,
       "heldItem": "Salac Berry"
     }
@@ -10543,25 +9869,6 @@
       "heldItem": "Muscle Band"
     }
   ],
-  "Wednesday": [
-    {
-      "location": "Big Stadium",
-      "trainerName": "Backers Alf and Fred",
-      "level": null
-    }
-  ],
-  "Saturday:": [
-    {
-      "location": "Big Stadium",
-      "trainerName": "Backers Alf and Fred",
-      "level": null
-    },
-    {
-      "location": "Small Court",
-      "trainerName": "Backers Ai and Ciel",
-      "level": null
-    }
-  ],
   "Forretress": [
     {
       "location": "Big Stadium",
@@ -10591,37 +9898,6 @@
       "trainerName": "Backpacker Molly",
       "level": 65,
       "heldItem": "Psychic Gem"
-    }
-  ],
-  "Tuesday": [
-    {
-      "location": "Big Stadium",
-      "trainerName": "Backers Cam and Abby",
-      "level": null
-    },
-    {
-      "location": "Small Court",
-      "trainerName": "Backers Ai and Ciel",
-      "level": null
-    }
-  ],
-  "Friday:": [
-    {
-      "location": "Big Stadium",
-      "trainerName": "Backers Cam and Abby",
-      "level": null
-    }
-  ],
-  "Primeape": [
-    {
-      "location": "Big Stadium",
-      "trainerName": "Backers Les and Web",
-      "level": 63
-    },
-    {
-      "location": "Stadium Additional Trainers",
-      "trainerName": "Black Belt Lao",
-      "level": 64
     }
   ],
   "Wobbuffet": [
@@ -10672,13 +9948,6 @@
       "location": "Small Court",
       "trainerName": "Backers Ai and Ciel",
       "level": 63
-    }
-  ],
-  "Thursday": [
-    {
-      "location": "Small Court",
-      "trainerName": "Backers Ai and Ciel",
-      "level": null
     }
   ],
   "Ambipom": [
@@ -10858,13 +10127,6 @@
       "level": 63
     }
   ],
-  "Whimsicott Lvl 65 -Prankster. Substitute, Leech Seed, Giga Drain, Air Slash": [
-    {
-      "location": "Stadium Additional Trainers",
-      "trainerName": "Nursery Aide Leah",
-      "level": null
-    }
-  ],
   "Crobat": [
     {
       "location": "Stadium Additional Trainers",
@@ -10884,13 +10146,6 @@
       "location": "Stadium Additional Trainers",
       "trainerName": "Pokemon Breeder Owen",
       "level": 62
-    }
-  ],
-  "Carnivine": [
-    {
-      "location": "Stadium Additional Trainers",
-      "trainerName": "Pokemon Ranger Alain",
-      "level": 63
     }
   ],
   "Masquerain": [
@@ -11138,13 +10393,6 @@
       "heldItem": "Black Sludge"
     }
   ],
-  "Black City Resident pool:": [
-    {
-      "location": "Black City",
-      "trainerName": "Backpacker Kiyo",
-      "level": null
-    }
-  ],
   "Gallade": [
     {
       "location": "Black City",
@@ -11159,32 +10407,6 @@
       "trainerName": "Backpacker Molly",
       "level": 65,
       "heldItem": "Leftovers"
-    }
-  ],
-  "Excavalier": [
-    {
-      "location": "Black City",
-      "trainerName": "Socialite Grace",
-      "level": 65,
-      "heldItem": "Occa Berry"
-    },
-    {
-      "location": "Rival Rematches",
-      "trainerName": "Pokemon Trainer Bianca",
-      "level": 68,
-      "heldItem": "Quick Claw"
-    },
-    {
-      "location": "Rival Rematches",
-      "trainerName": "Pokemon Trainer Bianca",
-      "level": 68,
-      "heldItem": "Quick Claw"
-    },
-    {
-      "location": "Rival Rematches",
-      "trainerName": "Pokemon Trainer Bianca",
-      "level": 68,
-      "heldItem": "Quick Claw"
     }
   ],
   "Cradily": [
@@ -11217,14 +10439,6 @@
       "trainerName": "Schoolkid Silvia",
       "level": 65,
       "heldItem": "Focus Sash"
-    }
-  ],
-  "Granbull": [
-    {
-      "location": "Black City",
-      "trainerName": "ClerkM Doug",
-      "level": 65,
-      "heldItem": "Choice Band"
     }
   ],
   "Absol": [
@@ -11279,169 +10493,11 @@
       "heldItem": "Focus Sash"
     }
   ],
-  "-Snivy Chosen-": [
-    {
-      "location": "Rival Rematches",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": null
-    },
-    {
-      "location": "Rival Rematches",
-      "trainerName": "Pokemon Trainer Bianca",
-      "level": null
-    }
-  ],
-  "-Tepig Chosen-": [
-    {
-      "location": "Rival Rematches",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": null
-    },
-    {
-      "location": "Rival Rematches",
-      "trainerName": "Pokemon Trainer Bianca",
-      "level": null
-    }
-  ],
-  "-Oshawott Chosen-": [
-    {
-      "location": "Rival Rematches",
-      "trainerName": "Pokemon Trainer Cheren",
-      "level": null
-    },
-    {
-      "location": "Rival Rematches",
-      "trainerName": "Pokemon Trainer Bianca",
-      "level": null
-    }
-  ],
-  "Double Battle. (Only after beating Alder)": [
-    {
-      "location": "Rival Rematches",
-      "trainerName": "Pokemon Trainer Bianca",
-      "level": null
-    }
-  ],
   "Golbat": [
     {
       "location": "Team Plasma Post-Game",
       "trainerName": "Team Plasma Grunt",
       "level": 64
-    }
-  ],
-  "Chargestone Cave:": [
-    {
-      "location": "Team Plasma Post-Game",
-      "trainerName": "Team Plasma Grunt",
-      "level": null
-    }
-  ],
-  "Single Battle": [
-    {
-      "location": "Pokemon League Rematches",
-      "trainerName": "Champion Alder",
-      "level": null
-    }
-  ],
-  "Location: Pinwheel Forest": [
-    {
-      "location": "Main Campaign",
-      "trainerName": "Blackbelt Takeshi",
-      "level": null
-    }
-  ],
-  "Reward: Muscle Band": [
-    {
-      "location": "Main Campaign",
-      "trainerName": "Blackbelt Takeshi",
-      "level": null
-    }
-  ],
-  "Location: Castelia City": [
-    {
-      "location": "Main Campaign",
-      "trainerName": "Lass Alicia",
-      "level": null
-    }
-  ],
-  "Reward: Wise Glasses": [
-    {
-      "location": "Main Campaign",
-      "trainerName": "Lass Alicia",
-      "level": null
-    }
-  ],
-  "Location: Driftveil City": [
-    {
-      "location": "Main Campaign",
-      "trainerName": "Ace Trainer Sasha",
-      "level": null
-    }
-  ],
-  "Reward: Leftovers": [
-    {
-      "location": "Main Campaign",
-      "trainerName": "Ace Trainer Sasha",
-      "level": null
-    }
-  ],
-  "Location: Dragonspiral Tower": [
-    {
-      "location": "Main Campaign",
-      "trainerName": "Veteran Zenith",
-      "level": null
-    }
-  ],
-  "Reward: TM35 Flamethrower": [
-    {
-      "location": "Main Campaign",
-      "trainerName": "Veteran Zenith",
-      "level": null
-    }
-  ],
-  "Location: Abundant Shrine": [
-    {
-      "location": "Post-Game",
-      "trainerName": "Leader Cilan",
-      "level": null
-    },
-    {
-      "location": "Post-Game",
-      "trainerName": "Leader Chili",
-      "level": null
-    },
-    {
-      "location": "Post-Game",
-      "trainerName": "Leader Cress",
-      "level": null
-    }
-  ],
-  "Location: Giant Chasm": [
-    {
-      "location": "Post-Game",
-      "trainerName": "Leader Lenora",
-      "level": null
-    }
-  ],
-  "Location: Village Bridge": [
-    {
-      "location": "Post-Game",
-      "trainerName": "Leader Burgh",
-      "level": null
-    }
-  ],
-  "Location: Route 14": [
-    {
-      "location": "Post-Game",
-      "trainerName": "Leader Elesa",
-      "level": null
-    }
-  ],
-  "Location: Black City Pokemon Centre": [
-    {
-      "location": "Post-Game",
-      "trainerName": "Leader Clay",
-      "level": null
     }
   ],
   "Rhydon": [
@@ -11450,66 +10506,6 @@
       "trainerName": "Leader Clay",
       "level": 67,
       "heldItem": "Eviolite"
-    }
-  ],
-  "Location: Route 13": [
-    {
-      "location": "Post-Game",
-      "trainerName": "Leader Skyla",
-      "level": null
-    }
-  ],
-  "Location: Route 11": [
-    {
-      "location": "Post-Game",
-      "trainerName": "Leader Brycen",
-      "level": null
-    }
-  ],
-  "Cryonogal": [
-    {
-      "location": "Post-Game",
-      "trainerName": "Leader Brycen",
-      "level": 67,
-      "heldItem": "Power Herb"
-    }
-  ],
-  "Location: Lacunosa Town": [
-    {
-      "location": "Post-Game",
-      "trainerName": "Leader Drayden",
-      "level": null
-    },
-    {
-      "location": "Post-Game",
-      "trainerName": "Leader Iris",
-      "level": null
-    }
-  ],
-  "Location: Shopping Mall Nine": [
-    {
-      "location": "Post-Game",
-      "trainerName": "Ace Trainer Dheku",
-      "level": null
-    },
-    {
-      "location": "Post-Game",
-      "trainerName": "Ace Trainer Estreth",
-      "level": null
-    }
-  ],
-  "-Double Battle-": [
-    {
-      "location": "Post-Game",
-      "trainerName": "Veteran Ambrose",
-      "level": null
-    }
-  ],
-  "Location: Nimbasa City": [
-    {
-      "location": "Post-Game",
-      "trainerName": "Veteran Ambrose",
-      "level": null
     }
   ],
   "Latias": [
@@ -11526,25 +10522,6 @@
       "trainerName": "Veteran Ambrose",
       "level": 80,
       "heldItem": "Soul Dew"
-    }
-  ],
-  "Location: Anville Town": [
-    {
-      "location": "Post-Game",
-      "trainerName": "Subway Boss Ingo",
-      "level": null
-    },
-    {
-      "location": "Post-Game",
-      "trainerName": "Subway Boss Ingo",
-      "level": null
-    }
-  ],
-  "[Subway Boss Emmet": [
-    {
-      "location": "Post-Game",
-      "trainerName": "Subway Boss Ingo",
-      "level": null
     }
   ]
 }
