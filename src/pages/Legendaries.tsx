@@ -15,7 +15,7 @@ function Group({ title, entries }: { title: string; entries: LegendaryEntry[] })
             <span className={cardStyles.title}>
               #{String(e.dexNumber).padStart(3, "0")} {e.name}
             </span>
-            <span className={cardStyles.meta}>Lv.{e.level}</span>
+            <span className={cardStyles.meta}>{e.level ? `Lv.${e.level}` : "Egg"}</span>
           </div>
           <p style={{ fontSize: 13, marginTop: 6, color: "var(--text-dim)" }}>{e.location}</p>
           {e.notes.length > 0 && (
@@ -32,7 +32,7 @@ export function Legendaries() {
 
   return (
     <main className="page">
-      <PageHeader eyebrow="DEPARTURE · LGND" title="LEGENDARIES" subtitle="Where to find every legendary and mythical Pokémon, main campaign and post-game." />
+      <PageHeader eyebrow="DEPARTURE" title="LEGENDARIES" subtitle="Where to find every legendary and mythical Pokémon, main campaign and post-game." />
 
       {state.status === "error" && <DataError label="legendary locations" />}
       {state.status === "loading" && <EmptyState>Loading…</EmptyState>}

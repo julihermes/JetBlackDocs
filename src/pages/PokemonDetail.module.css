@@ -11,14 +11,147 @@
 
 .headRow {
   display: flex;
-  align-items: baseline;
-  gap: 10px;
+  align-items: center;
+  gap: 14px;
+}
+
+.headSprite {
+  width: 120px;
+  height: 120px;
+  image-rendering: pixelated;
+  object-fit: contain;
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-md);
+  flex-shrink: 0;
+}
+
+@media (min-width: 560px) {
+  .headSprite {
+    width: 148px;
+    height: 148px;
+  }
 }
 
 .dexNo {
   font-family: var(--font-mono);
   color: var(--text-faint);
-  font-size: 16px;
+  font-size: 13px;
+}
+
+.typeRow {
+  display: flex;
+  gap: 6px;
+  margin-top: 6px;
+}
+
+.genus {
+  display: block;
+  margin-top: 4px;
+  font-size: 12px;
+  color: var(--text-dim);
+}
+
+.flavorText {
+  margin: 14px 0 0;
+  padding: 10px 14px;
+  border-left: 2px solid var(--teal);
+  background: var(--surface);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  font-size: 13px;
+  font-style: italic;
+  color: var(--text-dim);
+}
+
+.speciesGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+
+@media (min-width: 420px) {
+  .speciesGrid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.speciesLabel {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--text-faint);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.speciesValue {
+  display: block;
+  font-weight: 700;
+  font-size: 14px;
+  margin-top: 2px;
+}
+
+.speciesSecondRow {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--hairline);
+}
+
+.genderRow {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 140px;
+}
+
+.genderBar {
+  display: flex;
+  height: 6px;
+  width: 100%;
+  border-radius: 3px;
+  overflow: hidden;
+  background: var(--surface-raised);
+}
+
+.genderMale {
+  background: #4a9eff;
+}
+
+.genderFemale {
+  background: #ff6bb0;
+}
+
+.genderLabel {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--text-dim);
+}
+
+.genderGenderless {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--text-dim);
+}
+
+.eggGroupRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.obtainabilityWarning {
+  margin-top: 14px;
+  padding: 10px 14px;
+  background: rgba(245, 166, 35, 0.08);
+  border: 1px solid var(--amber-dim);
+  border-radius: var(--radius-md);
+  font-size: 12.5px;
+  color: var(--text-dim);
 }
 
 .abilityList {
@@ -76,7 +209,15 @@
 .moveCell {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: 6px;
+}
+
+.moveStatsCell {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--text-dim);
+  white-space: nowrap;
 }
 
 .crossLink {
@@ -109,10 +250,35 @@
 .evoLine {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 10px;
+  padding: 8px 0;
+  border-top: 1px solid var(--hairline);
+  text-decoration: none;
+  color: inherit;
+}
+
+.evoLine:first-child {
+  border-top: none;
+}
+
+.evoSprite {
+  width: 64px;
+  height: 64px;
+  object-fit: contain;
+  image-rendering: pixelated;
+  background: var(--surface-raised);
+  border-radius: var(--radius-sm);
+  flex-shrink: 0;
+}
+
+.evoName {
+  display: block;
+  font-weight: 700;
   font-size: 14px;
 }
 
-.evoArrow {
-  color: var(--amber);
+.evoCondition {
+  display: block;
+  font-size: 12px;
+  color: var(--text-dim);
 }

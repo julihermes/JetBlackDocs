@@ -13,6 +13,10 @@
   border-color: var(--hairline-strong);
 }
 
+.passDim {
+  opacity: 0.6;
+}
+
 .pass:active {
   transform: scale(0.997);
 }
@@ -21,12 +25,27 @@
   margin-top: 8px;
 }
 
+.sprite {
+  align-self: stretch;
+  aspect-ratio: 1 / 1;
+  width: auto;
+  flex-shrink: 0;
+  image-rendering: pixelated;
+  object-fit: contain;
+  background: var(--surface-raised);
+}
+
 .main {
   flex: 1;
   min-width: 0;
   padding: 12px 14px;
   display: flex;
   flex-direction: column;
+  gap: 4px;
+}
+
+.typeRow {
+  display: flex;
   gap: 4px;
 }
 
