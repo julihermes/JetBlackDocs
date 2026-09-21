@@ -2,6 +2,7 @@
   "name": "jetblack-docs",
   "private": true,
   "version": "1.0.0",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "build:data": "tsx pipeline/build.ts",

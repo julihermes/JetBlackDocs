@@ -1,5 +1,7 @@
 # JetBlack Docs
 
+**Live site: https://julihermes.github.io/JetBlackDocs/**
+
 A player-facing reference site for [Pokémon JetBlack](https://www.pokecommunity.com/threads/introducing-pokemon-jetblack-a-romhack-of-pokemon-black.535562/), a rom hack of Pokémon Black by EstrethAthema. Built to be looked up mid-playthrough, mostly on a phone: Pokédex, wild encounters, trainer rosters, item locations, move changes, evolutions, legendaries, Nuzlocke level caps, and version history.
 
 ## How it's built
@@ -55,10 +57,31 @@ npm run preview  # serves the built dist/ locally
 
 ## Deploying
 
-Push to `main` — the included GitHub Actions workflow builds the site and publishes it to GitHub Pages automatically. It assumes a **project page** (served at `https://<user>.github.io/<repo-name>/`); the workflow sets Vite's `base` from the repository name automatically, no manual config needed. In your repo settings, under **Pages**, set the source to **GitHub Actions**.
+Push to `main` — the included GitHub Actions workflow builds the site and publishes it to GitHub Pages automatically; that is how https://julihermes.github.io/JetBlackDocs/ is deployed. It assumes a **project page** (served at `https://<user>.github.io/<repo-name>/`); the workflow sets Vite's `base` from the repository name automatically, no manual config needed. In your repo settings, under **Pages**, set the source to **GitHub Actions**.
 
 If you're instead publishing at the root of a `<user>.github.io` user/org page, remove the `BASE_PATH` env line in `.github/workflows/deploy.yml` and set `segmentCount = 0` in `public/404.html` (see the comment there — GitHub Pages has no server-side routing, so deep links like `/pokedex/serperior` need a small client-side redirect trick to work, and that trick needs to know how many path segments are the "base").
 
 ## Design notes
 
 The visual identity leans on the hack's own name and content — "JetBlack" as an airport departure-board aesthetic (Mistralton City, the hack's airport city, gets its own sequence in-game) rather than a generic dark UI. Pokémon and trainer entries are styled as boarding-pass-style tickets; section headers do a one-time split-flap animation on load (respecting `prefers-reduced-motion`); the bottom navigation on mobile is a fixed 5-item bar with a "More" sheet for the rest, specifically to avoid the horizontal-tab-overflow problem common on similar community doc sites at phone width.
+
+## License
+
+The code in this repository is MIT licensed — see [LICENSE](LICENSE).
+
+That covers the site and the pipeline, and nothing else. Pokémon JetBlack, the
+documentation under `data-source/` and the screenshots under
+`src/assets/screens/` are the work of **EstrethAthema** and are reproduced here
+to document the hack. Pokémon is a trademark of Nintendo, Game Freak and The
+Pokémon Company; this project is an unofficial fan site with no affiliation to
+any of them. Pokémon sprites and artwork are loaded from PokeAPI's public
+sprite CDN, and trainer portraits from Bulbapedia's archives.
+
+## A note on how this was made
+
+This site was built with substantial help from AI — Claude wrote most of the
+pipeline parsers, the Preact frontend and this README, working from the hack's
+documentation and under human review. Treat the generated data as what it is:
+a machine reading of text written by a person. The `data-source/` files are the
+authority, and if the site and a document disagree, the document is right.
+Corrections are welcome.
