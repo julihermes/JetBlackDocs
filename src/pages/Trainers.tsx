@@ -28,7 +28,9 @@ const isImportant = (battle: TrainerBattle) =>
 // (verified: 0/30 icons load with one, 30/30 without), so every portrait and
 // class icon has to be requested with referrerPolicy="no-referrer".
 const hideOnError = (e: Event) => ((e.currentTarget as HTMLImageElement).style.visibility = "hidden");
-const portraitKey = (battle: TrainerBattle) => battle.trainerName.replace(/^(Leader|Champion|Elite\s*4|Elite\s*Four|Pokemon Trainer|Team Plasma|Subway Boss)\s+/i, "");
+// Important trainers already wear their title as a badge, so the name drops it.
+const TITLE_RE = /^(Leader|Champion|Elite\s*4|Elite\s*Four|Pokemon Trainer|Team Plasma|Subway Boss)\s+/i;
+const shortName = (battle: TrainerBattle) => battle.trainerName.replace(TITLE_RE, "");
 
 type CategoryKey = "gymLeaders" | "rivals" | "eliteFour" | "champion" | "teamPlasma" | "postGameBosses";
 const CATEGORIES: { key: CategoryKey; label: string; test: (b: TrainerBattle) => boolean }[] = [
@@ -119,8 +121,8 @@ export function Trainers() {
                     <div className={styles.battleHead}>
                       {isImportant(battle)
                         ? trainerPortraits.status === "ready" &&
-                          trainerPortraits.data[portraitKey(battle)] && (
-                            <img src={trainerPortraits.data[portraitKey(battle)]} alt="" className={styles.leaderPortrait} loading="lazy" referrerPolicy="no-referrer" onError={hideOnError} />
+                          trainerPortraits.data[shortName(battle)] && (
+                            <img src={trainerPortraits.data[shortName(battle)]} alt="" className={styles.leaderPortrait} loading="lazy" referrerPolicy="no-referrer" onError={hideOnError} />
                           )
                         : trainerClassIcons.status === "ready" &&
                           resolveClassIcon(battle.trainerName, trainerClassIcons.data) && (
@@ -132,7 +134,7 @@ export function Trainers() {
                       {isChampion(battle) && <span className={styles.leaderBadge}>CHAMPION</span>}
                       {isPlasmaBoss(battle) && <span className={styles.leaderBadge}>TEAM PLASMA</span>}
                       {isPostGameBoss(battle) && <span className={styles.leaderBadge}>BOSS</span>}
-                      <span className={styles.trainerName}>{battle.trainerName}</span>
+                      <span className={styles.trainerName}>{isImportant(battle) ? shortName(battle) : battle.trainerName}</span>
                       {battle.battleFormat && <span className="tag tag--teal">{battle.battleFormat}</span>}
                       {battle.condition && <span className="tag tag--amber">{battle.condition}</span>}
                       {battle.subArea && <span className="tag">{battle.subArea}</span>}
