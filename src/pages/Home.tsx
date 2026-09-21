@@ -2,6 +2,7 @@ import { Link } from "wouter-preact";
 import { PageHeader } from "../components/PageHeader";
 import { useData } from "../lib/useData";
 import { LINKS, ctaLinks } from "../lib/links";
+import { releaseDateFor } from "../lib/release";
 import type { BuildManifest, ChangelogEntry, FeaturesData } from "../lib/types";
 import styles from "./Home.module.css";
 
@@ -187,29 +188,6 @@ export function Home() {
         ))}
       </div>
 
-      <div className={styles.factsStrip}>
-        <div className={styles.fact}>
-          <div className={styles.factValue}>v1.7</div>
-          <div className={styles.factLabel}>Hack version</div>
-        </div>
-        <div className={styles.fact}>
-          <div className={styles.factValue}>{m?.counts.pokemon ?? "—"}</div>
-          <div className={styles.factLabel}>Species documented</div>
-        </div>
-        <div className={styles.fact}>
-          <div className={styles.factValue}>
-            {m?.counts.trainerLocations ?? "—"}
-          </div>
-          <div className={styles.factLabel}>Trainer locations</div>
-        </div>
-        <div className={styles.fact}>
-          <div className={styles.factValue}>
-            {m?.counts.wildEncounterLocations ?? "—"}
-          </div>
-          <div className={styles.factLabel}>Wild areas</div>
-        </div>
-      </div>
-
       {highlights.length > 0 && (
         <>
           <p className="section-title">What JetBlack changes</p>
@@ -250,6 +228,7 @@ export function Home() {
           <div className={styles.release}>
             <div className={styles.releaseHead}>
               <span className={styles.releaseVersion}>{latest.version}</span>
+              {releaseDateFor(latest.version) && <span className={styles.releaseDate}>{releaseDateFor(latest.version)}</span>}
               <Link href="/history" className={styles.releaseLink}>
                 All releases →
               </Link>

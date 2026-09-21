@@ -63,38 +63,9 @@
   letter-spacing: 0.04em;
 }
 
-.factsStrip {
-  margin-top: 24px;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 8px;
-}
 
-@media (min-width: 560px) {
-  .factsStrip {
-    grid-template-columns: repeat(4, 1fr);
-  }
-}
 
-.fact {
-  background: var(--surface);
-  border: 1px solid var(--hairline);
-  border-radius: var(--radius-md);
-  padding: 12px 14px;
-}
 
-.factValue {
-  font-family: var(--font-mono);
-  font-size: 20px;
-  font-weight: 700;
-  color: var(--teal);
-}
-
-.factLabel {
-  font-size: 11px;
-  color: var(--text-dim);
-  margin-top: 2px;
-}
 
 .intro {
   margin-top: 10px;
@@ -283,6 +254,11 @@
   font-family: var(--font-mono);
   font-weight: 700;
   color: var(--teal);
+}
+
+.releaseDate {
+  font-size: 12px;
+  color: var(--text-dim);
 }
 
 .releaseLink {
