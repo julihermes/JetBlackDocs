@@ -3,6 +3,7 @@ import { PageHeader } from "../components/PageHeader";
 import { useData } from "../lib/useData";
 import { LINKS, ctaLinks } from "../lib/links";
 import { releaseDateFor } from "../lib/release";
+import { ROUTES } from "../routes";
 import type { BuildManifest, ChangelogEntry, FeaturesData } from "../lib/types";
 import styles from "./Home.module.css";
 
@@ -22,64 +23,29 @@ const SHOTS = Object.entries(
   .sort(([a], [b]) => a.localeCompare(b))
   .map(([, url]) => url);
 
-const BOARD: Array<{
-  path: string;
-  name: string;
-  detail: (m?: BuildManifest) => string;
-}> = [
-  {
-    path: "/pokedex",
-    name: "Pokédex",
-    detail: (m) => `${m?.counts.pokemon ?? "…"} species, stats & learnsets`,
-  },
-  {
-    path: "/encounters",
-    name: "Wild encounters",
-    detail: (m) => `${m?.counts.wildEncounterLocations ?? "…"} locations`,
-  },
-  {
-    path: "/trainers",
-    name: "Trainer rosters",
-    detail: (m) =>
-      `${m?.counts.trainerLocations ?? "…"} locations, gym leaders to E4`,
-  },
-  {
-    path: "/items",
-    name: "Item locations",
-    detail: () => "Ground items, gifts, mart stock",
-  },
-  {
-    path: "/moves",
-    name: "Move changes",
-    detail: (m) => `${m?.counts.moveChanges ?? "…"} moves rebalanced or added`,
-  },
-  {
-    path: "/evolutions",
-    name: "Evolution changes",
-    detail: (m) => `${m?.counts.evolutions ?? "…"} altered methods`,
-  },
-  {
-    path: "/legendaries",
-    name: "Legendaries & mythicals",
-    detail: (m) => `${m?.counts.legendaries ?? "…"} encounters`,
-  },
-  {
-    path: "/features",
-    name: "Feature list",
-    detail: (m) =>
-      `${m?.counts.features ?? "…"} changes, in the hack's own words`,
-  },
-  {
-    path: "/nuzlocke",
-    name: "Nuzlocke level caps",
-    detail: () => "Boss-by-boss level ceiling",
-  },
-  {
-    path: "/history",
-    name: "Version history",
-    detail: (m) => `${m?.counts.changelog ?? "…"} releases logged`,
-  },
-];
+/**
+ * What each section row says. Keyed by path and walked in ROUTES order, so the
+ * board and the nav can't drift apart — a route added to one shows up in the
+ * other, falling back to its nav label until it gets a line here.
+ */
+const BOARD_DETAILS: Record<string, { name: string; detail: (m?: BuildManifest) => string }> = {
+  "/pokedex": { name: "Pokédex", detail: (m) => `${m?.counts.pokemon ?? "…"} species, stats & learnsets` },
+  "/encounters": { name: "Wild encounters", detail: (m) => `${m?.counts.wildEncounterLocations ?? "…"} locations` },
+  "/trainers": { name: "Trainer rosters", detail: (m) => `${m?.counts.trainerLocations ?? "…"} locations, gym leaders to E4` },
+  "/items": { name: "Item locations", detail: () => "Ground items, gifts, mart stock" },
+  "/moves": { name: "Move changes", detail: (m) => `${m?.counts.moveChanges ?? "…"} moves rebalanced or added` },
+  "/features": { name: "Feature list", detail: (m) => `${m?.counts.features ?? "…"} changes, in the hack's own words` },
+  "/evolutions": { name: "Evolution changes", detail: (m) => `${m?.counts.evolutions ?? "…"} altered methods` },
+  "/legendaries": { name: "Legendaries & mythicals", detail: (m) => `${m?.counts.legendaries ?? "…"} encounters` },
+  "/nuzlocke": { name: "Nuzlocke level caps", detail: () => "Boss-by-boss level ceiling" },
+  "/history": { name: "Version history", detail: (m) => `${m?.counts.changelog ?? "…"} releases logged` },
+};
+
+const BOARD = ROUTES.filter((r) => r.path !== "/").map((r) => ({
+  path: r.path,
+  name: BOARD_DETAILS[r.path]?.name ?? r.label,
+  detail: BOARD_DETAILS[r.path]?.detail ?? (() => ""),
+}));
 
 /**
  * The home page sells five things, and each one has a page that proves it. The
