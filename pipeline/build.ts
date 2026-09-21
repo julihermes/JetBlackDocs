@@ -11,7 +11,7 @@ import { parseWildEncounters } from "./parsers/wild-encounters.ts";
 import { parseStatsAndLearnsets } from "./parsers/stats-learnsets.ts";
 import { parseTrainerRosters } from "./parsers/trainer-rosters.ts";
 import { buildEncountersBySpecies, buildTrainersBySpecies, buildLearnedByMove } from "./indices.ts";
-import { attachTypes, attachSpeciesInfo, buildTmCompatibility, buildEvolutionLookup, buildMoveList } from "./vanilla-data.ts";
+import { attachTypes, attachSpeciesInfo, attachVanillaEvolutionMethod, buildTmCompatibility, buildEvolutionLookup, buildMoveList } from "./vanilla-data.ts";
 import { computeObtainableSpecies } from "./obtainability.ts";
 import { alnumKey } from "./lib/text.ts";
 import type { BuildManifest, EvolutionLookup, VanillaItemInfo } from "./types.ts";
@@ -75,7 +75,7 @@ function main() {
   }
 
   const features = run("features", "Features", /Goals with this RomHack/i, parseFeatures, (d) => d.bullets.length);
-  const evolutions = run("evolutions", "Evolution Changes", /^JetBlack Evolution Changes:/m, parseEvolutions, (d) => d.length);
+  const evolutions = run("evolutions", "Evolution Changes", /^JetBlack Evolution Changes:/m, parseEvolutions, (d) => d.length, attachVanillaEvolutionMethod);
   const legendaries = run("legendaries", "Legendary and Mythical locations", /Obelisks/, parseLegendaries, (d) => d.length);
   const moveChanges = run("move-changes", "Move changes", /^Move Changes:/m, parseMoveChanges, (d) => d.changed.length + d.newMoves.length);
   const items = run("items", "Item location changes", /Ground Items/, parseItems, (d) => d.ground.length + d.gifts.length + d.hidden.length);

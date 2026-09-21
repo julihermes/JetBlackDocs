@@ -6,6 +6,9 @@ export interface EvolutionEntry {
   from: string;
   to: string;
   condition: string;
+  vanillaCondition?: string; // how it worked in Black, for the before/after — see attachVanillaEvolutionMethod
+  fromDexNumber?: number;
+  toDexNumber?: number;
 }
 
 export interface EvolutionEdge {

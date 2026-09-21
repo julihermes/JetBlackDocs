@@ -3,294 +3,441 @@
     "section": "Unova",
     "from": "Boldore",
     "to": "Gigalith",
-    "condition": "at Level 40"
+    "condition": "at Level 40",
+    "vanillaCondition": "Trade",
+    "fromDexNumber": 525,
+    "toDexNumber": 526
   },
   {
     "section": "Unova",
     "from": "Gurdurr",
     "to": "Conkeldurr",
-    "condition": "at Level 40"
+    "condition": "at Level 40",
+    "vanillaCondition": "Trade",
+    "fromDexNumber": 533,
+    "toDexNumber": 534
   },
   {
     "section": "Unova",
     "from": "Scraggy",
     "to": "Scrafty",
-    "condition": "at Level 32"
+    "condition": "at Level 32",
+    "vanillaCondition": "Level 39",
+    "fromDexNumber": 559,
+    "toDexNumber": 560
   },
   {
     "section": "Unova",
     "from": "Ducklett",
     "to": "Swanna",
-    "condition": "at Level 30"
+    "condition": "at Level 30",
+    "vanillaCondition": "Level 35",
+    "fromDexNumber": 580,
+    "toDexNumber": 581
   },
   {
     "section": "Unova",
     "from": "Vanillite",
     "to": "Vanillish",
-    "condition": "at Level 32"
+    "condition": "at Level 32",
+    "vanillaCondition": "Level 35",
+    "fromDexNumber": 582,
+    "toDexNumber": 583
   },
   {
     "section": "Unova",
     "from": "Vanillish",
     "to": "Vanilluxe",
-    "condition": "at Level 41"
+    "condition": "at Level 41",
+    "vanillaCondition": "Level 47",
+    "fromDexNumber": 583,
+    "toDexNumber": 584
   },
   {
     "section": "Unova",
     "from": "Deerling",
     "to": "Sawsbuck",
-    "condition": "at Level 31"
+    "condition": "at Level 31",
+    "vanillaCondition": "Level 34",
+    "fromDexNumber": 585,
+    "toDexNumber": 586
   },
   {
     "section": "Unova",
     "from": "Karrablast",
     "to": "Escavalier",
-    "condition": "when levelled up with Shelmet in the Party"
+    "condition": "when levelled up with Shelmet in the Party",
+    "vanillaCondition": "Trade for Shelmet",
+    "fromDexNumber": 588,
+    "toDexNumber": 589
   },
   {
     "section": "Unova",
     "from": "Foongus",
     "to": "Amoonguss",
-    "condition": "at Level 33"
+    "condition": "at Level 33",
+    "vanillaCondition": "Level 39",
+    "fromDexNumber": 590,
+    "toDexNumber": 591
   },
   {
     "section": "Unova",
     "from": "Klink",
     "to": "Klang",
-    "condition": "at Level 32"
+    "condition": "at Level 32",
+    "vanillaCondition": "Level 38",
+    "fromDexNumber": 599,
+    "toDexNumber": 600
   },
   {
     "section": "Unova",
     "from": "Klang",
     "to": "Klinklang",
-    "condition": "at Level 42"
+    "condition": "at Level 42",
+    "vanillaCondition": "Level 49",
+    "fromDexNumber": 600,
+    "toDexNumber": 601
   },
   {
     "section": "Unova",
     "from": "Tynamo",
     "to": "Eelektrik",
-    "condition": "at Level 35"
+    "condition": "at Level 35",
+    "vanillaCondition": "Level 39",
+    "fromDexNumber": 602,
+    "toDexNumber": 603
   },
   {
     "section": "Unova",
     "from": "Elgyem",
     "to": "Beheeyem",
-    "condition": "at Level 39"
+    "condition": "at Level 39",
+    "vanillaCondition": "Level 42",
+    "fromDexNumber": 605,
+    "toDexNumber": 606
   },
   {
     "section": "Unova",
     "from": "Litwick",
     "to": "Lampent",
-    "condition": "at Level 35"
+    "condition": "at Level 35",
+    "vanillaCondition": "Level 41",
+    "fromDexNumber": 607,
+    "toDexNumber": 608
   },
   {
     "section": "Unova",
     "from": "Shelmet",
     "to": "Accelgor",
-    "condition": "when levelled up with Karrablast in the party"
+    "condition": "when levelled up with Karrablast in the party",
+    "vanillaCondition": "Trade for Karrablast",
+    "fromDexNumber": 616,
+    "toDexNumber": 617
   },
   {
     "section": "Unova",
     "from": "Mienfoo",
     "to": "Mienshao",
-    "condition": "at Level 37"
+    "condition": "at Level 37",
+    "vanillaCondition": "Level 50",
+    "fromDexNumber": 619,
+    "toDexNumber": 620
   },
   {
     "section": "Unova",
     "from": "Golett",
     "to": "Golurk",
-    "condition": "at Level 40"
+    "condition": "at Level 40",
+    "vanillaCondition": "Level 43",
+    "fromDexNumber": 622,
+    "toDexNumber": 623
   },
   {
     "section": "Unova",
     "from": "Pawniard",
     "to": "Bisharp",
-    "condition": "at Level 42"
+    "condition": "at Level 42",
+    "vanillaCondition": "Level 52",
+    "fromDexNumber": 624,
+    "toDexNumber": 625
   },
   {
     "section": "Unova",
     "from": "Rufflet",
     "to": "Braviary",
-    "condition": "at Level 36"
+    "condition": "at Level 36",
+    "vanillaCondition": "Level 54",
+    "fromDexNumber": 627,
+    "toDexNumber": 628
   },
   {
     "section": "Unova",
     "from": "Vullaby",
     "to": "Mandibuzz",
-    "condition": "at Level 36"
+    "condition": "at Level 36",
+    "vanillaCondition": "Level 54",
+    "fromDexNumber": 629,
+    "toDexNumber": 630
   },
   {
     "section": "Unova",
     "from": "Deino",
     "to": "Zweilous",
-    "condition": "at Level 40"
+    "condition": "at Level 40",
+    "vanillaCondition": "Level 50",
+    "fromDexNumber": 633,
+    "toDexNumber": 634
   },
   {
     "section": "Unova",
     "from": "Zweilous",
     "to": "Hydreigon",
-    "condition": "at Level 58"
+    "condition": "at Level 58",
+    "vanillaCondition": "Level 64",
+    "fromDexNumber": 634,
+    "toDexNumber": 635
   },
   {
     "section": "Unova",
     "from": "Larvesta",
     "to": "Volcarona",
-    "condition": "at Level 43"
+    "condition": "at Level 43",
+    "vanillaCondition": "Level 59",
+    "fromDexNumber": 636,
+    "toDexNumber": 637
   },
   {
     "section": "Post-Game",
     "from": "Poliwhirl",
     "to": "Politoed",
-    "condition": "by levelling up holding a King's Rock"
+    "condition": "by levelling up holding a King's Rock",
+    "vanillaCondition": "Trade holding Kings Rock",
+    "fromDexNumber": 61,
+    "toDexNumber": 186
   },
   {
     "section": "Post-Game",
     "from": "Machoke",
     "to": "Machamp",
-    "condition": "at Level 40"
+    "condition": "at Level 40",
+    "vanillaCondition": "Trade",
+    "fromDexNumber": 67,
+    "toDexNumber": 68
   },
   {
     "section": "Post-Game",
     "from": "Ponyta",
     "to": "Rapidash",
-    "condition": "at Level 34"
+    "condition": "at Level 34",
+    "vanillaCondition": "Level 40",
+    "fromDexNumber": 77,
+    "toDexNumber": 78
   },
   {
     "section": "Post-Game",
     "from": "Slowpoke",
     "to": "Slowking",
-    "condition": "by levelling up holding a King's Rock"
+    "condition": "by levelling up holding a King's Rock",
+    "vanillaCondition": "Trade holding Kings Rock",
+    "fromDexNumber": 79,
+    "toDexNumber": 199
   },
   {
     "section": "Post-Game",
     "from": "Grimer",
     "to": "Muk",
-    "condition": "at Level 32"
+    "condition": "at Level 32",
+    "vanillaCondition": "Level 38",
+    "fromDexNumber": 88,
+    "toDexNumber": 89
   },
   {
     "section": "Post-Game",
     "from": "Haunter",
     "to": "Gengar",
-    "condition": "at Level 40"
+    "condition": "at Level 40",
+    "vanillaCondition": "Trade",
+    "fromDexNumber": 93,
+    "toDexNumber": 94
   },
   {
     "section": "Post-Game",
     "from": "Onix",
     "to": "Steelix",
-    "condition": "when Iron Tail is learned"
+    "condition": "when Iron Tail is learned",
+    "vanillaCondition": "Trade holding Metal Coat",
+    "fromDexNumber": 95,
+    "toDexNumber": 208
   },
   {
     "section": "Post-Game",
     "from": "Rhyhorn",
     "to": "Rhydon",
-    "condition": "at Level 36"
+    "condition": "at Level 36",
+    "vanillaCondition": "Level 42",
+    "fromDexNumber": 111,
+    "toDexNumber": 112
   },
   {
     "section": "Post-Game",
     "from": "Rhydon",
     "to": "Rhyperior",
-    "condition": "by levelling up holding a Protector"
+    "condition": "by levelling up holding a Protector",
+    "vanillaCondition": "Trade holding Protector",
+    "fromDexNumber": 112,
+    "toDexNumber": 464
   },
   {
     "section": "Post-Game",
     "from": "Seadra",
     "to": "Kingdra",
-    "condition": "when Dragon Pulse is learned"
+    "condition": "when Dragon Pulse is learned",
+    "vanillaCondition": "Trade holding Dragon Scale",
+    "fromDexNumber": 117,
+    "toDexNumber": 230
   },
   {
     "section": "Post-Game",
     "from": "Scyther",
     "to": "Scizor",
-    "condition": "by levelling up holding a Metal Coat"
+    "condition": "by levelling up holding a Metal Coat",
+    "vanillaCondition": "Trade holding Metal Coat",
+    "fromDexNumber": 123,
+    "toDexNumber": 212
   },
   {
     "section": "Post-Game",
     "from": "Electabuzz",
     "to": "Electivire",
-    "condition": "by levelling up holding an Electrizer"
+    "condition": "by levelling up holding an Electrizer",
+    "vanillaCondition": "Trade holding Electirizer",
+    "fromDexNumber": 125,
+    "toDexNumber": 466
   },
   {
     "section": "Post-Game",
     "from": "Magmar",
     "to": "Magmortar",
-    "condition": "by levelling up holding a Magmarizer"
+    "condition": "by levelling up holding a Magmarizer",
+    "vanillaCondition": "Trade holding Magmarizer",
+    "fromDexNumber": 126,
+    "toDexNumber": 467
   },
   {
     "section": "Post-Game",
     "from": "Porygon",
     "to": "Porygon2",
-    "condition": "by levelling up holding an Up-Grade"
+    "condition": "by levelling up holding an Up-Grade",
+    "vanillaCondition": "Trade holding Up Grade",
+    "fromDexNumber": 137,
+    "toDexNumber": 233
   },
   {
     "section": "Post-Game",
     "from": "Slugma",
     "to": "Magcargo",
-    "condition": "at Level 30"
+    "condition": "at Level 30",
+    "vanillaCondition": "Level 38",
+    "fromDexNumber": 218,
+    "toDexNumber": 219
   },
   {
     "section": "Post-Game",
     "from": "Porygon2",
     "to": "Porygon-Z",
-    "condition": "by levelling up holding a Dubious Disc"
+    "condition": "by levelling up holding a Dubious Disc",
+    "vanillaCondition": "Trade holding Dubious Disc",
+    "fromDexNumber": 233,
+    "toDexNumber": 474
   },
   {
     "section": "Post-Game",
     "from": "Tyrogue",
     "to": "Hitmonchan",
-    "condition": "by levelling up holding an X Defend"
+    "condition": "by levelling up holding an X Defend",
+    "vanillaCondition": "Level 20 (Atk < Def)",
+    "fromDexNumber": 236,
+    "toDexNumber": 107
   },
   {
     "section": "Post-Game",
     "from": "Tyrogue",
     "to": "Hitmonlee",
-    "condition": "by levelling up holding an X Attack"
+    "condition": "by levelling up holding an X Attack",
+    "vanillaCondition": "Level 20 (Atk > Def)",
+    "fromDexNumber": 236,
+    "toDexNumber": 106
   },
   {
     "section": "Post-Game",
     "from": "Tyrogue",
     "to": "Hitmontop",
-    "condition": "by levelling up holding an X Speed"
+    "condition": "by levelling up holding an X Speed",
+    "vanillaCondition": "Level 20 (Atk = Def)",
+    "fromDexNumber": 236,
+    "toDexNumber": 237
   },
   {
     "section": "Post-Game",
     "from": "Feebas",
     "to": "Milotic",
-    "condition": "by levelling up holding a Prism Scale"
+    "condition": "by levelling up holding a Prism Scale",
+    "vanillaCondition": "Level up (high beauty)",
+    "fromDexNumber": 349,
+    "toDexNumber": 350
   },
   {
     "section": "Post-Game",
     "from": "Dusclops",
     "to": "Dusknoir",
-    "condition": "by levelling up holding a Reaper Cloth"
+    "condition": "by levelling up holding a Reaper Cloth",
+    "vanillaCondition": "Trade holding Reaper Cloth",
+    "fromDexNumber": 356,
+    "toDexNumber": 477
   },
   {
     "section": "Post-Game",
     "from": "Snorunt",
     "to": "Glalie",
-    "condition": "at Level 34"
+    "condition": "at Level 34",
+    "vanillaCondition": "Level 42",
+    "fromDexNumber": 361,
+    "toDexNumber": 362
   },
   {
     "section": "Post-Game",
     "from": "Clamperl",
     "to": "Huntail",
-    "condition": "by levelling up holding a DeepSeaTooth"
+    "condition": "by levelling up holding a DeepSeaTooth",
+    "vanillaCondition": "Trade holding Deep Sea Tooth",
+    "fromDexNumber": 366,
+    "toDexNumber": 367
   },
   {
     "section": "Post-Game",
     "from": "Clamperl",
     "to": "Gorebyss",
-    "condition": "by levelling up holding a DeepSeaScale"
+    "condition": "by levelling up holding a DeepSeaScale",
+    "vanillaCondition": "Trade holding Deep Sea Scale",
+    "fromDexNumber": 366,
+    "toDexNumber": 368
   },
   {
     "section": "Post-Game",
     "from": "Glameow",
     "to": "Purugly",
-    "condition": "at Level 34"
+    "condition": "at Level 34",
+    "vanillaCondition": "Level 38",
+    "fromDexNumber": 431,
+    "toDexNumber": 432
   },
   {
     "section": "Post-Game",
     "from": "Snover",
     "to": "Abomasnow",
-    "condition": "at Level 34"
+    "condition": "at Level 34",
+    "vanillaCondition": "Level 40",
+    "fromDexNumber": 459,
+    "toDexNumber": 460
   }
 ]

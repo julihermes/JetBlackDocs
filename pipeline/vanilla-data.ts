@@ -169,6 +169,31 @@ export function buildMoveList(moveChanges: MoveChangesData): MoveEntry[] {
 }
 
 /**
+ * Pairs each changed evolution with the method vanilla Black used, so the site
+ * can show what the change actually was rather than just its result. Matched on
+ * from+to (alphanumeric, since the doc writes "Porygon-Z" where the reference
+ * data writes "Porygon Z"), and carries the dex numbers along for the sprites.
+ */
+export function attachVanillaEvolutionMethod(hackEvolutions: EvolutionEntry[]): EvolutionEntry[] {
+  const path = join(process.cwd(), "pipeline", "vanilla-data", "evolutions.json");
+  const vanillaEdges: VanillaEvolutionEdge[] = JSON.parse(readFileSync(path, "utf-8"));
+
+  const byPair = new Map(vanillaEdges.map((e) => [`${alnumKey(e.from)}|${alnumKey(e.to)}`, e]));
+  const dexByName = new Map<string, number>();
+  for (const e of vanillaEdges) {
+    dexByName.set(alnumKey(e.from), e.fromId);
+    dexByName.set(alnumKey(e.to), e.toId);
+  }
+
+  return hackEvolutions.map((e) => ({
+    ...e,
+    vanillaCondition: byPair.get(`${alnumKey(e.from)}|${alnumKey(e.to)}`)?.method,
+    fromDexNumber: dexByName.get(alnumKey(e.from)),
+    toDexNumber: dexByName.get(alnumKey(e.to)),
+  }));
+}
+
+/**
  * The Evolution Changes doc only lists methods JetBlack *altered* — a species
  * that evolves exactly like vanilla Black (the vast majority) is absent from
  * it entirely, not "no evolution". This fills that gap for the per-Pokémon
