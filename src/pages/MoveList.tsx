@@ -28,10 +28,11 @@ export function MoveList() {
 
       <SearchBox value={query} onInput={setQuery} placeholder="Search a move or a Pokémon that learns one…" resultCount={state.status === "ready" ? filtered.length : undefined} />
 
-      <div style={{ marginTop: 16 }}>
-        {state.status === "error" && <DataError label="the move list" />}
-        {state.status === "loading" && <EmptyState>Loading moves…</EmptyState>}
-        {state.status === "ready" && filtered.length === 0 && <EmptyState>No move matches “{query}”.</EmptyState>}
+      {state.status === "error" && <DataError label="the move list" />}
+      {state.status === "loading" && <EmptyState>Loading moves…</EmptyState>}
+      {state.status === "ready" && filtered.length === 0 && <EmptyState>No move matches “{query}”.</EmptyState>}
+
+      <div className={styles.grid} style={{ marginTop: 16 }}>
         {state.status === "ready" &&
           filtered.map((m) => (
             <Link href={`/moves/${encodeURIComponent(m.name.toLowerCase())}`} className={styles.card} style={{ background: typeBg(m.type) }} key={m.name}>
