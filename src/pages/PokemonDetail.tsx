@@ -83,6 +83,7 @@ export function PokemonDetail() {
   const evoEntry = evolutionState.status === "ready" ? evolutionState.data[pokemon.name] : undefined;
   const allPokemon = pokemonState.status === "ready" ? pokemonState.data : [];
   const hasEvolution = Boolean(evoEntry && (evoEntry.evolvesFrom || evoEntry.evolvesTo.length > 0));
+  const hasChangedEvolution = Boolean(evoEntry?.evolvesFrom?.changed || evoEntry?.evolvesTo.some((e) => e.changed));
 
   return (
     <main className="page">
@@ -255,6 +256,11 @@ export function PokemonDetail() {
                 {evoEntry!.evolvesTo.map((e) => (
                   <EvoLink key={e.species} edge={e} all={allPokemon} caption="Evolves into" />
                 ))}
+                {hasChangedEvolution && (
+                  <p className={styles.panelNote}>
+                    <Link href={`/evolutions?q=${encodeURIComponent(pokemon.name)}`}>See every evolution JetBlack changed →</Link>
+                  </p>
+                )}
               </div>
             ) : (
               <EmptyState>{pokemon.name} doesn't evolve, and isn't an evolution of anything else.</EmptyState>

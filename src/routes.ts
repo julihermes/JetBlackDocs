@@ -11,7 +11,7 @@ export const ROUTES: RouteDef[] = [
   { path: "/trainers", label: "Trainers", primary: true },
   { path: "/items", label: "Items", primary: false },
   { path: "/moves", label: "Moves", primary: false },
-  { path: "/evolutions", label: "Evolutions", primary: false },
+  { path: "/evolutions", label: "Evolution changes", primary: false },
   { path: "/legendaries", label: "Legendaries", primary: false },
   { path: "/nuzlocke", label: "Nuzlocke caps", primary: false },
   { path: "/history", label: "Version history", primary: false },

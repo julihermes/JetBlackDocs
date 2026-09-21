@@ -4,12 +4,13 @@ import { SearchBox } from "../components/SearchBox";
 import { DataError, EmptyState } from "../components/DataState";
 import { useData } from "../lib/useData";
 import { matches } from "../lib/filter";
+import { useInitialQuery } from "../lib/useInitialQuery";
 import type { EvolutionEntry } from "../lib/types";
 import cardStyles from "../components/Card.module.css";
 
 export function Evolutions() {
   const state = useData<EvolutionEntry[]>(() => import("../data/evolutions.generated.json"));
-  const [query, setQuery] = useState("");
+  const [query, setQuery] = useState(useInitialQuery());
 
   const bySection = useMemo(() => {
     if (state.status !== "ready") return new Map<string, EvolutionEntry[]>();
@@ -21,7 +22,7 @@ export function Evolutions() {
 
   return (
     <main className="page">
-      <PageHeader eyebrow="DEPARTURE" title="EVOLUTIONS" subtitle="Every evolution method changed from vanilla Black — mostly trade evolutions swapped for level-ups." />
+      <PageHeader eyebrow="DEPARTURE" title="EVOLUTION CHANGES" subtitle="Only what JetBlack altered — mostly trade evolutions swapped for level-ups. Everything not listed here evolves as it does in vanilla Black." />
 
       <SearchBox value={query} onInput={setQuery} placeholder="Search a Pokémon…" />
 
