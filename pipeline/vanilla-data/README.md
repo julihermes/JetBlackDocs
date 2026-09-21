@@ -313,3 +313,61 @@ with open("pipeline/vanilla-data/tm-compatibility.json", "w") as f:
     json.dump(result, f, indent=0)
 EOF
 ```
+
+`items.json` is every item that exists in Pokémon Black, keyed by PokeAPI slug →
+display name, category, one-line effect, and the Black/White bag description.
+An item qualifies when PokeAPI has an English flavor-text entry for the
+`black-white` version group — checked against the alternative signal
+(`generation-v` among its `game_indices`) on event items and a Gen 6 control,
+and the two agree. 606 items.
+
+It does two jobs: it resolves the item names in JetBlack's own doc
+(`pipeline/lib/items.ts`, with an `ITEM_ALIASES` map for the doc's spellings like
+`RageCandyBar`) so each changed item carries its real name, icon and effect, and
+it ships whole as the Items page's reference catalog. Item *locations* are not in
+PokeAPI at all, so every location on that page still comes from the hack's doc.
+
+Item sprites aren't stored here — they're derived from the slug in
+`src/lib/sprites.ts`, off the same CDN as the Pokémon sprites.
+
+To regenerate:
+
+```bash
+python3 - <<'EOF'
+import json, urllib.request, time
+from concurrent.futures import ThreadPoolExecutor
+
+HEADERS = {"User-Agent": "Mozilla/5.0 (jetblack-docs data pipeline)"}
+VG = "black-white"
+
+
+def get(url):
+    req = urllib.request.Request(url, headers=HEADERS)
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return json.load(r)
+
+
+def fetch(url):
+    d = get(url)
+    flavor = next((e["text"] for e in d["flavor_text_entries"]
+                   if e["language"]["name"] == "en" and e["version_group"]["name"] == VG), None)
+    if flavor is None:
+        return None  # not in Pokémon Black
+    effect = next((e["short_effect"] for e in d["effect_entries"] if e["language"]["name"] == "en"), "")
+    return d["name"], {
+        "name": next((n["name"] for n in d["names"] if n["language"]["name"] == "en"), d["name"]),
+        "category": d["category"]["name"],
+        "effect": " ".join(effect.split()),
+        "flavorText": " ".join(flavor.replace("\n", " ").replace("\x0c", " ").split()),
+    }
+
+
+urls = [e["url"] for e in get("https://pokeapi.co/api/v2/item?limit=3000")["results"]]
+with ThreadPoolExecutor(max_workers=8) as pool:
+    result = {out[0]: out[1] for out in pool.map(fetch, urls) if out}
+
+with open("pipeline/vanilla-data/items.json", "w") as f:
+    json.dump(dict(sorted(result.items())), f, indent=0, ensure_ascii=False)
+EOF
+```
+

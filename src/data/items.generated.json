@@ -1,152 +1,420 @@
 {
   "ground": [
     {
-      "item": "Shiny Stone",
+      "item": {
+        "name": "Shiny Stone",
+        "slug": "shiny-stone",
+        "category": "evolution",
+        "effect": "Evolves a Minccino into Cinccino, a Roselia into Roserade, or a Togetic into Togekiss."
+      },
       "location": "Lostlorn Forest",
-      "note": "Replaces the TinyMushroom in the Stump"
+      "replaces": {
+        "name": "Tiny Mushroom",
+        "slug": "tiny-mushroom",
+        "category": "loot",
+        "effect": "Fire Red and Leaf Green: Trade two for prior Level-up moves. Sell for 250 Pokédollars, or to Hungry Maid for 500 Pokédollars."
+      },
+      "note": "In the Stump"
     },
     {
-      "item": "Life Orb",
+      "item": {
+        "name": "Life Orb",
+        "slug": "life-orb",
+        "category": "held-items",
+        "effect": "Held: Holder’s moves inflict 30% extra damage, but cost 10% max HP."
+      },
       "location": "Challenger's Cave",
-      "note": "Replaces the Oval Stone"
+      "replaces": {
+        "name": "Oval Stone",
+        "slug": "oval-stone",
+        "category": "evolution",
+        "effect": "Level-up during Day on a Happiny: Holder evolves into Chansey."
+      }
     },
     {
-      "item": "TM13 Ice Beam",
+      "item": {
+        "name": "TM13 Ice Beam",
+        "slug": "tm13",
+        "category": "all-machines",
+        "machine": "TM13",
+        "moveType": "ice"
+      },
       "location": "Challenger's Cave",
-      "note": "Replaces TM71 Stone Edge"
+      "replaces": {
+        "name": "TM71 Stone Edge",
+        "slug": "tm71",
+        "category": "all-machines",
+        "machine": "TM71",
+        "moveType": "rock"
+      }
     },
     {
-      "item": "Choice Band",
+      "item": {
+        "name": "Choice Band",
+        "slug": "choice-band",
+        "category": "choice",
+        "effect": "Held: Increases Attack by 50%, but restricts the holder to only one move."
+      },
       "location": "Dragonspiral Tower - Interior",
-      "note": "Replaces Star Piece"
+      "replaces": {
+        "name": "Star Piece",
+        "slug": "star-piece",
+        "category": "loot",
+        "effect": "Platinum: Trade for one of each color Shard. Black and White: Trade for PP Up. Sell for 4900 Pokédollars, or to Ore Collector for 9800 Pokédollars."
+      }
     },
     {
-      "item": "Choice Specs",
+      "item": {
+        "name": "Choice Specs",
+        "slug": "choice-specs",
+        "category": "choice",
+        "effect": "Held: Increases Special Attack by 50%, but restricts the holder to only one move."
+      },
       "location": "Lostlorn Forest",
-      "note": "Replaces Rare Candy"
+      "replaces": {
+        "name": "Rare Candy",
+        "slug": "rare-candy",
+        "category": "vitamins",
+        "effect": "Causes a level-up and raises happiness."
+      }
     },
     {
-      "item": "Choice Scarf",
+      "item": {
+        "name": "Choice Scarf",
+        "slug": "choice-scarf",
+        "category": "choice",
+        "effect": "Held: Increases Speed by 50%, but restricts the holder to only one move."
+      },
       "location": "Moor of Iccirus",
-      "note": "Replaces Ultra Ball"
+      "replaces": {
+        "name": "Ultra Ball",
+        "slug": "ultra-ball",
+        "category": "standard-balls",
+        "effect": "Tries to catch a wild Pokémon. Success rate is 2×."
+      }
     },
     {
-      "item": "Rare Candy",
+      "item": {
+        "name": "Rare Candy",
+        "slug": "rare-candy",
+        "category": "vitamins",
+        "effect": "Causes a level-up and raises happiness."
+      },
       "location": "Route 13",
-      "note": "Replaces Psychic"
+      "replaces": {
+        "name": "TM29 Psychic",
+        "slug": "tm29",
+        "category": "all-machines",
+        "machine": "TM29",
+        "moveType": "psychic"
+      }
     },
     {
-      "item": "TM71 Stone Edge",
+      "item": {
+        "name": "TM71 Stone Edge",
+        "slug": "tm71",
+        "category": "all-machines",
+        "machine": "TM71",
+        "moveType": "rock"
+      },
       "location": "Giant Chasm",
-      "note": "Replaces TM13 Ice Beam"
+      "replaces": {
+        "name": "TM13 Ice Beam",
+        "slug": "tm13",
+        "category": "all-machines",
+        "machine": "TM13",
+        "moveType": "ice"
+      }
     },
     {
-      "item": "TM29 Psychic",
+      "item": {
+        "name": "TM29 Psychic",
+        "slug": "tm29",
+        "category": "all-machines",
+        "machine": "TM29",
+        "moveType": "psychic"
+      },
       "location": "Dreamyard",
-      "note": "Replaces Hyper Potion"
+      "replaces": {
+        "name": "Hyper Potion",
+        "slug": "hyper-potion",
+        "category": "healing",
+        "effect": "Restores 200 HP."
+      }
     },
     {
-      "item": "Enigma Stone",
+      "item": {
+        "name": "Enigma Stone",
+        "slug": "enigma-stone",
+        "category": "event-items",
+        "effect": "S: Summons Latias H: Summons Latios."
+      },
       "location": "Giant Chasm - Interior"
     },
     {
-      "item": "Binding Band",
+      "item": {
+        "name": "Binding Band",
+        "slug": "binding-band",
+        "category": "held-items",
+        "effect": "Held: Doubles the per-turn damage of multi-turn trapping moves."
+      },
       "location": "Inner Pinwheel Forest",
-      "note": "Replaces Antidote"
+      "replaces": {
+        "name": "Antidote",
+        "slug": "antidote",
+        "category": "status-cures",
+        "effect": "Cures poison."
+      }
     },
     {
-      "item": "Shiny Stone",
+      "item": {
+        "name": "Shiny Stone",
+        "slug": "shiny-stone",
+        "category": "evolution",
+        "effect": "Evolves a Minccino into Cinccino, a Roselia into Roserade, or a Togetic into Togekiss."
+      },
       "location": "Abundant Shrine",
-      "note": "Replaces Flamethrower"
+      "replaces": {
+        "name": "TM35 Flamethrower",
+        "slug": "tm35",
+        "category": "all-machines",
+        "machine": "TM35",
+        "moveType": "fire"
+      }
     },
     {
-      "item": "Gracidea",
+      "item": {
+        "name": "Gracidea",
+        "slug": "gracidea",
+        "category": "event-items",
+        "effect": "Changes an unfrozen Shaymin to Sky Forme in the day."
+      },
       "location": "Route 12",
-      "note": "Replaces Full Heal"
+      "replaces": {
+        "name": "Full Heal",
+        "slug": "full-heal",
+        "category": "status-cures",
+        "effect": "Cures any status ailment and confusion."
+      }
     },
     {
-      "item": "TM53 Energy Ball",
+      "item": {
+        "name": "TM53 Energy Ball",
+        "slug": "tm53",
+        "category": "all-machines",
+        "machine": "TM53",
+        "moveType": "grass"
+      },
       "location": "Pinwheel Forest - Interior",
-      "note": "Replaces TM22 SolarBeam"
+      "replaces": {
+        "name": "TM22 SolarBeam",
+        "slug": "tm22",
+        "category": "all-machines",
+        "machine": "TM22",
+        "moveType": "grass"
+      }
     },
     {
-      "item": "TM22 SolarBeam",
+      "item": {
+        "name": "TM22 SolarBeam",
+        "slug": "tm22",
+        "category": "all-machines",
+        "machine": "TM22",
+        "moveType": "grass"
+      },
       "location": "Route 12",
-      "note": "Replaces TM53 Energy Ball"
+      "replaces": {
+        "name": "TM53 Energy Ball",
+        "slug": "tm53",
+        "category": "all-machines",
+        "machine": "TM53",
+        "moveType": "grass"
+      }
     },
     {
-      "item": "Dragon Scale",
+      "item": {
+        "name": "Dragon Scale",
+        "slug": "dragon-scale",
+        "category": "evolution",
+        "effect": "Traded on a Seadra: Holder evolves into Kingdra."
+      },
       "location": "Route 17",
-      "note": "Replaces DeepSeaTooth"
+      "replaces": {
+        "name": "Deep Sea Tooth",
+        "slug": "deep-sea-tooth",
+        "category": "species-specific",
+        "effect": "Doubles Clamperl’s Special Attack. Traded on a Clamperl: Holder evolves into Huntail."
+      }
     },
     {
-      "item": "Dragon Scale",
+      "item": {
+        "name": "Dragon Scale",
+        "slug": "dragon-scale",
+        "category": "evolution",
+        "effect": "Traded on a Seadra: Holder evolves into Kingdra."
+      },
       "location": "Wellspring Cave",
-      "note": "Replaces Dive Ball"
+      "replaces": {
+        "name": "Dive Ball",
+        "slug": "dive-ball",
+        "category": "special-balls",
+        "effect": "Tries to catch a wild Pokémon. Success rate is 3.5× when underwater, fishing, or surfing."
+      }
     },
     {
-      "item": "Dragon Scale",
+      "item": {
+        "name": "Dragon Scale",
+        "slug": "dragon-scale",
+        "category": "evolution",
+        "effect": "Traded on a Seadra: Holder evolves into Kingdra."
+      },
       "location": "Dragonspiral Tower",
-      "note": "Replaces Stardust"
+      "replaces": {
+        "name": "Stardust",
+        "slug": "stardust",
+        "category": "loot",
+        "effect": "Sell for 1000 Pokédollars, or to Ore Collector for 2000 Pokédollars."
+      }
     },
     {
-      "item": "TM03 Psyshock",
+      "item": {
+        "name": "TM03 Psyshock",
+        "slug": "tm03",
+        "category": "all-machines",
+        "machine": "TM03",
+        "moveType": "psychic"
+      },
       "location": "Route 18",
-      "note": "Replaces TM19 Telekinesis"
+      "replaces": {
+        "name": "TM19 Telekinesis",
+        "slug": "tm19",
+        "category": "all-machines",
+        "machine": "TM19",
+        "moveType": "psychic"
+      }
     },
     {
-      "item": "TM19 Telekinesis",
+      "item": {
+        "name": "TM19 Telekinesis",
+        "slug": "tm19",
+        "category": "all-machines",
+        "machine": "TM19",
+        "moveType": "psychic"
+      },
       "location": "Giant Chasm",
-      "note": "replaces TM03 Psyshock"
+      "replaces": {
+        "name": "TM03 Psyshock",
+        "slug": "tm03",
+        "category": "all-machines",
+        "machine": "TM03",
+        "moveType": "psychic"
+      }
     }
   ],
   "gifts": [
     {
-      "item": "Muscle Band",
+      "item": {
+        "name": "Muscle Band",
+        "slug": "muscle-band",
+        "category": "held-items",
+        "effect": "Held: Boosts the damage of physical moves used by the holder by 10%."
+      },
       "location": "Pinwheel Forest - Outer",
-      "note": "Gift from defeating Black Belt Takeshi"
+      "giftFrom": "Black Belt Takeshi"
     },
     {
-      "item": "Wise Glasses",
+      "item": {
+        "name": "Wise Glasses",
+        "slug": "wise-glasses",
+        "category": "held-items",
+        "effect": "Held: Boosts the damage of special moves used by the holder by 1/10 (10%)."
+      },
       "location": "Castelia City",
-      "note": "Gift from defeating Lass Alicia"
+      "giftFrom": "Lass Alicia"
     },
     {
-      "item": "Leftovers",
+      "item": {
+        "name": "Leftovers",
+        "slug": "leftovers",
+        "category": "held-items",
+        "effect": "Held: Restores 1/16 (6.25%) holder’s max HP at the end of each turn."
+      },
       "location": "Driftveil City",
-      "note": "Gift from defeating Ace Trainer Sasha"
+      "giftFrom": "Ace Trainer Sasha"
     },
     {
-      "item": "TM35 Flamethrower",
+      "item": {
+        "name": "TM35 Flamethrower",
+        "slug": "tm35",
+        "category": "all-machines",
+        "machine": "TM35",
+        "moveType": "fire"
+      },
       "location": "Dragonspiral Tower - Exterior",
-      "note": "Gift from defeating Veteran Zenith"
+      "giftFrom": "Veteran Zenith"
     },
     {
-      "item": "RageCandyBar",
+      "item": {
+        "name": "Rage Candy Bar",
+        "slug": "rage-candy-bar",
+        "category": "gameplay",
+        "effect": "HS: Traded for TM64. Gen II & Gen V: Acts as a Potion."
+      },
       "location": "Route 6",
-      "note": "Changed from Shiny Stone gift"
+      "replaces": {
+        "name": "Shiny Stone",
+        "slug": "shiny-stone",
+        "category": "evolution",
+        "effect": "Evolves a Minccino into Cinccino, a Roselia into Roserade, or a Togetic into Togekiss."
+      }
     },
     {
-      "item": "Liberty Pass",
+      "item": {
+        "name": "Liberty Pass",
+        "slug": "liberty-pass",
+        "category": "event-items",
+        "effect": "Allows access to Liberty Garden and Victini."
+      },
       "location": "Shopping Mall Nine",
-      "note": "Gift from defeating Ace Trainer Dheku, Post-Game only"
+      "giftFrom": "Ace Trainer Dheku",
+      "note": "Post-Game only"
     }
   ],
   "hidden": [
     {
-      "item": "Ultra Ball",
+      "item": {
+        "name": "Ultra Ball",
+        "slug": "ultra-ball",
+        "category": "standard-balls",
+        "effect": "Tries to catch a wild Pokémon. Success rate is 2×."
+      },
       "location": "Route 3"
     },
     {
-      "item": "Super Repel",
+      "item": {
+        "name": "Super Repel",
+        "slug": "super-repel",
+        "category": "spelunking",
+        "effect": "For 200 steps, prevents wild encounters of level lower than your party’s lead Pokémon."
+      },
       "location": "Nimbasa City"
     },
     {
-      "item": "Hyper Potion",
+      "item": {
+        "name": "Hyper Potion",
+        "slug": "hyper-potion",
+        "category": "healing",
+        "effect": "Restores 200 HP."
+      },
       "location": "Mistralton Cave"
     },
     {
-      "item": "Max Repel",
+      "item": {
+        "name": "Max Repel",
+        "slug": "max-repel",
+        "category": "spelunking",
+        "effect": "For 250 steps, prevents wild encounters of level lower than your party’s lead Pokémon."
+      },
       "location": "Opelucid City"
     }
   ],
@@ -155,76 +423,450 @@
     {
       "location": "Castelia City",
       "items": [
-        "Heal Ball[V]",
-        "Net Ball[V]",
-        "Nest Ball[V]",
-        "Luxury Ball",
-        "Dusk Ball",
-        "Protein",
-        "Iron",
-        "Calcium",
-        "Zinc",
-        "Carbos",
-        "HP Up"
+        {
+          "item": {
+            "name": "Heal Ball",
+            "slug": "heal-ball",
+            "category": "special-balls",
+            "effect": "Tries to catch a wild Pokémon. Caught Pokémon are immediately healed."
+          },
+          "vanilla": true
+        },
+        {
+          "item": {
+            "name": "Net Ball",
+            "slug": "net-ball",
+            "category": "special-balls",
+            "effect": "Tries to catch a wild Pokémon. Success rate is 3× for water and bug Pokémon."
+          },
+          "vanilla": true
+        },
+        {
+          "item": {
+            "name": "Nest Ball",
+            "slug": "nest-ball",
+            "category": "special-balls",
+            "effect": "Tries to catch a wild Pokémon. Success rate is 3.9× for level 1 Pokémon, and drops steadily to 1× at level 30."
+          },
+          "vanilla": true
+        },
+        {
+          "item": {
+            "name": "Luxury Ball",
+            "slug": "luxury-ball",
+            "category": "special-balls",
+            "effect": "Tries to catch a wild Pokémon. Caught Pokémon start with 200 happiness."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Dusk Ball",
+            "slug": "dusk-ball",
+            "category": "special-balls",
+            "effect": "Tries to catch a wild Pokémon. Success rate is 3.5× at night and in caves."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Protein",
+            "slug": "protein",
+            "category": "vitamins",
+            "effect": "Raises Attack effort and happiness."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Iron",
+            "slug": "iron",
+            "category": "vitamins",
+            "effect": "Raises Defense effort and happiness."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Calcium",
+            "slug": "calcium",
+            "category": "vitamins",
+            "effect": "Raises Special Attack effort and happiness."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Zinc",
+            "slug": "zinc",
+            "category": "vitamins",
+            "effect": "Raises Special Defense and happiness."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Carbos",
+            "slug": "carbos",
+            "category": "vitamins",
+            "effect": "Raises Speed effort and happiness."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "HP Up",
+            "slug": "hp-up",
+            "category": "vitamins",
+            "effect": "Raises HP effort and happiness."
+          },
+          "vanilla": false
+        }
       ]
     },
     {
       "location": "Driftveil City",
       "items": [
-        "Net Ball[V]",
-        "Nest Ball[V]",
-        "Dusk Ball[V}",
-        "Heal Ball",
-        "Luxury Ball",
-        "Fire Stone",
-        "Thunder Stone",
-        "Water Stone",
-        "Leaf Stone",
-        "Sun Stone",
-        "Moon Stone"
+        {
+          "item": {
+            "name": "Net Ball",
+            "slug": "net-ball",
+            "category": "special-balls",
+            "effect": "Tries to catch a wild Pokémon. Success rate is 3× for water and bug Pokémon."
+          },
+          "vanilla": true
+        },
+        {
+          "item": {
+            "name": "Nest Ball",
+            "slug": "nest-ball",
+            "category": "special-balls",
+            "effect": "Tries to catch a wild Pokémon. Success rate is 3.9× for level 1 Pokémon, and drops steadily to 1× at level 30."
+          },
+          "vanilla": true
+        },
+        {
+          "item": {
+            "name": "Dusk Ball",
+            "slug": "dusk-ball",
+            "category": "special-balls",
+            "effect": "Tries to catch a wild Pokémon. Success rate is 3.5× at night and in caves."
+          },
+          "vanilla": true
+        },
+        {
+          "item": {
+            "name": "Heal Ball",
+            "slug": "heal-ball",
+            "category": "special-balls",
+            "effect": "Tries to catch a wild Pokémon. Caught Pokémon are immediately healed."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Luxury Ball",
+            "slug": "luxury-ball",
+            "category": "special-balls",
+            "effect": "Tries to catch a wild Pokémon. Caught Pokémon start with 200 happiness."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Fire Stone",
+            "slug": "fire-stone",
+            "category": "evolution",
+            "effect": "Evolves an Eevee into Flareon, a Growlithe into Arcanine, a Pansear into Simisear, or a Vulpix into Ninetales."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Thunder Stone",
+            "slug": "thunder-stone",
+            "category": "evolution",
+            "effect": "Evolves an Eelektrik into Eelektross, an Eevee into Jolteon, or a Pikachu into Raichu."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Water Stone",
+            "slug": "water-stone",
+            "category": "evolution",
+            "effect": "Evolves an Eevee into Vaporeon, a Lombre into Ludicolo, a Panpour into Simipour, a Poliwhirl into Poliwrath, a Shellder into Cloyster, or a Staryu into Starmie."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Leaf Stone",
+            "slug": "leaf-stone",
+            "category": "evolution",
+            "effect": "Evolves an Exeggcute into Exeggutor, a Gloom into Vileplume, a Nuzleaf into Shiftry, a Pansage into Simisage, or a Weepinbell into Victreebel."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Sun Stone",
+            "slug": "sun-stone",
+            "category": "evolution",
+            "effect": "Evolves a Cottonee into Whimsicott, a Gloom into Bellossom, a Petilil into Lilligant, or a Sunkern into Sunflora."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Moon Stone",
+            "slug": "moon-stone",
+            "category": "evolution",
+            "effect": "Evolves a Clefairy into Clefable, a Jigglypuff into Wigglytuff, a Munna into Musharna, a Nidorina into Nidoqueen, a Nidorino into Nidoking, or a Skitty into Delcatty."
+          },
+          "vanilla": false
+        }
       ]
     },
     {
       "location": "Driftveil Market - Herb Vendor",
       "items": [
-        "White Herb",
-        "Power Herb",
-        "Mental Herb",
-        "Revival Herb[V]"
+        {
+          "item": {
+            "name": "White Herb",
+            "slug": "white-herb",
+            "category": "held-items",
+            "effect": "Held: Resets all lowered stats to normal at end of turn. Consumed after use."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Power Herb",
+            "slug": "power-herb",
+            "category": "held-items",
+            "effect": "Held: Both turns of a two-turn charge move happen at once. Consumed upon use."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Mental Herb",
+            "slug": "mental-herb",
+            "category": "held-items",
+            "effect": "Held: Consumed to cure infatuation. Gen V: Also removes Taunt, Encore, Torment, Disable, and Cursed Body."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Revival Herb",
+            "slug": "revival-herb",
+            "category": "revival",
+            "effect": "Revives with full HP, but lowers happiness."
+          },
+          "vanilla": true
+        }
       ]
     },
     {
       "location": "Opelucid City",
       "items": [
-        "Dusk Ball[V]",
-        "Timer Ball[V]",
-        "Quick Ball[V]",
-        "Luxury Ball",
-        "Repeat Ball",
-        "Dive Ball",
-        "Heal Ball",
-        "Dawn Stone",
-        "Shiny Stone",
-        "Dusk Stone",
-        "PP Up"
+        {
+          "item": {
+            "name": "Dusk Ball",
+            "slug": "dusk-ball",
+            "category": "special-balls",
+            "effect": "Tries to catch a wild Pokémon. Success rate is 3.5× at night and in caves."
+          },
+          "vanilla": true
+        },
+        {
+          "item": {
+            "name": "Timer Ball",
+            "slug": "timer-ball",
+            "category": "special-balls",
+            "effect": "Tries to catch a wild Pokémon. Success rate increases by 0.1× (Gen V: 0.3×) every turn, to a max of 4×."
+          },
+          "vanilla": true
+        },
+        {
+          "item": {
+            "name": "Quick Ball",
+            "slug": "quick-ball",
+            "category": "special-balls",
+            "effect": "Tries to catch a wild Pokémon. Success rate is 4× (Gen V: 5×), but only on the first turn."
+          },
+          "vanilla": true
+        },
+        {
+          "item": {
+            "name": "Luxury Ball",
+            "slug": "luxury-ball",
+            "category": "special-balls",
+            "effect": "Tries to catch a wild Pokémon. Caught Pokémon start with 200 happiness."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Repeat Ball",
+            "slug": "repeat-ball",
+            "category": "special-balls",
+            "effect": "Tries to catch a wild Pokémon. Success rate is 3× for previously-caught Pokémon."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Dive Ball",
+            "slug": "dive-ball",
+            "category": "special-balls",
+            "effect": "Tries to catch a wild Pokémon. Success rate is 3.5× when underwater, fishing, or surfing."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Heal Ball",
+            "slug": "heal-ball",
+            "category": "special-balls",
+            "effect": "Tries to catch a wild Pokémon. Caught Pokémon are immediately healed."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Dawn Stone",
+            "slug": "dawn-stone",
+            "category": "evolution",
+            "effect": "Evolves a male Kirlia into Gallade or a female Snorunt into Froslass."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Shiny Stone",
+            "slug": "shiny-stone",
+            "category": "evolution",
+            "effect": "Evolves a Minccino into Cinccino, a Roselia into Roserade, or a Togetic into Togekiss."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Dusk Stone",
+            "slug": "dusk-stone",
+            "category": "evolution",
+            "effect": "Evolves a Lampent into Chandelure, a Misdreavus into Mismagius, or a Murkrow into Honchkrow."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "PP Up",
+            "slug": "pp-up",
+            "category": "vitamins",
+            "effect": "Raises a move’s max PP by 20%."
+          },
+          "vanilla": false
+        }
       ]
     },
     {
       "location": "Shopping Mall Nine",
+      "section": "Top Section - Left Cashier",
       "items": [
-        "Top Section - Left Cashier;",
-        "Focus Sash",
-        "Eject Button",
-        "Air Balloon",
-        "Cell Battery",
-        "Absorb Bulb",
-        "Red Card"
+        {
+          "item": {
+            "name": "Focus Sash",
+            "slug": "focus-sash",
+            "category": "held-items",
+            "effect": "Held: Holder survives any single-hit attack at 1 HP if at max HP, then the item is consumed."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Eject Button",
+            "slug": "eject-button",
+            "category": "held-items",
+            "effect": "Held: When the holder takes damage from a move, it switches out for a party Pokémon of the Trainer’s choice."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Air Balloon",
+            "slug": "air-balloon",
+            "category": "held-items",
+            "effect": "Held: Grants immunity to Ground-type moves, Spikes, and Toxic Spikes. Consumed when the holder takes damage from a move."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Cell Battery",
+            "slug": "cell-battery",
+            "category": "held-items",
+            "effect": "Held: Raises the holder’s Attack by one stage when it takes Electric-type damage."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Absorb Bulb",
+            "slug": "absorb-bulb",
+            "category": "held-items",
+            "effect": "Held: Raises the holder’s Special Attack by one stage when it takes Water-type damage."
+          },
+          "vanilla": false
+        },
+        {
+          "item": {
+            "name": "Red Card",
+            "slug": "red-card",
+            "category": "held-items",
+            "effect": "Held: When the holder takes damage from a move, the opponent switches out for another random party Pokémon. Consumed after use."
+          },
+          "vanilla": false
+        }
       ]
     }
   ],
   "priceChanges": [
-    "Repels, Super Repels and Max Repels are now $50, $100 and $150 respectively",
-    "White Herb, Mental Herb and Power Herb are all now $500",
-    "Focus Sash is now $2000"
-  ]
+    {
+      "items": [
+        "Repels"
+      ],
+      "price": 50
+    },
+    {
+      "items": [
+        "Super Repels"
+      ],
+      "price": 100
+    },
+    {
+      "items": [
+        "Max Repels"
+      ],
+      "price": 150
+    },
+    {
+      "items": [
+        "White Herb",
+        "Mental Herb",
+        "Power Herb"
+      ],
+      "price": 500
+    },
+    {
+      "items": [
+        "Focus Sash"
+      ],
+      "price": 2000
+    }
+  ],
+  "galleryNote": "The artsy Harlequin will now offer you the choice between these items after showing him a Pokemon of the type he requests on that day."
 }

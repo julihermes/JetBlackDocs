@@ -1,0 +1,171 @@
+.sectionNote {
+  margin: -6px 0 10px;
+  font-size: 12.5px;
+  color: var(--text-faint);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 8px;
+}
+
+.martGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 8px;
+  align-items: start;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-md);
+  padding: 12px 14px;
+}
+
+.cardHead {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.cardTitle {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.itemName {
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.location {
+  font-size: 12px;
+  color: var(--text-dim);
+}
+
+.swap {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 10px 0 0;
+  font-size: 12px;
+  color: var(--text-dim);
+}
+
+/* The card's title is already the new item, so only the replaced one is named here. */
+.swapVanilla {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 3px 7px;
+  border-radius: var(--radius-sm);
+  background: var(--surface-raised);
+  border: 1px solid var(--hairline);
+  text-decoration: line-through;
+  text-decoration-color: var(--text-faint);
+}
+
+.swapLabel {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  letter-spacing: 0.04em;
+  color: var(--text-faint);
+}
+
+.meta {
+  margin: 8px 0 0;
+  font-size: 12px;
+  color: var(--text-dim);
+}
+
+.effect {
+  margin: 8px 0 0;
+  font-size: 12px;
+  color: var(--text-faint);
+}
+
+.flavor {
+  margin: 6px 0 0;
+  font-size: 12px;
+  font-style: italic;
+  color: var(--text-faint);
+}
+
+.priceGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 6px;
+}
+
+.priceRow {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 8px 12px;
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-sm);
+  font-size: 13px;
+}
+
+.price {
+  font-family: var(--font-mono);
+  font-weight: 700;
+  color: var(--teal);
+}
+
+.martName {
+  margin: 0;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.martSection {
+  margin: 2px 0 0;
+  font-size: 11.5px;
+  color: var(--text-faint);
+}
+
+.chipList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 10px;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 3px 8px 3px 4px;
+  border-radius: 999px;
+  border: 1px solid var(--hairline-strong);
+  background: var(--surface-raised);
+  font-size: 12px;
+  font-weight: 600;
+}
+
+/* Vanilla stock is context, not news — it recedes so the hack's additions read first. */
+.chipVanilla {
+  border-style: dashed;
+  border-color: var(--hairline);
+  background: transparent;
+  color: var(--text-dim);
+  font-weight: 400;
+}
+
+.select {
+  margin: 10px 0 14px;
+  padding: 7px 10px;
+  font: inherit;
+  font-size: 13px;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--hairline-strong);
+  border-radius: var(--radius-sm);
+}

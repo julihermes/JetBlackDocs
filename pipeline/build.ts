@@ -14,7 +14,7 @@ import { buildEncountersBySpecies, buildTrainersBySpecies, buildLearnedByMove } 
 import { attachTypes, attachSpeciesInfo, buildTmCompatibility, buildEvolutionLookup, buildMoveList } from "./vanilla-data.ts";
 import { computeObtainableSpecies } from "./obtainability.ts";
 import { alnumKey } from "./lib/text.ts";
-import type { BuildManifest, EvolutionLookup } from "./types.ts";
+import type { BuildManifest, EvolutionLookup, VanillaItemInfo } from "./types.ts";
 
 const OUT_DIR = join(process.cwd(), "src", "data");
 
@@ -79,6 +79,13 @@ function main() {
   const legendaries = run("legendaries", "Legendary and Mythical locations", /Obelisks/, parseLegendaries, (d) => d.length);
   const moveChanges = run("move-changes", "Move changes", /^Move Changes:/m, parseMoveChanges, (d) => d.changed.length + d.newMoves.length);
   const items = run("items", "Item location changes", /Ground Items/, parseItems, (d) => d.ground.length + d.gifts.length + d.hidden.length);
+  // The full Black item catalog is its own lazily loaded file: only the Items
+  // page needs it, and it dwarfs the handful of rows the hack actually changes.
+  const itemInfo: Record<string, VanillaItemInfo> = JSON.parse(
+    readFileSync(join(process.cwd(), "pipeline", "vanilla-data", "items.json"), "utf-8"),
+  );
+  writeJson("item-info", itemInfo);
+  summary.push(`item-info: ${Object.keys(itemInfo).length} vanilla Black items`);
   const changelog = run("changelog", "Changelog notes", /changenotes/i, parseChangelog, (d) => d.length);
   const wildEncounters = run("wild-encounters", "Wild Pokemon locations", /^\* Means Shaking Grass/m, parseWildEncounters, (d) => d.length);
   const pokemon = run("pokemon", "Stats and Learnsets", /^Ability:/m, parseStatsAndLearnsets, (d) => d.length, (d) => attachSpeciesInfo(attachTypes(d)));

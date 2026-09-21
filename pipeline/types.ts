@@ -79,36 +79,56 @@ export interface MoveEntry extends VanillaMoveInfo {
   learnedBy: string[]; // species that learn it — level-up reverse index for vanilla moves, doc-curated distribution list for new moves
 }
 
-export interface GroundItemEntry {
-  item: string;
-  location: string;
-  note?: string;
+/** Vanilla Pokémon Black item reference data (PokeAPI), keyed by its PokeAPI slug — see pipeline/vanilla-data/README.md. */
+export interface VanillaItemInfo {
+  name: string; // English display name ("Life Orb")
+  category: string; // PokeAPI item category slug ("held-items", "evolution", ...)
+  effect: string; // one-line mechanical summary
+  flavorText: string; // Black/White bag description
 }
 
-export interface GiftItemEntry {
-  item: string;
-  location: string;
-  note?: string;
+/** An item as the hack's doc names it, resolved against the vanilla item list where possible. */
+export interface ItemRef {
+  name: string; // the doc's own spelling, corrected to the vanilla name when it resolved
+  slug?: string; // PokeAPI slug — absent when the name couldn't be resolved
+  category?: string;
+  effect?: string;
+  machine?: string; // "TM13" / "HM03" for machines
+  moveType?: string; // the taught move's type, for the type-colored disc
 }
 
-export interface HiddenItemEntry {
-  item: string;
+export interface ItemChangeEntry {
+  item: ItemRef;
   location: string;
-  note?: string;
+  replaces?: ItemRef; // the vanilla item this one takes the place of
+  giftFrom?: string; // the trainer whose defeat hands it over
+  note?: string; // anything the doc said that isn't one of the above
+}
+
+export interface MartItem {
+  item: ItemRef;
+  vanilla: boolean; // the doc's "[V]" marker: stocked in vanilla Black too
 }
 
 export interface MartStock {
   location: string;
+  section?: string; // e.g. "Top Section - Left Cashier"
+  items: MartItem[];
+}
+
+export interface PriceChange {
   items: string[];
+  price: number;
 }
 
 export interface ItemsData {
-  ground: GroundItemEntry[];
-  gifts: GiftItemEntry[];
-  hidden: HiddenItemEntry[];
+  ground: ItemChangeEntry[];
+  gifts: ItemChangeEntry[];
+  hidden: ItemChangeEntry[];
   hiddenItemsReplacedBy: string;
   martStock: MartStock[];
-  priceChanges: string[];
+  priceChanges: PriceChange[];
+  galleryNote: string; // the Castelia Gallery section is prose only, with no item list
 }
 
 export interface ChangelogEntry {

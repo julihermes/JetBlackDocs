@@ -6,3 +6,8 @@
 export function spriteUrl(dexNumber: number): string {
   return `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${dexNumber}.png`;
 }
+
+/** Item sprite from the same CDN as the Pokémon sprites, keyed by PokeAPI slug ("life-orb"). */
+export function itemSpriteUrl(slug: string): string {
+  return `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/${slug}.png`;
+}

@@ -1,0 +1,3638 @@
+{
+"ability-urge": {
+"name": "Ability Urge",
+"category": "miracle-shooter",
+"effect": "Forcibly activates a friendly Pokémon’s ability.",
+"flavorText": "When used, it activates the Ability of an ally Pokémon."
+},
+"absorb-bulb": {
+"name": "Absorb Bulb",
+"category": "held-items",
+"effect": "Held: Raises the holder’s Special Attack by one stage when it takes Water-type damage.",
+"flavorText": "A consumable bulb. If the holder is hit by a Water-type move, its Sp. Atk will rise."
+},
+"adamant-orb": {
+"name": "Adamant Orb",
+"category": "species-specific",
+"effect": "Boosts the damage from Dialga’s Dragon-type and Steel-type moves by 20%.",
+"flavorText": "A brightly gleaming orb to be held by Dialga. It boosts the power of Dragon-​ and Steel-type moves."
+},
+"aguav-berry": {
+"name": "Aguav Berry",
+"category": "picky-healing",
+"effect": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike bitter flavor.",
+"flavorText": "If held by a Pokémon, it restores the user’s HP in a pinch, but will cause confusion if it hates the taste."
+},
+"air-balloon": {
+"name": "Air Balloon",
+"category": "held-items",
+"effect": "Held: Grants immunity to Ground-type moves, Spikes, and Toxic Spikes. Consumed when the holder takes damage from a move.",
+"flavorText": "When held by a Pokémon, the Pokémon will float into the air. When the holder is attacked, this item will burst."
+},
+"amulet-coin": {
+"name": "Amulet Coin",
+"category": "training",
+"effect": "Held: Doubles the money earned from a battle. Does not stack with Luck Incense.",
+"flavorText": "An item to be held by a Pokémon. It doubles a battle’s prize money if the holding Pokémon joins in."
+},
+"antidote": {
+"name": "Antidote",
+"category": "status-cures",
+"effect": "Cures poison.",
+"flavorText": "A spray-type medicine. It lifts the effect of poison from one Pokémon."
+},
+"apicot-berry": {
+"name": "Apicot Berry",
+"category": "in-a-pinch",
+"effect": "Held: Consumed at 1/4 max HP to boost Special Defense.",
+"flavorText": "If held by a Pokémon, it raises its Sp. Def stat in a pinch."
+},
+"apricorn-box": {
+"name": "Apricorn Box",
+"category": "gameplay",
+"effect": "Holds Apricorns.",
+"flavorText": "A handy box where you can store up to 99 Apricorns of each kind."
+},
+"armor-fossil": {
+"name": "Armor Fossil",
+"category": "dex-completion",
+"effect": "Can be revived into a Shieldon.",
+"flavorText": "A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a collar."
+},
+"aspear-berry": {
+"name": "Aspear Berry",
+"category": "medicine",
+"effect": "Held: Consumed when frozen to cure frozen.",
+"flavorText": "If held by a Pokémon, it defrosts it."
+},
+"awakening": {
+"name": "Awakening",
+"category": "status-cures",
+"effect": "Cures sleep.",
+"flavorText": "A spray-type medicine. It awakens a Pokémon from the clutches of sleep."
+},
+"azure-flute": {
+"name": "Azure Flute",
+"category": "event-items",
+"effect": "Allows entry into the Hall of Origin. Unreleased.",
+"flavorText": "A flute that puts out echoing sounds that do not seem to be of this world. It is unknown who made it."
+},
+"babiri-berry": {
+"name": "Babiri Berry",
+"category": "type-protection",
+"effect": "Held: Consumed when struck by a super-effective Steel-type attack to halve the damage.",
+"flavorText": "Weakens a supereffective Steel-type attack against the holding Pokémon."
+},
+"balm-mushroom": {
+"name": "Balm Mushroom",
+"category": "loot",
+"effect": "Sell to Hungry Maid for 25000 Pokédollars.",
+"flavorText": "A rare mushroom which gives off a nice fragrance. A maniac will buy it for a high price."
+},
+"basement-key": {
+"name": "Basement Key",
+"category": "plot-advancement",
+"effect": "HS: Key to the tunnel under Goldenrod City. Gen III: Key to New Mauville.",
+"flavorText": "A key that opens a door in the Goldenrod Tunnel."
+},
+"belue-berry": {
+"name": "Belue Berry",
+"category": "baking-only",
+"effect": "Used for creating PokéBlocks and Poffins.",
+"flavorText": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+},
+"berry-juice": {
+"name": "Berry Juice",
+"category": "healing",
+"effect": "Restores 20 HP.",
+"flavorText": "A 100% pure juice made of Berries. It restores the HP of one Pokémon by just 20 points."
+},
+"berry-pots": {
+"name": "Berry Pots",
+"category": "gameplay",
+"effect": "Allows portable berry growing.",
+"flavorText": "Handy containers for cultivating Berries wherever you go."
+},
+"bicycle": {
+"name": "Bicycle",
+"category": "gameplay",
+"effect": "Use for fast transit.",
+"flavorText": "A folding Bicycle that enables much faster movement than the Running Shoes."
+},
+"big-mushroom": {
+"name": "Big Mushroom",
+"category": "loot",
+"effect": "Fire Red and Leaf Green: Trade for prior Level-up moves. Sell for 2500 Pokédollars, or to Hungry Maid for 5000 Pokédollars.",
+"flavorText": "A large and rare mushroom. It is sought after by collectors."
+},
+"big-nugget": {
+"name": "Big Nugget",
+"category": "loot",
+"effect": "Sell to Ore Collector for 30000 Pokédollars.",
+"flavorText": "A big nugget of pure gold that gives off a lustrous gleam. A maniac will buy it for a high price."
+},
+"big-pearl": {
+"name": "Big Pearl",
+"category": "loot",
+"effect": "Sell for 3750 Pokédollars, or to Ore Collector for 7500 Pokédollars.",
+"flavorText": "A quite-large pearl that sparkles in a pretty silver color. It can be sold at a high price to shops."
+},
+"big-root": {
+"name": "Big Root",
+"category": "held-items",
+"effect": "Held: Increases HP recovered from draining moves, Ingrain, and Aqua Ring by 3/10 (30%).",
+"flavorText": "A Pokémon held item that boosts the power of HP-stealing moves to let the holder recover more HP."
+},
+"binding-band": {
+"name": "Binding Band",
+"category": "held-items",
+"effect": "Held: Doubles the per-turn damage of multi-turn trapping moves.",
+"flavorText": "A band that increases the power of binding moves when held."
+},
+"black-apricorn": {
+"name": "Black Apricorn",
+"category": "apricorn-box",
+"effect": "Used to make a Heavy Ball.",
+"flavorText": "A black Apricorn It has an indescribable scent."
+},
+"black-belt": {
+"name": "Black Belt",
+"category": "type-enhancement",
+"effect": "Held: Fighting-Type moves from holder do 20% more damage.",
+"flavorText": "An item to be held by a Pokémon. It is a belt that boosts determination and Fighting-type moves."
+},
+"black-flute": {
+"name": "Black Flute",
+"category": "spelunking",
+"effect": "Halves the wild Pokémon encounter rate.",
+"flavorText": "A toy flute made from black glass. A maniac will buy it for a high price."
+},
+"black-glasses": {
+"name": "Black Glasses",
+"category": "type-enhancement",
+"effect": "Held: Dark-Type moves from holder do 20% more damage.",
+"flavorText": "An item to be held by a Pokémon. It is a shady-looking pair of glasses that boosts Dark-type moves."
+},
+"black-sludge": {
+"name": "Black Sludge",
+"category": "held-items",
+"effect": "Held: Poison-type holder recovers 1/16 (6.25%) max HP each turn. Non-Poison-Types take 1/8 (12.5%) max HP damage.",
+"flavorText": "A held item that gradually restores the HP of Poison-type Pokémon. It inflicts damage on all other types."
+},
+"blue-apricorn": {
+"name": "Blue Apricorn",
+"category": "apricorn-box",
+"effect": "Used to make a Lure Ball.",
+"flavorText": "A blue Apricorn. It smells a bit like grass."
+},
+"blue-card": {
+"name": "Blue Card",
+"category": "gameplay",
+"effect": "Keeps track of points from Buena’s show.",
+"flavorText": "A card to save points for the Buena’s Password show."
+},
+"blue-flute": {
+"name": "Blue Flute",
+"category": "flutes",
+"effect": "Cures sleep.",
+"flavorText": "A toy flute made from blue glass. A maniac will buy it for a high price."
+},
+"blue-orb": {
+"name": "Blue Orb",
+"category": "plot-advancement",
+"effect": "Summons Kyogre to the Embedded Tower.",
+"flavorText": "A shiny blue orb that is said to have a legend and has a deep connection with the Hoenn region."
+},
+"blue-scarf": {
+"name": "Blue Scarf",
+"category": "scarves",
+"effect": "Raises the holder’s Beauty while in a contest.",
+"flavorText": "An item to be held by a Pokémon. It boosts the Beauty aspect of the holder in a Contest."
+},
+"blue-shard": {
+"name": "Blue Shard",
+"category": "collectibles",
+"effect": "No effect. Can be traded for items or moves.",
+"flavorText": "A small blue shard. It appears to be from some sort of implement made long ago."
+},
+"bluk-berry": {
+"name": "Bluk Berry",
+"category": "baking-only",
+"effect": "Used for creating PokéBlocks and Poffins.",
+"flavorText": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+},
+"bridge-mail-d": {
+"name": "Bridge Mail D",
+"category": "all-mail",
+"effect": "Lets a Trainer write a message and send it via Pokémon trade.",
+"flavorText": "Stationery featuring a print of a red drawbridge. Let a Pokémon hold it for use."
+},
+"bridge-mail-m": {
+"name": "Bridge Mail M",
+"category": "all-mail",
+"effect": "Lets a Trainer write a message and send it via Pokémon trade.",
+"flavorText": "Stationery featuring a print of an arched bridge. Let a Pokémon hold it for use."
+},
+"bridge-mail-s": {
+"name": "Bridge Mail S",
+"category": "all-mail",
+"effect": "Lets a Trainer write a message and send it via Pokémon trade.",
+"flavorText": "Stationery featuring a print of a sky-piercing bridge. Let a Pokémon hold it for use."
+},
+"bridge-mail-t": {
+"name": "Bridge Mail T",
+"category": "all-mail",
+"effect": "Lets a Trainer write a message and send it via Pokémon trade.",
+"flavorText": "Stationery featuring a print of a steel suspension bridge. Let a Pokémon hold it for use."
+},
+"bridge-mail-v": {
+"name": "Bridge Mail V",
+"category": "all-mail",
+"effect": "Lets a Trainer write a message and send it via Pokémon trade.",
+"flavorText": "Stationery featuring a print of a brick bridge. Let a Pokémon hold it for use."
+},
+"bright-powder": {
+"name": "Bright Powder",
+"category": "held-items",
+"effect": "Held: Increases the holder’s evasion by 1/9 (11 1/9%).",
+"flavorText": "An item to be held by a Pokémon. It casts a tricky glare that lowers the opponent’s accuracy."
+},
+"bug-gem": {
+"name": "Bug Gem",
+"category": "jewels",
+"effect": "Held: When the holder uses a damaging Bug-type move, the move has 1.5× power and this item is consumed.",
+"flavorText": "A gem with an insect-like essence. When held, it strengthens the power of a Bug-type move only once."
+},
+"burn-drive": {
+"name": "Burn Drive",
+"category": "species-specific",
+"effect": "Grants Genesect a red, Fire-type Techno Blast.",
+"flavorText": "A cassette to be held by Genesect. It changes Techno Blast to a Fire-type move."
+},
+"burn-heal": {
+"name": "Burn Heal",
+"category": "status-cures",
+"effect": "Cures a burn.",
+"flavorText": "A spray-type medicine. It heals a single Pokémon that is suffering from a burn."
+},
+"calcium": {
+"name": "Calcium",
+"category": "vitamins",
+"effect": "Raises Special Attack effort and happiness.",
+"flavorText": "A nutritious drink for Pokémon. It raises the base Sp. Atk (Special Attack) stat of a single Pokémon."
+},
+"carbos": {
+"name": "Carbos",
+"category": "vitamins",
+"effect": "Raises Speed effort and happiness.",
+"flavorText": "A nutritious drink for Pokémon. It raises the base Speed stat of a single Pokémon."
+},
+"card-key": {
+"name": "Card Key",
+"category": "plot-advancement",
+"effect": "HS: Opens doors in the Radio Tower. Gen III: Unlocks Silph Co Doors.",
+"flavorText": "A card key that opens a shutter in the Radio Tower."
+},
+"casteliacone": {
+"name": "Casteliacone",
+"category": "status-cures",
+"effect": "Cures any status ailment and confusion.",
+"flavorText": "Castelia City’s specialty, soft-serve ice cream. It heals all the status problems of a single Pokémon."
+},
+"cell-battery": {
+"name": "Cell Battery",
+"category": "held-items",
+"effect": "Held: Raises the holder’s Attack by one stage when it takes Electric-type damage.",
+"flavorText": "A consumable battery. If the holder is hit by an Electric-type move, its Attack will rise."
+},
+"charcoal": {
+"name": "Charcoal",
+"category": "type-enhancement",
+"effect": "Held: Fire-Type moves from holder do 20% more damage.",
+"flavorText": "An item to be held by a Pokémon. It is a combustible fuel that boosts the power of Fire-type moves."
+},
+"charti-berry": {
+"name": "Charti Berry",
+"category": "type-protection",
+"effect": "Held: Consumed when struck by a super-effective Rock-type attack to halve the damage.",
+"flavorText": "Weakens a supereffective Rock-type attack against the holding Pokémon."
+},
+"cheri-berry": {
+"name": "Cheri Berry",
+"category": "medicine",
+"effect": "Held: Consumed when paralyzed to cure paralysis.",
+"flavorText": "If held by a Pokémon, it recovers from paralysis."
+},
+"cherish-ball": {
+"name": "Cherish Ball",
+"category": "special-balls",
+"effect": "Tries to catch a wild Pokémon.",
+"flavorText": "A quite rare Poké Ball that has been specially crafted to commemorate an occasion of some sort."
+},
+"chesto-berry": {
+"name": "Chesto Berry",
+"category": "medicine",
+"effect": "Held: Consumed when asleep to cure sleep.",
+"flavorText": "If held by a Pokémon, it recovers from sleep."
+},
+"chilan-berry": {
+"name": "Chilan Berry",
+"category": "type-protection",
+"effect": "Held: Consumed when struck by a Normal-type attack to halve the damage.",
+"flavorText": "Weakens a Normal-type attack against the Pokémon holding this berry."
+},
+"chill-drive": {
+"name": "Chill Drive",
+"category": "species-specific",
+"effect": "Grants Genesect a white, Ice-type Techno Blast.",
+"flavorText": "A cassette to be held by Genesect. It changes Techno Blast to an Ice-type move."
+},
+"choice-band": {
+"name": "Choice Band",
+"category": "choice",
+"effect": "Held: Increases Attack by 50%, but restricts the holder to only one move.",
+"flavorText": "An item to be held by a Pokémon. This headband ups Attack, but allows the use of only one of its moves."
+},
+"choice-scarf": {
+"name": "Choice Scarf",
+"category": "choice",
+"effect": "Held: Increases Speed by 50%, but restricts the holder to only one move.",
+"flavorText": "An item to be held by a Pokémon. This scarf boosts Speed, but allows the use of only one of its moves."
+},
+"choice-specs": {
+"name": "Choice Specs",
+"category": "choice",
+"effect": "Held: Increases Special Attack by 50%, but restricts the holder to only one move.",
+"flavorText": "An item to be held by a Pokémon. These distinctive glasses boost Sp. Atk but allow the use of only one of its moves."
+},
+"chople-berry": {
+"name": "Chople Berry",
+"category": "type-protection",
+"effect": "Held: Consumed when struck by a super-effective Fighting-type attack to halve the damage.",
+"flavorText": "Weakens a supereffective Fighting-type attack against the holding Pokémon."
+},
+"claw-fossil": {
+"name": "Claw Fossil",
+"category": "dex-completion",
+"effect": "Can be revived into an Anorith.",
+"flavorText": "A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a claw."
+},
+"cleanse-tag": {
+"name": "Cleanse Tag",
+"category": "training",
+"effect": "Prevents wild encounters of level lower than your party’s lead Pokémon.",
+"flavorText": "An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party."
+},
+"clear-bell": {
+"name": "Clear Bell",
+"category": "plot-advancement",
+"effect": "HS: Allows Kimono-girls to summon Ho-oh. C: Summons Suicune to the Tin Tower.",
+"flavorText": "A very old-fashioned bell that makes a gentle ringing."
+},
+"clever-wing": {
+"name": "Clever Feather",
+"category": "vitamins",
+"effect": "Increases Special Defense effort by 1.",
+"flavorText": "An item for use on a Pokémon. It slightly increases the base Sp. Def stat of a single Pokémon."
+},
+"coba-berry": {
+"name": "Coba Berry",
+"category": "type-protection",
+"effect": "Held: Consumed when struck by a super-effective Flying-type attack to halve the damage.",
+"flavorText": "Weakens a supereffective Flying-type attack against the holding Pokémon."
+},
+"coin-case": {
+"name": "Coin Case",
+"category": "gameplay",
+"effect": "Holds coins for the Game Corner.",
+"flavorText": "A case for holding coins obtained at the Game Corner. It holds up to 50,000 coins."
+},
+"colbur-berry": {
+"name": "Colbur Berry",
+"category": "type-protection",
+"effect": "Held: Consumed when struck by a super-effective Dark-type attack to halve the damage.",
+"flavorText": "Weakens a supereffective Dark-type attack against the holding Pokémon."
+},
+"comet-shard": {
+"name": "Comet Shard",
+"category": "loot",
+"effect": "Sell to Ore Collector for 60000 Pokédollars.",
+"flavorText": "A shard which fell to the ground when a comet approached. A maniac will buy it for a high price."
+},
+"contest-pass": {
+"name": "Contest Pass",
+"category": "gameplay",
+"effect": "Allows participation in Pokémon Contests.",
+"flavorText": "The pass required for entering Pokémon Contests. It has a drawing of an award ribbon on it."
+},
+"cornn-berry": {
+"name": "Cornn Berry",
+"category": "baking-only",
+"effect": "Used for creating PokéBlocks and Poffins.",
+"flavorText": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+},
+"coupon-1": {
+"name": "Coupon 1",
+"category": "plot-advancement",
+"effect": "The first of three tickets used to obtain a Pokétch.",
+"flavorText": "A coupon to be exchanged for a Pokémon Watch (Pokétch for short). Three coupons are needed."
+},
+"coupon-2": {
+"name": "Coupon 2",
+"category": "plot-advancement",
+"effect": "The second of three tickets used to obtain a Pokétch.",
+"flavorText": "A coupon to be exchanged for a Pokémon Watch (Pokétch for short). Three coupons are needed."
+},
+"coupon-3": {
+"name": "Coupon 3",
+"category": "plot-advancement",
+"effect": "The last of three tickets used to obtain a Pokétch.",
+"flavorText": "A coupon to be exchanged for a Pokémon Watch (Pokétch for short). Three coupons are needed."
+},
+"cover-fossil": {
+"name": "Cover Fossil",
+"category": "dex-completion",
+"effect": "Can be revived into a Tirtouga.",
+"flavorText": "A fossil of an ancient Pokémon that lived in the sea in ancient times. It appears to be part of its back."
+},
+"custap-berry": {
+"name": "Custap Berry",
+"category": "in-a-pinch",
+"effect": "Held: Consumed at 1/4 max HP when using a move to go first.",
+"flavorText": "If held by a Pokémon, it gets to move first just once in a pinch."
+},
+"damp-mulch": {
+"name": "Damp Mulch",
+"category": "mulch",
+"effect": "Growing time of berries is increased, but the soil dries out slower.",
+"flavorText": "A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price."
+},
+"damp-rock": {
+"name": "Damp Rock",
+"category": "held-items",
+"effect": "Held: Rain Dance by the holder lasts 8 rounds instead of 5.",
+"flavorText": "A Pokémon held item that extends the duration of the move Rain Dance used by the holder."
+},
+"dark-gem": {
+"name": "Dark Gem",
+"category": "jewels",
+"effect": "Held: When the holder uses a damaging Dark-type move, the move has 1.5× power and this item is consumed.",
+"flavorText": "A gem with an essence of darkness. When held, it strengthens the power of a Dark-type move only once."
+},
+"dark-stone": {
+"name": "Dark Stone",
+"category": "plot-advancement",
+"effect": "Summons Zekrom for the final battle against N.",
+"flavorText": "Zekrom’s body was destroyed and changed into this stone. It is said to be waiting for the emergence of a hero."
+},
+"data-card-01": {
+"name": "Data Card 01",
+"category": "data-cards",
+"effect": "Records the number of times the trainer has come in first place overall in the Pokéathlon.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many victories you’ve had."
+},
+"data-card-02": {
+"name": "Data Card 02",
+"category": "data-cards",
+"effect": "Records the number of times the trainer has come in last place overall in the Pokéathlon.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many losses you’ve had."
+},
+"data-card-03": {
+"name": "Data Card 03",
+"category": "data-cards",
+"effect": "Records the number of times the trainer’s Pokémon have dashed in the Pokéathlon.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times your Pokémon have dashed."
+},
+"data-card-04": {
+"name": "Data Card 04",
+"category": "data-cards",
+"effect": "Records the number of times the trainer’s Pokémon have jumped in the Pokéathlon.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times your Pokémon have jumped."
+},
+"data-card-05": {
+"name": "Data Card 05",
+"category": "data-cards",
+"effect": "Records the number of times the trainer has come in first in the Pokéathlon Hurdle Dash.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times you’ve won the Hurdle Dash."
+},
+"data-card-06": {
+"name": "Data Card 06",
+"category": "data-cards",
+"effect": "Records the number of times the trainer has come in first in the Pokéathlon Relay Run.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times you’ve won the Relay Run."
+},
+"data-card-07": {
+"name": "Data Card 07",
+"category": "data-cards",
+"effect": "Records the number of times the trainer has come in first in the Pokéathlon Pennant Capture.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times you’ve won Pennant Capture."
+},
+"data-card-08": {
+"name": "Data Card 08",
+"category": "data-cards",
+"effect": "Records the number of times the trainer has come in first in the Pokéathlon Block Smash.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times you’ve won Block Smash."
+},
+"data-card-09": {
+"name": "Data Card 09",
+"category": "data-cards",
+"effect": "Records the number of times the trainer has come in first in the Pokéathlon Disc Catch.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times you’ve won Disc Catch."
+},
+"data-card-10": {
+"name": "Data Card 10",
+"category": "data-cards",
+"effect": "Records the number of times the trainer has come in first in the Pokéathlon Snow Throw.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times you’ve won Snow Throw."
+},
+"data-card-11": {
+"name": "Data Card 11",
+"category": "data-cards",
+"effect": "Records the number of points the trainer has earned in the Pokéathlon.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many points your Pokémon scored."
+},
+"data-card-12": {
+"name": "Data Card 12",
+"category": "data-cards",
+"effect": "Records the number of times the trainer’s Pokémon have messed up in the Pokéathlon.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times your Pokémon have failed."
+},
+"data-card-13": {
+"name": "Data Card 13",
+"category": "data-cards",
+"effect": "Records the number of times the trainer’s Pokémon have defeated themselves in the Pokéathlon.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times your Pokémon impeded themselves."
+},
+"data-card-14": {
+"name": "Data Card 14",
+"category": "data-cards",
+"effect": "Records the number of times the trainer’s Pokémon have tackled in the Pokéathlon.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times your Pokémon have tackled."
+},
+"data-card-15": {
+"name": "Data Card 15",
+"category": "data-cards",
+"effect": "Records the number of times the trainer’s Pokémon have fallen in the Pokéathlon.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times your Pokémon have fallen down."
+},
+"data-card-16": {
+"name": "Data Card 16",
+"category": "data-cards",
+"effect": "Records the number of times the trainer has come in first in the Pokéathlon Ring Drop.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times you’ve won Ring Drop."
+},
+"data-card-17": {
+"name": "Data Card 17",
+"category": "data-cards",
+"effect": "Records the number of times the trainer has come in first in the Pokéathlon Lamp Jump.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times you’ve won Lamp Jump."
+},
+"data-card-18": {
+"name": "Data Card 18",
+"category": "data-cards",
+"effect": "Records the number of times the trainer has come in first in the Pokéathlon Circle Push.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times you’ve won Circle Push."
+},
+"data-card-19": {
+"name": "Data Card 19",
+"category": "data-cards",
+"effect": "Records the number of times the trainer has come in first place overall in the Pokéathlon over wirelss.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many Link Pokéathlon wins you’ve had."
+},
+"data-card-20": {
+"name": "Data Card 20",
+"category": "data-cards",
+"effect": "Records the number of times the trainer has come in last place overall in the Pokéathlon over wireless.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many Link Pokéathlon losses you’ve had."
+},
+"data-card-21": {
+"name": "Data Card 21",
+"category": "data-cards",
+"effect": "Records the number of times the trainer has come in first across all Pokéathlon events.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times you’ve won an event."
+},
+"data-card-22": {
+"name": "Data Card 22",
+"category": "data-cards",
+"effect": "Records the number of times the trainer has come in last across all Pokéathlon events.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times you’ve lost an event."
+},
+"data-card-23": {
+"name": "Data Card 23",
+"category": "data-cards",
+"effect": "Records the number of times the trainer has switched Pokémon in the Pokéathlon.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times you’ve switched Pokémon."
+},
+"data-card-24": {
+"name": "Data Card 24",
+"category": "data-cards",
+"effect": "Records the number of times the trainer has come in first in the Pokéathlon Goal Roll.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times you’ve won Goal Roll."
+},
+"data-card-25": {
+"name": "Data Card 25",
+"category": "data-cards",
+"effect": "Records the number of times the trainer’s Pokémon received prizes in the Pokéathlon.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times your Pokémon won individual prizes."
+},
+"data-card-26": {
+"name": "Data Card 26",
+"category": "data-cards",
+"effect": "Records the number of times the trainer has instructed Pokémon in the Pokéathlon.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how many times you’ve instructed your Pokémon."
+},
+"data-card-27": {
+"name": "Data Card 27",
+"category": "data-cards",
+"effect": "Records the total time spent in the Pokéathlon.",
+"flavorText": "It holds Pokéathlon records. It’s a card that shows how much time you’ve spent in the Pokéathlon."
+},
+"dawn-stone": {
+"name": "Dawn Stone",
+"category": "evolution",
+"effect": "Evolves a male Kirlia into Gallade or a female Snorunt into Froslass.",
+"flavorText": "A peculiar stone that makes certain species of Pokémon evolve. It sparkles like eyes."
+},
+"deep-sea-scale": {
+"name": "Deep Sea Scale",
+"category": "species-specific",
+"effect": "Doubles Clamperl’s Special Defense. Traded on a Clamperl: Holder evolves into Gorebyss.",
+"flavorText": "An item to be held by Clamperl. A scale that shines a faint pink, it raises the Sp. Def stat."
+},
+"deep-sea-tooth": {
+"name": "Deep Sea Tooth",
+"category": "species-specific",
+"effect": "Doubles Clamperl’s Special Attack. Traded on a Clamperl: Holder evolves into Huntail.",
+"flavorText": "An item to be held by Clamperl. A fang that gleams a sharp silver, it raises the Sp. Atk stat."
+},
+"destiny-knot": {
+"name": "Destiny Knot",
+"category": "held-items",
+"effect": "Held: Infatuates opposing Pokémon when holder is inflicted with infatuation.",
+"flavorText": "A long, thin, bright-red string to be held by a Pokémon. If the holder becomes infatuated, the foe does too."
+},
+"dire-hit": {
+"name": "Dire Hit",
+"category": "stat-boosts",
+"effect": "Increases the chance of a critical hit in battle. Raises happiness.",
+"flavorText": "It raises the critical-hit ratio greatly. It can be used only once and wears off if the Pokémon is withdrawn."
+},
+"dire-hit-2": {
+"name": "Dire Hit 2",
+"category": "miracle-shooter",
+"effect": "Raises critical hit rate by two stages in battle. Wonder Launcher only.",
+"flavorText": "It can be used many times to raise the critical-hit ratio of one Pokémon. It wears off if the Pokémon is withdrawn."
+},
+"dire-hit-3": {
+"name": "Dire Hit 3",
+"category": "miracle-shooter",
+"effect": "Raises critical hit rate by three stages in battle. Wonder Launcher only.",
+"flavorText": "It can be used many times to greatly raise a Pokémon’s critical-hit ratio. It wears off if the Pokémon is withdrawn."
+},
+"dive-ball": {
+"name": "Dive Ball",
+"category": "special-balls",
+"effect": "Tries to catch a wild Pokémon. Success rate is 3.5× when underwater, fishing, or surfing.",
+"flavorText": "A somewhat different Poké Ball that works especially well on Pokémon that live underwater."
+},
+"dome-fossil": {
+"name": "Dome Fossil",
+"category": "dex-completion",
+"effect": "Can be revived into a Kabuto.",
+"flavorText": "A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a shell."
+},
+"douse-drive": {
+"name": "Douse Drive",
+"category": "species-specific",
+"effect": "Grants Genesect a blue, Water-type Techno Blast.",
+"flavorText": "A cassette to be held by Genesect. It changes Techno Blast to a Water-type move."
+},
+"dowsing-machine": {
+"name": "Dowsing Machine",
+"category": "gameplay",
+"effect": "Use to find hidden items on the field. AKA Itemfinder.",
+"flavorText": "It checks for unseen items in the area and makes noise and lights when it finds something."
+},
+"draco-plate": {
+"name": "Draco Plate",
+"category": "plates",
+"effect": "Held: Dragon-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Dragon.",
+"flavorText": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Dragon-type moves."
+},
+"dragon-fang": {
+"name": "Dragon Fang",
+"category": "type-enhancement",
+"effect": "Held: Dragon-Type moves from holder do 20% more damage.",
+"flavorText": "An item to be held by a Pokémon. It is a hard and sharp fang that ups the power of Dragon-type moves."
+},
+"dragon-gem": {
+"name": "Dragon Gem",
+"category": "jewels",
+"effect": "Held: When the holder uses a damaging Dragon-type move, the move has 1.5× power and this item is consumed.",
+"flavorText": "A gem with a draconic essence. When held, it strengthens the power of a Dragon-type move only once."
+},
+"dragon-scale": {
+"name": "Dragon Scale",
+"category": "evolution",
+"effect": "Traded on a Seadra: Holder evolves into Kingdra.",
+"flavorText": "A thick and tough scale. Dragon-type Pokémon may be holding this item when caught."
+},
+"dragon-skull": {
+"name": "Dragon Skull",
+"category": "plot-advancement",
+"effect": "Return to the museum in Nacrene City.",
+"flavorText": "A skull of a Pokémon which was said to have braved the angry waters to fly around the world."
+},
+"dread-plate": {
+"name": "Dread Plate",
+"category": "plates",
+"effect": "Held: Dark-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Dark.",
+"flavorText": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Dark-type moves."
+},
+"dream-ball": {
+"name": "Dream Ball",
+"category": "special-balls",
+"effect": "Catches Pokémon found in the Dream World.",
+"flavorText": "A special Poké Ball that appears out of nowhere in a bag at the Entree Forest. It can catch any Pokémon."
+},
+"dubious-disc": {
+"name": "Dubious Disc",
+"category": "evolution",
+"effect": "Traded on a Porygon2: Holder evolves into Porygon-Z.",
+"flavorText": "A transparent device overflowing with dubious data. Its producer is unknown."
+},
+"durin-berry": {
+"name": "Durin Berry",
+"category": "baking-only",
+"effect": "Used for creating PokéBlocks and Poffins.",
+"flavorText": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+},
+"dusk-ball": {
+"name": "Dusk Ball",
+"category": "special-balls",
+"effect": "Tries to catch a wild Pokémon. Success rate is 3.5× at night and in caves.",
+"flavorText": "A somewhat different Poké Ball that makes it easier to catch wild Pokémon at night or in dark places like caves."
+},
+"dusk-stone": {
+"name": "Dusk Stone",
+"category": "evolution",
+"effect": "Evolves a Lampent into Chandelure, a Misdreavus into Mismagius, or a Murkrow into Honchkrow.",
+"flavorText": "A peculiar stone that makes certain species of Pokémon evolve. It is as dark as dark can be."
+},
+"earth-plate": {
+"name": "Earth Plate",
+"category": "plates",
+"effect": "Held: Ground-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Ground.",
+"flavorText": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Ground-type moves."
+},
+"eject-button": {
+"name": "Eject Button",
+"category": "held-items",
+"effect": "Held: When the holder takes damage from a move, it switches out for a party Pokémon of the Trainer’s choice.",
+"flavorText": "If the holder is hit by an attack, it will switch with another Pokémon in your party."
+},
+"electirizer": {
+"name": "Electirizer",
+"category": "evolution",
+"effect": "Traded on an Electabuzz: Holder evolves into Electivire.",
+"flavorText": "A box packed with a tremendous amount of electric energy. It is loved by a certain Pokémon."
+},
+"electric-gem": {
+"name": "Electric Gem",
+"category": "jewels",
+"effect": "Held: When the holder uses a damaging Electric-type move, the move has 1.5× power and this item is consumed.",
+"flavorText": "A gem with an essence of electricity. When held, it strengthens the power of an Electric-type move only once."
+},
+"elixir": {
+"name": "Elixir",
+"category": "pp-recovery",
+"effect": "Restores 10 PP for each move.",
+"flavorText": "It restores the PP of all the moves learned by the targeted Pokémon by 10 points each."
+},
+"energy-powder": {
+"name": "Energy Powder",
+"category": "healing",
+"effect": "Restores 50 HP, but lowers happiness.",
+"flavorText": "A very bitter medicine powder. It restores the HP of one Pokémon by 50 points."
+},
+"energy-root": {
+"name": "Energy Root",
+"category": "healing",
+"effect": "Restores 200 HP, but lowers happiness.",
+"flavorText": "A very bitter root. It restores the HP of one Pokémon by 200 points."
+},
+"enigma-berry": {
+"name": "Enigma Berry",
+"category": "other",
+"effect": "Held: Consumed when struck by a super-effective attack to restore 1/4 max HP.",
+"flavorText": "If held by a Pokémon, it restores its HP if it is hit by any supereffective attack."
+},
+"enigma-stone": {
+"name": "Enigma Stone",
+"category": "event-items",
+"effect": "S: Summons Latias H: Summons Latios.",
+"flavorText": "A crystal ball that was excavated from the ground. A very beautiful stone that is covered with bits of rock and earth."
+},
+"escape-rope": {
+"name": "Escape Rope",
+"category": "spelunking",
+"effect": "Transports user to the outside entrance of a cave.",
+"flavorText": "A long, durable rope. Use it to escape instantly from a cave or a dungeon."
+},
+"ether": {
+"name": "Ether",
+"category": "pp-recovery",
+"effect": "Restores 10 PP for one move.",
+"flavorText": "It restores the PP of a Pokémon’s selected move by a maximum of 10 points."
+},
+"everstone": {
+"name": "Everstone",
+"category": "training",
+"effect": "Held: Prevents level-based evolution from occuring.",
+"flavorText": "An item to be held by a Pokémon. The Pokémon holding this peculiar stone is prevented from evolving."
+},
+"eviolite": {
+"name": "Eviolite",
+"category": "held-items",
+"effect": "Held: Holder has 1.5× Defense and Special Defense, as long as it’s not fully evolved.",
+"flavorText": "A mysterious evolutionary lump. When held, it raises the Defense and Sp. Def of a Pokémon that can still evolve."
+},
+"exp-share": {
+"name": "Exp. Share",
+"category": "training",
+"effect": "Held: Half the experience from a battle is split between Pokémon holding this item.",
+"flavorText": "An item to be held by a Pokémon. The holder gets a share of a battle’s Exp. Points without battling."
+},
+"expert-belt": {
+"name": "Expert Belt",
+"category": "held-items",
+"effect": "Held: Holder’s Super Effective moves do 20% extra damage.",
+"flavorText": "An item to be held by a Pokémon. It is a well-worn belt that slightly boosts the power of supereffective moves."
+},
+"explorer-kit": {
+"name": "Explorer Kit",
+"category": "gameplay",
+"effect": "Allows visiting the Underground.",
+"flavorText": "A bag filled with convenient tools for exploring. It provides access to the Underground."
+},
+"fashion-case": {
+"name": "Fashion Case",
+"category": "gameplay",
+"effect": "Holds Pokémon Accessories for use in Contests.",
+"flavorText": "A lovely case to store colorful Props for your Pokémon to wear in a musical."
+},
+"fast-ball": {
+"name": "Fast Ball",
+"category": "apricorn-balls",
+"effect": "4× effectiveness on Pokémon with 100 or greater base speed. (Gen II: Roaming or Fleeing Pokémon). Made from Wht Apricorn.",
+"flavorText": "A Poké Ball that makes it easier to catch Pokémon which are quick to run away."
+},
+"favored-mail": {
+"name": "Favored Mail",
+"category": "all-mail",
+"effect": "Lets a Trainer write a message and send it via Pokémon trade.",
+"flavorText": "Stationery designed for writing about your favorite things. Let a Pokémon hold it for delivery."
+},
+"fighting-gem": {
+"name": "Fighting Gem",
+"category": "jewels",
+"effect": "Held: When the holder uses a damaging Fighting-type move, the move has 1.5× power and this item is consumed.",
+"flavorText": "A gem with an essence of combat. When held, it strengthens the power of a Fighting-type move only once."
+},
+"figy-berry": {
+"name": "Figy Berry",
+"category": "picky-healing",
+"effect": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike spicy flavor.",
+"flavorText": "If held by a Pokémon, it restores the user’s HP in a pinch, but will cause confusion if it hates the taste."
+},
+"fire-gem": {
+"name": "Fire Gem",
+"category": "jewels",
+"effect": "Held: When the holder uses a damaging Fire-type move, the move has 1.5× power and this item is consumed.",
+"flavorText": "A gem with an essence of fire. When held, it strengthens the power of a Fire-type move only once."
+},
+"fire-stone": {
+"name": "Fire Stone",
+"category": "evolution",
+"effect": "Evolves an Eevee into Flareon, a Growlithe into Arcanine, a Pansear into Simisear, or a Vulpix into Ninetales.",
+"flavorText": "A peculiar stone that makes certain species of Pokémon evolve. It is colored orange."
+},
+"fist-plate": {
+"name": "Fist Plate",
+"category": "plates",
+"effect": "Held: Fighting-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Fighting.",
+"flavorText": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fighting-type moves."
+},
+"flame-orb": {
+"name": "Flame Orb",
+"category": "bad-held-items",
+"effect": "Held: Inflicts Burn on the holder at the end of the turn. Activates after Burn damage would occur.",
+"flavorText": "An item to be held by a Pokémon. It is a bizarre orb that inflicts a burn on the holder in battle."
+},
+"flame-plate": {
+"name": "Flame Plate",
+"category": "plates",
+"effect": "Held: Fire-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Fire.",
+"flavorText": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Fire-type moves."
+},
+"float-stone": {
+"name": "Float Stone",
+"category": "held-items",
+"effect": "Held: Holder has 0.5× weight.",
+"flavorText": "A very light stone. It reduces the weight of a Pokémon when held."
+},
+"fluffy-tail": {
+"name": "Fluffy Tail",
+"category": "spelunking",
+"effect": "Ends a wild battle.",
+"flavorText": "An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon."
+},
+"flying-gem": {
+"name": "Flying Gem",
+"category": "jewels",
+"effect": "Held: When the holder uses a damaging Flying-type move, the move has 1.5× power and this item is consumed.",
+"flavorText": "A gem with an essence of air. When held, it strengthens the power of a Flying-type move only once."
+},
+"focus-band": {
+"name": "Focus Band",
+"category": "held-items",
+"effect": "Held: Holder has 10% chance to survive attacks or self-inflicted damage at 1 HP.",
+"flavorText": "An item to be held by a Pokémon. The holder may endure a potential KO attack, leaving it with just 1 HP."
+},
+"focus-sash": {
+"name": "Focus Sash",
+"category": "held-items",
+"effect": "Held: Holder survives any single-hit attack at 1 HP if at max HP, then the item is consumed.",
+"flavorText": "An item to be held by a Pokémon. If it has full HP, the holder will endure one potential KO attack, leaving 1 HP."
+},
+"fresh-water": {
+"name": "Fresh Water",
+"category": "healing",
+"effect": "Restores 50 HP.",
+"flavorText": "Water with a high mineral content. It restores the HP of one Pokémon by 50 points."
+},
+"friend-ball": {
+"name": "Friend Ball",
+"category": "apricorn-balls",
+"effect": "Caught Pokémon start with 200 happiness. Made from Grn Apricorn.",
+"flavorText": "A Poké Ball that makes caught Pokémon more friendly."
+},
+"full-heal": {
+"name": "Full Heal",
+"category": "status-cures",
+"effect": "Cures any status ailment and confusion.",
+"flavorText": "A spray-type medicine. It heals all the status problems of a single Pokémon."
+},
+"full-incense": {
+"name": "Full Incense",
+"category": "bad-held-items",
+"effect": "Held: Holder moves last in its priority bracket. Breeding: Snorlax begets a Munchlax Egg.",
+"flavorText": "An item to be held by a Pokémon. It is an exotic-smelling incense that makes the holder bloated and slow moving."
+},
+"full-restore": {
+"name": "Full Restore",
+"category": "healing",
+"effect": "Restores HP to full and cures any status ailment and confusion.",
+"flavorText": "A medicine that fully restores the HP and heals any status problems of a single Pokémon."
+},
+"galactic-key": {
+"name": "Galactic Key",
+"category": "plot-advancement",
+"effect": "Grants access to Galactic HQ in Veilstone City.",
+"flavorText": "A card key for disengaging security systems in the Galactic HQ. Losing it can result in punishment, apparently."
+},
+"ganlon-berry": {
+"name": "Ganlon Berry",
+"category": "in-a-pinch",
+"effect": "Held: Consumed at 1/4 max HP to boost Defense.",
+"flavorText": "If held by a Pokémon, it raises its Defense stat in a pinch."
+},
+"gb-sounds": {
+"name": "GB Sounds",
+"category": "gameplay",
+"effect": "Use to listen to GameBoy era audio.",
+"flavorText": "A music player that allows you to listen to nostalgic songs. It’s operated with a single switch."
+},
+"genius-wing": {
+"name": "Genius Feather",
+"category": "vitamins",
+"effect": "Increases Special Attack effort by 1.",
+"flavorText": "An item for use on a Pokémon. It slightly increases the base Sp. Atk stat of a single Pokémon."
+},
+"ghost-gem": {
+"name": "Ghost Gem",
+"category": "jewels",
+"effect": "Held: When the holder uses a damaging Ghost-type move, the move has 1.5× power and this item is consumed.",
+"flavorText": "A gem with a spectral essence. When held, it strengthens the power of a Ghost-type move only once."
+},
+"god-stone": {
+"name": "god stone",
+"category": "unused",
+"effect": "Unknown. Currently unused.",
+"flavorText": "A rare stone."
+},
+"good-rod": {
+"name": "Good Rod",
+"category": "gameplay",
+"effect": "Used to catch Pokémon in bodies of water.",
+"flavorText": "A new, good-quality fishing rod. Use it by any body of water to fish for wild aquatic Pokémon."
+},
+"gooey-mulch": {
+"name": "Gooey Mulch",
+"category": "mulch",
+"effect": "Berries regrow from dead plants an increased number of times.",
+"flavorText": "A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price."
+},
+"gracidea": {
+"name": "Gracidea",
+"category": "event-items",
+"effect": "Changes an unfrozen Shaymin to Sky Forme in the day.",
+"flavorText": "A flower sometimes bundled in bouquets to convey gratitude on special occasions like birthdays."
+},
+"gram-1": {
+"name": "Gram 1",
+"category": "plot-advancement",
+"effect": "Part of a sidequest to obtain TM89.",
+"flavorText": "An important letter which Wingull delivers."
+},
+"gram-2": {
+"name": "Gram 2",
+"category": "plot-advancement",
+"effect": "Part of a sidequest to obtain TM89.",
+"flavorText": "An important letter which Wingull delivers."
+},
+"gram-3": {
+"name": "Gram 3",
+"category": "plot-advancement",
+"effect": "Part of a sidequest to obtain TM89.",
+"flavorText": "An important letter which Wingull delivers."
+},
+"grass-gem": {
+"name": "Grass Gem",
+"category": "jewels",
+"effect": "Held: When the holder uses a damaging Grass-type move, the move has 1.5× power and this item is consumed.",
+"flavorText": "A gem with an essence of nature. When held, it strengthens the power of a Grass-type move only once."
+},
+"great-ball": {
+"name": "Great Ball",
+"category": "standard-balls",
+"effect": "Tries to catch a wild Pokémon. Success rate is 1.5×.",
+"flavorText": "A good, high-performance Ball that provides a higher Pokémon catch rate than a standard Poké Ball."
+},
+"green-apricorn": {
+"name": "Green Apricorn",
+"category": "apricorn-box",
+"effect": "Used to make a Friend Ball.",
+"flavorText": "A green Apricorn. It has a mysterious, aromatic scent."
+},
+"green-scarf": {
+"name": "Green Scarf",
+"category": "scarves",
+"effect": "Raises the holder’s Smartness while in a contest.",
+"flavorText": "An item to be held by a Pokémon. It boosts the Smart aspect of the holder in a Contest."
+},
+"green-shard": {
+"name": "Green Shard",
+"category": "collectibles",
+"effect": "No effect. Can be traded for items or moves.",
+"flavorText": "A small green shard. It appears to be from some sort of implement made long ago."
+},
+"greet-mail": {
+"name": "Greet Mail",
+"category": "all-mail",
+"effect": "Lets a Trainer write a message and send it via Pokémon trade.",
+"flavorText": "Stationery designed for introductory greetings. Let a Pokémon hold it for delivery."
+},
+"grepa-berry": {
+"name": "Grepa Berry",
+"category": "effort-drop",
+"effect": "Drops Special Defense Effort Values by 10 and raises happiness.",
+"flavorText": "Using it on a Pokémon makes it more friendly, but it also lowers its base Sp. Def stat."
+},
+"grip-claw": {
+"name": "Grip Claw",
+"category": "held-items",
+"effect": "Held: Holder’s multi-turn trapping moves last 5 turns.",
+"flavorText": "A Pokémon held item that extends the duration of multiturn attacks like Bind and Wrap."
+},
+"griseous-orb": {
+"name": "Griseous Orb",
+"category": "species-specific",
+"effect": "Boosts the damage from Giratina’s Dragon-type and Ghost-type moves by 20%, and transforms it into Origin Forme.",
+"flavorText": "A glowing orb to be held by Giratina. It boosts the power of Dragon- and Ghost-type moves."
+},
+"ground-gem": {
+"name": "Ground Gem",
+"category": "jewels",
+"effect": "Held: When the holder uses a damaging Ground-type move, the move has 1.5× power and this item is consumed.",
+"flavorText": "A gem with an essence of land. When held, it strengthens the power of a Ground-type move only once."
+},
+"growth-mulch": {
+"name": "Growth Mulch",
+"category": "mulch",
+"effect": "Growing time of berries is reduced, but the soil dries out faster.",
+"flavorText": "A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price."
+},
+"guard-spec": {
+"name": "Guard Spec.",
+"category": "stat-boosts",
+"effect": "Prevents stat changes in battle for five turns in battle. Raises happiness.",
+"flavorText": "An item that prevents stat reduction among the Trainer’s party Pokémon for five turns after use."
+},
+"haban-berry": {
+"name": "Haban Berry",
+"category": "type-protection",
+"effect": "Held: Consumed when struck by a super-effective Dragon-type attack to halve the damage.",
+"flavorText": "Weakens a supereffective Dragon-type attack against the holding Pokémon."
+},
+"hard-stone": {
+"name": "Hard Stone",
+"category": "type-enhancement",
+"effect": "Held: Rock-Type moves from holder do 20% more damage.",
+"flavorText": "An item to be held by a Pokémon. It is an unbreakable stone that ups the power of Rock-type moves."
+},
+"heal-ball": {
+"name": "Heal Ball",
+"category": "special-balls",
+"effect": "Tries to catch a wild Pokémon. Caught Pokémon are immediately healed.",
+"flavorText": "A remedial Poké Ball that restores the caught Pokémon’s HP and eliminates any status problem."
+},
+"heal-powder": {
+"name": "Heal Powder",
+"category": "status-cures",
+"effect": "Cures any status ailment, but lowers happiness.",
+"flavorText": "A very bitter medicine powder. It heals all the status problems of a single Pokémon."
+},
+"health-wing": {
+"name": "Health Feather",
+"category": "vitamins",
+"effect": "Increases HP effort by 1.",
+"flavorText": "An item for use on a Pokémon. It slightly increases the base HP of a single Pokémon."
+},
+"heart-scale": {
+"name": "Heart Scale",
+"category": "collectibles",
+"effect": "No effect. Can be traded for prior Level-up moves.",
+"flavorText": "A pretty, heart-shaped scale that is extremely rare. It glows faintly in the colors of the rainbow."
+},
+"heat-rock": {
+"name": "Heat Rock",
+"category": "held-items",
+"effect": "Held: Sunny Day by the holder lasts 8 rounds instead of 5.",
+"flavorText": "A Pokémon held item that extends the duration of the move Sunny Day used by the holder."
+},
+"heavy-ball": {
+"name": "Heavy Ball",
+"category": "apricorn-balls",
+"effect": "Has flat bonus or penalty to catch rate depending on weight class of target. Made from Blk Apricorn.",
+"flavorText": "A Poké Ball for catching very heavy Pokémon."
+},
+"helix-fossil": {
+"name": "Helix Fossil",
+"category": "dex-completion",
+"effect": "Can be revived into an Omanyte.",
+"flavorText": "A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a seashell."
+},
+"hm01": {
+"name": "HM01",
+"category": "all-machines",
+"effect": "Teaches Cut to a compatible Pokémon.",
+"flavorText": "The target is cut with a scythe or claw. It can also be used to cut down thin trees."
+},
+"hm02": {
+"name": "HM02",
+"category": "all-machines",
+"effect": "Teaches Fly to a compatible Pokémon.",
+"flavorText": "The user soars, then strikes on the second turn. It can also be used to fly to any familiar town."
+},
+"hm03": {
+"name": "HM03",
+"category": "all-machines",
+"effect": "Teaches Surf to a compatible Pokémon.",
+"flavorText": "It swamps the area around the user with a giant wave. It can also be used for crossing water."
+},
+"hm04": {
+"name": "HM04",
+"category": "all-machines",
+"effect": "Teaches Strength to a compatible Pokémon.",
+"flavorText": "The target is slugged with a punch thrown at maximum power. This move can also be used to move boulders."
+},
+"hm05": {
+"name": "HM05",
+"category": "all-machines",
+"effect": "Teaches Waterfall to a compatible Pokémon. (HS: Whirlpool DPP: Defog Gen III & II & I: Flash)",
+"flavorText": "The user charges the target at an awesome speed. It can also be used to climb a waterfall."
+},
+"hm06": {
+"name": "HM06",
+"category": "all-machines",
+"effect": "Teaches Dive to a compatible Pokémon. (Gen IV & III: Rock Smash Gen II: Whirlpool)",
+"flavorText": "Diving on the first turn, the user floats up and attacks on the second. It can be used for diving in the ocean."
+},
+"hondew-berry": {
+"name": "Hondew Berry",
+"category": "effort-drop",
+"effect": "Drops Special Attack Effort Values by 10 and raises happiness.",
+"flavorText": "Using it on a Pokémon makes it more friendly, but it also lowers its base Sp. Atk stat."
+},
+"honey": {
+"name": "Honey",
+"category": "dex-completion",
+"effect": "",
+"flavorText": "A sweet honey with a lush aroma that attracts wild Pokémon when it is used in grass, caves, or on special trees."
+},
+"hp-up": {
+"name": "HP Up",
+"category": "vitamins",
+"effect": "Raises HP effort and happiness.",
+"flavorText": "A nutritious drink for Pokémon. It raises the base HP of a single Pokémon."
+},
+"hyper-potion": {
+"name": "Hyper Potion",
+"category": "healing",
+"effect": "Restores 200 HP.",
+"flavorText": "A spray-type medicine for wounds. It restores the HP of one Pokémon by 200 points."
+},
+"iapapa-berry": {
+"name": "Iapapa Berry",
+"category": "picky-healing",
+"effect": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike sour flavor.",
+"flavorText": "If held by a Pokémon, it restores the user’s HP in a pinch, but will cause confusion if it hates the taste."
+},
+"ice-gem": {
+"name": "Ice Gem",
+"category": "jewels",
+"effect": "Held: When the holder uses a damaging Ice-type move, the move has 1.5× power and this item is consumed.",
+"flavorText": "A gem with an essence of ice. When held, it strengthens the power of an Ice-type move only once."
+},
+"ice-heal": {
+"name": "Ice Heal",
+"category": "status-cures",
+"effect": "Cures freezing.",
+"flavorText": "A spray-type medicine. It defrosts a Pokémon that has been frozen solid."
+},
+"icicle-plate": {
+"name": "Icicle Plate",
+"category": "plates",
+"effect": "Held: Ice-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Ice.",
+"flavorText": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Ice-type moves."
+},
+"icy-rock": {
+"name": "Icy Rock",
+"category": "held-items",
+"effect": "Held: Hail by the holder lasts 8 rounds instead of 5.",
+"flavorText": "A Pokémon held item that extends the duration of the move Hail used by the holder."
+},
+"inquiry-mail": {
+"name": "Inquiry Mail",
+"category": "all-mail",
+"effect": "Lets a Trainer write a message and send it via Pokémon trade.",
+"flavorText": "Stationery designed for writing questions. Let a Pokémon hold it for delivery."
+},
+"insect-plate": {
+"name": "Insect Plate",
+"category": "plates",
+"effect": "Held: Bug-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Bug.",
+"flavorText": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Bug-type moves."
+},
+"iron": {
+"name": "Iron",
+"category": "vitamins",
+"effect": "Raises Defense effort and happiness.",
+"flavorText": "A nutritious drink for Pokémon. It raises the base Defense stat of a single Pokémon."
+},
+"iron-ball": {
+"name": "Iron Ball",
+"category": "bad-held-items",
+"effect": "Held: Holder’s Speed is halved. Negates all Ground-type immunities, and makes Flying-types take neutral damage from Ground-type moves. Arena Trap. Spikes, and Toxic Spikes affect the holder.",
+"flavorText": "A Pokémon held item that cuts Speed. It makes Flying-type and levitating holders susceptible to Ground moves."
+},
+"iron-plate": {
+"name": "Iron Plate",
+"category": "plates",
+"effect": "Held: Steel-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Steel.",
+"flavorText": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Steel-type moves."
+},
+"item-drop": {
+"name": "Item Drop",
+"category": "miracle-shooter",
+"effect": "Forces a friendly Pokémon to drop its held item.",
+"flavorText": "When used, it causes an ally Pokémon to drop a held item."
+},
+"item-urge": {
+"name": "Item Urge",
+"category": "miracle-shooter",
+"effect": "Forcibly activates a friendly Pokémon’s held item.",
+"flavorText": "When used, it causes an ally Pokémon to use its held item."
+},
+"jaboca-berry": {
+"name": "Jaboca Berry",
+"category": "other",
+"effect": "Held: Consumed to deal 1/8 attacker’s max HP when holder is struck by a physical attack.",
+"flavorText": "If held by a Pokémon and a physical attack lands, the attacker also takes damage."
+},
+"jade-orb": {
+"name": "Jade Orb",
+"category": "plot-advancement",
+"effect": "Summons Rayquaza to the Embedded Tower.",
+"flavorText": "A shiny green orb that is said to have a legend and has a deep connection with the Hoenn region."
+},
+"journal": {
+"name": "Journal",
+"category": "gameplay",
+"effect": "Records prior significant activities the player took.",
+"flavorText": "A notebook that keeps a day-to-day record of your adventure so far."
+},
+"kasib-berry": {
+"name": "Kasib Berry",
+"category": "type-protection",
+"effect": "Held: Consumed when struck by a super-effective Ghost-type attack to halve the damage.",
+"flavorText": "Weakens a supereffective Ghost-type attack against the holding Pokémon."
+},
+"kebia-berry": {
+"name": "Kebia Berry",
+"category": "type-protection",
+"effect": "Held: Consumed when struck by a super-effective Poison-type attack to halve the damage.",
+"flavorText": "Weakens a supereffective Poison-type attack against the holding Pokémon."
+},
+"kelpsy-berry": {
+"name": "Kelpsy Berry",
+"category": "effort-drop",
+"effect": "Drops Attack Effort Values by 10 and raises happiness.",
+"flavorText": "Using it on a Pokémon makes it more friendly, but it also lowers its base Attack stat."
+},
+"kings-rock": {
+"name": "King’s Rock",
+"category": "held-items",
+"effect": "Held: Damaging moves gain a 10% chance to make their target flinch. Traded on a Poliwhirl: Holder evolves into Politoed. Traded on a Slowpoke: Holder evolves into Slowking.",
+"flavorText": "An item to be held by a Pokémon. When the holder inflicts damage, the target may flinch."
+},
+"lagging-tail": {
+"name": "Lagging Tail",
+"category": "bad-held-items",
+"effect": "Held: Holder moves last in its priority bracket.",
+"flavorText": "An item to be held by a Pokémon. It is tremendously heavy and makes the holder move slower than usual."
+},
+"lansat-berry": {
+"name": "Lansat Berry",
+"category": "in-a-pinch",
+"effect": "Held: Consumed at 1/4 max HP to boost critical hit ratio by two stages.",
+"flavorText": "If held by a Pokémon, it raises its critical-hit ratio in a pinch."
+},
+"lava-cookie": {
+"name": "Lava Cookie",
+"category": "status-cures",
+"effect": "Cures any status ailment and confusion.",
+"flavorText": "Lavaridge Town’s local specialty. It heals all the status problems of one Pokémon."
+},
+"lax-incense": {
+"name": "Lax Incense",
+"category": "held-items",
+"effect": "Held: Holder’s evasion is increased by 5%. Breeding: Wobbuffet begets a Wynaut Egg.",
+"flavorText": "An item to be held by a Pokémon. The tricky aroma of this incense may make attacks miss the holder."
+},
+"leaf-stone": {
+"name": "Leaf Stone",
+"category": "evolution",
+"effect": "Evolves an Exeggcute into Exeggutor, a Gloom into Vileplume, a Nuzleaf into Shiftry, a Pansage into Simisage, or a Weepinbell into Victreebel.",
+"flavorText": "A peculiar stone that makes certain species of Pokémon evolve. It has a leaf pattern."
+},
+"leftovers": {
+"name": "Leftovers",
+"category": "held-items",
+"effect": "Held: Restores 1/16 (6.25%) holder’s max HP at the end of each turn.",
+"flavorText": "An item to be held by a Pokémon. The holder’s HP is gradually restored during battle."
+},
+"lemonade": {
+"name": "Lemonade",
+"category": "healing",
+"effect": "Restores 80 HP.",
+"flavorText": "A very sweet drink. It restores the HP of one Pokémon by 80 points."
+},
+"leppa-berry": {
+"name": "Leppa Berry",
+"category": "medicine",
+"effect": "Held: Consumed when a move runs out of PP to restore its PP by 10.",
+"flavorText": "If held by a Pokémon, it restores a move’s PP by 10."
+},
+"level-ball": {
+"name": "Level Ball",
+"category": "apricorn-balls",
+"effect": "Success rate based off of fraction target Pokémon is of user’s Pokémon. Made from Red Apricorn.",
+"flavorText": "A Poké Ball for catching Pokémon that are a lower level than your own."
+},
+"liberty-pass": {
+"name": "Liberty Pass",
+"category": "event-items",
+"effect": "Allows access to Liberty Garden and Victini.",
+"flavorText": "A special pass to go to Liberty Garden. Board the ship in Castelia City."
+},
+"liechi-berry": {
+"name": "Liechi Berry",
+"category": "in-a-pinch",
+"effect": "Held: Consumed at 1/4 max HP to boost Attack.",
+"flavorText": "If held by a Pokémon, it raises its Attack stat in a pinch."
+},
+"life-orb": {
+"name": "Life Orb",
+"category": "held-items",
+"effect": "Held: Holder’s moves inflict 30% extra damage, but cost 10% max HP.",
+"flavorText": "An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit."
+},
+"light-ball": {
+"name": "Light Ball",
+"category": "species-specific",
+"effect": "Doubles Pikachu’s Attack and Special Attack. Breed on Pikachu or Raichu: Pichu Egg will have Volt Tackle.",
+"flavorText": "An item to be held by Pikachu. It is a puzzling orb that raises the Attack and Sp. Atk stat."
+},
+"light-clay": {
+"name": "Light Clay",
+"category": "held-items",
+"effect": "Held: Light Screen and Reflect used by the holder last 8 rounds instead of 5.",
+"flavorText": "A Pokémon held item that extends the duration of barrier moves like Light Screen and Reflect used by the holder."
+},
+"light-stone": {
+"name": "Light Stone",
+"category": "plot-advancement",
+"effect": "Summons Reshiram for the final battle against N.",
+"flavorText": "Reshiram’s body was destroyed and changed into this stone. It is said to be waiting for the emergence of a hero."
+},
+"like-mail": {
+"name": "Like Mail",
+"category": "all-mail",
+"effect": "Lets a Trainer write a message and send it via Pokémon trade.",
+"flavorText": "Stationery designed for writing recommendations. Let a Pokémon hold it for delivery."
+},
+"lock-capsule": {
+"name": "Lock Capsule",
+"category": "unused",
+"effect": "Contains TM95 (Snarl).",
+"flavorText": "A sturdy Capsule that can only be opened with a special key."
+},
+"loot-sack": {
+"name": "Loot Sack",
+"category": "unused",
+"effect": "Carries coal mine loot.",
+"flavorText": "A sturdy, spacious bag that is used to carry loot obtained in the coal mine."
+},
+"lost-item": {
+"name": "Lost Item",
+"category": "plot-advancement",
+"effect": "A Poké Doll lost by the Copycat who lives in Saffron City. Trade for a Pass.",
+"flavorText": "The Mime Jr. doll that was lost by the Copycat."
+},
+"love-ball": {
+"name": "Love Ball",
+"category": "apricorn-balls",
+"effect": "8× effectiveness on opposite sex, same species targets of the Active Pokémon. Made from Pnk Apricorn.",
+"flavorText": "Poké Ball for catching Pokémon that are the opposite gender of your Pokémon."
+},
+"luck-incense": {
+"name": "Luck Incense",
+"category": "training",
+"effect": "Held: Doubles the money earned from a battle. Does not stack with Amulet Coin. Breeding: Chansey and Blissey beget a Happiny Egg.",
+"flavorText": "An item to be held by a Pokémon. It doubles a battle’s prize money if the holding Pokémon joins in."
+},
+"lucky-egg": {
+"name": "Lucky Egg",
+"category": "training",
+"effect": "Held: Increases EXP earned in battle by 50%.",
+"flavorText": "An item to be held by a Pokémon. It is an egg filled with happiness that earns extra Exp. Points in battle."
+},
+"lucky-punch": {
+"name": "Lucky Punch",
+"category": "species-specific",
+"effect": "Raises Chansey’s critical hit ratio by two stages.",
+"flavorText": "An item to be held by Chansey. It is a pair of gloves that boosts Chansey’s critical-hit ratio."
+},
+"lum-berry": {
+"name": "Lum Berry",
+"category": "medicine",
+"effect": "Held: Consumed to cure any status condition or confusion.",
+"flavorText": "If held by a Pokémon, it recovers from any status problem."
+},
+"lunar-wing": {
+"name": "Lunar Wing",
+"category": "event-items",
+"effect": "Cures sailor’s son of nightmares in Canalave City.",
+"flavorText": "A feather that glows like the moon. It is said to possess the power to dispel nightmares."
+},
+"lure-ball": {
+"name": "Lure Ball",
+"category": "apricorn-balls",
+"effect": "3× effectiveness while fishing. Made from Blu Apricorn.",
+"flavorText": "A Poké Ball for catching Pokémon hooked by a Rod when fishing."
+},
+"lustrous-orb": {
+"name": "Lustrous Orb",
+"category": "species-specific",
+"effect": "Boosts the damage from Palkia’s Dragon-type and Water-type moves by 20%.",
+"flavorText": "A beautifully glowing orb to be held by Palkia. It boosts the power of Dragon-​ and Water-type moves."
+},
+"luxury-ball": {
+"name": "Luxury Ball",
+"category": "special-balls",
+"effect": "Tries to catch a wild Pokémon. Caught Pokémon start with 200 happiness.",
+"flavorText": "A comfortable Poké Ball that makes a caught wild Pokémon quickly grow friendly."
+},
+"machine-part": {
+"name": "Machine Part",
+"category": "plot-advancement",
+"effect": "Must be replaced in the Power Plant to power the Magnet Train.",
+"flavorText": "An important machine part for the Power Plant that was stolen."
+},
+"macho-brace": {
+"name": "Macho Brace",
+"category": "effort-training",
+"effect": "Held: Holder gains double effort values from battles, but has halved Speed in battle.",
+"flavorText": "An item to be held by a Pokémon. It is a stiff and heavy brace that promotes strong growth but lowers Speed."
+},
+"magma-stone": {
+"name": "Magma Stone",
+"category": "plot-advancement",
+"effect": "Magma is sealed inside.",
+"flavorText": "A stone formed when boulders melted in intensely hot magma, then hardened. Magma remains sealed inside."
+},
+"magmarizer": {
+"name": "Magmarizer",
+"category": "evolution",
+"effect": "Traded on a Magmar: Holder evolves into Magmortar.",
+"flavorText": "A box packed with a tremendous amount of magma energy. It is loved by a certain Pokémon."
+},
+"magnet": {
+"name": "Magnet",
+"category": "type-enhancement",
+"effect": "Held: Electric-Type moves from holder do 20% more damage.",
+"flavorText": "An item to be held by a Pokémon. It is a powerful magnet that boosts the power of Electric-type moves."
+},
+"mago-berry": {
+"name": "Mago Berry",
+"category": "picky-healing",
+"effect": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike sweet flavor.",
+"flavorText": "If held by a Pokémon, it restores the user’s HP in a pinch, but will cause confusion if it hates the taste."
+},
+"magost-berry": {
+"name": "Magost Berry",
+"category": "baking-only",
+"effect": "Used for creating PokéBlocks and Poffins.",
+"flavorText": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+},
+"master-ball": {
+"name": "Master Ball",
+"category": "standard-balls",
+"effect": "Catches a wild Pokémon every time.",
+"flavorText": "The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail."
+},
+"max-elixir": {
+"name": "Max Elixir",
+"category": "pp-recovery",
+"effect": "Restores PP to full for each move.",
+"flavorText": "It fully restores the PP of all the moves learned by the targeted Pokémon."
+},
+"max-ether": {
+"name": "Max Ether",
+"category": "pp-recovery",
+"effect": "Restores PP to full for one move.",
+"flavorText": "It fully restores the PP of a single selected move that has been learned by the target Pokémon."
+},
+"max-potion": {
+"name": "Max Potion",
+"category": "healing",
+"effect": "Restores HP to full.",
+"flavorText": "A spray-type medicine for wounds. It completely restores the HP of a single Pokémon."
+},
+"max-repel": {
+"name": "Max Repel",
+"category": "spelunking",
+"effect": "For 250 steps, prevents wild encounters of level lower than your party’s lead Pokémon.",
+"flavorText": "An item that prevents weak wild Pokémon from appearing for 250 steps after its use."
+},
+"max-revive": {
+"name": "Max Revive",
+"category": "revival",
+"effect": "Revives with full HP.",
+"flavorText": "A medicine that revives a fainted Pokémon. It fully restores the Pokémon’s HP."
+},
+"meadow-plate": {
+"name": "Meadow Plate",
+"category": "plates",
+"effect": "Held: Grass-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Grass.",
+"flavorText": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Grass-type moves."
+},
+"member-card": {
+"name": "Member Card",
+"category": "event-items",
+"effect": "Allows access to Newmoon Island and Darkrai.",
+"flavorText": "A card needed for entering the inn in Canalave City. Oddly, the last date marked on it was 50 years ago."
+},
+"mental-herb": {
+"name": "Mental Herb",
+"category": "held-items",
+"effect": "Held: Consumed to cure infatuation. Gen V: Also removes Taunt, Encore, Torment, Disable, and Cursed Body.",
+"flavorText": "An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once."
+},
+"metal-coat": {
+"name": "Metal Coat",
+"category": "type-enhancement",
+"effect": "Held: Steel-Type moves from holder do 20% more damage.",
+"flavorText": "An item to be held by a Pokémon. It is a special metallic film that ups the power of Steel-type moves."
+},
+"metal-powder": {
+"name": "Metal Powder",
+"category": "species-specific",
+"effect": "Raises Ditto’s Defense and Special Defense by 50%. The boost is lost after transforming.",
+"flavorText": "An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Defense stat."
+},
+"metronome": {
+"name": "Metronome",
+"category": "held-items",
+"effect": "Held: Consectutive uses of the same attack have a cumulative damage boost of 10%. Maximum 100% boost.",
+"flavorText": "A Pokémon held item that boosts a move used consecutively. Its effect is reset if another move is used."
+},
+"micle-berry": {
+"name": "Micle Berry",
+"category": "in-a-pinch",
+"effect": "Held: Consumed at 1/4 max HP to boost accuracy of next move by 20%. (Gen IV: Perfect accuracy)",
+"flavorText": "If held by a Pokémon, it raises the accuracy of a move just once in a pinch."
+},
+"mind-plate": {
+"name": "Mind Plate",
+"category": "plates",
+"effect": "Held: Psychic-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Psychic.",
+"flavorText": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Psychic-type moves."
+},
+"miracle-seed": {
+"name": "Miracle Seed",
+"category": "type-enhancement",
+"effect": "Held: Grass-Type moves from holder do 20% more damage.",
+"flavorText": "An item to be held by a Pokémon. It is a seed imbued with life that ups the power of Grass-type moves."
+},
+"moomoo-milk": {
+"name": "Moomoo Milk",
+"category": "healing",
+"effect": "Restores 100 HP.",
+"flavorText": "Milk with a very high nutrition content. It restores the HP of one Pokémon by 100 points."
+},
+"moon-ball": {
+"name": "Moon Ball",
+"category": "apricorn-balls",
+"effect": "4× effectiveness on familes of Pokémon with a Moon Stone evolution. Made from Ylw Apricorn.",
+"flavorText": "A Poké Ball for catching Pokémon that evolve using the Moon Stone."
+},
+"moon-stone": {
+"name": "Moon Stone",
+"category": "evolution",
+"effect": "Evolves a Clefairy into Clefable, a Jigglypuff into Wigglytuff, a Munna into Musharna, a Nidorina into Nidoqueen, a Nidorino into Nidoking, or a Skitty into Delcatty.",
+"flavorText": "A peculiar stone that makes certain species of Pokémon evolve. It is as black as the night sky."
+},
+"muscle-band": {
+"name": "Muscle Band",
+"category": "held-items",
+"effect": "Held: Boosts the damage of physical moves used by the holder by 10%.",
+"flavorText": "An item to be held by a Pokémon. It is a headband that slightly boosts the power of physical moves."
+},
+"muscle-wing": {
+"name": "Muscle Feather",
+"category": "vitamins",
+"effect": "Increases Attack effort by 1.",
+"flavorText": "An item for use on a Pokémon. It slightly increases the base Attack stat of a single Pokémon."
+},
+"mystery-egg": {
+"name": "Mystery Egg",
+"category": "plot-advancement",
+"effect": "Deliver to Professor Elm.",
+"flavorText": "A mysterious Egg obtained from Mr. Pokémon. What’s in the Egg is unknown."
+},
+"mystic-water": {
+"name": "Mystic Water",
+"category": "type-enhancement",
+"effect": "Held: Water-Type moves from holder do 20% more damage.",
+"flavorText": "An item to be held by a Pokémon. It is a teardrop-shaped gem that ups the power of Water-type moves."
+},
+"nanab-berry": {
+"name": "Nanab Berry",
+"category": "baking-only",
+"effect": "Used for creating PokéBlocks and Poffins.",
+"flavorText": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+},
+"nest-ball": {
+"name": "Nest Ball",
+"category": "special-balls",
+"effect": "Tries to catch a wild Pokémon. Success rate is 3.9× for level 1 Pokémon, and drops steadily to 1× at level 30.",
+"flavorText": "A somewhat different Poké Ball that works especially well on weaker Pokémon in the wild."
+},
+"net-ball": {
+"name": "Net Ball",
+"category": "special-balls",
+"effect": "Tries to catch a wild Pokémon. Success rate is 3× for water and bug Pokémon.",
+"flavorText": "A somewhat different Poké Ball that works especially well on Water- and Bug-type Pokémon."
+},
+"never-melt-ice": {
+"name": "Never-Melt Ice",
+"category": "type-enhancement",
+"effect": "Held: Ice-Type moves from holder do 20% more damage.",
+"flavorText": "An item to be held by a Pokémon. It is a piece of ice that repels heat and boosts Ice-type moves."
+},
+"nomel-berry": {
+"name": "Nomel Berry",
+"category": "baking-only",
+"effect": "Used for creating PokéBlocks and Poffins.",
+"flavorText": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+},
+"normal-gem": {
+"name": "Normal Gem",
+"category": "jewels",
+"effect": "Held: When the holder uses a damaging Normal-type move, the move has 1.5× power and this item is consumed.",
+"flavorText": "A gem with an ordinary essence. When held, it strengthens the power of a Normal-type move only once."
+},
+"nugget": {
+"name": "Nugget",
+"category": "loot",
+"effect": "Sell for 5000 Pokédollars, or to Ore Collector for 10000 Pokédollars.",
+"flavorText": "A nugget of pure gold that gives off a lustrous gleam. It can be sold at a high price to shops."
+},
+"oaks-letter": {
+"name": "Oak’s Letter",
+"category": "event-items",
+"effect": "Allows access to Seabreak path, Flower Paradise, and Shaymin.",
+"flavorText": "A letter from Prof. Oak. Written in it is a request for you to go to Rt. 224."
+},
+"occa-berry": {
+"name": "Occa Berry",
+"category": "type-protection",
+"effect": "Held: Consumed when struck by a super-effective Fire-type attack to halve the damage.",
+"flavorText": "Weakens a supereffective Fire-type attack against the holding Pokémon."
+},
+"odd-incense": {
+"name": "Odd Incense",
+"category": "type-enhancement",
+"effect": "Held: Psychic-Type moves from holder do 20% more damage. Breeding: Mr. Mime begets a Mime Jr. Egg.",
+"flavorText": "An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Psychic-type moves."
+},
+"odd-keystone": {
+"name": "Odd Keystone",
+"category": "dex-completion",
+"effect": "Use on the tower on Route 209 to encounter Spiritomb if you have at least 32 Underground greetings.",
+"flavorText": "A vital item that is needed to keep a stone tower from collapsing. Voices can be heard from it occasionally."
+},
+"old-amber": {
+"name": "Old Amber",
+"category": "dex-completion",
+"effect": "Can be revived into an Aerodactyl.",
+"flavorText": "A piece of amber that contains the genetic material of an ancient Pokémon. It is clear with a reddish tint."
+},
+"old-charm": {
+"name": "Old Charm",
+"category": "plot-advancement",
+"effect": "Trade to Cynthia’s grandmother in Celestic Town for HM04 (Surf).",
+"flavorText": "An ancient good-luck charm made of Pokémon bones to be taken to the elder of Celestic Town."
+},
+"old-gateau": {
+"name": "Old Gateau",
+"category": "status-cures",
+"effect": "Cures any status ailment and confusion.",
+"flavorText": "Old Chateau’s hidden specialty. It heals all the status problems of a single Pokémon."
+},
+"old-rod": {
+"name": "Old Rod",
+"category": "gameplay",
+"effect": "Used to catch Pokémon in bodies of water.",
+"flavorText": "An old and beat-up fishing rod. Use it by any body of water to fish for wild aquatic Pokémon."
+},
+"oran-berry": {
+"name": "Oran Berry",
+"category": "medicine",
+"effect": "Held: Consumed at 1/2 max HP to recover 10 HP.",
+"flavorText": "If held by a Pokémon, it heals the user by just 10 HP."
+},
+"oval-stone": {
+"name": "Oval Stone",
+"category": "evolution",
+"effect": "Level-up during Day on a Happiny: Holder evolves into Chansey.",
+"flavorText": "A peculiar stone that makes certain species of Pokémon evolve. It is shaped like an egg."
+},
+"pal-pad": {
+"name": "Pal Pad",
+"category": "gameplay",
+"effect": "Use to record Friend Codes and check your own.",
+"flavorText": "A convenient notepad that is used for registering your friends, Friend Codes, and keeping a record of game play."
+},
+"pamtre-berry": {
+"name": "Pamtre Berry",
+"category": "baking-only",
+"effect": "Used for creating PokéBlocks and Poffins.",
+"flavorText": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+},
+"paralyze-heal": {
+"name": "Paralyze Heal",
+"category": "status-cures",
+"effect": "Cures paralysis.",
+"flavorText": "A spray-type medicine. It eliminates paralysis from a single Pokémon."
+},
+"parcel": {
+"name": "Parcel",
+"category": "plot-advancement",
+"effect": "Given to the trainer’s rival in Jubilife City. Contains Town Maps.",
+"flavorText": "A parcel entrusted in your care. You are supposed to deliver it to your childhood friend who left Twinleaf Town."
+},
+"park-ball": {
+"name": "Park Ball",
+"category": "standard-balls",
+"effect": "Catches Pokémon in the Pal Park every time.",
+"flavorText": "A special Poké Ball for the Pal Park."
+},
+"pass": {
+"name": "Pass",
+"category": "plot-advancement",
+"effect": "Grants access to ride the Magnet Train between Goldenrod City and Saffron City.",
+"flavorText": "A ticket required for riding the Magnet Train. It allows you to ride whenever and however much you’d like."
+},
+"pass-orb": {
+"name": "Pass Orb",
+"category": "held-items",
+"effect": "Activates Pass Powers.",
+"flavorText": "A mysterious orb containing the power of the Unova region, to be used when generating Pass Power."
+},
+"passho-berry": {
+"name": "Passho Berry",
+"category": "type-protection",
+"effect": "Held: Consumed when struck by a super-effective Water-type attack to halve the damage.",
+"flavorText": "Weakens a supereffective Water-type attack against the holding Pokémon."
+},
+"payapa-berry": {
+"name": "Payapa Berry",
+"category": "type-protection",
+"effect": "Held: Consumed when struck by a super-effective Psychic-type attack to halve the damage.",
+"flavorText": "Weakens a supereffective Psychic-type attack against the holding Pokémon."
+},
+"pearl": {
+"name": "Pearl",
+"category": "loot",
+"effect": "Sell for 700 Pokédollars, or to Ore Collector for 1400 Pokédollars.",
+"flavorText": "A somewhat-small pearl that sparkles in a pretty silver color. It can be sold cheaply to shops."
+},
+"pearl-string": {
+"name": "Pearl String",
+"category": "loot",
+"effect": "Sell to Ore Collector for 25000 Pokédollars.",
+"flavorText": "Very large pearls that sparkle in a pretty silver color. A maniac will buy them for a high price."
+},
+"pecha-berry": {
+"name": "Pecha Berry",
+"category": "medicine",
+"effect": "Held: Consumed when poisoned to cure poison.",
+"flavorText": "If held by a Pokémon, it recovers from poison."
+},
+"persim-berry": {
+"name": "Persim Berry",
+"category": "medicine",
+"effect": "Held: Consumed when confused to cure confusion.",
+"flavorText": "If held by a Pokémon, it recovers from confusion."
+},
+"petaya-berry": {
+"name": "Petaya Berry",
+"category": "in-a-pinch",
+"effect": "Held: Consumed at 1/4 max HP to boost Special Attack.",
+"flavorText": "If held by a Pokémon, it raises its Sp. Atk stat in a pinch."
+},
+"photo-album": {
+"name": "Photo Album",
+"category": "unused",
+"effect": "Stores photos from your adventure.",
+"flavorText": "A nice photo album for storing all the photos taken along your adventure."
+},
+"pinap-berry": {
+"name": "Pinap Berry",
+"category": "baking-only",
+"effect": "Used for creating PokéBlocks and Poffins.",
+"flavorText": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+},
+"pink-apricorn": {
+"name": "Pink Apricorn",
+"category": "apricorn-box",
+"effect": "Used to make a Love Ball.",
+"flavorText": "A pink Apricorn. It has a nice, sweet scent."
+},
+"pink-scarf": {
+"name": "Pink Scarf",
+"category": "scarves",
+"effect": "Raises the holder’s Cuteness while in a contest.",
+"flavorText": "An item to be held by a Pokémon. It boosts the Cute aspect of the holder in a Contest."
+},
+"plume-fossil": {
+"name": "Plume Fossil",
+"category": "dex-completion",
+"effect": "Can be revived into an Archen.",
+"flavorText": "A fossil of an ancient Pokémon that flew in the sky in ancient times. It appears to be part of its wing."
+},
+"poffin-case": {
+"name": "Poffin Case",
+"category": "gameplay",
+"effect": "Holds Poffins.",
+"flavorText": "A case for storing Poffin cooked from Berries."
+},
+"point-card": {
+"name": "Point Card",
+"category": "gameplay",
+"effect": "Keeps count of Battle Points earned.",
+"flavorText": "A card that lists the Battle Points you have earned."
+},
+"poison-barb": {
+"name": "Poison Barb",
+"category": "type-enhancement",
+"effect": "Held: Poison-Type moves from holder do 20% more damage.",
+"flavorText": "An item to be held by a Pokémon. It is a small, poisonous barb that ups the power of Poison-type moves."
+},
+"poison-gem": {
+"name": "Poison Gem",
+"category": "jewels",
+"effect": "Held: When the holder uses a damaging Poison-type move, the move has 1.5× power and this item is consumed.",
+"flavorText": "A gem with an essence of poison. When held, it strengthens the power of a Poison-type move only once."
+},
+"poke-ball": {
+"name": "Poké Ball",
+"category": "standard-balls",
+"effect": "Tries to catch a wild Pokémon.",
+"flavorText": "A device for catching wild Pokémon. It is thrown like a ball at the target. It is designed as a capsule system."
+},
+"poke-doll": {
+"name": "Poké Doll",
+"category": "spelunking",
+"effect": "Ends a wild battle.",
+"flavorText": "A doll that attracts Pokémon. Use it to flee from any battle with a wild Pokémon."
+},
+"poke-radar": {
+"name": "Poké Radar",
+"category": "gameplay",
+"effect": "Use to track down rare or shiny Pokémon. 50 steps to recharge.",
+"flavorText": "A tool that can search out Pokémon that are hiding in grass. Its battery is recharged as you walk."
+},
+"poke-toy": {
+"name": "Poké Toy",
+"category": "spelunking",
+"effect": "Ends a wild battle.",
+"flavorText": "An item that attracts Pokémon. Use it to flee from any battle with a wild Pokémon."
+},
+"pomeg-berry": {
+"name": "Pomeg Berry",
+"category": "effort-drop",
+"effect": "Drops HP Effort Values by 10 and raises happiness.",
+"flavorText": "Using it on a Pokémon makes it more friendly, but it also lowers its base HP."
+},
+"potion": {
+"name": "Potion",
+"category": "healing",
+"effect": "Restores 20 HP.",
+"flavorText": "A spray-type medicine for wounds. It restores the HP of one Pokémon by just 20 points."
+},
+"power-anklet": {
+"name": "Power Anklet",
+"category": "effort-training",
+"effect": "Held: Holder gains 4 Speed effort values, but has halved Speed in battle.",
+"flavorText": "A Pokémon held item that promotes Speed gain on leveling, but reduces the Speed stat."
+},
+"power-band": {
+"name": "Power Band",
+"category": "effort-training",
+"effect": "Held: Holder gains 4 Special Defense effort values, but has halved Speed in battle.",
+"flavorText": "A Pokémon held item that promotes Sp. Def gain on leveling, but reduces the Speed stat."
+},
+"power-belt": {
+"name": "Power Belt",
+"category": "effort-training",
+"effect": "Held: Holder gains 4 Defense effort values, but has halved Speed in battle.",
+"flavorText": "A Pokémon held item that promotes Defense gain on leveling, but reduces the Speed stat."
+},
+"power-bracer": {
+"name": "Power Bracer",
+"category": "effort-training",
+"effect": "Held: Holder gains 4 Attack effort values, but has halved Speed in battle.",
+"flavorText": "A Pokémon held item that promotes Attack gain on leveling, but reduces the Speed stat."
+},
+"power-herb": {
+"name": "Power Herb",
+"category": "held-items",
+"effect": "Held: Both turns of a two-turn charge move happen at once. Consumed upon use.",
+"flavorText": "A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges on the first turn."
+},
+"power-lens": {
+"name": "Power Lens",
+"category": "effort-training",
+"effect": "Held: Holder gains 4 Special Attack effort values, but has halved Speed in battle.",
+"flavorText": "A Pokémon held item that promotes Sp. Atk gain on leveling, but reduces the Speed stat."
+},
+"power-weight": {
+"name": "Power Weight",
+"category": "effort-training",
+"effect": "Held: Holder gains 4 HP effort values, but has halved Speed in battle.",
+"flavorText": "A Pokémon held item that promotes HP gain on leveling, but reduces the Speed stat."
+},
+"pp-max": {
+"name": "PP Max",
+"category": "vitamins",
+"effect": "Raises a move’s max PP by 60%.",
+"flavorText": "It maximally raises the top PP of a selected move that has been learned by the target Pokémon."
+},
+"pp-up": {
+"name": "PP Up",
+"category": "vitamins",
+"effect": "Raises a move’s max PP by 20%.",
+"flavorText": "It slightly raises the maximum PP of a selected move that has been learned by the target Pokémon."
+},
+"premier-ball": {
+"name": "Premier Ball",
+"category": "special-balls",
+"effect": "Tries to catch a wild Pokémon.",
+"flavorText": "A somewhat rare Poké Ball that has been specially made to commemorate an event of some sort."
+},
+"pretty-wing": {
+"name": "Pretty Feather",
+"category": "loot",
+"effect": "Sell for 100 Pokédollars.",
+"flavorText": "Though this feather is beautiful, it’s just a regular feather and has no effect on Pokémon."
+},
+"prism-scale": {
+"name": "Prism Scale",
+"category": "evolution",
+"effect": "Traded on a Feebas: Holder evolves into Milotic.",
+"flavorText": "A mysterious scale that evolves certain Pokémon. It shines in rainbow colors."
+},
+"prop-case": {
+"name": "Prop Case",
+"category": "gameplay",
+"effect": "Stores props for the Pokémon Musical.",
+"flavorText": "A lovely case to store colorful Props for your Pokémon to wear in a musical."
+},
+"protector": {
+"name": "Protector",
+"category": "evolution",
+"effect": "Traded on a Rhydon: Holder evolves into Rhyperior.",
+"flavorText": "A protective item of some sort. It is extremely stiff and heavy. It is loved by a certain Pokémon."
+},
+"protein": {
+"name": "Protein",
+"category": "vitamins",
+"effect": "Raises Attack effort and happiness.",
+"flavorText": "A nutritious drink for Pokémon. It raises the base Attack stat of a single Pokémon."
+},
+"psychic-gem": {
+"name": "Psychic Gem",
+"category": "jewels",
+"effect": "Held: When the holder uses a damaging Psychic-type move, the move has 1.5× power and this item is consumed.",
+"flavorText": "A gem with an essence of the mind. When held, it strengthens the power of a Psychic-type move only once."
+},
+"pure-incense": {
+"name": "Pure Incense",
+"category": "training",
+"effect": "Prevents wild encounters of level lower than your party’s lead Pokémon. Breeding: Chimecho begets a Chingling Egg.",
+"flavorText": "An item to be held by a Pokémon. It helps keep wild Pokémon away if the holder is the first one in the party."
+},
+"qualot-berry": {
+"name": "Qualot Berry",
+"category": "effort-drop",
+"effect": "Drops Defense Effort Values by 10 and raises happiness.",
+"flavorText": "Using it on a Pokémon makes it more friendly, but it also lowers its base Defense stat."
+},
+"quick-ball": {
+"name": "Quick Ball",
+"category": "special-balls",
+"effect": "Tries to catch a wild Pokémon. Success rate is 4× (Gen V: 5×), but only on the first turn.",
+"flavorText": "A somewhat different Poké Ball that provides a better catch rate if it is used at the start of a wild encounter."
+},
+"quick-claw": {
+"name": "Quick Claw",
+"category": "held-items",
+"effect": "Held: Holder has a 3/16 (18.75%) chance to move first.",
+"flavorText": "An item to be held by a Pokémon. A light, sharp claw that lets the bearer move first occasionally."
+},
+"quick-powder": {
+"name": "Quick Powder",
+"category": "species-specific",
+"effect": "Doubles Ditto’s Speed when held. The boost is lost after transforming.",
+"flavorText": "An item to be held by Ditto. Extremely fine yet hard, this odd powder boosts the Speed stat."
+},
+"rabuta-berry": {
+"name": "Rabuta Berry",
+"category": "baking-only",
+"effect": "Used for creating PokéBlocks and Poffins.",
+"flavorText": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+},
+"rage-candy-bar": {
+"name": "Rage Candy Bar",
+"category": "gameplay",
+"effect": "HS: Traded for TM64. Gen II & Gen V: Acts as a Potion.",
+"flavorText": "A famous Mahogany Town candy tourists like to buy and take home. It restores the HP of one Pokémon by 20 points."
+},
+"rainbow-wing": {
+"name": "Rainbow Wing",
+"category": "plot-advancement",
+"effect": "Summons Ho-Oh at the top of the Bell Tower.",
+"flavorText": "A mystical rainbow feather that sparkles."
+},
+"rare-bone": {
+"name": "Rare Bone",
+"category": "loot",
+"effect": "Sell for 5000 Pokédollars, or to Bone Man for 10000 Pokédollars.",
+"flavorText": "A bone that is extremely valuable for Pokémon archeology. It can be sold for a high price to shops."
+},
+"rare-candy": {
+"name": "Rare Candy",
+"category": "vitamins",
+"effect": "Causes a level-up and raises happiness.",
+"flavorText": "A candy that is packed with energy. It raises the level of a single Pokémon by one."
+},
+"rawst-berry": {
+"name": "Rawst Berry",
+"category": "medicine",
+"effect": "Held: Consumed when burned to cure a burn.",
+"flavorText": "If held by a Pokémon, it recovers from a burn."
+},
+"razor-claw": {
+"name": "Razor Claw",
+"category": "held-items",
+"effect": "Held: Raises the holder’s critical hit ratio by one stage. Held by a Sneasel while levelling up at night: Holder evolves into Weavile.",
+"flavorText": "An item to be held by a Pokémon. It is a sharply hooked claw that ups the holder’s critical-hit ratio."
+},
+"razor-fang": {
+"name": "Razor Fang",
+"category": "held-items",
+"effect": "Held: Damaging moves gain a 10% chance to make their target flinch. Held by a Gligar while levelling up: Holder evolves into Gliscor.",
+"flavorText": "An item to be held by a Pokémon. It may make foes and allies flinch when the holder inflicts damage."
+},
+"razz-berry": {
+"name": "Razz Berry",
+"category": "baking-only",
+"effect": "Used for creating PokéBlocks and Poffins.",
+"flavorText": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+},
+"reaper-cloth": {
+"name": "Reaper Cloth",
+"category": "evolution",
+"effect": "Traded on a Dusclops: Holder evolves into Dusknoir.",
+"flavorText": "A cloth imbued with horrifyingly strong spiritual energy. It is loved by a certain Pokémon."
+},
+"red-apricorn": {
+"name": "Red Apricorn",
+"category": "apricorn-box",
+"effect": "Used to make a Level Ball.",
+"flavorText": "A red Apricorn. It assails your nostrils."
+},
+"red-card": {
+"name": "Red Card",
+"category": "held-items",
+"effect": "Held: When the holder takes damage from a move, the opponent switches out for another random party Pokémon. Consumed after use.",
+"flavorText": "A card with a mysterious power. When the holder is struck by a foe, the attacker is removed from battle."
+},
+"red-chain": {
+"name": "Red Chain",
+"category": "unused",
+"effect": "Used to bind Palkia and Dialga.",
+"flavorText": "A mythical chain that is said to link the legendary Pokémon that created the Sinnoh region."
+},
+"red-flute": {
+"name": "Red Flute",
+"category": "flutes",
+"effect": "Cures attraction.",
+"flavorText": "A toy flute made from red glass. A maniac will buy it for a high price."
+},
+"red-orb": {
+"name": "Red Orb",
+"category": "plot-advancement",
+"effect": "Summons Groudon to the Embedded Tower.",
+"flavorText": "A shiny red orb that is said to have a legend and has a deep connection with the Hoenn region."
+},
+"red-scale": {
+"name": "Red Scale",
+"category": "plot-advancement",
+"effect": "Trade to Mr. Pokémon for an Exp. Share.",
+"flavorText": "A scale from the red Gyarados. It glows red like a flame."
+},
+"red-scarf": {
+"name": "Red Scarf",
+"category": "scarves",
+"effect": "Raises the holder’s Coolness while in a contest.",
+"flavorText": "An item to be held by a Pokémon. It boosts the Cool aspect of the holder in a Contest."
+},
+"red-shard": {
+"name": "Red Shard",
+"category": "collectibles",
+"effect": "No effect. Can be traded for items or moves.",
+"flavorText": "A small red shard. It appears to be from some sort of implement made long ago."
+},
+"relic-band": {
+"name": "Relic Band",
+"category": "loot",
+"effect": "Sell to Villa Owner for 100000 Pokédollars.",
+"flavorText": "A bracelet made in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+},
+"relic-copper": {
+"name": "Relic Copper",
+"category": "loot",
+"effect": "Sell to Villa Owner for 1000 Pokédollars.",
+"flavorText": "A copper coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+},
+"relic-crown": {
+"name": "Relic Crown",
+"category": "loot",
+"effect": "Sell to Villa Owner for 300000 Pokédollars.",
+"flavorText": "A crown made in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+},
+"relic-gold": {
+"name": "Relic Gold",
+"category": "loot",
+"effect": "Sell to Villa Owner 10000 Pokédollars.",
+"flavorText": "A gold coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+},
+"relic-silver": {
+"name": "Relic Silver",
+"category": "loot",
+"effect": "Sell to Villa Owner 5000 Pokédollars.",
+"flavorText": "A silver coin used in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+},
+"relic-statue": {
+"name": "Relic Statue",
+"category": "loot",
+"effect": "Sell to Villa Owner 200000 Pokédollars.",
+"flavorText": "A stone figure made in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+},
+"relic-vase": {
+"name": "Relic Vase",
+"category": "loot",
+"effect": "Sell to Villa Owner 50000 Pokédollars.",
+"flavorText": "A vase made in a civilization about 3,000 years ago. A maniac will buy it for a high price."
+},
+"repeat-ball": {
+"name": "Repeat Ball",
+"category": "special-balls",
+"effect": "Tries to catch a wild Pokémon. Success rate is 3× for previously-caught Pokémon.",
+"flavorText": "A somewhat different Poké Ball that works especially well on Pokémon species that were previously caught."
+},
+"repel": {
+"name": "Repel",
+"category": "spelunking",
+"effect": "For 100 steps, prevents wild encounters of level lower than your party’s lead Pokémon.",
+"flavorText": "An item that prevents weak wild Pokémon from appearing for 100 steps after its use."
+},
+"reply-mail": {
+"name": "Reply Mail",
+"category": "all-mail",
+"effect": "Lets a Trainer write a message and send it via Pokémon trade.",
+"flavorText": "Stationery designed for writing a reply. Let a Pokémon hold it for delivery."
+},
+"reset-urge": {
+"name": "Reset Urge",
+"category": "miracle-shooter",
+"effect": "Resets a friendly Pokémon’s stat changes.",
+"flavorText": "When used, it restores any stat changes of an ally Pokémon."
+},
+"resist-wing": {
+"name": "Resist Feather",
+"category": "vitamins",
+"effect": "Increases Defense effort by 1.",
+"flavorText": "An item for use on a Pokémon. It slightly increases the base Defense stat of a single Pokémon."
+},
+"revival-herb": {
+"name": "Revival Herb",
+"category": "revival",
+"effect": "Revives with full HP, but lowers happiness.",
+"flavorText": "A very bitter medicinal herb. It revives a fainted Pokémon, fully restoring its HP."
+},
+"revive": {
+"name": "Revive",
+"category": "revival",
+"effect": "Revives with half HP.",
+"flavorText": "A medicine that revives a fainted Pokémon. It restores half the Pokémon’s maximum HP."
+},
+"rindo-berry": {
+"name": "Rindo Berry",
+"category": "type-protection",
+"effect": "Held: Consumed when struck by a super-effective Grass-type attack to halve the damage.",
+"flavorText": "Weakens a supereffective Grass-type attack against the holding Pokémon."
+},
+"ring-target": {
+"name": "Ring Target",
+"category": "held-items",
+"effect": "Held: Negates the holder’s type immunities. Ability immunities are not removed.",
+"flavorText": "Moves that would otherwise have no effect will land on the Pokémon that holds it."
+},
+"rock-gem": {
+"name": "Rock Gem",
+"category": "jewels",
+"effect": "Held: When the holder uses a damaging Rock-type move, the move has 1.5× power and this item is consumed.",
+"flavorText": "A gem with an essence of rock. When held, it strengthens the power of a Rock-type move only once."
+},
+"rock-incense": {
+"name": "Rock Incense",
+"category": "type-enhancement",
+"effect": "Held: Rock-Type moves from holder do 20% more damage. Breeding: Sudowoodo begets a Bonsly Egg.",
+"flavorText": "An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Rock-type moves."
+},
+"rocky-helmet": {
+"name": "Rocky Helmet",
+"category": "held-items",
+"effect": "Held: When the holder is hit by a contact move, the attacking Pokémon takes 1/6 its max HP in damage.",
+"flavorText": "If the holder of this item takes damage, the attacker will also be damaged upon contact."
+},
+"root-fossil": {
+"name": "Root Fossil",
+"category": "dex-completion",
+"effect": "Can be revived into a Lileep.",
+"flavorText": "A fossil of an ancient Pokémon that lived in the sea. It appears to be part of a plant root."
+},
+"rose-incense": {
+"name": "Rose Incense",
+"category": "type-enhancement",
+"effect": "Held: Grass-Type moves from holder do 20% more damage. Breeding: Roselia or Roserade beget a Budew Egg.",
+"flavorText": "An item to be held by a Pokémon. It is an exotic-smelling incense that boosts the power of Grass-type moves."
+},
+"rowap-berry": {
+"name": "Rowap Berry",
+"category": "other",
+"effect": "Held: Consumed to deal 1/8 attacker’s max HP when holder is struck by a special attack.",
+"flavorText": "If held by a Pokémon and a special attack lands, the attacker also takes damage."
+},
+"rsvp-mail": {
+"name": "RSVP Mail",
+"category": "all-mail",
+"effect": "Lets a Trainer write a message and send it via Pokémon trade.",
+"flavorText": "Stationery designed for invitations. Let a Pokémon hold it for delivery."
+},
+"rule-book": {
+"name": "Rule Book",
+"category": "unused",
+"effect": "List of battle types and their rules.",
+"flavorText": "It lists the rules for holding battles. For linked battles, you may choose which set of rules you wish to use."
+},
+"sacred-ash": {
+"name": "Sacred Ash",
+"category": "revival",
+"effect": "Revives all fainted Pokémon with full HP.",
+"flavorText": "It revives all fainted Pokémon. In doing so, it also fully restores their HP."
+},
+"safari-ball": {
+"name": "Safari Ball",
+"category": "standard-balls",
+"effect": "Tries to catch a wild Pokémon in the Great Marsh or Safari Zone. Success rate is 1.5×.",
+"flavorText": "A special Poké Ball that is used only in the Great Marsh. It is decorated in a camouflage pattern."
+},
+"salac-berry": {
+"name": "Salac Berry",
+"category": "in-a-pinch",
+"effect": "Held: Consumed at 1/4 max HP to boost Speed.",
+"flavorText": "If held by a Pokémon, it raises its Speed stat in a pinch."
+},
+"scope-lens": {
+"name": "Scope Lens",
+"category": "held-items",
+"effect": "Held: Raises the holder’s critical hit ratio by one stage.",
+"flavorText": "An item to be held by a Pokémon. It is a lens that boosts the holder’s critical-hit ratio."
+},
+"sea-incense": {
+"name": "Sea Incense",
+"category": "type-enhancement",
+"effect": "Held: Water-Type moves from holder do 20% more damage. Breeding: Marill or Azumarill beget an Azurill Egg.",
+"flavorText": "An item to be held by a Pokémon. It is incense with a curious aroma that boosts the power of Water-type moves."
+},
+"seal-bag": {
+"name": "Seal Bag",
+"category": "unused",
+"effect": "Holds ten Seals for Poké Balls.",
+"flavorText": "A tiny bag that can hold ten Seals for decorating Poké Balls."
+},
+"seal-case": {
+"name": "Seal Case",
+"category": "gameplay",
+"effect": "Stores Seals that can be applied to Poké Ball capsules.",
+"flavorText": "A case for storing Seals that can be applied to the Capsule cases of Poké Balls."
+},
+"secret-key": {
+"name": "Secret Key",
+"category": "event-items",
+"effect": "Gen IV: The key to Rotom’s appliance room. Gen III: The key to Cinnabar Gym.",
+"flavorText": "A high-tech key that has to be used at a specific location. It emits a special electric signal to open a door."
+},
+"secret-potion": {
+"name": "Secret Potion",
+"category": "plot-advancement",
+"effect": "Used to heal the Ampharos at the top of Olivine Lighthouse.",
+"flavorText": "A fantastic medicine dispensed by the pharmacy in Cianwood City. It fully heals a Pokémon of any ailment."
+},
+"sharp-beak": {
+"name": "Sharp Beak",
+"category": "type-enhancement",
+"effect": "Held: Flying-Type moves from holder do 20% more damage.",
+"flavorText": "An item to be held by a Pokémon. It is a long, sharp beak that boosts the power of Flying-type moves."
+},
+"shed-shell": {
+"name": "Shed Shell",
+"category": "held-items",
+"effect": "Held: Holder can bypass all trapping effects and switch out. Multi-turn moves still cannot be switched out of.",
+"flavorText": "A tough, discarded carapace to be held by a Pokémon. It enables the holder to switch with a waiting Pokémon in battle."
+},
+"shell-bell": {
+"name": "Shell Bell",
+"category": "held-items",
+"effect": "Held: Holder receives 1/8 of the damage it deals when attacking.",
+"flavorText": "An item to be held by a Pokémon. The holder’s HP is restored a little every time it inflicts damage."
+},
+"shiny-stone": {
+"name": "Shiny Stone",
+"category": "evolution",
+"effect": "Evolves a Minccino into Cinccino, a Roselia into Roserade, or a Togetic into Togekiss.",
+"flavorText": "A peculiar stone that makes certain species of Pokémon evolve. It shines with a dazzling light."
+},
+"shoal-salt": {
+"name": "Shoal Salt",
+"category": "collectibles",
+"effect": "No effect. Gen III: Trade four and four Shoal Shells for a Shell Bell.",
+"flavorText": "Pure salt that can be discovered deep inside the Shoal Cave. A maniac will buy it for a high price."
+},
+"shoal-shell": {
+"name": "Shoal Shell",
+"category": "collectibles",
+"effect": "No effect. Gen III: Trade four and four Shoal Salts for a Shell Bell.",
+"flavorText": "A pretty seashell that can be found deep inside the Shoal Cave. A maniac will buy it for a high price."
+},
+"shock-drive": {
+"name": "Shock Drive",
+"category": "species-specific",
+"effect": "Grants Genesect a yellow, Electric-type Techno Blast.",
+"flavorText": "A cassette to be held by Genesect. It changes Techno Blast to an Electric-type move."
+},
+"shuca-berry": {
+"name": "Shuca Berry",
+"category": "type-protection",
+"effect": "Held: Consumed when struck by a super-effective Ground-type attack to halve the damage.",
+"flavorText": "Weakens a supereffective Ground-type attack against the holding Pokémon."
+},
+"silk-scarf": {
+"name": "Silk Scarf",
+"category": "type-enhancement",
+"effect": "Held: Normal-Type moves from holder do 20% more damage.",
+"flavorText": "An item to be held by a Pokémon. It is a sumptuous scarf that boosts the power of Normal-type moves."
+},
+"silver-powder": {
+"name": "Silver Powder",
+"category": "type-enhancement",
+"effect": "Held: Bug-Type moves from holder do 20% more damage.",
+"flavorText": "An item to be held by a Pokémon. It is a shiny, silver powder that ups the power of Bug-type moves."
+},
+"silver-wing": {
+"name": "Silver Wing",
+"category": "plot-advancement",
+"effect": "Summons Lugia to the Whirl Islands.",
+"flavorText": "A strange, silvery feather that sparkles."
+},
+"sitrus-berry": {
+"name": "Sitrus Berry",
+"category": "medicine",
+"effect": "Held: Consumed at 1/2 max HP to recover 1/4 max HP.",
+"flavorText": "If held by a Pokémon, it heals the user’s HP a little."
+},
+"skull-fossil": {
+"name": "Skull Fossil",
+"category": "dex-completion",
+"effect": "Can be revived into a Cranidos.",
+"flavorText": "A fossil from a prehistoric Pokémon that lived on the land. It appears to be part of a head."
+},
+"sky-plate": {
+"name": "Sky Plate",
+"category": "plates",
+"effect": "Held: Flying-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Flying.",
+"flavorText": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Flying-type moves."
+},
+"slowpoke-tail": {
+"name": "Slowpoke Tail",
+"category": "unused",
+"effect": "A tasty tail that sells for a high price.",
+"flavorText": "A very tasty tail of something. It sells for a high price."
+},
+"smoke-ball": {
+"name": "Smoke Ball",
+"category": "held-items",
+"effect": "Held: Allows the Holder to escape from any wild battle.",
+"flavorText": "An item to be held by a Pokémon. It enables the holder to flee from any wild Pokémon without fail."
+},
+"smooth-rock": {
+"name": "Smooth Rock",
+"category": "held-items",
+"effect": "Held: Sandstorm by the holder lasts 8 rounds instead of 5.",
+"flavorText": "A Pokémon held item that extends the duration of the move Sandstorm used by the holder."
+},
+"soda-pop": {
+"name": "Soda Pop",
+"category": "healing",
+"effect": "Restores 60 HP.",
+"flavorText": "A fizzy soda drink. It restores the HP of one Pokémon by 60 points."
+},
+"soft-sand": {
+"name": "Soft Sand",
+"category": "type-enhancement",
+"effect": "Held: Ground-Type moves from holder do 20% more damage.",
+"flavorText": "An item to be held by a Pokémon. It is a loose, silky sand that boosts the power of Ground-type moves."
+},
+"soothe-bell": {
+"name": "Soothe Bell",
+"category": "training",
+"effect": "Held: Doubles the happiness earned by the holder.",
+"flavorText": "An item to be held by a Pokémon. It is a bell with a comforting chime that calms the holder and makes it friendly."
+},
+"soul-dew": {
+"name": "Soul Dew",
+"category": "species-specific",
+"effect": "Raises Latias and Latios’s Special Attack and Special Defense by 50%.",
+"flavorText": "A wondrous orb to be held by Latios or Latias. It raises both the Sp. Atk and Sp. Def stats."
+},
+"spell-tag": {
+"name": "Spell Tag",
+"category": "type-enhancement",
+"effect": "Held: Ghost-Type moves from holder do 20% more damage.",
+"flavorText": "An item to be held by a Pokémon. It is a sinister, eerie tag that boosts the power of Ghost-type moves."
+},
+"spelon-berry": {
+"name": "Spelon Berry",
+"category": "baking-only",
+"effect": "Used for creating PokéBlocks and Poffins.",
+"flavorText": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+},
+"splash-plate": {
+"name": "Splash Plate",
+"category": "plates",
+"effect": "Held: Water-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Water.",
+"flavorText": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Water-type moves."
+},
+"spooky-plate": {
+"name": "Spooky Plate",
+"category": "plates",
+"effect": "Held: Ghost-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Ghost.",
+"flavorText": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Ghost-type moves."
+},
+"sport-ball": {
+"name": "Sport Ball",
+"category": "standard-balls",
+"effect": "Tries to catch a Pokémon in the Bug-Catching contest in National Park. (Gen II: Park Ball)",
+"flavorText": "A special Poké Ball for the Bug-Catching Contest."
+},
+"sprayduck": {
+"name": "Sprayduck",
+"category": "gameplay",
+"effect": "Used to water berries.",
+"flavorText": "A watering can shaped like a Psyduck. It helps promote healthy growth of Berries planted in soft soil."
+},
+"squirt-bottle": {
+"name": "Squirt Bottle",
+"category": "plot-advancement",
+"effect": "Use on Sudowoodo blocking the path on Route 36. Also waters berries.",
+"flavorText": "A bottle used for watering plants in the Berry Pots."
+},
+"ss-ticket": {
+"name": "S.S. Ticket",
+"category": "plot-advancement",
+"effect": "Ticket for a ship. (RSE: S.S. Tidal LF: S.S. Anne HG: S.S. Aqua)",
+"flavorText": "The ticket required for sailing on the ferry S.S. Aqua. It has a drawing of a ship on it."
+},
+"stable-mulch": {
+"name": "Stable Mulch",
+"category": "mulch",
+"effect": "Berries stay on the plant for longer than their usual time.",
+"flavorText": "A fertilizer to be spread on soft soil in regions where Berries are grown. A maniac will buy it for a high price."
+},
+"star-piece": {
+"name": "Star Piece",
+"category": "loot",
+"effect": "Platinum: Trade for one of each color Shard. Black and White: Trade for PP Up. Sell for 4900 Pokédollars, or to Ore Collector for 9800 Pokédollars.",
+"flavorText": "A shard of a pretty gem that sparkles in a red color. It can be sold at a high price to shops."
+},
+"stardust": {
+"name": "Stardust",
+"category": "loot",
+"effect": "Sell for 1000 Pokédollars, or to Ore Collector for 2000 Pokédollars.",
+"flavorText": "Lovely, red-colored sand with a loose, silky feel. It can be sold at a high price to shops."
+},
+"starf-berry": {
+"name": "Starf Berry",
+"category": "in-a-pinch",
+"effect": "Held: Consumed at 1/4 max HP to boost a random stat by two stages.",
+"flavorText": "If held by a Pokémon, it sharply raises one of its stats in a pinch."
+},
+"steel-gem": {
+"name": "Steel Gem",
+"category": "jewels",
+"effect": "Held: When the holder uses a damaging Steel-type move, the move has 1.5× power and this item is consumed.",
+"flavorText": "A gem with an essence of steel. When held, it strengthens the power of a Steel-type move only once."
+},
+"stick": {
+"name": "Leek",
+"category": "species-specific",
+"effect": "Raises Farfetch’d’s critical hit ratio by two stages.",
+"flavorText": "An item to be held by Farfetch’d. It is a very long and stiff stalk of leek that boosts the critical-hit ratio."
+},
+"sticky-barb": {
+"name": "Sticky Barb",
+"category": "bad-held-items",
+"effect": "Held: Holder takes 1/8 (12.5%) its max HP at the end of each turn. When the holder is hit by a contact move, the attacking Pokémon takes 1/8 its max HP in damage and receive the item if not holding one.",
+"flavorText": "A held item that damages the holder on every turn. It may latch on to foes and allies that touch the holder."
+},
+"stone-plate": {
+"name": "Stone Plate",
+"category": "plates",
+"effect": "Held: Rock-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Rock.",
+"flavorText": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Rock-type moves."
+},
+"storage-key": {
+"name": "Storage Key",
+"category": "plot-advancement",
+"effect": "Grants access to the Team Galactic warehouse in Veilstone City.",
+"flavorText": "The key to Team Galactic’s sinister warehouse located at the edge of Veilstone City."
+},
+"suite-key": {
+"name": "Suite Key",
+"category": "event-items",
+"effect": "Opens a locked building in the Lakeside Resort.",
+"flavorText": "A key to one of the suites at the luxury hotel by a lake. For some odd reason, it often disappears."
+},
+"sun-stone": {
+"name": "Sun Stone",
+"category": "evolution",
+"effect": "Evolves a Cottonee into Whimsicott, a Gloom into Bellossom, a Petilil into Lilligant, or a Sunkern into Sunflora.",
+"flavorText": "A peculiar stone that makes certain species of Pokémon evolve. It is as red as the sun."
+},
+"super-potion": {
+"name": "Super Potion",
+"category": "healing",
+"effect": "Restores 50 HP.",
+"flavorText": "A spray-type medicine for wounds. It restores the HP of one Pokémon by 50 points."
+},
+"super-repel": {
+"name": "Super Repel",
+"category": "spelunking",
+"effect": "For 200 steps, prevents wild encounters of level lower than your party’s lead Pokémon.",
+"flavorText": "An item that prevents weak wild Pokémon from appearing for 200 steps after its use."
+},
+"super-rod": {
+"name": "Super Rod",
+"category": "gameplay",
+"effect": "Used to catch Pokémon in bodies of water.",
+"flavorText": "An awesome, high-tech fishing rod. Use it by any body of water to fish for wild aquatic Pokémon."
+},
+"sweet-heart": {
+"name": "Sweet Heart",
+"category": "healing",
+"effect": "Restores 20 HP.",
+"flavorText": "Very sweet chocolate. It restores the HP of one Pokémon by only 20 points."
+},
+"swift-wing": {
+"name": "Swift Feather",
+"category": "vitamins",
+"effect": "Increases Speed effort by 1.",
+"flavorText": "An item for use on a Pokémon. It slightly increases the base Speed stat of a single Pokémon."
+},
+"tamato-berry": {
+"name": "Tamato Berry",
+"category": "effort-drop",
+"effect": "Drops Speed Effort Values by 10 and raises happiness.",
+"flavorText": "Using it on a Pokémon makes it more friendly, but it also lowers its base Speed stat."
+},
+"tanga-berry": {
+"name": "Tanga Berry",
+"category": "type-protection",
+"effect": "Held: Consumed when struck by a super-effective Bug-type attack to halve the damage.",
+"flavorText": "Weakens a supereffective Bug-type attack against the holding Pokémon."
+},
+"thanks-mail": {
+"name": "Thanks Mail",
+"category": "all-mail",
+"effect": "Lets a Trainer write a message and send it via Pokémon trade.",
+"flavorText": "Stationery designed for a thank-you note. Let a Pokémon hold it for delivery."
+},
+"thick-club": {
+"name": "Thick Club",
+"category": "species-specific",
+"effect": "Doubles Cubone or Marowak’s Attack.",
+"flavorText": "An item to be held by Cubone or Marowak. It is a hard bone of some sort that boosts the Attack stat."
+},
+"thunder-stone": {
+"name": "Thunder Stone",
+"category": "evolution",
+"effect": "Evolves an Eelektrik into Eelektross, an Eevee into Jolteon, or a Pikachu into Raichu.",
+"flavorText": "A peculiar stone that makes certain species of Pokémon evolve. It has a thunderbolt pattern."
+},
+"tidal-bell": {
+"name": "Tidal Bell",
+"category": "plot-advancement",
+"effect": "Allows Kimono-girls to summon Lugia.",
+"flavorText": "A very old-fashioned bell that makes a gentle ringing."
+},
+"timer-ball": {
+"name": "Timer Ball",
+"category": "special-balls",
+"effect": "Tries to catch a wild Pokémon. Success rate increases by 0.1× (Gen V: 0.3×) every turn, to a max of 4×.",
+"flavorText": "A somewhat different Ball that becomes progressively better the more turns there are in a battle."
+},
+"tiny-mushroom": {
+"name": "Tiny Mushroom",
+"category": "loot",
+"effect": "Fire Red and Leaf Green: Trade two for prior Level-up moves. Sell for 250 Pokédollars, or to Hungry Maid for 500 Pokédollars.",
+"flavorText": "A small and rare mushroom. It is sought after by collectors."
+},
+"tm01": {
+"name": "TM01",
+"category": "all-machines",
+"effect": "Teaches Hone Claws to a compatible Pokémon. (Gen IV & III: Focus Punch Gen II: DynamicPunch Gen I: Mega Punch)",
+"flavorText": "The user sharpens its claws to boost its Attack stat and accuracy."
+},
+"tm02": {
+"name": "TM02",
+"category": "all-machines",
+"effect": "Teaches Dragon Claw to a compatible Pokémon. (Gen II: Headbutt Gen I: Razor Wind)",
+"flavorText": "The user slashes the target with huge, sharp claws."
+},
+"tm03": {
+"name": "TM03",
+"category": "all-machines",
+"effect": "Teaches Psyshock to a compatible Pokémon. (Gen IV & III: Water Pulse Gen II: Curse Gen I: Swords Dance)",
+"flavorText": "The user materializes an odd psychic wave to attack the target. This attack does physical damage."
+},
+"tm04": {
+"name": "TM04",
+"category": "all-machines",
+"effect": "Teaches Calm Mind to a compatible Pokémon. (Gen II: Rollout Gen I: Whirlwind)",
+"flavorText": "The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats."
+},
+"tm05": {
+"name": "TM05",
+"category": "all-machines",
+"effect": "Teaches Roar to a compatible Pokémon. (Gen I: Mega Kick)",
+"flavorText": "The target is scared off and replaced by another Pokémon in its party. In the wild, the battle ends."
+},
+"tm06": {
+"name": "TM06",
+"category": "all-machines",
+"effect": "Teaches Toxic to a compatible Pokémon.",
+"flavorText": "A move that leaves the target badly poisoned. Its poison damage worsens every turn."
+},
+"tm07": {
+"name": "TM07",
+"category": "all-machines",
+"effect": "Teaches Hail to a compatible Pokémon. (Gen II: Zap Cannon Gen I: Horn Drill)",
+"flavorText": "Summons a hailstorm that lasts for five turns. The hailstorm damages all types except Ice."
+},
+"tm08": {
+"name": "TM08",
+"category": "all-machines",
+"effect": "Teaches Bulk Up to a compatible Pokémon. (Gen II: Rock Smash Gen I: Body Slam)",
+"flavorText": "The user tenses its muscles to bulk up its body, boosting both its Attack and Defense stats."
+},
+"tm09": {
+"name": "TM09",
+"category": "all-machines",
+"effect": "Teaches Venoshock to a compatible Pokémon. (Gen IV & III: Bullet Seed Gen II: Psych Up Gen I: Take Down)",
+"flavorText": "The user drenches the target in a special poisonous liquid. Its power is doubled if the target is poisoned."
+},
+"tm10": {
+"name": "TM10",
+"category": "all-machines",
+"effect": "Teaches Hidden Power to a compatible Pokémon. (Gen I: Double-Edge)",
+"flavorText": "A unique attack that varies in type and intensity depending on the Pokémon using it."
+},
+"tm11": {
+"name": "TM11",
+"category": "all-machines",
+"effect": "Teaches Sunny Day to a compatible Pokémon. (Gen I: BubbleBeam)",
+"flavorText": "The user intensifies the sun for five turns, powering up Fire-type moves."
+},
+"tm12": {
+"name": "TM12",
+"category": "all-machines",
+"effect": "Teaches Taunt to a compatible Pokémon. (Gen II: Sweet Scent Gen I: Water Gun)",
+"flavorText": "The target is taunted into a rage that allows it to use only attack moves for three turns."
+},
+"tm13": {
+"name": "TM13",
+"category": "all-machines",
+"effect": "Teaches Ice Beam to a compatible Pokémon. (Gen II: Snore)",
+"flavorText": "The target is struck with an icy-cold beam of energy. It may also freeze the target solid."
+},
+"tm14": {
+"name": "TM14",
+"category": "all-machines",
+"effect": "Teaches Blizzard to a compatible Pokémon.",
+"flavorText": "A howling blizzard is summoned to strike the opposing team. It may also freeze them solid."
+},
+"tm15": {
+"name": "TM15",
+"category": "all-machines",
+"effect": "Teaches Hyper Beam to a compatible Pokémon.",
+"flavorText": "The target is attacked with a powerful beam. The user must rest on the next turn to regain its energy."
+},
+"tm16": {
+"name": "TM16",
+"category": "all-machines",
+"effect": "Teaches Light Screen to a compatible Pokémon. (Gen II: Icy Wind Gen I: Pay Day)",
+"flavorText": "A wondrous wall of light is put up to suppress damage from special attacks for five turns."
+},
+"tm17": {
+"name": "TM17",
+"category": "all-machines",
+"effect": "Teaches Protect to a compatible Pokémon. (Gen I: Submission)",
+"flavorText": "It enables the user to evade all attacks. Its chance of failing rises if it is used in succession."
+},
+"tm18": {
+"name": "TM18",
+"category": "all-machines",
+"effect": "Teaches Rain Dance to a compatible Pokémon. (Gen I: Counter)",
+"flavorText": "The user summons a heavy rain that falls for five turns, powering up Water-type moves."
+},
+"tm19": {
+"name": "TM19",
+"category": "all-machines",
+"effect": "Teaches Telekinesis to a compatible Pokémon. (Gen IV & III & II: Giga Drain Gen I: Seismic Toss)",
+"flavorText": "The user makes the target float with its psychic power. The target is easier to hit for three turns."
+},
+"tm20": {
+"name": "TM20",
+"category": "all-machines",
+"effect": "Teaches Safeguard to a compatible Pokémon. (Gen II: Endure Gen I: Rage)",
+"flavorText": "The user creates a protective field that prevents status problems for five turns."
+},
+"tm21": {
+"name": "TM21",
+"category": "all-machines",
+"effect": "Teaches Frustration to a compatible Pokémon. (Gen I: Mega Drain)",
+"flavorText": "A full-power attack that grows more powerful the less the user likes its Trainer."
+},
+"tm22": {
+"name": "TM22",
+"category": "all-machines",
+"effect": "Teaches SolarBeam to a compatible Pokémon.",
+"flavorText": "A two-turn attack. The user gathers light, then blasts a bundled beam on the second turn."
+},
+"tm23": {
+"name": "TM23",
+"category": "all-machines",
+"effect": "Teaches Smack Down to a compatible Pokémon. (Gen IV & III & II: Iron Tail Gen I: Dragon Rage)",
+"flavorText": "The user throws a stone or projectile to attack an opponent. A flying Pokémon will fall to the ground when it’s hit."
+},
+"tm24": {
+"name": "TM24",
+"category": "all-machines",
+"effect": "Teaches Thunderbolt to a compatible Pokémon. (Gen II: DragonBreath)",
+"flavorText": "A strong electric blast is loosed at the target. It may also leave the target with paralysis."
+},
+"tm25": {
+"name": "TM25",
+"category": "all-machines",
+"effect": "Teaches Thunder to a compatible Pokémon.",
+"flavorText": "A wicked thunderbolt is dropped on the target to inflict damage. It may also leave the target with paralysis."
+},
+"tm26": {
+"name": "TM26",
+"category": "all-machines",
+"effect": "Teaches Earthquake to a compatible Pokémon.",
+"flavorText": "The user sets off an earthquake that strikes every Pokémon around it."
+},
+"tm27": {
+"name": "TM27",
+"category": "all-machines",
+"effect": "Teaches Return to a compatible Pokémon. (Gen I: Fissure)",
+"flavorText": "A full-power attack that grows more powerful the more the user likes its Trainer."
+},
+"tm28": {
+"name": "TM28",
+"category": "all-machines",
+"effect": "Teaches Dig to a compatible Pokémon.",
+"flavorText": "The user burrows, then attacks on the second turn. It can also be used to exit dungeons."
+},
+"tm29": {
+"name": "TM29",
+"category": "all-machines",
+"effect": "Teaches Psychic to a compatible Pokémon.",
+"flavorText": "The target is hit by a strong telekinetic force. It may also reduce the target’s Sp. Def stat."
+},
+"tm30": {
+"name": "TM30",
+"category": "all-machines",
+"effect": "Teaches Shadow Ball to a compatible Pokémon. (Gen I: Teleport)",
+"flavorText": "The user hurls a shadowy blob at the target. It may also lower the target’s Sp. Def stat."
+},
+"tm31": {
+"name": "TM31",
+"category": "all-machines",
+"effect": "Teaches Brick Break to a compatible Pokémon. (Gen II: Mud-Slap Gen I: Mimic)",
+"flavorText": "The user attacks with tough fists, etc. It can also break any barrier such as Light Screen and Reflect."
+},
+"tm32": {
+"name": "TM32",
+"category": "all-machines",
+"effect": "Teaches Double Team to a compatible Pokémon.",
+"flavorText": "By moving rapidly, the user makes illusory copies of itself to raise its evasiveness."
+},
+"tm33": {
+"name": "TM33",
+"category": "all-machines",
+"effect": "Teaches Reflect to a compatible Pokémon. (Gen II: Ice Punch)",
+"flavorText": "A wondrous wall of light is put up to suppress damage from physical attacks for five turns."
+},
+"tm34": {
+"name": "TM34",
+"category": "all-machines",
+"effect": "Teaches Sludge Wave to a compatible Pokémon. (Gen IV & III: Shock Wave Gen II: Swagger Gen I: Bide)",
+"flavorText": "It swamps the area around the user with a giant sludge wave. It may also poison those hit."
+},
+"tm35": {
+"name": "TM35",
+"category": "all-machines",
+"effect": "Teaches Flamethrower to a compatible Pokémon. (Gen II: Sleep Talk Gen I: Metronome)",
+"flavorText": "The target is scorched with an intense blast of fire. It may also leave the target with a burn."
+},
+"tm36": {
+"name": "TM36",
+"category": "all-machines",
+"effect": "Teaches Sludge Bomb to a compatible Pokémon. (Gen I: Selfdestruct)",
+"flavorText": "Unsanitary sludge is hurled at the target. It may also poison the target."
+},
+"tm37": {
+"name": "TM37",
+"category": "all-machines",
+"effect": "Teaches Sandstorm to a compatible Pokémon. (Gen I: Egg Bomb)",
+"flavorText": "A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types."
+},
+"tm38": {
+"name": "TM38",
+"category": "all-machines",
+"effect": "Teaches Fire Blast to a compatible Pokémon.",
+"flavorText": "The target is attacked with an intense blast of all-consuming fire. It may also leave the target with a burn."
+},
+"tm39": {
+"name": "TM39",
+"category": "all-machines",
+"effect": "Teaches Rock Tomb to a compatible Pokémon. (Gen II & I: Swift)",
+"flavorText": "Boulders are hurled at the target. It also lowers the target’s Speed by preventing its movement."
+},
+"tm40": {
+"name": "TM40",
+"category": "all-machines",
+"effect": "Teaches Aerial Ace to a compatible Pokémon. (Gen II: Defense Curl Gen I: Skull Bash)",
+"flavorText": "The user confounds the target with speed, then slashes. The attack lands without fail."
+},
+"tm41": {
+"name": "TM41",
+"category": "all-machines",
+"effect": "Teaches Torment to a compatible Pokémon. (Gen II: ThunderPunch Gen I: Softboiled)",
+"flavorText": "The user torments and enrages the target, making it incapable of using the same move twice in a row."
+},
+"tm42": {
+"name": "TM42",
+"category": "all-machines",
+"effect": "Teaches Facade to a compatible Pokémon. (Gen II & I: Dream Eater)",
+"flavorText": "An attack move that doubles its power if the user is poisoned, paralyzed, or has a burn."
+},
+"tm43": {
+"name": "TM43",
+"category": "all-machines",
+"effect": "Teaches Flame Charge to a compatible Pokémon. (Gen IV & III: Secret Power Gen II: Detect Gen I: Sky Attack)",
+"flavorText": "The user cloaks itself with flame and attacks. Building up more power, it raises the user’s Speed stat."
+},
+"tm44": {
+"name": "TM44",
+"category": "all-machines",
+"effect": "Teaches Rest to a compatible Pokémon.",
+"flavorText": "The user goes to sleep for two turns. It fully restores the user’s HP and heals any status problem."
+},
+"tm45": {
+"name": "TM45",
+"category": "all-machines",
+"effect": "Teaches Attract to a compatible Pokémon. (Gen I: Thunder Wave)",
+"flavorText": "If it is the opposite gender of the user, the target becomes infatuated and less likely to attack."
+},
+"tm46": {
+"name": "TM46",
+"category": "all-machines",
+"effect": "Teaches Thief to a compatible Pokémon. (Gen I: Psywave)",
+"flavorText": "The user attacks and steals the target’s held item simultaneously. It can’t steal if the user holds an item."
+},
+"tm47": {
+"name": "TM47",
+"category": "all-machines",
+"effect": "Teaches Low Sweep to a compatible Pokémon. (Gen IV & III & II: Steel Wing Gen I: Explosion)",
+"flavorText": "The user attacks the target’s legs swiftly, reducing the target’s Speed stat."
+},
+"tm48": {
+"name": "TM48",
+"category": "all-machines",
+"effect": "Teaches Round to a compatible Pokémon. (Gen IV & III: Skill Swap Gen II: Fire Punch Gen I: Rock Slide)",
+"flavorText": "The user attacks the target with a song. Others can join in the Round and make the attack do greater damage."
+},
+"tm49": {
+"name": "TM49",
+"category": "all-machines",
+"effect": "Teaches Echoed Voice to a compatible Pokémon. (Gen IV & III: Snatch Gen II: Fury Cutter Gen I: Tri Attack)",
+"flavorText": "The user attacks the target with an echoing voice. If this move is used every turn, it does greater damage."
+},
+"tm50": {
+"name": "TM50",
+"category": "all-machines",
+"effect": "Teaches Overheat to a compatible Pokémon. (Gen II: Nightmare Gen I: Substitute)",
+"flavorText": "The user attacks the target at full power. The attack’s recoil harshly reduces the user’s Sp. Atk stat."
+},
+"tm51": {
+"name": "TM51",
+"category": "all-machines",
+"effect": "Teaches Ally Switch to a compatible Pokémon. (Gen IV: Roost)",
+"flavorText": "The user teleports using a strange power and switches its place with one of its allies."
+},
+"tm52": {
+"name": "TM52",
+"category": "all-machines",
+"effect": "Teaches Focus Blast to a compatible Pokémon.",
+"flavorText": "The user heightens its mental focus and unleashes its power. It may also lower the target’s Sp. Def."
+},
+"tm53": {
+"name": "TM53",
+"category": "all-machines",
+"effect": "Teaches Energy Ball to a compatible Pokémon.",
+"flavorText": "The user draws power from nature and fires it at the target. It may also lower the target’s Sp. Def."
+},
+"tm54": {
+"name": "TM54",
+"category": "all-machines",
+"effect": "Teaches False Swipe to a compatible Pokémon.",
+"flavorText": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP."
+},
+"tm55": {
+"name": "TM55",
+"category": "all-machines",
+"effect": "Teaches Scald to a compatible Pokémon. (Gen IV: Brine)",
+"flavorText": "The user shoots boiling hot water at its target. It may also leave the target with a burn."
+},
+"tm56": {
+"name": "TM56",
+"category": "all-machines",
+"effect": "Teaches Fling to a compatible Pokémon.",
+"flavorText": "The user flings its held item at the target as an attack. Its power and effects depend on the item."
+},
+"tm57": {
+"name": "TM57",
+"category": "all-machines",
+"effect": "Teaches Charge Beam to a compatible Pokémon.",
+"flavorText": "The user attacks with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat."
+},
+"tm58": {
+"name": "TM58",
+"category": "all-machines",
+"effect": "Teaches Sky Drop to a compatible Pokémon. (Gen IV: Endure)",
+"flavorText": "The user hurls the target into the air, then drops it on the second turn. The target cannot attack while in the air."
+},
+"tm59": {
+"name": "TM59",
+"category": "all-machines",
+"effect": "Teaches Incinerate to a compatible Pokémon. (Gen IV: Dragon Pulse)",
+"flavorText": "The user attacks the target with fire. If the target is holding a Berry, the Berry becomes burnt up and unusable."
+},
+"tm60": {
+"name": "TM60",
+"category": "all-machines",
+"effect": "Teaches Quash to a compatible Pokémon. (Gen IV: Drain Punch)",
+"flavorText": "The user suppresses the target and makes its move go last."
+},
+"tm61": {
+"name": "TM61",
+"category": "all-machines",
+"effect": "Teaches Will-O-Wisp to a compatible Pokémon.",
+"flavorText": "The user shoots a sinister, bluish-white flame at the target to inflict a burn."
+},
+"tm62": {
+"name": "TM62",
+"category": "all-machines",
+"effect": "Teaches Acrobatics to a compatible Pokémon. (Gen IV: Silver Wind)",
+"flavorText": "The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage."
+},
+"tm63": {
+"name": "TM63",
+"category": "all-machines",
+"effect": "Teaches Embargo to a compatible Pokémon.",
+"flavorText": "It prevents the target from using its held item. Its Trainer is also prevented from using items on it."
+},
+"tm64": {
+"name": "TM64",
+"category": "all-machines",
+"effect": "Teaches Explosion to a compatible Pokémon.",
+"flavorText": "The user explodes to inflict damage on those around it. The user faints upon using this move."
+},
+"tm65": {
+"name": "TM65",
+"category": "all-machines",
+"effect": "Teaches Shadow Claw to a compatible Pokémon.",
+"flavorText": "The user slashes with a sharp claw made from shadows. It has a high critical-hit ratio."
+},
+"tm66": {
+"name": "TM66",
+"category": "all-machines",
+"effect": "Teaches Payback to a compatible Pokémon.",
+"flavorText": "The user stores power, then attacks. If the user can use this attack after the target, its power is doubled."
+},
+"tm67": {
+"name": "TM67",
+"category": "all-machines",
+"effect": "Teaches Retaliate to a compatible Pokémon. (Gen IV: Recycle)",
+"flavorText": "The user gets revenge for a fainted ally. If an ally fainted in the previous turn, this attack’s damage increases."
+},
+"tm68": {
+"name": "TM68",
+"category": "all-machines",
+"effect": "Teaches Giga Impact to a compatible Pokémon.",
+"flavorText": "The user charges at the target using every bit of its power. The user must rest on the next turn."
+},
+"tm69": {
+"name": "TM69",
+"category": "all-machines",
+"effect": "Teaches Rock Polish to a compatible Pokémon.",
+"flavorText": "The user polishes its body to reduce drag. It sharply raises the Speed stat."
+},
+"tm70": {
+"name": "TM70",
+"category": "all-machines",
+"effect": "Teaches Flash to a compatible Pokémon.",
+"flavorText": "The user flashes a bright light that cuts the target’s accuracy. It can also be used to illuminate caves."
+},
+"tm71": {
+"name": "TM71",
+"category": "all-machines",
+"effect": "Teaches Stone Edge to a compatible Pokémon.",
+"flavorText": "The user stabs the foe with sharpened stones from below. It has a high critical-hit ratio."
+},
+"tm72": {
+"name": "TM72",
+"category": "all-machines",
+"effect": "Teaches Volt Switch to a compatible Pokémon. (Gen IV: Avalanche)",
+"flavorText": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting."
+},
+"tm73": {
+"name": "TM73",
+"category": "all-machines",
+"effect": "Teaches Thunder Wave to a compatible Pokémon.",
+"flavorText": "A weak electric charge is launched at the target. It causes paralysis if it hits."
+},
+"tm74": {
+"name": "TM74",
+"category": "all-machines",
+"effect": "Teaches Gyro Ball to a compatible Pokémon.",
+"flavorText": "The user tackles the target with a high-speed spin. The slower the user, the greater the damage."
+},
+"tm75": {
+"name": "TM75",
+"category": "all-machines",
+"effect": "Teaches Swords Dance to a compatible Pokémon.",
+"flavorText": "A frenetic dance to uplift the fighting spirit. It sharply raises the user’s Attack stat."
+},
+"tm76": {
+"name": "TM76",
+"category": "all-machines",
+"effect": "Teaches Struggle Bug to a compatible Pokémon. (Gen IV: Stealth Rock)",
+"flavorText": "Resisting, the user attacks the opposing Pokémon. The targets’ Sp. Atk stat is reduced."
+},
+"tm77": {
+"name": "TM77",
+"category": "all-machines",
+"effect": "Teaches Psych Up to a compatible Pokémon.",
+"flavorText": "The user hypnotizes itself into copying any stat change made by the target."
+},
+"tm78": {
+"name": "TM78",
+"category": "all-machines",
+"effect": "Teaches Bulldoze to a compatible Pokémon. (Gen IV: Captivate)",
+"flavorText": "The user stomps down on the ground and attacks everything in the area. The targets’ Speed stat is reduced."
+},
+"tm79": {
+"name": "TM79",
+"category": "all-machines",
+"effect": "Teaches Frost Breath to a compatible Pokémon. (Gen IV: Dark Pulse)",
+"flavorText": "The user blows a cold breath on the target. This attack always results in a critical hit."
+},
+"tm80": {
+"name": "TM80",
+"category": "all-machines",
+"effect": "Teaches Rock Slide to a compatible Pokémon.",
+"flavorText": "Large boulders are hurled at the opposing team to inflict damage. They may also make the targets flinch."
+},
+"tm81": {
+"name": "TM81",
+"category": "all-machines",
+"effect": "Teaches X-Scissor to a compatible Pokémon.",
+"flavorText": "The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors."
+},
+"tm82": {
+"name": "TM82",
+"category": "all-machines",
+"effect": "Teaches Dragon Tail to a compatible Pokémon. (Gen IV: Sleep Talk)",
+"flavorText": "The user knocks away the target and drags out another Pokémon in its party. In the wild, the battle ends."
+},
+"tm83": {
+"name": "TM83",
+"category": "all-machines",
+"effect": "Teaches Work Up to a compatible Pokémon. (Gen IV: Natural Gift)",
+"flavorText": "The user is roused, and its Attack and Sp. Atk stats increase."
+},
+"tm84": {
+"name": "TM84",
+"category": "all-machines",
+"effect": "Teaches Poison Jab to a compatible Pokémon.",
+"flavorText": "The target is stabbed with a tentacle or arm steeped in poison. It may also poison the target."
+},
+"tm85": {
+"name": "TM85",
+"category": "all-machines",
+"effect": "Teaches Dream Eater to a compatible Pokémon.",
+"flavorText": "The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal the user’s HP."
+},
+"tm86": {
+"name": "TM86",
+"category": "all-machines",
+"effect": "Teaches Grass Knot to a compatible Pokémon.",
+"flavorText": "The user snares the target with grass and trips it. The heavier the target, the greater the damage."
+},
+"tm87": {
+"name": "TM87",
+"category": "all-machines",
+"effect": "Teaches Swagger to a compatible Pokémon.",
+"flavorText": "The user enrages and confuses the target. However, it also sharply raises the target’s Attack stat."
+},
+"tm88": {
+"name": "TM88",
+"category": "all-machines",
+"effect": "Teaches Pluck to a compatible Pokémon.",
+"flavorText": "The user pecks the target. If the target is holding a Berry, the user plucks it and gains its effect."
+},
+"tm89": {
+"name": "TM89",
+"category": "all-machines",
+"effect": "Teaches U-turn to a compatible Pokémon.",
+"flavorText": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting."
+},
+"tm90": {
+"name": "TM90",
+"category": "all-machines",
+"effect": "Teaches Substitute to a compatible Pokémon.",
+"flavorText": "The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy."
+},
+"tm91": {
+"name": "TM91",
+"category": "all-machines",
+"effect": "Teaches Flash Cannon to a compatible Pokémon.",
+"flavorText": "The user gathers all its light energy and releases it at once. It may also lower the target’s Sp. Def stat."
+},
+"tm92": {
+"name": "TM92",
+"category": "all-machines",
+"effect": "Teaches Trick Room to a compatible Pokémon.",
+"flavorText": "The user creates a bizarre space in which slower Pokémon get to move first for five turns."
+},
+"tm93": {
+"name": "TM93",
+"category": "all-machines",
+"effect": "Teaches Wild Charge to a compatible Pokémon.",
+"flavorText": "The user shrouds itself in electricity and smashes into its target. It also damages the user a little."
+},
+"tm94": {
+"name": "TM94",
+"category": "all-machines",
+"effect": "Teaches Rock Smash to a compatible Pokémon.",
+"flavorText": "The user attacks with a punch that can shatter a rock. It may also lower the target’s Defense stat."
+},
+"tm95": {
+"name": "TM95",
+"category": "all-machines",
+"effect": "Teaches Snarl to a compatible Pokémon.",
+"flavorText": "The user yells as if it is ranting about something, making the target’s Sp. Atk stat decrease."
+},
+"town-map": {
+"name": "Town Map",
+"category": "gameplay",
+"effect": "Use to see the overworld map.",
+"flavorText": "A very convenient map that can be viewed anytime. It even shows your present location."
+},
+"toxic-orb": {
+"name": "Toxic Orb",
+"category": "bad-held-items",
+"effect": "Held: Inflicts Toxic on the holder at the end of the turn. Activates after Poison damage would occur.",
+"flavorText": "An item to be held by a Pokémon. It is a bizarre orb that badly poisons the holder in battle."
+},
+"toxic-plate": {
+"name": "Toxic Plate",
+"category": "plates",
+"effect": "Held: Poison-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Poison.",
+"flavorText": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Poison-type moves."
+},
+"twisted-spoon": {
+"name": "Twisted Spoon",
+"category": "type-enhancement",
+"effect": "Held: Psychic-Type moves from holder do 20% more damage.",
+"flavorText": "An item to be held by a Pokémon. It is a spoon imbued with telekinetic power that boosts Psychic-type moves."
+},
+"ultra-ball": {
+"name": "Ultra Ball",
+"category": "standard-balls",
+"effect": "Tries to catch a wild Pokémon. Success rate is 2×.",
+"flavorText": "An ultra-performance Ball that provides a higher Pokémon catch rate than a Great Ball."
+},
+"unown-report": {
+"name": "Unown Report",
+"category": "gameplay",
+"effect": "Keeps track of Unown types caught.",
+"flavorText": "A report of all the discovered kinds of Unown."
+},
+"up-grade": {
+"name": "Upgrade",
+"category": "evolution",
+"effect": "Traded on a Porygon: Holder evolves into Porygon2.",
+"flavorText": "A transparent device filled with all sorts of data. It was produced by Silph Co."
+},
+"vs-recorder": {
+"name": "Vs. Recorder",
+"category": "gameplay",
+"effect": "Records wireless, Wi-Fi, or Battle Frontier battles, and stores points.",
+"flavorText": "An amazing device that can record a battle either between friends or at a special battle facility."
+},
+"vs-seeker": {
+"name": "Vs. Seeker",
+"category": "gameplay",
+"effect": "Allows rebattling of on-screen trainers. 100 steps to recharge.",
+"flavorText": "A device that indicates Trainers who want to battle. Its battery charges while you walk."
+},
+"wacan-berry": {
+"name": "Wacan Berry",
+"category": "type-protection",
+"effect": "Held: Consumed when struck by a super-effective Electric-type attack to halve the damage.",
+"flavorText": "Weakens a supereffective Electric-type attack against the holding Pokémon."
+},
+"water-gem": {
+"name": "Water Gem",
+"category": "jewels",
+"effect": "Held: When the holder uses a damaging Water-type move, the move has 1.5× power and this item is consumed.",
+"flavorText": "A gem with an essence of water. When held, it strengthens the power of a Water-type move only once."
+},
+"water-stone": {
+"name": "Water Stone",
+"category": "evolution",
+"effect": "Evolves an Eevee into Vaporeon, a Lombre into Ludicolo, a Panpour into Simipour, a Poliwhirl into Poliwrath, a Shellder into Cloyster, or a Staryu into Starmie.",
+"flavorText": "A peculiar stone that makes certain species of Pokémon evolve. It is a clear, light blue."
+},
+"watmel-berry": {
+"name": "Watmel Berry",
+"category": "baking-only",
+"effect": "Used for creating PokéBlocks and Poffins.",
+"flavorText": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+},
+"wave-incense": {
+"name": "Wave Incense",
+"category": "type-enhancement",
+"effect": "Held: Water-Type moves from holder do 20% more damage. Breeding: Mantine begets a Mantyke Egg.",
+"flavorText": "An item to be held by a Pokémon. It is incense with a curious aroma that boosts the power of Water-type moves."
+},
+"wepear-berry": {
+"name": "Wepear Berry",
+"category": "baking-only",
+"effect": "Used for creating PokéBlocks and Poffins.",
+"flavorText": "A Berry which is very rare in the Unova region. A maniac will buy it for a high price."
+},
+"white-apricorn": {
+"name": "White Apricorn",
+"category": "apricorn-box",
+"effect": "Used to make a Fast Ball.",
+"flavorText": "A white Apricorn. It doesn’t smell like anything."
+},
+"white-flute": {
+"name": "White Flute",
+"category": "spelunking",
+"effect": "Doubles the wild Pokémon encounter rate.",
+"flavorText": "A toy flute made from white glass. A maniac will buy it for a high price."
+},
+"white-herb": {
+"name": "White Herb",
+"category": "held-items",
+"effect": "Held: Resets all lowered stats to normal at end of turn. Consumed after use.",
+"flavorText": "An item to be held by a Pokémon. It restores any lowered stat in battle. It can be used only once."
+},
+"wide-lens": {
+"name": "Wide Lens",
+"category": "held-items",
+"effect": "Held: Provides a 1/10 (10%) boost in accuracy to the holder.",
+"flavorText": "An item to be held by a Pokémon. It is a magnifying lens that slightly boosts the accuracy of moves."
+},
+"wiki-berry": {
+"name": "Wiki Berry",
+"category": "picky-healing",
+"effect": "Held: Consumed at 1/2 max HP to restore 1/8 max HP. Confuses Pokémon that dislike dry flavor.",
+"flavorText": "If held by a Pokémon, it restores the user’s HP in a pinch, but will cause confusion if it hates the taste."
+},
+"wise-glasses": {
+"name": "Wise Glasses",
+"category": "held-items",
+"effect": "Held: Boosts the damage of special moves used by the holder by 1/10 (10%).",
+"flavorText": "An item to be held by a Pokémon. It is a thick pair of glasses that slightly boosts the power of special moves."
+},
+"works-key": {
+"name": "Works Key",
+"category": "plot-advancement",
+"effect": "Grants access to Valley Windworks.",
+"flavorText": "A large key for operating the doors of the Valley Windworks in the canyon. It was held by a Team Galactic Grunt."
+},
+"x-accuracy": {
+"name": "X Accuracy",
+"category": "stat-boosts",
+"effect": "Raises accuracy by one stage in battle. Raises happiness.",
+"flavorText": "An item that raises the accuracy of a Pokémon in battle. It wears off if the Pokémon is withdrawn."
+},
+"x-accuracy-2": {
+"name": "X Accuracy 2",
+"category": "miracle-shooter",
+"effect": "Raises accuracy by two stages in battle. Wonder Launcher only.",
+"flavorText": "It sharply raises the accuracy of a Pokémon in battle. It wears off if the Pokémon is withdrawn."
+},
+"x-accuracy-3": {
+"name": "X Accuracy 3",
+"category": "miracle-shooter",
+"effect": "Raises accuracy by three stages in battle. Wonder Launcher only.",
+"flavorText": "It drastically raises the accuracy of a Pokémon in battle. It wears off if the Pokémon is withdrawn."
+},
+"x-accuracy-6": {
+"name": "X Accuracy 6",
+"category": "miracle-shooter",
+"effect": "Raises accuracy by six stages in battle. Wonder Launcher only.",
+"flavorText": "It raises the accuracy of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn."
+},
+"x-attack": {
+"name": "X Attack",
+"category": "stat-boosts",
+"effect": "Raises Attack by one stage in battle. Raises happiness.",
+"flavorText": "An item that raises the Attack stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn."
+},
+"x-attack-2": {
+"name": "X Attack 2",
+"category": "miracle-shooter",
+"effect": "Raises Attack by two stages in battle. Wonder Launcher only.",
+"flavorText": "It sharply raises the Attack stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn."
+},
+"x-attack-3": {
+"name": "X Attack 3",
+"category": "miracle-shooter",
+"effect": "Raises Attack by three stages in battle. Wonder Launcher only.",
+"flavorText": "It drastically raises the Attack stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn."
+},
+"x-attack-6": {
+"name": "X Attack 6",
+"category": "miracle-shooter",
+"effect": "Raises Attack by six stages in battle. Wonder Launcher only.",
+"flavorText": "It raises the Attack stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn."
+},
+"x-defense": {
+"name": "X Defense",
+"category": "stat-boosts",
+"effect": "Raises Defense by one stage in battle. Raises happiness.",
+"flavorText": "An item that raises the Defense stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn."
+},
+"x-defense-2": {
+"name": "X Defense 2",
+"category": "miracle-shooter",
+"effect": "Raises Defense by two stages in battle. Wonder Launcher only.",
+"flavorText": "It sharply raises the Defense stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn."
+},
+"x-defense-3": {
+"name": "X Defense 3",
+"category": "miracle-shooter",
+"effect": "Raises Defense by three stages in battle. Wonder Launcher only.",
+"flavorText": "It drastically raises the Defense stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn."
+},
+"x-defense-6": {
+"name": "X Defense 6",
+"category": "miracle-shooter",
+"effect": "Raises Defense by six stages in battle. Wonder Launcher only.",
+"flavorText": "It raises the Defense stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn."
+},
+"x-sp-atk": {
+"name": "X Sp. Atk",
+"category": "stat-boosts",
+"effect": "Raises Special Attack by one stage in battle. Raises happiness.",
+"flavorText": "An item that raises the Sp. Atk stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn."
+},
+"x-sp-atk-2": {
+"name": "X Sp. Atk 2",
+"category": "miracle-shooter",
+"effect": "Raises Special Attack by two stages in battle. Wonder Launcher only.",
+"flavorText": "It sharply raises the Sp. Atk stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn."
+},
+"x-sp-atk-3": {
+"name": "X Sp. Atk 3",
+"category": "miracle-shooter",
+"effect": "Raises Special Attack by three stages in battle. Wonder Launcher only.",
+"flavorText": "It drastically raises the Sp. Atk stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn."
+},
+"x-sp-atk-6": {
+"name": "X Sp. Atk 6",
+"category": "miracle-shooter",
+"effect": "Raises Special Attack by six stages in battle. Wonder Launcher only.",
+"flavorText": "It raises the Sp. Atk stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn."
+},
+"x-sp-def": {
+"name": "X Sp. Def",
+"category": "stat-boosts",
+"effect": "Raises Special Defense by one stage in battle. Raises happiness.",
+"flavorText": "An item that raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn."
+},
+"x-sp-def-2": {
+"name": "X Sp. Def 2",
+"category": "miracle-shooter",
+"effect": "Raises Special Defense by two stages in battle. Wonder Launcher only.",
+"flavorText": "It sharply raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn."
+},
+"x-sp-def-3": {
+"name": "X Sp. Def 3",
+"category": "miracle-shooter",
+"effect": "Raises Special Defense by three stages in battle. Wonder Launcher only.",
+"flavorText": "It drastically raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn."
+},
+"x-sp-def-6": {
+"name": "X Sp. Def 6",
+"category": "miracle-shooter",
+"effect": "Raises Special Defense by six stages in battle. Wonder Launcher only.",
+"flavorText": "It raises the Sp. Def stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn."
+},
+"x-speed": {
+"name": "X Speed",
+"category": "stat-boosts",
+"effect": "Raises Speed by one stage in battle. Raises happiness.",
+"flavorText": "An item that raises the Speed stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn."
+},
+"x-speed-2": {
+"name": "X Speed 2",
+"category": "miracle-shooter",
+"effect": "Raises Speed by two stages in battle. Wonder Launcher only.",
+"flavorText": "It sharply raises the Speed stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn."
+},
+"x-speed-3": {
+"name": "X Speed 3",
+"category": "miracle-shooter",
+"effect": "Raises Speed by three stages in battle. Wonder Launcher only.",
+"flavorText": "It drastically raises the Speed stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn."
+},
+"x-speed-6": {
+"name": "X Speed 6",
+"category": "miracle-shooter",
+"effect": "Raises Speed by six stages in battle. Wonder Launcher only.",
+"flavorText": "It raises the Speed stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn."
+},
+"xtransceiver": {
+"name": "Xtransceiver",
+"category": "gameplay",
+"effect": "Makes four-way video calls.",
+"flavorText": "A high-tech transceiver with a camera function. It allows up to four-way calls."
+},
+"yache-berry": {
+"name": "Yache Berry",
+"category": "type-protection",
+"effect": "Held: Consumed when struck by a super-effective Ice-type attack to halve the damage.",
+"flavorText": "Weakens a supereffective Ice-type attack against the holding Pokémon."
+},
+"yellow-apricorn": {
+"name": "Yellow Apricorn",
+"category": "apricorn-box",
+"effect": "Used to make a Moon Ball.",
+"flavorText": "A yellow Apricorn. It has an invigorating scent."
+},
+"yellow-flute": {
+"name": "Yellow Flute",
+"category": "flutes",
+"effect": "Cures confusion.",
+"flavorText": "A toy flute made from yellow glass. A maniac will buy it for a high price."
+},
+"yellow-scarf": {
+"name": "Yellow Scarf",
+"category": "scarves",
+"effect": "Raises the holder’s Toughness while in a contest.",
+"flavorText": "An item to be held by a Pokémon. It boosts the Tough aspect of the holder in a Contest."
+},
+"yellow-shard": {
+"name": "Yellow Shard",
+"category": "collectibles",
+"effect": "No effect. Can be traded for items or moves.",
+"flavorText": "A small yellow shard. It appears to be from some sort of implement made long ago."
+},
+"zap-plate": {
+"name": "Zap Plate",
+"category": "plates",
+"effect": "Held: Electric-Type moves from holder do 20% more damage. Changes Arceus’s and Judgment’s type to Electric.",
+"flavorText": "An item to be held by a Pokémon. It is a stone tablet that boosts the power of Electric-type moves."
+},
+"zinc": {
+"name": "Zinc",
+"category": "vitamins",
+"effect": "Raises Special Defense and happiness.",
+"flavorText": "A nutritious drink for Pokémon. It raises the base Sp. Def (Special Defense) stat of a single Pokémon."
+},
+"zoom-lens": {
+"name": "Zoom Lens",
+"category": "held-items",
+"effect": "Held: Provides a 1/5 (20%) boost in accuracy if the holder moves after the target.",
+"flavorText": "An item to be held by a Pokémon. If the holder moves after its target, its accuracy will be boosted."
+}
+}
