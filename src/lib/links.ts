@@ -11,9 +11,9 @@ export interface ExternalLink {
 }
 
 export const LINKS = {
-  download: { label: "Download the patch", detail: "Latest JetBlack release", url: null },
-  hackdex: { label: "Hackdex", detail: "Hack profile and screenshots", url: null },
-  discord: { label: "Discord", detail: "Join the community", url: null },
+  download: { label: "Download the patch", detail: "Latest JetBlack release", url: "https://drive.google.com/file/d/1kBNxrFOaDyAUqgLya9J8NaKGJi3qB_bd/view?usp=sharing" },
+  hackdex: { label: "Hackdex", detail: "Hack profile and screenshots", url: "https://www.hackdex.app/hack/pokemon-jetblack" },
+  discord: { label: "Discord", detail: "Join the community", url: "https://discord.gg/K5hFRRKktn" },
   thread: {
     label: "PokeCommunity thread",
     detail: "Announcements and discussion",
