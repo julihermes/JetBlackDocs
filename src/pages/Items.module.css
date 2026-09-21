@@ -131,32 +131,55 @@
   color: var(--text-faint);
 }
 
-.chipList {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 5px;
+.stockGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 6px;
   margin-top: 10px;
 }
 
-.chip {
-  display: inline-flex;
+.stockCard {
+  display: flex;
   align-items: center;
-  gap: 5px;
-  padding: 3px 8px 3px 4px;
-  border-radius: 999px;
-  border: 1px solid var(--hairline-strong);
+  gap: 8px;
+  padding: 6px 8px;
   background: var(--surface-raised);
-  font-size: 12px;
-  font-weight: 600;
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-sm);
+  min-width: 0;
 }
 
 /* Vanilla stock is context, not news — it recedes so the hack's additions read first. */
-.chipVanilla {
-  border-style: dashed;
-  border-color: var(--hairline);
+.stockVanilla {
   background: transparent;
-  color: var(--text-dim);
+  border-style: dashed;
+}
+
+.stockInfo {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.stockName {
+  font-size: 12.5px;
+  font-weight: 600;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.stockVanilla .stockName {
   font-weight: 400;
+  color: var(--text-dim);
+}
+
+.stockTag {
+  font-family: var(--font-mono);
+  font-size: 9.5px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-faint);
 }
 
 .select {

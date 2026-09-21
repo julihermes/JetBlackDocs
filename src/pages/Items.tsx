@@ -114,12 +114,15 @@ function MartsTab({ data }: { data: ItemsData }) {
           <div key={mart.location} className={styles.card}>
             <p className={styles.martName}>{mart.location}</p>
             {mart.section && <p className={styles.martSection}>{mart.section}</p>}
-            <div className={styles.chipList}>
+            <div className={styles.stockGrid}>
               {mart.items.map((entry, i) => (
-                <span key={i} className={`${styles.chip} ${entry.vanilla ? styles.chipVanilla : ""}`} title={entry.vanilla ? "Stocked in vanilla Black too" : "New to JetBlack"}>
-                  <ItemIcon item={entry.item} size={20} />
-                  {entry.item.name}
-                </span>
+                <div key={i} className={`${styles.stockCard} ${entry.vanilla ? styles.stockVanilla : ""}`}>
+                  <ItemIcon item={entry.item} size={28} />
+                  <span className={styles.stockInfo}>
+                    <span className={styles.stockName}>{entry.item.name}</span>
+                    <span className={styles.stockTag}>{entry.vanilla ? "vanilla" : "added"}</span>
+                  </span>
+                </div>
               ))}
             </div>
           </div>
