@@ -5,7 +5,6 @@ import { DataError, EmptyState } from "../components/DataState";
 import { useData } from "../lib/useData";
 import { matches } from "../lib/filter";
 import type { EvolutionEntry } from "../lib/types";
-import trainerStyles from "./Trainers.module.css";
 import cardStyles from "../components/Card.module.css";
 
 export function Evolutions() {
@@ -36,11 +35,11 @@ export function Evolutions() {
           <p className="section-title">{section}</p>
           <div className={cardStyles.card}>
             {entries.map((e, i) => (
-              <div className={trainerStyles.mon} key={i}>
-                <span className={trainerStyles.monName}>
+              <div className={cardStyles.listRow} key={i}>
+                <span className={cardStyles.listName}>
                   {e.from} → {e.to}
                 </span>
-                <span className={trainerStyles.monMeta}>{e.condition}</span>
+                <span className={cardStyles.listMeta}>{e.condition}</span>
               </div>
             ))}
           </div>

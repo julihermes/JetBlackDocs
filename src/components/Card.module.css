@@ -45,3 +45,27 @@
 .linkCard:hover {
   border-color: var(--hairline-strong);
 }
+
+/* A line inside a card: label on the left, value pushed right. Used by the
+   pages that are plain reference lists (evolution changes, Nuzlocke tables). */
+.listRow {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 4px 10px;
+  padding: 5px 0;
+  font-size: 13px;
+}
+
+.listName {
+  font-weight: 600;
+}
+
+.listMeta {
+  font-family: var(--font-mono);
+  color: var(--text-dim);
+  font-size: 12px;
+  white-space: nowrap;
+  margin-left: auto;
+}
