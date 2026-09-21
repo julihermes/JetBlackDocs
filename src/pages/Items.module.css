@@ -10,17 +10,12 @@
   gap: 8px;
 }
 
-/* Mart cards vary a lot in height (4 items vs 11), and a grid row is as tall as
-   its tallest card — which left a gap under every short one. A column flow packs
-   them instead. */
+/* One mart per row: side by side, the cards' wildly different item counts
+   (4 vs 11) left the short ones stranded next to a tall neighbour. */
 .martGrid {
-  columns: 300px 2;
-  column-gap: 8px;
-}
-
-.martGrid > * {
-  break-inside: avoid;
-  margin-bottom: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
 }
 
 .card {
