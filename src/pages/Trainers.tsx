@@ -17,19 +17,27 @@ const isGymLeader = (battle: TrainerBattle) => battle.trainerName.startsWith("Le
 const isRival = (battle: TrainerBattle) => /^(Pokemon Trainer )?(Cheren|Bianca)$/i.test(battle.trainerName);
 const isEliteFour = (battle: TrainerBattle) => /^Elite\s*(4|Four)\b/i.test(battle.trainerName);
 const isChampion = (battle: TrainerBattle) => /^Champion\b/i.test(battle.trainerName);
-const isImportant = (battle: TrainerBattle) => isGymLeader(battle) || isRival(battle) || isEliteFour(battle) || isChampion(battle);
+// N fights under both "Team Plasma N" and "Pokemon Trainer N"; the 45 generic
+// grunt battles are not boss fights and stay with their class icon.
+const isPlasmaBoss = (battle: TrainerBattle) => /^Team Plasma (?!Grunt)/i.test(battle.trainerName) || /^Pokemon Trainer N$/i.test(battle.trainerName);
+// The bosses the level-cap list counts that aren't leaders, rivals or the League.
+const isPostGameBoss = (battle: TrainerBattle) => /^(Pokemon Trainer Cynthia|Subway Boss )/i.test(battle.trainerName);
+const isImportant = (battle: TrainerBattle) =>
+  isGymLeader(battle) || isRival(battle) || isEliteFour(battle) || isChampion(battle) || isPlasmaBoss(battle) || isPostGameBoss(battle);
 // Bulbapedia's image host refuses requests that carry a third-party Referer
 // (verified: 0/30 icons load with one, 30/30 without), so every portrait and
 // class icon has to be requested with referrerPolicy="no-referrer".
 const hideOnError = (e: Event) => ((e.currentTarget as HTMLImageElement).style.visibility = "hidden");
-const portraitKey = (battle: TrainerBattle) => battle.trainerName.replace(/^(Leader|Champion|Elite\s*4|Elite\s*Four|Pokemon Trainer)\s+/i, "");
+const portraitKey = (battle: TrainerBattle) => battle.trainerName.replace(/^(Leader|Champion|Elite\s*4|Elite\s*Four|Pokemon Trainer|Team Plasma|Subway Boss)\s+/i, "");
 
-type CategoryKey = "gymLeaders" | "rivals" | "eliteFour" | "champion";
+type CategoryKey = "gymLeaders" | "rivals" | "eliteFour" | "champion" | "teamPlasma" | "postGameBosses";
 const CATEGORIES: { key: CategoryKey; label: string; test: (b: TrainerBattle) => boolean }[] = [
   { key: "gymLeaders", label: "Gym leaders", test: isGymLeader },
   { key: "rivals", label: "Rivals", test: isRival },
   { key: "eliteFour", label: "Elite Four", test: isEliteFour },
   { key: "champion", label: "Champion", test: isChampion },
+  { key: "teamPlasma", label: "Team Plasma", test: isPlasmaBoss },
+  { key: "postGameBosses", label: "Other bosses", test: isPostGameBoss },
 ];
 
 export function Trainers() {
@@ -122,6 +130,8 @@ export function Trainers() {
                       {isRival(battle) && <span className={styles.leaderBadge}>RIVAL</span>}
                       {isEliteFour(battle) && <span className={styles.leaderBadge}>ELITE FOUR</span>}
                       {isChampion(battle) && <span className={styles.leaderBadge}>CHAMPION</span>}
+                      {isPlasmaBoss(battle) && <span className={styles.leaderBadge}>TEAM PLASMA</span>}
+                      {isPostGameBoss(battle) && <span className={styles.leaderBadge}>BOSS</span>}
                       <span className={styles.trainerName}>{battle.trainerName}</span>
                       {battle.battleFormat && <span className="tag tag--teal">{battle.battleFormat}</span>}
                       {battle.condition && <span className="tag tag--amber">{battle.condition}</span>}
