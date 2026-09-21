@@ -10,7 +10,7 @@ export function Nuzlocke() {
 
   return (
     <main className="page">
-      <PageHeader eyebrow="DEPARTURE" title="RUN GUIDE" subtitle="Bonus battles, berry vendors, Royal Unova rewards, and the level caps for a Nuzlocke run." />
+      <PageHeader title="RUN GUIDE" subtitle="Bonus battles, berry vendors, Royal Unova rewards, and the level caps for a Nuzlocke run." />
 
       {state.status === "error" && <DataError label="run guide info" />}
       {state.status === "loading" && <EmptyState>Loading…</EmptyState>}

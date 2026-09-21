@@ -56,7 +56,7 @@ export function Evolutions() {
 
   return (
     <main className="page">
-      <PageHeader eyebrow="DEPARTURE" title="EVOLUTION CHANGES" subtitle="Only what JetBlack altered — mostly trade evolutions swapped for level-ups. Everything not listed here evolves as it does in vanilla Black." />
+      <PageHeader title="EVOLUTION CHANGES" subtitle="Only what JetBlack altered — mostly trade evolutions swapped for level-ups. Everything not listed here evolves as it does in vanilla Black." />
 
       <SearchBox value={query} onInput={setQuery} placeholder="Search a Pokémon…" resultCount={state.status === "ready" ? total : undefined} />
 

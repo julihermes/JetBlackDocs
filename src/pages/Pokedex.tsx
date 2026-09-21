@@ -22,7 +22,7 @@ export function Pokedex() {
 
   return (
     <main className="page">
-      <PageHeader eyebrow="DEPARTURE" title="POKÉDEX" subtitle="Every species available in JetBlack — base stats, abilities, and full level-up learnsets, with vanilla changes called out." />
+      <PageHeader title="POKÉDEX" subtitle="Every species available in JetBlack — base stats, abilities, and full level-up learnsets, with vanilla changes called out." />
 
       <SearchBox value={query} onInput={setQuery} placeholder="Search by name or ability…" resultCount={state.status === "ready" ? filtered.length : undefined} />
 

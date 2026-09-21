@@ -7,14 +7,14 @@ export function PageHeader({
   subtitle,
   children,
 }: {
-  eyebrow: string;
+  eyebrow?: string;
   title: string;
   subtitle?: string;
   children?: ComponentChildren;
 }) {
   return (
     <header>
-      <p className="eyebrow">{eyebrow}</p>
+      {eyebrow && <p className="eyebrow">{eyebrow}</p>}
       <SplitFlap text={title} />
       {subtitle && <p className="page-subtitle">{subtitle}</p>}
       {children}

@@ -9,7 +9,7 @@ export function History() {
 
   return (
     <main className="page">
-      <PageHeader eyebrow="DEPARTURE" title="VERSION HISTORY" subtitle="What changed in each JetBlack release, most recent first. Every other page already reflects the current v1.7 state." />
+      <PageHeader title="VERSION HISTORY" subtitle="What changed in each JetBlack release, most recent first. Every other page already reflects the current v1.7 state." />
 
       {state.status === "error" && <DataError label="the changelog" />}
       {state.status === "loading" && <EmptyState>Loading…</EmptyState>}

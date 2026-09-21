@@ -59,7 +59,7 @@ export function Legendaries() {
 
   return (
     <main className="page">
-      <PageHeader eyebrow="DEPARTURE" title="LEGENDARIES" subtitle="Where to find every legendary and mythical Pokémon, main campaign and post-game." />
+      <PageHeader title="LEGENDARIES" subtitle="Where to find every legendary and mythical Pokémon, main campaign and post-game." />
 
       {state.status === "error" && <DataError label="legendary locations" />}
       {state.status === "loading" && <EmptyState>Loading…</EmptyState>}

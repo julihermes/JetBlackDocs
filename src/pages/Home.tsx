@@ -53,7 +53,7 @@ export function Home() {
         </div>
       </div>
 
-      <p className="section-title">Departures</p>
+      <p className="section-title">Sections</p>
       <div className={styles.board}>
         <div className={styles.boardHead}>
           <span>Section</span>

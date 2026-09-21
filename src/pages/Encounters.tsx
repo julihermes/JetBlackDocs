@@ -33,7 +33,7 @@ export function Encounters() {
 
   return (
     <main className="page">
-      <PageHeader eyebrow="DEPARTURE" title="ENCOUNTERS" subtitle="Wild Pokémon by route and method — search a place (“Route 5”) or a species (“Ducklett”) to find where it turns up." />
+      <PageHeader title="ENCOUNTERS" subtitle="Wild Pokémon by route and method — search a place (“Route 5”) or a species (“Ducklett”) to find where it turns up." />
 
       <SearchBox value={query} onInput={setQuery} placeholder="Search a route or a Pokémon…" resultCount={state.status === "ready" ? filtered.length : undefined} />
 

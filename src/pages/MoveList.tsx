@@ -24,7 +24,7 @@ export function MoveList() {
 
   return (
     <main className="page">
-      <PageHeader eyebrow="DEPARTURE" title="MOVES" subtitle="Every move usable in JetBlack — vanilla Black stats where untouched, rebalanced or brand-new where documented." />
+      <PageHeader title="MOVES" subtitle="Every move usable in JetBlack — vanilla Black stats where untouched, rebalanced or brand-new where documented." />
 
       <SearchBox value={query} onInput={setQuery} placeholder="Search a move or a Pokémon that learns one…" resultCount={state.status === "ready" ? filtered.length : undefined} />
 

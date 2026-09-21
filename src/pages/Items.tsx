@@ -199,7 +199,7 @@ export function Items() {
 
   return (
     <main className="page">
-      <PageHeader eyebrow="DEPARTURE" title="ITEMS" subtitle="What JetBlack moved, swapped or put on a shelf — and every item Black has, for reference." />
+      <PageHeader title="ITEMS" subtitle="What JetBlack moved, swapped or put on a shelf — and every item Black has, for reference." />
 
       {state.status === "error" && <DataError label="item locations" />}
       {state.status === "loading" && <EmptyState>Loading items…</EmptyState>}

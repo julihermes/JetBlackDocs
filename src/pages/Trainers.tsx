@@ -86,7 +86,7 @@ export function Trainers() {
 
   return (
     <main className="page">
-      <PageHeader eyebrow="DEPARTURE" title="TRAINERS" subtitle="Every trainer battle by location — gym leaders, rivals, the Elite Four and post-game rematches." />
+      <PageHeader title="TRAINERS" subtitle="Every trainer battle by location — gym leaders, rivals, the Elite Four and post-game rematches." />
 
       <SearchBox value={query} onInput={setQuery} placeholder="Search a trainer, class or a Pokémon…" resultCount={state.status === "ready" ? filtered.length : undefined} />
 

@@ -7,7 +7,7 @@ export function NotFound() {
       <PageHeader eyebrow="GATE CLOSED · 404" title="CANCELLED" subtitle="This page doesn't exist — the gate's been reassigned." />
       <p style={{ marginTop: 16 }}>
         <Link href="/" style={{ color: "var(--teal)" }}>
-          ← Back to departures
+          ← Back to the front page
         </Link>
       </p>
     </main>
