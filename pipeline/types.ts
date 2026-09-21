@@ -24,11 +24,17 @@ export interface EvolutionLookupEntry {
 
 export type EvolutionLookup = Record<string, EvolutionLookupEntry>;
 
+export interface LegendariesData {
+  entries: LegendaryEntry[];
+  asides: string[]; // document-level prose (the Obelisks explanation, the God Stone requirement)
+}
+
 export interface LegendaryEntry {
   dexNumber: number;
   name: string;
   level: number | null; // null for Phione/Manaphy — obtained as an egg, not caught at a fixed level
   section: "main" | "post-game";
+  unchangedFromVanilla: boolean; // the doc's "- Unchanged from Vanilla" suffix
   location: string;
   notes: string[];
 }

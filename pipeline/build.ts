@@ -76,7 +76,7 @@ function main() {
 
   const features = run("features", "Features", /Goals with this RomHack/i, parseFeatures, (d) => d.bullets.length);
   const evolutions = run("evolutions", "Evolution Changes", /^JetBlack Evolution Changes:/m, parseEvolutions, (d) => d.length, attachVanillaEvolutionMethod);
-  const legendaries = run("legendaries", "Legendary and Mythical locations", /Obelisks/, parseLegendaries, (d) => d.length);
+  const legendaries = run("legendaries", "Legendary and Mythical locations", /Obelisks/, parseLegendaries, (d) => d.entries.length);
   const moveChanges = run("move-changes", "Move changes", /^Move Changes:/m, parseMoveChanges, (d) => d.changed.length + d.newMoves.length);
   const items = run("items", "Item location changes", /Ground Items/, parseItems, (d) => d.ground.length + d.gifts.length + d.hidden.length);
   // The full Black item catalog is its own lazily loaded file: only the Items
@@ -124,7 +124,7 @@ function main() {
   }
 
   if (pokemon && wildEncounters && legendaries && evolutionLookup) {
-    const obtainable = computeObtainableSpecies(pokemon, wildEncounters, legendaries, evolutionLookup);
+    const obtainable = computeObtainableSpecies(pokemon, wildEncounters, legendaries.entries, evolutionLookup);
     for (const p of pokemon) p.obtainable = obtainable.has(p.name);
     writeJson("pokemon", pokemon);
     summary.push(`obtainable species: ${obtainable.size} / ${pokemon.length}`);
@@ -163,7 +163,7 @@ function main() {
       [
         ["features", features?.bullets.length],
         ["evolutions", evolutions?.length],
-        ["legendaries", legendaries?.length],
+        ["legendaries", legendaries?.entries.length],
         ["moveChanges", moveChanges ? moveChanges.changed.length + moveChanges.newMoves.length : undefined],
         ["items", items ? items.ground.length + items.gifts.length + items.hidden.length : undefined],
         ["changelog", changelog?.length],

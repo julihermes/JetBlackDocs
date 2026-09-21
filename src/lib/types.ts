@@ -3,6 +3,7 @@ export type {
   EvolutionEdge,
   EvolutionLookupEntry,
   EvolutionLookup,
+  LegendariesData,
   LegendaryEntry,
   MoveFieldChange,
   ChangedMove,
