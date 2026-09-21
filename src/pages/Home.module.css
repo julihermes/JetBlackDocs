@@ -1,7 +1,3 @@
-.hero {
-  padding-top: 4px;
-}
-
 .board {
   margin-top: 28px;
   border: 1px solid var(--hairline-strong);
@@ -121,14 +117,39 @@
 
 /* ---------- Hero ---------- */
 
-.heroImage {
+/* The title screen sits beside the heading on desktop and above it on a phone,
+   so the hack is identifiable before a word is read. */
+.hero {
+  padding-top: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+@media (min-width: 720px) {
+  .hero {
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 22px;
+  }
+
+  .heroCopy {
+    flex: 1;
+    min-width: 0;
+  }
+}
+
+.titleShot {
   width: 100%;
-  max-height: 300px;
-  object-fit: cover;
-  border: 1px solid var(--hairline);
+  max-width: 230px;
+  align-self: center;
+  aspect-ratio: 256 / 384;
+  object-fit: contain;
+  image-rendering: pixelated;
+  border: 1px solid var(--hairline-strong);
   border-radius: var(--radius-md);
-  margin-bottom: 14px;
-  display: block;
+  background: #000;
+  flex-shrink: 0;
 }
 
 .ctaRow {
@@ -168,6 +189,28 @@
 .ctaDetail {
   font-size: 11px;
   color: var(--text-dim);
+}
+
+/* ---------- Screenshots ---------- */
+
+/* Nine DS-sized shots never fit a phone, so the strip scrolls sideways in its
+   own container rather than widening the page. */
+.shots {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding-bottom: 4px;
+}
+
+.shot {
+  width: 116px;
+  flex-shrink: 0;
+  aspect-ratio: 256 / 384;
+  object-fit: contain;
+  image-rendering: pixelated;
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-sm);
+  background: #000;
 }
 
 /* ---------- Highlights ---------- */
