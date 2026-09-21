@@ -1,3 +1,4 @@
+import { Link } from "wouter-preact";
 import { PageHeader } from "../components/PageHeader";
 import { DataError, EmptyState } from "../components/DataState";
 import { useData } from "../lib/useData";
@@ -10,46 +11,13 @@ export function Nuzlocke() {
 
   return (
     <main className="page">
-      <PageHeader title="RUN GUIDE" subtitle="Bonus battles, berry vendors, Royal Unova rewards, and the level caps for a Nuzlocke run." />
+      <PageHeader title="RUN GUIDE" subtitle="The level ceiling for every boss on a Nuzlocke run." />
 
       {state.status === "error" && <DataError label="run guide info" />}
       {state.status === "loading" && <EmptyState>Loading…</EmptyState>}
 
       {state.status === "ready" && (
         <>
-          <p className="section-title">Bonus item trainers</p>
-          <div className={cardStyles.card}>
-            {state.data.bonusTrainers.map((t, i) => (
-              <div className={cardStyles.listRow} key={i}>
-                <span className={cardStyles.listName}>{t.name}</span>
-                <span className={cardStyles.listMeta}>
-                  {t.location} · {t.reward}
-                </span>
-              </div>
-            ))}
-          </div>
-
-          <p className="section-title">Berry vendors</p>
-          <div className={cardStyles.card}>
-            {state.data.berryVendors.map((v, i) => (
-              <div className={cardStyles.listRow} key={i}>
-                <span className={cardStyles.listName}>{v.location}</span>
-                <span className={cardStyles.listMeta}>{v.kind}</span>
-              </div>
-            ))}
-          </div>
-
-          <p className="section-title">Royal Unova rewards</p>
-          <div className={cardStyles.card}>
-            {state.data.royalUnovaRewards.map((r) => (
-              <div className={cardStyles.listRow} key={r.day}>
-                <span className={cardStyles.listName}>{r.day}</span>
-                <span className={cardStyles.listMeta}>{r.item}</span>
-              </div>
-            ))}
-          </div>
-
-          <p className="section-title">Nuzlocke level caps</p>
           {state.data.nuzlocke.intro.map((p, i) => (
             <p key={i} className="page-subtitle" style={{ margin: i === 0 ? "0 0 10px" : "6px 0 10px" }}>
               {p}
@@ -65,6 +33,14 @@ export function Nuzlocke() {
               </div>
             ))}
           </div>
+
+          {/* Bonus trainers, berry vendors and the Royal Unova table used to live
+              here too; they belong to the feature list and are shown there now. */}
+          <p style={{ marginTop: 16, fontSize: 13 }}>
+            <Link href="/features" style={{ color: "var(--teal)" }}>
+              Bonus trainers, berry vendors and Royal Unova rewards →
+            </Link>
+          </p>
         </>
       )}
     </main>

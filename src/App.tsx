@@ -8,6 +8,7 @@ const Pokedex = lazy(() => import("./pages/Pokedex").then((m) => ({ default: m.P
 const PokemonDetail = lazy(() => import("./pages/PokemonDetail").then((m) => ({ default: m.PokemonDetail })));
 const Encounters = lazy(() => import("./pages/Encounters").then((m) => ({ default: m.Encounters })));
 const Trainers = lazy(() => import("./pages/Trainers").then((m) => ({ default: m.Trainers })));
+const Features = lazy(() => import("./pages/Features").then((m) => ({ default: m.Features })));
 const Items = lazy(() => import("./pages/Items").then((m) => ({ default: m.Items })));
 const MoveList = lazy(() => import("./pages/MoveList").then((m) => ({ default: m.MoveList })));
 const MoveDetail = lazy(() => import("./pages/MoveDetail").then((m) => ({ default: m.MoveDetail })));
@@ -31,6 +32,7 @@ export function App() {
             <Route path="/pokedex/:name" component={PokemonDetail} />
             <Route path="/encounters" component={Encounters} />
             <Route path="/trainers" component={Trainers} />
+            <Route path="/features" component={Features} />
             <Route path="/items" component={Items} />
             <Route path="/moves" component={MoveList} />
             <Route path="/moves/:name" component={MoveDetail} />

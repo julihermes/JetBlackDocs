@@ -1,8 +1,14 @@
 import { Link } from "wouter-preact";
 import { PageHeader } from "../components/PageHeader";
 import { useData } from "../lib/useData";
-import type { BuildManifest, FeaturesData } from "../lib/types";
+import { LINKS, ctaLinks } from "../lib/links";
+import type { BuildManifest, ChangelogEntry, FeaturesData } from "../lib/types";
 import styles from "./Home.module.css";
+
+// Drop the hack's banner/title art in src/assets and import it here — Vite then
+// hashes the file and rewrites the URL against `base`, which a hardcoded
+// "/hero.png" would not survive on the GitHub Pages project-page deploy.
+const heroImage: string | null = null;
 
 const BOARD: Array<{ path: string; name: string; detail: (m?: BuildManifest) => string }> = [
   { path: "/pokedex", name: "Pokédex", detail: (m) => `${m?.counts.pokemon ?? "…"} species, stats & learnsets` },
@@ -12,19 +18,42 @@ const BOARD: Array<{ path: string; name: string; detail: (m?: BuildManifest) => 
   { path: "/moves", name: "Move changes", detail: (m) => `${m?.counts.moveChanges ?? "…"} moves rebalanced or added` },
   { path: "/evolutions", name: "Evolution changes", detail: (m) => `${m?.counts.evolutions ?? "…"} altered methods` },
   { path: "/legendaries", name: "Legendaries & mythicals", detail: (m) => `${m?.counts.legendaries ?? "…"} encounters` },
+  { path: "/features", name: "Feature list", detail: (m) => `${m?.counts.features ?? "…"} changes, in the hack's own words` },
   { path: "/nuzlocke", name: "Nuzlocke level caps", detail: () => "Boss-by-boss level ceiling" },
   { path: "/history", name: "Version history", detail: (m) => `${m?.counts.changelog ?? "…"} releases logged` },
+];
+
+/**
+ * The home page sells five things, and each one has a page that proves it. The
+ * copy is matched out of the parsed feature list rather than retyped, so it
+ * can't drift from the doc — a bullet that stops matching just loses its card.
+ */
+const HIGHLIGHTS: Array<{ match: RegExp; title: string; href: string }> = [
+  { match: /^Wild Pokemon are a lot more diverse/i, title: "Wilder routes", href: "/encounters" },
+  { match: /^All Pokemon have updated Learnsets/i, title: "Rebuilt learnsets", href: "/pokedex" },
+  { match: /^Trainer rosters have been updated to add/i, title: "Tougher rosters", href: "/trainers" },
+  { match: /item placements have been shifted/i, title: "Items moved earlier", href: "/items" },
+  { match: /every Pokemon can be obtainable/i, title: "Every Pokémon obtainable", href: "/pokedex" },
+  { match: /Gym Leaders can be encountered hanging around/i, title: "Gym leader rematches", href: "/trainers" },
 ];
 
 export function Home() {
   const manifest = useData<BuildManifest>(() => import("../data/manifest.generated.json"));
   const features = useData<FeaturesData>(() => import("../data/features.generated.json"));
+  const changelog = useData<ChangelogEntry[]>(() => import("../data/changelog.generated.json"));
 
   const m = manifest.status === "ready" ? manifest.data : undefined;
+  const bullets = features.status === "ready" ? features.data.bullets : [];
+  const highlights = HIGHLIGHTS.map((h) => ({ ...h, text: bullets.find((b) => h.match.test(b.text))?.text })).filter(
+    (h): h is typeof h & { text: string } => Boolean(h.text),
+  );
+  const latest = changelog.status === "ready" ? changelog.data[0] : undefined;
+  const ctas = ctaLinks();
 
   return (
     <main className="page">
       <div className={styles.hero}>
+        {heroImage && <img src={heroImage} alt="Pokémon JetBlack" className={styles.heroImage} />}
         <PageHeader title="JETBLACK">
           <p className={styles.intro}>
             {features.status === "ready"
@@ -32,6 +61,23 @@ export function Home() {
               : "A reference for playing Pokémon JetBlack — every wild encounter, trainer roster, stat change and item move, in one place."}
           </p>
         </PageHeader>
+
+        {ctas.length > 0 && (
+          <div className={styles.ctaRow}>
+            {ctas.map((l, i) => (
+              <a
+                key={l.label}
+                href={l.url!}
+                target="_blank"
+                rel="noreferrer"
+                className={`${styles.cta} ${i === 0 ? styles.ctaPrimary : ""}`}
+              >
+                <span className={styles.ctaLabel}>{l.label} ↗</span>
+                <span className={styles.ctaDetail}>{l.detail}</span>
+              </a>
+            ))}
+          </div>
+        )}
       </div>
 
       <div className={styles.factsStrip}>
@@ -53,6 +99,23 @@ export function Home() {
         </div>
       </div>
 
+      {highlights.length > 0 && (
+        <>
+          <p className="section-title">What JetBlack changes</p>
+          <div className={styles.highlights}>
+            {highlights.map((h) => (
+              <Link key={h.title} href={h.href} className={styles.highlight}>
+                <span className={styles.highlightTitle}>{h.title}</span>
+                <p className={styles.highlightText}>{h.text}</p>
+              </Link>
+            ))}
+          </div>
+          <p className={styles.highlightMore}>
+            <Link href="/features">Read the full feature list →</Link>
+          </p>
+        </>
+      )}
+
       <p className="section-title">Sections</p>
       <div className={styles.board}>
         <div className={styles.boardHead}>
@@ -70,12 +133,41 @@ export function Home() {
         ))}
       </div>
 
-      <p className={styles.footerLink}>
-        JetBlack is a Pokémon Black rom hack by EstrethAthema.{" "}
-        <a href="https://www.pokecommunity.com/threads/introducing-pokemon-jetblack-a-romhack-of-pokemon-black.535562/" target="_blank" rel="noreferrer">
-          Official PokéCommunity thread ↗
-        </a>
-      </p>
+      {latest && (
+        <>
+          <p className="section-title">Latest release</p>
+          <div className={styles.release}>
+            <div className={styles.releaseHead}>
+              <span className={styles.releaseVersion}>{latest.version}</span>
+              <Link href="/history" className={styles.releaseLink}>
+                All releases →
+              </Link>
+            </div>
+            {latest.notes.slice(0, 2).map((n, i) => (
+              <p className={styles.releaseNote} key={i}>
+                {n.replace(/^-\s*/, "")}
+              </p>
+            ))}
+          </div>
+        </>
+      )}
+
+      <div className={styles.footer}>
+        <p style={{ margin: 0 }}>
+          JetBlack is a Pokémon Black rom hack by{" "}
+          {LINKS.author.url ? (
+            <a href={LINKS.author.url} target="_blank" rel="noreferrer">
+              EstrethAthema ↗
+            </a>
+          ) : (
+            "EstrethAthema"
+          )}
+          .
+        </p>
+        <p style={{ margin: 0 }}>
+          This site documents the hack; it is not affiliated with Nintendo, Game Freak or The Pokémon Company.
+        </p>
+      </div>
     </main>
   );
 }
