@@ -1,6 +1,11 @@
 .wrap {
-  position: relative;
   margin-top: 16px;
+}
+
+/* The icon centers on the field itself — anchoring it to .wrap would center it
+   across the result count too, dragging it below the input. */
+.field {
+  position: relative;
 }
 
 .input {
