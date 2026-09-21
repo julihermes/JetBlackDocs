@@ -25,7 +25,7 @@ export function Home() {
   return (
     <main className="page">
       <div className={styles.hero}>
-        <PageHeader eyebrow="PLAYER GUIDE · UNOVA" title="JETBLACK">
+        <PageHeader title="JETBLACK">
           <p className={styles.intro}>
             {features.status === "ready"
               ? features.data.intro[0]
