@@ -8,6 +8,7 @@ import { DataError, EmptyState } from "../components/DataState";
 import { useData } from "../lib/useData";
 import { spriteUrl } from "../lib/sprites";
 import { alnumKey } from "../lib/textKey";
+import { OBTAIN_NOTES } from "../lib/authorNotes";
 import { formatMultiplier, matchupsFor } from "../lib/typeMatchup";
 import { GEN5_TYPES } from "../lib/types5";
 import type { EvolutionEdge, EvolutionLookup, LegendariesData, TypeChart, MoveEntry, PokemonEntry, SpeciesEncounterRef, SpeciesTrainerRef, TmEntry } from "../lib/types";
@@ -325,7 +326,10 @@ export function PokemonDetail() {
                       <span className={styles.crossMeta}>Lv.70</span>
                     </Link>
                   )}
-                  {encounters.length === 0 && !isObelisk && <EmptyState>No wild encounters documented for {pokemon.name}.</EmptyState>}
+                  {OBTAIN_NOTES[pokemon.name] && <p className={styles.panelNote}>{OBTAIN_NOTES[pokemon.name]}</p>}
+                  {encounters.length === 0 && !isObelisk && !OBTAIN_NOTES[pokemon.name] && (
+                    <EmptyState>No wild encounters documented for {pokemon.name}.</EmptyState>
+                  )}
                   {encounters.map((e, i) => (
                     <Link key={i} href={`/encounters?q=${encodeURIComponent(e.location)}`} className={styles.crossLink}>
                       <span className={styles.crossName}>

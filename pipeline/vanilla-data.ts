@@ -126,6 +126,12 @@ export function buildMoveList(moveChanges: MoveChangesData): MoveEntry[] {
     const n = parseInt(s, 10);
     return Number.isNaN(n) ? undefined : n;
   };
+  // Three moves are redefined by analogy instead of by numbers: "Is now a
+  // Ground type Double-Edge". The author confirmed these take the referenced
+  // move's figures wholesale, PP included, keeping only the stated type — so
+  // resolve the reference rather than leaving Fissure showing its old 30
+  // accuracy as an OHKO move it no longer is.
+  const ANALOGY_RE = /^Is now (?:an?\s+)?(\w+) type (.+?)\.?$/i;
   const changedByName = new Map(moveChanges.changed.map((m) => [m.name.toLowerCase(), m]));
   const changedByAlnum = new Map(moveChanges.changed.map((m) => [alnumKey(m.name), m]));
 
@@ -162,6 +168,27 @@ export function buildMoveList(moveChanges: MoveChangesData): MoveEntry[] {
     const fieldChanges = change.changes
       .map((c) => (c.from ? c : { ...c, from: vanillaValue[c.field.toLowerCase()] }))
       .filter((c) => c.from !== c.to);
+
+    for (const note of change.notes) {
+      const m = ANALOGY_RE.exec(note.trim());
+      const model = m ? vanillaMoves[Object.keys(vanillaMoves).find((k) => alnumKey(k) === alnumKey(m[2])) ?? ""] : undefined;
+      if (!m || !model) continue;
+      merged.type = m[1].toLowerCase();
+      merged.damageClass = model.damageClass;
+      merged.power = model.power;
+      merged.accuracy = model.accuracy;
+      merged.pp = model.pp;
+      merged.effect = model.effect;
+      for (const [field, from, to] of [
+        ["Type", info.type, merged.type],
+        ["Category", info.damageClass, merged.damageClass],
+        ["Power", info.power, merged.power],
+        ["Accuracy", info.accuracy, merged.accuracy],
+        ["PP", info.pp, merged.pp],
+      ] as Array<[string, string | number | null, string | number | null]>) {
+        if (from !== to) fieldChanges.push({ field, from: from === null ? "—" : String(from), to: to === null ? "—" : String(to) });
+      }
+    }
 
     return { name, ...merged, changed: true, fieldChanges, changeNotes: change.notes, isNew: false, learnedBy: [], machine: null, machineSpecies: 0 };
   });

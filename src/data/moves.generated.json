@@ -4648,13 +4648,29 @@
     "name": "Fissure",
     "type": "ground",
     "damageClass": "physical",
-    "power": null,
-    "accuracy": 30,
-    "pp": 5,
+    "power": 120,
+    "accuracy": 100,
+    "pp": 15,
     "flavorText": "The user opens up a fissure in the ground and drops the target in. The target instantly faints if it hits.",
-    "effect": "Causes a one-hit KO.",
+    "effect": "User receives 1/3 the damage inflicted in recoil.",
     "changed": true,
-    "fieldChanges": [],
+    "fieldChanges": [
+      {
+        "field": "Power",
+        "from": "—",
+        "to": "120"
+      },
+      {
+        "field": "Accuracy",
+        "from": "30",
+        "to": "100"
+      },
+      {
+        "field": "PP",
+        "from": "5",
+        "to": "15"
+      }
+    ],
     "changeNotes": [
       "Is now a Ground type Double-Edge"
     ],
@@ -14584,13 +14600,24 @@
     "name": "Sheer Cold",
     "type": "ice",
     "damageClass": "special",
-    "power": null,
-    "accuracy": 30,
+    "power": 140,
+    "accuracy": 90,
     "pp": 5,
     "flavorText": "The target is attacked with a blast of absolute-zero cold. The target instantly faints if it hits.",
-    "effect": "Causes a one-hit KO.",
+    "effect": "Lowers the user’s Special Attack by two stages after inflicting damage.",
     "changed": true,
-    "fieldChanges": [],
+    "fieldChanges": [
+      {
+        "field": "Power",
+        "from": "—",
+        "to": "140"
+      },
+      {
+        "field": "Accuracy",
+        "from": "30",
+        "to": "90"
+      }
+    ],
     "changeNotes": [
       "Is now Ice type Overheat"
     ],
@@ -19290,13 +19317,24 @@
     "name": "Rock Wrecker",
     "type": "rock",
     "damageClass": "physical",
-    "power": 150,
-    "accuracy": 90,
+    "power": 120,
+    "accuracy": 100,
     "pp": 5,
     "flavorText": "The user launches a huge boulder at the target to attack. It must rest on the next turn, however.",
-    "effect": "User foregoes its next turn to recharge.",
+    "effect": "Lowers the user’s Defense and Special Defense by one stage after inflicting damage.",
     "changed": true,
-    "fieldChanges": [],
+    "fieldChanges": [
+      {
+        "field": "Power",
+        "from": "150",
+        "to": "120"
+      },
+      {
+        "field": "Accuracy",
+        "from": "90",
+        "to": "100"
+      }
+    ],
     "changeNotes": [
       "Is now Rock type Close Combat"
     ],
