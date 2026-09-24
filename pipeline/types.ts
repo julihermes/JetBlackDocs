@@ -198,7 +198,6 @@ export interface TmEntry {
 export interface PokemonEntry extends VanillaSpeciesInfo {
   dexNumber: number;
   name: string;
-  obtainable: boolean; // best-effort: false means no documented wild/gift/legendary/breeding path — see pipeline/obtainability.ts
   types: string[]; // unchanged by the hack — from static reference data, see pipeline/vanilla-data.ts
   abilities: string[];
   abilityNotes: string[];

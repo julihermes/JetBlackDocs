@@ -12,7 +12,6 @@ import { parseStatsAndLearnsets } from "./parsers/stats-learnsets.ts";
 import { parseTrainerRosters } from "./parsers/trainer-rosters.ts";
 import { buildEncountersBySpecies, buildTrainersBySpecies, buildLearnedByMove } from "./indices.ts";
 import { attachTypes, attachSpeciesInfo, attachVanillaEvolutionMethod, buildTmCompatibility, buildEvolutionLookup, buildMoveList } from "./vanilla-data.ts";
-import { computeObtainableSpecies } from "./obtainability.ts";
 import { alnumKey } from "./lib/text.ts";
 import type { BuildManifest, EvolutionLookup, VanillaItemInfo } from "./types.ts";
 
@@ -123,12 +122,6 @@ function main() {
     summary.push(`evolution-lookup: ${Object.keys(evolutionLookup).length} species indexed`);
   }
 
-  if (pokemon && wildEncounters && legendaries && evolutionLookup) {
-    const obtainable = computeObtainableSpecies(pokemon, wildEncounters, legendaries.entries, evolutionLookup);
-    for (const p of pokemon) p.obtainable = obtainable.has(p.name);
-    writeJson("pokemon", pokemon);
-    summary.push(`obtainable species: ${obtainable.size} / ${pokemon.length}`);
-  }
 
   if (pokemon) {
     const tms = buildTmCompatibility(pokemon);

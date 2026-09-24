@@ -13,10 +13,6 @@
   border-color: var(--hairline-strong);
 }
 
-.passDim {
-  opacity: 0.6;
-}
-
 .pass:active {
   transform: scale(0.997);
 }

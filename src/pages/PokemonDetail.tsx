@@ -105,13 +105,6 @@ export function PokemonDetail() {
         </div>
       </div>
 
-      {!pokemon.obtainable && (
-        <p className={styles.obtainabilityWarning}>
-          No documented wild encounter, gift, or breeding path found for {pokemon.name} in this build — it may not
-          actually be obtainable, even though its data is fully documented for reference.
-        </p>
-      )}
-
       <Tabs
         tabs={[
           {

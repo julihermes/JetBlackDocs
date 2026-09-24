@@ -6,7 +6,6 @@
       "psychic",
       "fire"
     ],
-    "obtainable": true,
     "genus": "Victory Pokémon",
     "heightM": 0.4,
     "weightKg": 4,
@@ -158,7 +157,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Grass Snake Pokémon",
     "heightM": 0.6,
     "weightKg": 8.1,
@@ -289,7 +287,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Grass Snake Pokémon",
     "heightM": 0.8,
     "weightKg": 16,
@@ -436,7 +433,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Regal Pokémon",
     "heightM": 3.3,
     "weightKg": 63,
@@ -601,7 +597,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Fire Pig Pokémon",
     "heightM": 0.5,
     "weightKg": 9.9,
@@ -722,7 +717,6 @@
       "fire",
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Fire Pig Pokémon",
     "heightM": 1,
     "weightKg": 55.5,
@@ -863,7 +857,6 @@
       "fire",
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Mega Fire Pig Pokémon",
     "heightM": 1.6,
     "weightKg": 150,
@@ -1027,7 +1020,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Sea Otter Pokémon",
     "heightM": 0.5,
     "weightKg": 5.9,
@@ -1163,7 +1155,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Discipline Pokémon",
     "heightM": 0.8,
     "weightKg": 24.5,
@@ -1309,7 +1300,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Formidable Pokémon",
     "heightM": 1.5,
     "weightKg": 94.6,
@@ -1484,7 +1474,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Scout Pokémon",
     "heightM": 0.5,
     "weightKg": 11.6,
@@ -1614,7 +1603,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Lookout Pokémon",
     "heightM": 1.1,
     "weightKg": 27,
@@ -1781,7 +1769,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Puppy Pokémon",
     "heightM": 0.4,
     "weightKg": 4.1,
@@ -1906,7 +1893,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Loyal Dog Pokémon",
     "heightM": 0.9,
     "weightKg": 14.7,
@@ -2058,7 +2044,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Big-Hearted Pokémon",
     "heightM": 1.2,
     "weightKg": 61,
@@ -2231,7 +2216,6 @@
     "types": [
       "dark"
     ],
-    "obtainable": true,
     "genus": "Devious Pokémon",
     "heightM": 0.4,
     "weightKg": 10.1,
@@ -2389,7 +2373,6 @@
     "types": [
       "dark"
     ],
-    "obtainable": true,
     "genus": "Cruel Pokémon",
     "heightM": 1.1,
     "weightKg": 37.5,
@@ -2572,7 +2555,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Grass Monkey Pokémon",
     "heightM": 0.6,
     "weightKg": 10.5,
@@ -2715,7 +2697,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Thorn Monkey Pokémon",
     "heightM": 1.1,
     "weightKg": 30.5,
@@ -2873,7 +2854,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "High Temp Pokémon",
     "heightM": 0.6,
     "weightKg": 11,
@@ -3021,7 +3001,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Ember Pokémon",
     "heightM": 1,
     "weightKg": 28,
@@ -3184,7 +3163,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Spray Pokémon",
     "heightM": 0.6,
     "weightKg": 13.5,
@@ -3332,7 +3310,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Geyser Pokémon",
     "heightM": 1,
     "weightKg": 29,
@@ -3495,7 +3472,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Dream Eater Pokémon",
     "heightM": 0.6,
     "weightKg": 23.3,
@@ -3633,7 +3609,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Drowsing Pokémon",
     "heightM": 1.1,
     "weightKg": 60.5,
@@ -3801,7 +3776,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Tiny Pigeon Pokémon",
     "heightM": 0.3,
     "weightKg": 2.1,
@@ -3942,7 +3916,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Wild Pigeon Pokémon",
     "heightM": 0.6,
     "weightKg": 15,
@@ -4083,7 +4056,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Proud Pokémon",
     "heightM": 1.2,
     "weightKg": 29,
@@ -4233,7 +4205,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Electrified Pokémon",
     "heightM": 0.8,
     "weightKg": 29.8,
@@ -4368,7 +4339,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Thunderbolt Pokémon",
     "heightM": 1.6,
     "weightKg": 79.5,
@@ -4529,7 +4499,6 @@
     "types": [
       "rock"
     ],
-    "obtainable": true,
     "genus": "Mantle Pokémon",
     "heightM": 0.4,
     "weightKg": 18,
@@ -4679,7 +4648,6 @@
     "types": [
       "rock"
     ],
-    "obtainable": true,
     "genus": "Ore Pokémon",
     "heightM": 0.9,
     "weightKg": 102,
@@ -4836,7 +4804,6 @@
     "types": [
       "rock"
     ],
-    "obtainable": true,
     "genus": "Compressed Pokémon",
     "heightM": 1.7,
     "weightKg": 260,
@@ -5002,7 +4969,6 @@
       "psychic",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Bat Pokémon",
     "heightM": 0.4,
     "weightKg": 2.1,
@@ -5167,7 +5133,6 @@
       "psychic",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Courting Pokémon",
     "heightM": 0.9,
     "weightKg": 10.5,
@@ -5341,7 +5306,6 @@
     "types": [
       "ground"
     ],
-    "obtainable": true,
     "genus": "Mole Pokémon",
     "heightM": 0.3,
     "weightKg": 8.5,
@@ -5468,7 +5432,6 @@
       "ground",
       "steel"
     ],
-    "obtainable": true,
     "genus": "Subterrene Pokémon",
     "heightM": 0.7,
     "weightKg": 40.4,
@@ -5614,7 +5577,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Hearing Pokémon",
     "heightM": 1.1,
     "weightKg": 31,
@@ -5785,7 +5747,6 @@
     "types": [
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Muscular Pokémon",
     "heightM": 0.6,
     "weightKg": 12.5,
@@ -5931,7 +5892,6 @@
     "types": [
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Muscular Pokémon",
     "heightM": 1.2,
     "weightKg": 40,
@@ -6089,7 +6049,6 @@
     "types": [
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Muscular Pokémon",
     "heightM": 1.4,
     "weightKg": 87,
@@ -6245,7 +6204,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Tadpole Pokémon",
     "heightM": 0.5,
     "weightKg": 4.5,
@@ -6381,7 +6339,6 @@
       "water",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Vibration Pokémon",
     "heightM": 0.8,
     "weightKg": 17,
@@ -6532,7 +6489,6 @@
       "water",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Vibration Pokémon",
     "heightM": 1.5,
     "weightKg": 62,
@@ -6708,7 +6664,6 @@
     "types": [
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Judo Pokémon",
     "heightM": 1.3,
     "weightKg": 55.5,
@@ -6868,7 +6823,6 @@
     "types": [
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Karate Pokémon",
     "heightM": 1.4,
     "weightKg": 51,
@@ -7027,7 +6981,6 @@
       "bug",
       "grass"
     ],
-    "obtainable": true,
     "genus": "Sewing Pokémon",
     "heightM": 0.3,
     "weightKg": 2.5,
@@ -7140,7 +7093,6 @@
       "bug",
       "grass"
     ],
-    "obtainable": true,
     "genus": "Leaf-Wrapped Pokémon",
     "heightM": 0.5,
     "weightKg": 7.3,
@@ -7258,7 +7210,6 @@
       "bug",
       "grass"
     ],
-    "obtainable": true,
     "genus": "Nurturing Pokémon",
     "heightM": 1.2,
     "weightKg": 20.5,
@@ -7432,7 +7383,6 @@
       "bug",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Centipede Pokémon",
     "heightM": 0.4,
     "weightKg": 5.3,
@@ -7578,7 +7528,6 @@
       "bug",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Curlipede Pokémon",
     "heightM": 1.2,
     "weightKg": 58.5,
@@ -7752,7 +7701,6 @@
       "bug",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Megapede Pokémon",
     "heightM": 2.5,
     "weightKg": 200.5,
@@ -7918,7 +7866,6 @@
       "grass",
       "fairy"
     ],
-    "obtainable": true,
     "genus": "Cotton Puff Pokémon",
     "heightM": 0.3,
     "weightKg": 0.6,
@@ -8083,7 +8030,6 @@
       "grass",
       "fairy"
     ],
-    "obtainable": true,
     "genus": "Windveiled Pokémon",
     "heightM": 0.7,
     "weightKg": 6.6,
@@ -8257,7 +8203,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Bulb Pokémon",
     "heightM": 0.5,
     "weightKg": 6.6,
@@ -8410,7 +8355,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Flowering Pokémon",
     "heightM": 1.1,
     "weightKg": 16.3,
@@ -8588,7 +8532,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Hostile Pokémon",
     "heightM": 1,
     "weightKg": 18,
@@ -8742,7 +8685,6 @@
       "ground",
       "dark"
     ],
-    "obtainable": true,
     "genus": "Desert Croc Pokémon",
     "heightM": 0.7,
     "weightKg": 15.2,
@@ -8884,7 +8826,6 @@
       "ground",
       "dark"
     ],
-    "obtainable": true,
     "genus": "Desert Croc Pokémon",
     "heightM": 1,
     "weightKg": 33.4,
@@ -9040,7 +8981,6 @@
       "ground",
       "dark"
     ],
-    "obtainable": true,
     "genus": "Intimidation Pokémon",
     "heightM": 1.5,
     "weightKg": 96.3,
@@ -9200,7 +9140,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Zen Charm Pokémon",
     "heightM": 0.6,
     "weightKg": 37.5,
@@ -9339,7 +9278,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Blazing Pokémon",
     "heightM": 1.3,
     "weightKg": 92.9,
@@ -9498,7 +9436,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Cactus Pokémon",
     "heightM": 1,
     "weightKg": 28,
@@ -9672,7 +9609,6 @@
       "bug",
       "rock"
     ],
-    "obtainable": true,
     "genus": "Rock Inn Pokémon",
     "heightM": 0.3,
     "weightKg": 14.5,
@@ -9809,7 +9745,6 @@
       "bug",
       "rock"
     ],
-    "obtainable": true,
     "genus": "Stone Home Pokémon",
     "heightM": 1.4,
     "weightKg": 200,
@@ -9961,7 +9896,6 @@
       "dark",
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Shedding Pokémon",
     "heightM": 0.6,
     "weightKg": 11.8,
@@ -10125,7 +10059,6 @@
       "dark",
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Hoodlum Pokémon",
     "heightM": 1.1,
     "weightKg": 30,
@@ -10292,7 +10225,6 @@
       "psychic",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Avianoid Pokémon",
     "heightM": 1.4,
     "weightKg": 14,
@@ -10452,7 +10384,6 @@
     "types": [
       "ghost"
     ],
-    "obtainable": true,
     "genus": "Spirit Pokémon",
     "heightM": 0.5,
     "weightKg": 1.5,
@@ -10608,7 +10539,6 @@
     "types": [
       "ghost"
     ],
-    "obtainable": true,
     "genus": "Coffin Pokémon",
     "heightM": 1.7,
     "weightKg": 76.5,
@@ -10785,7 +10715,6 @@
       "water",
       "rock"
     ],
-    "obtainable": true,
     "genus": "Prototurtle Pokémon",
     "heightM": 0.7,
     "weightKg": 16.5,
@@ -10932,7 +10861,6 @@
       "water",
       "rock"
     ],
-    "obtainable": true,
     "genus": "Prototurtle Pokémon",
     "heightM": 1.2,
     "weightKg": 81,
@@ -11089,7 +11017,6 @@
       "rock",
       "flying"
     ],
-    "obtainable": true,
     "genus": "First Bird Pokémon",
     "heightM": 0.5,
     "weightKg": 9.5,
@@ -11235,7 +11162,6 @@
       "rock",
       "flying"
     ],
-    "obtainable": true,
     "genus": "First Bird Pokémon",
     "heightM": 1.4,
     "weightKg": 32,
@@ -11390,7 +11316,6 @@
     "types": [
       "poison"
     ],
-    "obtainable": true,
     "genus": "Trash Bag Pokémon",
     "heightM": 0.6,
     "weightKg": 31,
@@ -11563,7 +11488,6 @@
     "types": [
       "poison"
     ],
-    "obtainable": true,
     "genus": "Trash Heap Pokémon",
     "heightM": 1.9,
     "weightKg": 107.3,
@@ -11755,7 +11679,6 @@
     "types": [
       "dark"
     ],
-    "obtainable": true,
     "genus": "Tricky Fox Pokémon",
     "heightM": 0.7,
     "weightKg": 12.5,
@@ -11894,7 +11817,6 @@
     "types": [
       "dark"
     ],
-    "obtainable": true,
     "genus": "Illusion Fox Pokémon",
     "heightM": 1.6,
     "weightKg": 81.1,
@@ -12044,7 +11966,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Chinchilla Pokémon",
     "heightM": 0.4,
     "weightKg": 5.8,
@@ -12184,7 +12105,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Scarf Pokémon",
     "heightM": 0.5,
     "weightKg": 7.5,
@@ -12355,7 +12275,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Fixation Pokémon",
     "heightM": 0.4,
     "weightKg": 5.8,
@@ -12500,7 +12419,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Manipulate Pokémon",
     "heightM": 0.7,
     "weightKg": 18,
@@ -12650,7 +12568,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Astral Body Pokémon",
     "heightM": 1.5,
     "weightKg": 44,
@@ -12815,7 +12732,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Cell Pokémon",
     "heightM": 0.3,
     "weightKg": 1,
@@ -12957,7 +12873,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Mitosis Pokémon",
     "heightM": 0.6,
     "weightKg": 8,
@@ -13104,7 +13019,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Multiplying Pokémon",
     "heightM": 1,
     "weightKg": 20.1,
@@ -13272,7 +13186,6 @@
       "water",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Water Bird Pokémon",
     "heightM": 0.5,
     "weightKg": 5.5,
@@ -13427,7 +13340,6 @@
       "water",
       "flying"
     ],
-    "obtainable": true,
     "genus": "White Bird Pokémon",
     "heightM": 1.3,
     "weightKg": 24.2,
@@ -13609,7 +13521,6 @@
     "types": [
       "ice"
     ],
-    "obtainable": true,
     "genus": "Fresh Snow Pokémon",
     "heightM": 0.4,
     "weightKg": 5.7,
@@ -13759,7 +13670,6 @@
     "types": [
       "ice"
     ],
-    "obtainable": true,
     "genus": "Icy Snow Pokémon",
     "heightM": 1.1,
     "weightKg": 41,
@@ -13914,7 +13824,6 @@
     "types": [
       "ice"
     ],
-    "obtainable": true,
     "genus": "Snowstorm Pokémon",
     "heightM": 1.3,
     "weightKg": 57.5,
@@ -14088,7 +13997,6 @@
       "normal",
       "grass"
     ],
-    "obtainable": true,
     "genus": "Season Pokémon",
     "heightM": 0.6,
     "weightKg": 19.5,
@@ -14224,7 +14132,6 @@
       "normal",
       "grass"
     ],
-    "obtainable": true,
     "genus": "Season Pokémon",
     "heightM": 1.9,
     "weightKg": 92.5,
@@ -14398,7 +14305,6 @@
       "electric",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Sky Squirrel Pokémon",
     "heightM": 0.4,
     "weightKg": 5,
@@ -14566,7 +14472,6 @@
     "types": [
       "bug"
     ],
-    "obtainable": true,
     "genus": "Clamping Pokémon",
     "heightM": 0.5,
     "weightKg": 5.9,
@@ -14700,7 +14605,6 @@
       "bug",
       "steel"
     ],
-    "obtainable": true,
     "genus": "Cavalry Pokémon",
     "heightM": 1,
     "weightKg": 33,
@@ -14848,7 +14752,6 @@
       "grass",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Mushroom Pokémon",
     "heightM": 0.2,
     "weightKg": 1,
@@ -14979,7 +14882,6 @@
       "grass",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Mushroom Pokémon",
     "heightM": 0.6,
     "weightKg": 10.5,
@@ -15145,7 +15047,6 @@
       "water",
       "ghost"
     ],
-    "obtainable": true,
     "genus": "Floating Pokémon",
     "heightM": 1.2,
     "weightKg": 33,
@@ -15286,7 +15187,6 @@
       "water",
       "ghost"
     ],
-    "obtainable": true,
     "genus": "Floating Pokémon",
     "heightM": 2.2,
     "weightKg": 135,
@@ -15441,7 +15341,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Caring Pokémon",
     "heightM": 1.2,
     "weightKg": 31.6,
@@ -15608,7 +15507,6 @@
       "bug",
       "electric"
     ],
-    "obtainable": true,
     "genus": "Attaching Pokémon",
     "heightM": 0.1,
     "weightKg": 0.6,
@@ -15754,7 +15652,6 @@
       "bug",
       "electric"
     ],
-    "obtainable": true,
     "genus": "EleSpider Pokémon",
     "heightM": 0.8,
     "weightKg": 14.3,
@@ -15915,7 +15812,6 @@
       "grass",
       "steel"
     ],
-    "obtainable": true,
     "genus": "Thorn Seed Pokémon",
     "heightM": 0.6,
     "weightKg": 18.8,
@@ -16044,7 +15940,6 @@
       "grass",
       "steel"
     ],
-    "obtainable": true,
     "genus": "Thorn Pod Pokémon",
     "heightM": 1,
     "weightKg": 110,
@@ -16192,7 +16087,6 @@
     "types": [
       "steel"
     ],
-    "obtainable": true,
     "genus": "Gear Pokémon",
     "heightM": 0.3,
     "weightKg": 21,
@@ -16326,7 +16220,6 @@
     "types": [
       "steel"
     ],
-    "obtainable": true,
     "genus": "Gear Pokémon",
     "heightM": 0.6,
     "weightKg": 51,
@@ -16460,7 +16353,6 @@
     "types": [
       "steel"
     ],
-    "obtainable": true,
     "genus": "Gear Pokémon",
     "heightM": 0.6,
     "weightKg": 81,
@@ -16622,7 +16514,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "EleFish Pokémon",
     "heightM": 0.2,
     "weightKg": 0.3,
@@ -16693,7 +16584,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "EleFish Pokémon",
     "heightM": 1.2,
     "weightKg": 22,
@@ -16824,7 +16714,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "EleFish Pokémon",
     "heightM": 2.1,
     "weightKg": 80.5,
@@ -16985,7 +16874,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Cerebral Pokémon",
     "heightM": 0.5,
     "weightKg": 9,
@@ -17134,7 +17022,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Cerebral Pokémon",
     "heightM": 1,
     "weightKg": 34.5,
@@ -17308,7 +17195,6 @@
       "ghost",
       "fire"
     ],
-    "obtainable": true,
     "genus": "Candle Pokémon",
     "heightM": 0.3,
     "weightKg": 3.1,
@@ -17451,7 +17337,6 @@
       "ghost",
       "fire"
     ],
-    "obtainable": true,
     "genus": "Lamp Pokémon",
     "heightM": 0.6,
     "weightKg": 13,
@@ -17597,7 +17482,6 @@
       "ghost",
       "fire"
     ],
-    "obtainable": true,
     "genus": "Luring Pokémon",
     "heightM": 1,
     "weightKg": 34.3,
@@ -17743,7 +17627,6 @@
     "types": [
       "dragon"
     ],
-    "obtainable": true,
     "genus": "Tusk Pokémon",
     "heightM": 0.6,
     "weightKg": 18,
@@ -17872,7 +17755,6 @@
     "types": [
       "dragon"
     ],
-    "obtainable": true,
     "genus": "Axe Jaw Pokémon",
     "heightM": 1,
     "weightKg": 36,
@@ -18006,7 +17888,6 @@
     "types": [
       "dragon"
     ],
-    "obtainable": true,
     "genus": "Axe Jaw Pokémon",
     "heightM": 1.8,
     "weightKg": 105.5,
@@ -18165,7 +18046,6 @@
     "types": [
       "ice"
     ],
-    "obtainable": true,
     "genus": "Chill Pokémon",
     "heightM": 0.5,
     "weightKg": 8.5,
@@ -18303,7 +18183,6 @@
     "types": [
       "ice"
     ],
-    "obtainable": true,
     "genus": "Freezing Pokémon",
     "heightM": 2.6,
     "weightKg": 260,
@@ -18476,7 +18355,6 @@
     "types": [
       "ice"
     ],
-    "obtainable": true,
     "genus": "Crystallizing Pokémon",
     "heightM": 1.1,
     "weightKg": 148,
@@ -18653,7 +18531,6 @@
     "types": [
       "bug"
     ],
-    "obtainable": true,
     "genus": "Snail Pokémon",
     "heightM": 0.4,
     "weightKg": 7.7,
@@ -18776,7 +18653,6 @@
     "types": [
       "bug"
     ],
-    "obtainable": true,
     "genus": "Shell Out Pokémon",
     "heightM": 0.8,
     "weightKg": 25.3,
@@ -18918,7 +18794,6 @@
       "ground",
       "electric"
     ],
-    "obtainable": true,
     "genus": "Trap Pokémon",
     "heightM": 0.7,
     "weightKg": 11,
@@ -19059,7 +18934,6 @@
     "types": [
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Martial Arts Pokémon",
     "heightM": 0.9,
     "weightKg": 20,
@@ -19193,7 +19067,6 @@
     "types": [
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Martial Arts Pokémon",
     "heightM": 1.4,
     "weightKg": 35.5,
@@ -19340,7 +19213,6 @@
     "types": [
       "dragon"
     ],
-    "obtainable": true,
     "genus": "Cave Pokémon",
     "heightM": 1.6,
     "weightKg": 139,
@@ -19492,7 +19364,6 @@
       "ground",
       "ghost"
     ],
-    "obtainable": true,
     "genus": "Automaton Pokémon",
     "heightM": 1,
     "weightKg": 92,
@@ -19657,7 +19528,6 @@
       "ground",
       "ghost"
     ],
-    "obtainable": true,
     "genus": "Automaton Pokémon",
     "heightM": 2.8,
     "weightKg": 330,
@@ -19816,7 +19686,6 @@
       "dark",
       "steel"
     ],
-    "obtainable": true,
     "genus": "Sharp Blade Pokémon",
     "heightM": 0.5,
     "weightKg": 10.2,
@@ -19950,7 +19819,6 @@
       "dark",
       "steel"
     ],
-    "obtainable": true,
     "genus": "Sword Blade Pokémon",
     "heightM": 1.6,
     "weightKg": 70,
@@ -20101,7 +19969,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Bash Buffalo Pokémon",
     "heightM": 1.6,
     "weightKg": 94.6,
@@ -20247,7 +20114,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Eaglet Pokémon",
     "heightM": 0.5,
     "weightKg": 10.5,
@@ -20376,7 +20242,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Valiant Pokémon",
     "heightM": 1.5,
     "weightKg": 41,
@@ -20520,7 +20385,6 @@
       "dark",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Diapered Pokémon",
     "heightM": 0.5,
     "weightKg": 9,
@@ -20649,7 +20513,6 @@
       "dark",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Bone Vulture Pokémon",
     "heightM": 1.2,
     "weightKg": 39.5,
@@ -20809,7 +20672,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Anteater Pokémon",
     "heightM": 1.4,
     "weightKg": 58,
@@ -20957,7 +20819,6 @@
       "bug",
       "steel"
     ],
-    "obtainable": true,
     "genus": "Iron Ant Pokémon",
     "heightM": 0.3,
     "weightKg": 33,
@@ -21098,7 +20959,6 @@
       "dark",
       "dragon"
     ],
-    "obtainable": true,
     "genus": "Irate Pokémon",
     "heightM": 0.8,
     "weightKg": 17.3,
@@ -21237,7 +21097,6 @@
       "dark",
       "dragon"
     ],
-    "obtainable": true,
     "genus": "Hostile Pokémon",
     "heightM": 1.4,
     "weightKg": 50,
@@ -21390,7 +21249,6 @@
       "dark",
       "dragon"
     ],
-    "obtainable": true,
     "genus": "Brutal Pokémon",
     "heightM": 1.8,
     "weightKg": 160,
@@ -21546,7 +21404,6 @@
       "bug",
       "fire"
     ],
-    "obtainable": true,
     "genus": "Torch Pokémon",
     "heightM": 1.1,
     "weightKg": 28.8,
@@ -21659,7 +21516,6 @@
       "bug",
       "fire"
     ],
-    "obtainable": true,
     "genus": "Sun Pokémon",
     "heightM": 1.6,
     "weightKg": 46,
@@ -21806,7 +21662,6 @@
       "steel",
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Iron Will Pokémon",
     "heightM": 2.1,
     "weightKg": 250,
@@ -21937,7 +21792,6 @@
       "rock",
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Cavern Pokémon",
     "heightM": 1.9,
     "weightKg": 260,
@@ -22068,7 +21922,6 @@
       "grass",
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Grassland Pokémon",
     "heightM": 2,
     "weightKg": 200,
@@ -22198,7 +22051,6 @@
     "types": [
       "flying"
     ],
-    "obtainable": true,
     "genus": "Cyclone Pokémon",
     "heightM": 1.5,
     "weightKg": 63,
@@ -22334,7 +22186,6 @@
       "electric",
       "flying"
     ],
-    "obtainable": false,
     "genus": "Bolt Strike Pokémon",
     "heightM": 1.5,
     "weightKg": 61,
@@ -22470,7 +22321,6 @@
       "dragon",
       "fire"
     ],
-    "obtainable": true,
     "genus": "Vast White Pokémon",
     "heightM": 3.2,
     "weightKg": 330,
@@ -22596,7 +22446,6 @@
       "dragon",
       "electric"
     ],
-    "obtainable": false,
     "genus": "Deep Black Pokémon",
     "heightM": 2.9,
     "weightKg": 345,
@@ -22722,7 +22571,6 @@
       "ground",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Abundance Pokémon",
     "heightM": 1.5,
     "weightKg": 68,
@@ -22860,7 +22708,6 @@
       "dragon",
       "ice"
     ],
-    "obtainable": true,
     "genus": "Boundary Pokémon",
     "heightM": 3,
     "weightKg": 325,
@@ -22991,7 +22838,6 @@
       "water",
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Colt Pokémon",
     "heightM": 1.4,
     "weightKg": 48.5,
@@ -23133,7 +22979,6 @@
       "normal",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Melody Pokémon",
     "heightM": 0.6,
     "weightKg": 6.5,
@@ -23292,7 +23137,6 @@
       "bug",
       "steel"
     ],
-    "obtainable": true,
     "genus": "Paleozoic Pokémon",
     "heightM": 1.5,
     "weightKg": 82.5,
@@ -23443,7 +23287,6 @@
       "grass",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Seed Pokémon",
     "heightM": 0.7,
     "weightKg": 6.9,
@@ -23565,7 +23408,6 @@
       "grass",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Seed Pokémon",
     "heightM": 1,
     "weightKg": 13,
@@ -23692,7 +23534,6 @@
       "grass",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Seed Pokémon",
     "heightM": 2,
     "weightKg": 100,
@@ -23847,7 +23688,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Lizard Pokémon",
     "heightM": 0.6,
     "weightKg": 8.5,
@@ -23973,7 +23813,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Flame Pokémon",
     "heightM": 1.1,
     "weightKg": 19,
@@ -24119,7 +23958,6 @@
       "fire",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Flame Pokémon",
     "heightM": 1.7,
     "weightKg": 90.5,
@@ -24284,7 +24122,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Tiny Turtle Pokémon",
     "heightM": 0.5,
     "weightKg": 9,
@@ -24410,7 +24247,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Turtle Pokémon",
     "heightM": 1,
     "weightKg": 22.5,
@@ -24541,7 +24377,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Shellfish Pokémon",
     "heightM": 1.6,
     "weightKg": 85.5,
@@ -24701,7 +24536,6 @@
     "types": [
       "bug"
     ],
-    "obtainable": true,
     "genus": "Worm Pokémon",
     "heightM": 0.3,
     "weightKg": 2.9,
@@ -24759,7 +24593,6 @@
     "types": [
       "bug"
     ],
-    "obtainable": true,
     "genus": "Cocoon Pokémon",
     "heightM": 0.7,
     "weightKg": 9.9,
@@ -24831,7 +24664,6 @@
       "bug",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Butterfly Pokémon",
     "heightM": 1.1,
     "weightKg": 32,
@@ -24984,7 +24816,6 @@
       "bug",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Hairy Bug Pokémon",
     "heightM": 0.3,
     "weightKg": 3.2,
@@ -25043,7 +24874,6 @@
       "bug",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Cocoon Pokémon",
     "heightM": 0.6,
     "weightKg": 10,
@@ -25115,7 +24945,6 @@
       "bug",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Poison Bee Pokémon",
     "heightM": 1,
     "weightKg": 29.5,
@@ -25258,7 +25087,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Tiny Bird Pokémon",
     "heightM": 0.3,
     "weightKg": 1.8,
@@ -25391,7 +25219,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Bird Pokémon",
     "heightM": 1.1,
     "weightKg": 30,
@@ -25529,7 +25356,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Bird Pokémon",
     "heightM": 1.5,
     "weightKg": 39.5,
@@ -25681,7 +25507,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Mouse Pokémon",
     "heightM": 0.3,
     "weightKg": 3.5,
@@ -25824,7 +25649,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Mouse Pokémon",
     "heightM": 0.7,
     "weightKg": 18.5,
@@ -25988,7 +25812,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Tiny Bird Pokémon",
     "heightM": 0.3,
     "weightKg": 2,
@@ -26107,7 +25930,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Beak Pokémon",
     "heightM": 1.2,
     "weightKg": 38,
@@ -26254,7 +26076,6 @@
     "types": [
       "poison"
     ],
-    "obtainable": true,
     "genus": "Snake Pokémon",
     "heightM": 2,
     "weightKg": 6.9,
@@ -26390,7 +26211,6 @@
     "types": [
       "poison"
     ],
-    "obtainable": true,
     "genus": "Cobra Pokémon",
     "heightM": 3.5,
     "weightKg": 65,
@@ -26556,7 +26376,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Mouse Pokémon",
     "heightM": 0.4,
     "weightKg": 6,
@@ -26712,7 +26531,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Mouse Pokémon",
     "heightM": 0.8,
     "weightKg": 30,
@@ -26881,7 +26699,6 @@
     "types": [
       "ground"
     ],
-    "obtainable": true,
     "genus": "Mouse Pokémon",
     "heightM": 0.6,
     "weightKg": 12,
@@ -27023,7 +26840,6 @@
     "types": [
       "ground"
     ],
-    "obtainable": true,
     "genus": "Mouse Pokémon",
     "heightM": 1,
     "weightKg": 29.5,
@@ -27175,7 +26991,6 @@
     "types": [
       "poison"
     ],
-    "obtainable": false,
     "genus": "Poison Pin Pokémon",
     "heightM": 0.4,
     "weightKg": 7,
@@ -27318,7 +27133,6 @@
     "types": [
       "poison"
     ],
-    "obtainable": true,
     "genus": "Poison Pin Pokémon",
     "heightM": 0.8,
     "weightKg": 20,
@@ -27461,7 +27275,6 @@
       "poison",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Drill Pokémon",
     "heightM": 1.3,
     "weightKg": 60,
@@ -27628,7 +27441,6 @@
     "types": [
       "poison"
     ],
-    "obtainable": false,
     "genus": "Poison Pin Pokémon",
     "heightM": 0.5,
     "weightKg": 9,
@@ -27771,7 +27583,6 @@
     "types": [
       "poison"
     ],
-    "obtainable": true,
     "genus": "Poison Pin Pokémon",
     "heightM": 0.9,
     "weightKg": 19.5,
@@ -27915,7 +27726,6 @@
       "poison",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Drill Pokémon",
     "heightM": 1.4,
     "weightKg": 62,
@@ -28083,7 +27893,6 @@
     "types": [
       "fairy"
     ],
-    "obtainable": true,
     "genus": "Fairy Pokémon",
     "heightM": 0.6,
     "weightKg": 7.5,
@@ -28233,7 +28042,6 @@
     "types": [
       "fairy"
     ],
-    "obtainable": true,
     "genus": "Fairy Pokémon",
     "heightM": 1.3,
     "weightKg": 40,
@@ -28393,7 +28201,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Fox Pokémon",
     "heightM": 0.6,
     "weightKg": 9.9,
@@ -28548,7 +28355,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Fox Pokémon",
     "heightM": 1.1,
     "weightKg": 19.9,
@@ -28719,7 +28525,6 @@
       "normal",
       "fairy"
     ],
-    "obtainable": true,
     "genus": "Balloon Pokémon",
     "heightM": 0.5,
     "weightKg": 5.5,
@@ -28887,7 +28692,6 @@
       "normal",
       "fairy"
     ],
-    "obtainable": true,
     "genus": "Balloon Pokémon",
     "heightM": 1,
     "weightKg": 12,
@@ -29060,7 +28864,6 @@
       "poison",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Bat Pokémon",
     "heightM": 0.8,
     "weightKg": 7.5,
@@ -29205,7 +29008,6 @@
       "poison",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Bat Pokémon",
     "heightM": 1.6,
     "weightKg": 55,
@@ -29365,7 +29167,6 @@
       "grass",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Weed Pokémon",
     "heightM": 0.5,
     "weightKg": 5.4,
@@ -29481,7 +29282,6 @@
       "grass",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Weed Pokémon",
     "heightM": 0.8,
     "weightKg": 8.6,
@@ -29602,7 +29402,6 @@
       "grass",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Flower Pokémon",
     "heightM": 1.2,
     "weightKg": 18.6,
@@ -29752,7 +29551,6 @@
       "bug",
       "grass"
     ],
-    "obtainable": true,
     "genus": "Mushroom Pokémon",
     "heightM": 0.3,
     "weightKg": 5.4,
@@ -29875,7 +29673,6 @@
       "bug",
       "grass"
     ],
-    "obtainable": true,
     "genus": "Mushroom Pokémon",
     "heightM": 1,
     "weightKg": 29.5,
@@ -30012,7 +29809,6 @@
       "bug",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Insect Pokémon",
     "heightM": 1,
     "weightKg": 30,
@@ -30144,7 +29940,6 @@
       "bug",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Poison Moth Pokémon",
     "heightM": 1.5,
     "weightKg": 12.5,
@@ -30304,7 +30099,6 @@
     "types": [
       "ground"
     ],
-    "obtainable": true,
     "genus": "Mole Pokémon",
     "heightM": 0.2,
     "weightKg": 0.8,
@@ -30422,7 +30216,6 @@
     "types": [
       "ground"
     ],
-    "obtainable": true,
     "genus": "Mole Pokémon",
     "heightM": 0.7,
     "weightKg": 33.3,
@@ -30559,7 +30352,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Scratch Cat Pokémon",
     "heightM": 0.4,
     "weightKg": 4.2,
@@ -30699,7 +30491,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Classy Cat Pokémon",
     "heightM": 1,
     "weightKg": 32,
@@ -30864,7 +30655,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Duck Pokémon",
     "heightM": 0.8,
     "weightKg": 19.6,
@@ -31007,7 +30797,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Duck Pokémon",
     "heightM": 1.7,
     "weightKg": 76.6,
@@ -31171,7 +30960,6 @@
     "types": [
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Pig Monkey Pokémon",
     "heightM": 0.5,
     "weightKg": 28,
@@ -31314,7 +31102,6 @@
     "types": [
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Pig Monkey Pokémon",
     "heightM": 1,
     "weightKg": 32,
@@ -31471,7 +31258,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Puppy Pokémon",
     "heightM": 0.7,
     "weightKg": 19,
@@ -31608,7 +31394,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Legendary Pokémon",
     "heightM": 1.9,
     "weightKg": 155,
@@ -31765,7 +31550,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Tadpole Pokémon",
     "heightM": 0.6,
     "weightKg": 12.4,
@@ -31897,7 +31681,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Tadpole Pokémon",
     "heightM": 1,
     "weightKg": 20,
@@ -32042,7 +31825,6 @@
       "water",
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Tadpole Pokémon",
     "heightM": 1.3,
     "weightKg": 54,
@@ -32199,7 +31981,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Psi Pokémon",
     "heightM": 0.9,
     "weightKg": 19.5,
@@ -32247,7 +32028,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Psi Pokémon",
     "heightM": 1.3,
     "weightKg": 56.5,
@@ -32362,7 +32142,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Psi Pokémon",
     "heightM": 1.5,
     "weightKg": 48,
@@ -32485,7 +32264,6 @@
     "types": [
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Superpower Pokémon",
     "heightM": 0.8,
     "weightKg": 19.5,
@@ -32616,7 +32394,6 @@
     "types": [
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Superpower Pokémon",
     "heightM": 1.5,
     "weightKg": 70.5,
@@ -32764,7 +32541,6 @@
     "types": [
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Superpower Pokémon",
     "heightM": 1.6,
     "weightKg": 130,
@@ -32916,7 +32692,6 @@
       "grass",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Flower Pokémon",
     "heightM": 0.7,
     "weightKg": 4,
@@ -33041,7 +32816,6 @@
       "grass",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Flycatcher Pokémon",
     "heightM": 1,
     "weightKg": 6.4,
@@ -33176,7 +32950,6 @@
       "grass",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Flycatcher Pokémon",
     "heightM": 1.7,
     "weightKg": 15.5,
@@ -33350,7 +33123,6 @@
       "water",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Jellyfish Pokémon",
     "heightM": 0.9,
     "weightKg": 45.5,
@@ -33479,7 +33251,6 @@
       "water",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Jellyfish Pokémon",
     "heightM": 1.6,
     "weightKg": 55,
@@ -33613,7 +33384,6 @@
       "rock",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Rock Pokémon",
     "heightM": 0.4,
     "weightKg": 20,
@@ -33746,7 +33516,6 @@
       "rock",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Rock Pokémon",
     "heightM": 1,
     "weightKg": 105,
@@ -33886,7 +33655,6 @@
       "rock",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Megaton Pokémon",
     "heightM": 1.4,
     "weightKg": 300,
@@ -34043,7 +33811,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Fire Horse Pokémon",
     "heightM": 1,
     "weightKg": 30,
@@ -34173,7 +33940,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Fire Horse Pokémon",
     "heightM": 1.7,
     "weightKg": 95,
@@ -34337,7 +34103,6 @@
       "water",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Dopey Pokémon",
     "heightM": 1.2,
     "weightKg": 36,
@@ -34489,7 +34254,6 @@
       "water",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Hermit Crab Pokémon",
     "heightM": 1.6,
     "weightKg": 78.5,
@@ -34635,7 +34399,6 @@
       "electric",
       "steel"
     ],
-    "obtainable": true,
     "genus": "Magnet Pokémon",
     "heightM": 0.3,
     "weightKg": 6,
@@ -34769,7 +34532,6 @@
       "electric",
       "steel"
     ],
-    "obtainable": true,
     "genus": "Magnet Pokémon",
     "heightM": 1,
     "weightKg": 60,
@@ -34908,7 +34670,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Wild Duck Pokémon",
     "heightM": 0.8,
     "weightKg": 15,
@@ -35073,7 +34834,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Twin Bird Pokémon",
     "heightM": 1.4,
     "weightKg": 39.2,
@@ -35201,7 +34961,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Triple Bird Pokémon",
     "heightM": 1.8,
     "weightKg": 85.2,
@@ -35357,7 +35116,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Sea Lion Pokémon",
     "heightM": 1.1,
     "weightKg": 90,
@@ -35494,7 +35252,6 @@
       "water",
       "ice"
     ],
-    "obtainable": true,
     "genus": "Sea Lion Pokémon",
     "heightM": 1.7,
     "weightKg": 120,
@@ -35650,7 +35407,6 @@
     "types": [
       "poison"
     ],
-    "obtainable": true,
     "genus": "Sludge Pokémon",
     "heightM": 0.9,
     "weightKg": 30,
@@ -35789,7 +35545,6 @@
     "types": [
       "poison"
     ],
-    "obtainable": true,
     "genus": "Sludge Pokémon",
     "heightM": 1.2,
     "weightKg": 30,
@@ -35951,7 +35706,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Bivalve Pokémon",
     "heightM": 0.3,
     "weightKg": 4,
@@ -36073,7 +35827,6 @@
       "water",
       "ice"
     ],
-    "obtainable": true,
     "genus": "Bivalve Pokémon",
     "heightM": 1.5,
     "weightKg": 132.5,
@@ -36229,7 +35982,6 @@
       "ghost",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Gas Pokémon",
     "heightM": 1.3,
     "weightKg": 0.1,
@@ -36356,7 +36108,6 @@
       "ghost",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Gas Pokémon",
     "heightM": 1.6,
     "weightKg": 0.1,
@@ -36489,7 +36240,6 @@
       "ghost",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Shadow Pokémon",
     "heightM": 1.5,
     "weightKg": 40.5,
@@ -36642,7 +36392,6 @@
       "rock",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Rock Snake Pokémon",
     "heightM": 8.8,
     "weightKg": 210,
@@ -36794,7 +36543,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Hypnosis Pokémon",
     "heightM": 1,
     "weightKg": 32.4,
@@ -36929,7 +36677,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Hypnosis Pokémon",
     "heightM": 1.6,
     "weightKg": 75.6,
@@ -37094,7 +36841,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "River Crab Pokémon",
     "heightM": 0.4,
     "weightKg": 6.5,
@@ -37223,7 +36969,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Pincer Pokémon",
     "heightM": 1.3,
     "weightKg": 60,
@@ -37376,7 +37121,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Ball Pokémon",
     "heightM": 0.5,
     "weightKg": 10.4,
@@ -37528,7 +37272,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Ball Pokémon",
     "heightM": 1.2,
     "weightKg": 66.6,
@@ -37700,7 +37443,6 @@
       "grass",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Egg Pokémon",
     "heightM": 0.4,
     "weightKg": 2.5,
@@ -37824,7 +37566,6 @@
       "grass",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Coconut Pokémon",
     "heightM": 2,
     "weightKg": 120,
@@ -37986,7 +37727,6 @@
     "types": [
       "ground"
     ],
-    "obtainable": true,
     "genus": "Lonely Pokémon",
     "heightM": 0.4,
     "weightKg": 6.5,
@@ -38119,7 +37859,6 @@
     "types": [
       "ground"
     ],
-    "obtainable": true,
     "genus": "Bone Keeper Pokémon",
     "heightM": 1,
     "weightKg": 45,
@@ -38286,7 +38025,6 @@
     "types": [
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Kicking Pokémon",
     "heightM": 1.5,
     "weightKg": 49.8,
@@ -38397,7 +38135,6 @@
     "types": [
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Punching Pokémon",
     "heightM": 1.4,
     "weightKg": 50.2,
@@ -38518,7 +38255,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Licking Pokémon",
     "heightM": 1.2,
     "weightKg": 65.5,
@@ -38653,7 +38389,6 @@
     "types": [
       "poison"
     ],
-    "obtainable": true,
     "genus": "Poison Gas Pokémon",
     "heightM": 0.6,
     "weightKg": 1,
@@ -38788,7 +38523,6 @@
     "types": [
       "poison"
     ],
-    "obtainable": true,
     "genus": "Poison Gas Pokémon",
     "heightM": 1.2,
     "weightKg": 9.5,
@@ -38934,7 +38668,6 @@
       "ground",
       "rock"
     ],
-    "obtainable": true,
     "genus": "Spikes Pokémon",
     "heightM": 1,
     "weightKg": 115,
@@ -39074,7 +38807,6 @@
       "ground",
       "rock"
     ],
-    "obtainable": true,
     "genus": "Drill Pokémon",
     "heightM": 1.9,
     "weightKg": 120,
@@ -39228,7 +38960,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Egg Pokémon",
     "heightM": 1.1,
     "weightKg": 34.6,
@@ -39359,7 +39090,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Vine Pokémon",
     "heightM": 1,
     "weightKg": 35,
@@ -39487,7 +39217,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Parent Pokémon",
     "heightM": 2.2,
     "weightKg": 80,
@@ -39642,7 +39371,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Dragon Pokémon",
     "heightM": 0.4,
     "weightKg": 8,
@@ -39749,7 +39477,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Dragon Pokémon",
     "heightM": 1.2,
     "weightKg": 25,
@@ -39863,7 +39590,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Goldfish Pokémon",
     "heightM": 0.6,
     "weightKg": 15,
@@ -40010,7 +39736,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Goldfish Pokémon",
     "heightM": 1.3,
     "weightKg": 39,
@@ -40172,7 +39897,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Star Shape Pokémon",
     "heightM": 0.8,
     "weightKg": 34.5,
@@ -40315,7 +40039,6 @@
       "water",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Mysterious Pokémon",
     "heightM": 1.1,
     "weightKg": 80,
@@ -40484,7 +40207,6 @@
       "psychic",
       "fairy"
     ],
-    "obtainable": true,
     "genus": "Barrier Pokémon",
     "heightM": 1.3,
     "weightKg": 54.5,
@@ -40642,7 +40364,6 @@
       "bug",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Mantis Pokémon",
     "heightM": 1.5,
     "weightKg": 56,
@@ -40776,7 +40497,6 @@
       "ice",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Human Shape Pokémon",
     "heightM": 1.4,
     "weightKg": 40.6,
@@ -40924,7 +40644,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Electric Pokémon",
     "heightM": 1.1,
     "weightKg": 30,
@@ -41069,7 +40788,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Spitfire Pokémon",
     "heightM": 1.3,
     "weightKg": 44.5,
@@ -41209,7 +40927,6 @@
     "types": [
       "bug"
     ],
-    "obtainable": true,
     "genus": "Stag Beetle Pokémon",
     "heightM": 1.5,
     "weightKg": 55,
@@ -41332,7 +41049,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Wild Bull Pokémon",
     "heightM": 1.4,
     "weightKg": 88.4,
@@ -41470,7 +41186,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Fish Pokémon",
     "heightM": 0.9,
     "weightKg": 10,
@@ -41535,7 +41250,6 @@
       "water",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Atrocious Pokémon",
     "heightM": 6.5,
     "weightKg": 235,
@@ -41640,7 +41354,6 @@
       "water",
       "ice"
     ],
-    "obtainable": true,
     "genus": "Transport Pokémon",
     "heightM": 2.5,
     "weightKg": 220,
@@ -41780,7 +41493,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Transform Pokémon",
     "heightM": 0.3,
     "weightKg": 4,
@@ -41820,7 +41532,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Evolution Pokémon",
     "heightM": 0.3,
     "weightKg": 6.5,
@@ -41936,7 +41647,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Bubble Jet Pokémon",
     "heightM": 1,
     "weightKg": 29,
@@ -42054,7 +41764,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Lightning Pokémon",
     "heightM": 0.8,
     "weightKg": 24.5,
@@ -42172,7 +41881,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Flame Pokémon",
     "heightM": 0.9,
     "weightKg": 25,
@@ -42299,7 +42007,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Virtual Pokémon",
     "heightM": 0.8,
     "weightKg": 36.5,
@@ -42434,7 +42141,6 @@
       "rock",
       "water"
     ],
-    "obtainable": true,
     "genus": "Spiral Pokémon",
     "heightM": 0.4,
     "weightKg": 7.5,
@@ -42567,7 +42273,6 @@
       "rock",
       "water"
     ],
-    "obtainable": true,
     "genus": "Spiral Pokémon",
     "heightM": 1,
     "weightKg": 35,
@@ -42705,7 +42410,6 @@
       "rock",
       "water"
     ],
-    "obtainable": true,
     "genus": "Shellfish Pokémon",
     "heightM": 0.5,
     "weightKg": 11.5,
@@ -42838,7 +42542,6 @@
       "rock",
       "water"
     ],
-    "obtainable": true,
     "genus": "Shellfish Pokémon",
     "heightM": 1.3,
     "weightKg": 40.5,
@@ -42976,7 +42679,6 @@
       "rock",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Fossil Pokémon",
     "heightM": 1.8,
     "weightKg": 59,
@@ -43124,7 +42826,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Sleeping Pokémon",
     "heightM": 2.1,
     "weightKg": 460,
@@ -43281,7 +42982,6 @@
       "ice",
       "flying"
     ],
-    "obtainable": false,
     "genus": "Freeze Pokémon",
     "heightM": 1.7,
     "weightKg": 55.4,
@@ -43436,7 +43136,6 @@
       "electric",
       "flying"
     ],
-    "obtainable": false,
     "genus": "Electric Pokémon",
     "heightM": 1.6,
     "weightKg": 52.6,
@@ -43575,7 +43274,6 @@
       "fire",
       "flying"
     ],
-    "obtainable": false,
     "genus": "Flame Pokémon",
     "heightM": 2,
     "weightKg": 60,
@@ -43724,7 +43422,6 @@
     "types": [
       "dragon"
     ],
-    "obtainable": true,
     "genus": "Dragon Pokémon",
     "heightM": 1.8,
     "weightKg": 3.3,
@@ -43848,7 +43545,6 @@
     "types": [
       "dragon"
     ],
-    "obtainable": true,
     "genus": "Dragon Pokémon",
     "heightM": 4,
     "weightKg": 16.5,
@@ -43987,7 +43683,6 @@
       "dragon",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Dragon Pokémon",
     "heightM": 2.2,
     "weightKg": 210,
@@ -44146,7 +43841,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": false,
     "genus": "Genetic Pokémon",
     "heightM": 2,
     "weightKg": 122,
@@ -44294,7 +43988,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": false,
     "genus": "New Species Pokémon",
     "heightM": 0.4,
     "weightKg": 4,
@@ -44444,7 +44137,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Leaf Pokémon",
     "heightM": 0.9,
     "weightKg": 6.4,
@@ -44565,7 +44257,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Leaf Pokémon",
     "heightM": 1.2,
     "weightKg": 15.8,
@@ -44691,7 +44382,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Herb Pokémon",
     "heightM": 1.8,
     "weightKg": 100.5,
@@ -44851,7 +44541,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Fire Mouse Pokémon",
     "heightM": 0.5,
     "weightKg": 7.9,
@@ -44971,7 +44660,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Volcano Pokémon",
     "heightM": 0.9,
     "weightKg": 19,
@@ -45096,7 +44784,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Volcano Pokémon",
     "heightM": 1.7,
     "weightKg": 79.5,
@@ -45245,7 +44932,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Big Jaw Pokémon",
     "heightM": 0.6,
     "weightKg": 9.5,
@@ -45366,7 +45052,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Big Jaw Pokémon",
     "heightM": 1.1,
     "weightKg": 25,
@@ -45492,7 +45177,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Big Jaw Pokémon",
     "heightM": 2.3,
     "weightKg": 88.8,
@@ -45647,7 +45331,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Scout Pokémon",
     "heightM": 0.8,
     "weightKg": 6,
@@ -45789,7 +45472,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Long Body Pokémon",
     "heightM": 1.8,
     "weightKg": 32.5,
@@ -45957,7 +45639,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Owl Pokémon",
     "heightM": 0.7,
     "weightKg": 21.2,
@@ -46111,7 +45792,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Owl Pokémon",
     "heightM": 1.6,
     "weightKg": 40.8,
@@ -46285,7 +45965,6 @@
       "bug",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Five Star Pokémon",
     "heightM": 1,
     "weightKg": 10.8,
@@ -46447,7 +46126,6 @@
       "bug",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Five Star Pokémon",
     "heightM": 1.4,
     "weightKg": 35.6,
@@ -46621,7 +46299,6 @@
       "bug",
       "poison"
     ],
-    "obtainable": true,
     "genus": "String Spit Pokémon",
     "heightM": 0.5,
     "weightKg": 8.5,
@@ -46780,7 +46457,6 @@
       "bug",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Long Leg Pokémon",
     "heightM": 1.1,
     "weightKg": 33.5,
@@ -46949,7 +46625,6 @@
       "poison",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Bat Pokémon",
     "heightM": 1.8,
     "weightKg": 75,
@@ -47114,7 +46789,6 @@
       "water",
       "electric"
     ],
-    "obtainable": true,
     "genus": "Angler Pokémon",
     "heightM": 0.5,
     "weightKg": 12,
@@ -47255,7 +46929,6 @@
       "water",
       "electric"
     ],
-    "obtainable": true,
     "genus": "Light Pokémon",
     "heightM": 1.2,
     "weightKg": 22.5,
@@ -47415,7 +47088,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Tiny Mouse Pokémon",
     "heightM": 0.3,
     "weightKg": 2,
@@ -47493,7 +47165,6 @@
     "types": [
       "fairy"
     ],
-    "obtainable": true,
     "genus": "Star Shape Pokémon",
     "heightM": 0.3,
     "weightKg": 3,
@@ -47570,7 +47241,6 @@
       "normal",
       "fairy"
     ],
-    "obtainable": true,
     "genus": "Balloon Pokémon",
     "heightM": 0.3,
     "weightKg": 1,
@@ -47648,7 +47318,6 @@
     "types": [
       "fairy"
     ],
-    "obtainable": true,
     "genus": "Spike Ball Pokémon",
     "heightM": 0.3,
     "weightKg": 1.5,
@@ -47777,7 +47446,6 @@
       "fairy",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Happiness Pokémon",
     "heightM": 0.6,
     "weightKg": 3.2,
@@ -47917,7 +47585,6 @@
       "psychic",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Tiny Bird Pokémon",
     "heightM": 0.2,
     "weightKg": 2,
@@ -48080,7 +47747,6 @@
       "psychic",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Mystic Pokémon",
     "heightM": 1.5,
     "weightKg": 15,
@@ -48247,7 +47913,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Wool Pokémon",
     "heightM": 0.6,
     "weightKg": 7.8,
@@ -48389,7 +48054,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": false,
     "genus": "Wool Pokémon",
     "heightM": 0.8,
     "weightKg": 13.3,
@@ -48531,7 +48195,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Light Pokémon",
     "heightM": 1.4,
     "weightKg": 61.5,
@@ -48698,7 +48361,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Flower Pokémon",
     "heightM": 0.4,
     "weightKg": 5.8,
@@ -48869,7 +48531,6 @@
       "water",
       "fairy"
     ],
-    "obtainable": true,
     "genus": "Aqua Mouse Pokémon",
     "heightM": 0.4,
     "weightKg": 8.5,
@@ -49001,7 +48662,6 @@
       "water",
       "fairy"
     ],
-    "obtainable": true,
     "genus": "Aqua Rabbit Pokémon",
     "heightM": 0.8,
     "weightKg": 28.5,
@@ -49152,7 +48812,6 @@
     "types": [
       "rock"
     ],
-    "obtainable": true,
     "genus": "Imitation Pokémon",
     "heightM": 1.2,
     "weightKg": 38,
@@ -49302,7 +48961,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Frog Pokémon",
     "heightM": 1.1,
     "weightKg": 33.9,
@@ -49469,7 +49127,6 @@
       "grass",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Cottonweed Pokémon",
     "heightM": 0.4,
     "weightKg": 0.5,
@@ -49619,7 +49276,6 @@
       "grass",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Cottonweed Pokémon",
     "heightM": 0.6,
     "weightKg": 1,
@@ -49774,7 +49430,6 @@
       "grass",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Cottonweed Pokémon",
     "heightM": 0.8,
     "weightKg": 3,
@@ -49948,7 +49603,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Long Tail Pokémon",
     "heightM": 0.8,
     "weightKg": 11.5,
@@ -50078,7 +49732,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Seed Pokémon",
     "heightM": 0.3,
     "weightKg": 1.8,
@@ -50194,7 +49847,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Sun Pokémon",
     "heightM": 0.8,
     "weightKg": 8.5,
@@ -50350,7 +50002,6 @@
       "bug",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Clear Wing Pokémon",
     "heightM": 1.2,
     "weightKg": 38,
@@ -50511,7 +50162,6 @@
       "water",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Water Fish Pokémon",
     "heightM": 0.4,
     "weightKg": 8.5,
@@ -50644,7 +50294,6 @@
       "water",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Water Fish Pokémon",
     "heightM": 1.4,
     "weightKg": 75,
@@ -50805,7 +50454,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Sun Pokémon",
     "heightM": 0.9,
     "weightKg": 26.5,
@@ -50929,7 +50577,6 @@
     "types": [
       "dark"
     ],
-    "obtainable": true,
     "genus": "Moonlight Pokémon",
     "heightM": 1,
     "weightKg": 27,
@@ -51054,7 +50701,6 @@
       "dark",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Darkness Pokémon",
     "heightM": 0.5,
     "weightKg": 2.1,
@@ -51207,7 +50853,6 @@
       "water",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Royal Pokémon",
     "heightM": 2,
     "weightKg": 79.5,
@@ -51367,7 +51012,6 @@
     "types": [
       "ghost"
     ],
-    "obtainable": true,
     "genus": "Screech Pokémon",
     "heightM": 0.7,
     "weightKg": 1,
@@ -51516,7 +51160,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Symbol Pokémon",
     "heightM": 0.5,
     "weightKg": 5,
@@ -51577,7 +51220,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Patient Pokémon",
     "heightM": 1.3,
     "weightKg": 28.5,
@@ -51648,7 +51290,6 @@
       "normal",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Long Neck Pokémon",
     "heightM": 1.5,
     "weightKg": 41.5,
@@ -51800,7 +51441,6 @@
     "types": [
       "bug"
     ],
-    "obtainable": true,
     "genus": "Bagworm Pokémon",
     "heightM": 0.6,
     "weightKg": 7.2,
@@ -51931,7 +51571,6 @@
       "bug",
       "steel"
     ],
-    "obtainable": true,
     "genus": "Bagworm Pokémon",
     "heightM": 1.2,
     "weightKg": 125.8,
@@ -52092,7 +51731,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Land Snake Pokémon",
     "heightM": 1.5,
     "weightKg": 14,
@@ -52248,7 +51886,6 @@
       "ground",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Fly Scorpion Pokémon",
     "heightM": 1.1,
     "weightKg": 64.8,
@@ -52384,7 +52021,6 @@
       "steel",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Iron Snake Pokémon",
     "heightM": 9.2,
     "weightKg": 400,
@@ -52551,7 +52187,6 @@
     "types": [
       "fairy"
     ],
-    "obtainable": true,
     "genus": "Fairy Pokémon",
     "heightM": 0.6,
     "weightKg": 7.8,
@@ -52699,7 +52334,6 @@
     "types": [
       "fairy"
     ],
-    "obtainable": true,
     "genus": "Fairy Pokémon",
     "heightM": 1.4,
     "weightKg": 48.7,
@@ -52866,7 +52500,6 @@
       "water",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Balloon Pokémon",
     "heightM": 0.5,
     "weightKg": 3.9,
@@ -53025,7 +52658,6 @@
       "bug",
       "steel"
     ],
-    "obtainable": true,
     "genus": "Pincer Pokémon",
     "heightM": 1.8,
     "weightKg": 118,
@@ -53157,7 +52789,6 @@
       "bug",
       "rock"
     ],
-    "obtainable": true,
     "genus": "Mold Pokémon",
     "heightM": 0.6,
     "weightKg": 20.5,
@@ -53304,7 +52935,6 @@
       "bug",
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Single Horn Pokémon",
     "heightM": 1.5,
     "weightKg": 54,
@@ -53434,7 +53064,6 @@
       "dark",
       "ice"
     ],
-    "obtainable": true,
     "genus": "Sharp Claw Pokémon",
     "heightM": 0.9,
     "weightKg": 28,
@@ -53567,7 +53196,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Little Bear Pokémon",
     "heightM": 0.6,
     "weightKg": 8.8,
@@ -53700,7 +53328,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Hibernator Pokémon",
     "heightM": 1.8,
     "weightKg": 125.8,
@@ -53865,7 +53492,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Lava Pokémon",
     "heightM": 0.7,
     "weightKg": 35,
@@ -54018,7 +53644,6 @@
       "fire",
       "rock"
     ],
-    "obtainable": true,
     "genus": "Lava Pokémon",
     "heightM": 0.8,
     "weightKg": 55,
@@ -54184,7 +53809,6 @@
       "ice",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Pig Pokémon",
     "heightM": 0.4,
     "weightKg": 6.5,
@@ -54323,7 +53947,6 @@
       "ice",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Swine Pokémon",
     "heightM": 1.1,
     "weightKg": 55.8,
@@ -54477,7 +54100,6 @@
       "water",
       "rock"
     ],
-    "obtainable": true,
     "genus": "Coral Pokémon",
     "heightM": 0.6,
     "weightKg": 5,
@@ -54620,7 +54242,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Jet Pokémon",
     "heightM": 0.6,
     "weightKg": 12,
@@ -54756,7 +54377,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Jet Pokémon",
     "heightM": 0.9,
     "weightKg": 28.5,
@@ -54908,7 +54528,6 @@
       "ice",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Delivery Pokémon",
     "heightM": 0.9,
     "weightKg": 16,
@@ -55016,7 +54635,6 @@
       "water",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Kite Pokémon",
     "heightM": 2.1,
     "weightKg": 220,
@@ -55157,7 +54775,6 @@
       "steel",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Armor Bird Pokémon",
     "heightM": 1.7,
     "weightKg": 50.5,
@@ -55300,7 +54917,6 @@
       "dark",
       "fire"
     ],
-    "obtainable": true,
     "genus": "Dark Pokémon",
     "heightM": 0.6,
     "weightKg": 10.8,
@@ -55434,7 +55050,6 @@
       "dark",
       "fire"
     ],
-    "obtainable": true,
     "genus": "Dark Pokémon",
     "heightM": 1.4,
     "weightKg": 35,
@@ -55597,7 +55212,6 @@
       "water",
       "dragon"
     ],
-    "obtainable": true,
     "genus": "Dragon Pokémon",
     "heightM": 1.8,
     "weightKg": 152,
@@ -55719,7 +55333,6 @@
     "types": [
       "ground"
     ],
-    "obtainable": true,
     "genus": "Long Nose Pokémon",
     "heightM": 0.5,
     "weightKg": 33.5,
@@ -55849,7 +55462,6 @@
     "types": [
       "ground"
     ],
-    "obtainable": true,
     "genus": "Armor Pokémon",
     "heightM": 1.1,
     "weightKg": 120,
@@ -56004,7 +55616,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Virtual Pokémon",
     "heightM": 0.6,
     "weightKg": 32.5,
@@ -56138,7 +55749,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Big Horn Pokémon",
     "heightM": 1.4,
     "weightKg": 71.2,
@@ -56290,7 +55900,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Painter Pokémon",
     "heightM": 1.2,
     "weightKg": 58,
@@ -56385,7 +55994,6 @@
     "types": [
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Scuffle Pokémon",
     "heightM": 0.7,
     "weightKg": 21,
@@ -56458,7 +56066,6 @@
     "types": [
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Handstand Pokémon",
     "heightM": 1.4,
     "weightKg": 48,
@@ -56575,7 +56182,6 @@
       "ice",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Kiss Pokémon",
     "heightM": 0.4,
     "weightKg": 6,
@@ -56718,7 +56324,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Electric Pokémon",
     "heightM": 0.6,
     "weightKg": 23.5,
@@ -56861,7 +56466,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Live Coal Pokémon",
     "heightM": 0.7,
     "weightKg": 21.4,
@@ -56999,7 +56603,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Milk Cow Pokémon",
     "heightM": 1.2,
     "weightKg": 75.5,
@@ -57132,7 +56735,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Happiness Pokémon",
     "heightM": 1.5,
     "weightKg": 46.8,
@@ -57288,7 +56890,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": false,
     "genus": "Thunder Pokémon",
     "heightM": 1.9,
     "weightKg": 178,
@@ -57427,7 +57028,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": false,
     "genus": "Volcano Pokémon",
     "heightM": 2.1,
     "weightKg": 198,
@@ -57566,7 +57166,6 @@
     "types": [
       "water"
     ],
-    "obtainable": false,
     "genus": "Aurora Pokémon",
     "heightM": 2,
     "weightKg": 187,
@@ -57700,7 +57299,6 @@
       "rock",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Rock Skin Pokémon",
     "heightM": 0.6,
     "weightKg": 72,
@@ -57839,7 +57437,6 @@
       "rock",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Hard Shell Pokémon",
     "heightM": 1.2,
     "weightKg": 152,
@@ -57994,7 +57591,6 @@
       "rock",
       "dark"
     ],
-    "obtainable": true,
     "genus": "Armor Pokémon",
     "heightM": 2,
     "weightKg": 202,
@@ -58148,7 +57744,6 @@
       "psychic",
       "flying"
     ],
-    "obtainable": false,
     "genus": "Diving Pokémon",
     "heightM": 5.2,
     "weightKg": 216,
@@ -58287,7 +57882,6 @@
       "fire",
       "flying"
     ],
-    "obtainable": false,
     "genus": "Rainbow Pokémon",
     "heightM": 3.8,
     "weightKg": 199,
@@ -58426,7 +58020,6 @@
       "psychic",
       "grass"
     ],
-    "obtainable": false,
     "genus": "Time Travel Pokémon",
     "heightM": 0.6,
     "weightKg": 5,
@@ -58561,7 +58154,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Wood Gecko Pokémon",
     "heightM": 0.5,
     "weightKg": 5,
@@ -58682,7 +58274,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Wood Gecko Pokémon",
     "heightM": 0.9,
     "weightKg": 21.6,
@@ -58822,7 +58413,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Forest Pokémon",
     "heightM": 1.7,
     "weightKg": 52.2,
@@ -58987,7 +58577,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Chick Pokémon",
     "heightM": 0.4,
     "weightKg": 2.5,
@@ -59098,7 +58687,6 @@
       "fire",
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Young Fowl Pokémon",
     "heightM": 0.9,
     "weightKg": 19.5,
@@ -59239,7 +58827,6 @@
       "fire",
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Blaze Pokémon",
     "heightM": 1.9,
     "weightKg": 52,
@@ -59403,7 +58990,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Mud Fish Pokémon",
     "heightM": 0.4,
     "weightKg": 7.6,
@@ -59515,7 +59101,6 @@
       "water",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Mud Fish Pokémon",
     "heightM": 0.7,
     "weightKg": 28,
@@ -59647,7 +59232,6 @@
       "water",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Mud Fish Pokémon",
     "heightM": 1.5,
     "weightKg": 81.9,
@@ -59798,7 +59382,6 @@
     "types": [
       "dark"
     ],
-    "obtainable": true,
     "genus": "Bite Pokémon",
     "heightM": 0.5,
     "weightKg": 13.6,
@@ -59930,7 +59513,6 @@
     "types": [
       "dark"
     ],
-    "obtainable": true,
     "genus": "Bite Pokémon",
     "heightM": 1,
     "weightKg": 37,
@@ -60077,7 +59659,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Tiny Raccoon Pokémon",
     "heightM": 0.4,
     "weightKg": 17.5,
@@ -60203,7 +59784,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Rushing Pokémon",
     "heightM": 0.5,
     "weightKg": 32.5,
@@ -60358,7 +59938,6 @@
     "types": [
       "bug"
     ],
-    "obtainable": true,
     "genus": "Worm Pokémon",
     "heightM": 0.3,
     "weightKg": 3.6,
@@ -60421,7 +60000,6 @@
     "types": [
       "bug"
     ],
-    "obtainable": true,
     "genus": "Cocoon Pokémon",
     "heightM": 0.6,
     "weightKg": 10,
@@ -60492,7 +60070,6 @@
       "bug",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Butterfly Pokémon",
     "heightM": 1,
     "weightKg": 28.4,
@@ -60634,7 +60211,6 @@
     "types": [
       "bug"
     ],
-    "obtainable": true,
     "genus": "Cocoon Pokémon",
     "heightM": 0.7,
     "weightKg": 11.5,
@@ -60705,7 +60281,6 @@
       "bug",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Poison Moth Pokémon",
     "heightM": 1.2,
     "weightKg": 31.6,
@@ -60859,7 +60434,6 @@
       "water",
       "grass"
     ],
-    "obtainable": true,
     "genus": "Water Weed Pokémon",
     "heightM": 0.5,
     "weightKg": 2.6,
@@ -60972,7 +60546,6 @@
       "water",
       "grass"
     ],
-    "obtainable": true,
     "genus": "Jolly Pokémon",
     "heightM": 1.2,
     "weightKg": 32.5,
@@ -61090,7 +60663,6 @@
       "water",
       "grass"
     ],
-    "obtainable": true,
     "genus": "Carefree Pokémon",
     "heightM": 1.5,
     "weightKg": 55,
@@ -61256,7 +60828,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Acorn Pokémon",
     "heightM": 0.5,
     "weightKg": 4,
@@ -61369,7 +60940,6 @@
       "grass",
       "dark"
     ],
-    "obtainable": true,
     "genus": "Wily Pokémon",
     "heightM": 1,
     "weightKg": 28,
@@ -61504,7 +61074,6 @@
       "grass",
       "dark"
     ],
-    "obtainable": true,
     "genus": "Wicked Pokémon",
     "heightM": 1.3,
     "weightKg": 59.6,
@@ -61663,7 +61232,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": false,
     "genus": "Tiny Swallow Pokémon",
     "heightM": 0.3,
     "weightKg": 2.3,
@@ -61777,7 +61345,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Swallow Pokémon",
     "heightM": 0.7,
     "weightKg": 19.8,
@@ -61915,7 +61482,6 @@
       "water",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Seagull Pokémon",
     "heightM": 0.6,
     "weightKg": 9.5,
@@ -62030,7 +61596,6 @@
       "water",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Water Bird Pokémon",
     "heightM": 1.2,
     "weightKg": 28,
@@ -62194,7 +61759,6 @@
       "psychic",
       "fairy"
     ],
-    "obtainable": true,
     "genus": "Feeling Pokémon",
     "heightM": 0.4,
     "weightKg": 6.6,
@@ -62317,7 +61881,6 @@
       "psychic",
       "fairy"
     ],
-    "obtainable": true,
     "genus": "Emotion Pokémon",
     "heightM": 0.8,
     "weightKg": 20.2,
@@ -62454,7 +62017,6 @@
       "psychic",
       "fairy"
     ],
-    "obtainable": true,
     "genus": "Embrace Pokémon",
     "heightM": 1.6,
     "weightKg": 48.4,
@@ -62622,7 +62184,6 @@
       "bug",
       "water"
     ],
-    "obtainable": true,
     "genus": "Pond Skater Pokémon",
     "heightM": 0.5,
     "weightKg": 1.7,
@@ -62719,7 +62280,6 @@
       "bug",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Eyeball Pokémon",
     "heightM": 0.8,
     "weightKg": 3.6,
@@ -62849,7 +62409,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Mushroom Pokémon",
     "heightM": 0.4,
     "weightKg": 4.5,
@@ -62967,7 +62526,6 @@
       "grass",
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Mushroom Pokémon",
     "heightM": 1.2,
     "weightKg": 39.2,
@@ -63109,7 +62667,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Slacker Pokémon",
     "heightM": 0.8,
     "weightKg": 24,
@@ -63229,7 +62786,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Wild Monkey Pokémon",
     "heightM": 1.4,
     "weightKg": 46.5,
@@ -63378,7 +62934,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Lazy Pokémon",
     "heightM": 2,
     "weightKg": 130.5,
@@ -63529,7 +63084,6 @@
       "bug",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Trainee Pokémon",
     "heightM": 0.5,
     "weightKg": 5.5,
@@ -63625,7 +63179,6 @@
       "bug",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Ninja Pokémon",
     "heightM": 0.8,
     "weightKg": 12,
@@ -63761,7 +63314,6 @@
       "bug",
       "ghost"
     ],
-    "obtainable": true,
     "genus": "Shed Pokémon",
     "heightM": 0.8,
     "weightKg": 1.2,
@@ -63901,7 +63453,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Whisper Pokémon",
     "heightM": 0.6,
     "weightKg": 16.3,
@@ -64030,7 +63581,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Big Voice Pokémon",
     "heightM": 1,
     "weightKg": 40.5,
@@ -64189,7 +63739,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Loud Noise Pokémon",
     "heightM": 1.5,
     "weightKg": 84,
@@ -64357,7 +63906,6 @@
     "types": [
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Guts Pokémon",
     "heightM": 1,
     "weightKg": 86.4,
@@ -64503,7 +64051,6 @@
     "types": [
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Arm Thrust Pokémon",
     "heightM": 2.3,
     "weightKg": 253.8,
@@ -64660,7 +64207,6 @@
       "normal",
       "fairy"
     ],
-    "obtainable": true,
     "genus": "Polka Dot Pokémon",
     "heightM": 0.2,
     "weightKg": 2,
@@ -64741,7 +64287,6 @@
     "types": [
       "rock"
     ],
-    "obtainable": true,
     "genus": "Compass Pokémon",
     "heightM": 1,
     "weightKg": 97,
@@ -64876,7 +64421,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Kitten Pokémon",
     "heightM": 0.6,
     "weightKg": 11,
@@ -65039,7 +64583,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Prim Pokémon",
     "heightM": 1.1,
     "weightKg": 32.6,
@@ -65208,7 +64751,6 @@
       "dark",
       "ghost"
     ],
-    "obtainable": true,
     "genus": "Darkness Pokémon",
     "heightM": 0.5,
     "weightKg": 11,
@@ -65376,7 +64918,6 @@
       "steel",
       "fairy"
     ],
-    "obtainable": true,
     "genus": "Deceiver Pokémon",
     "heightM": 0.6,
     "weightKg": 11.5,
@@ -65545,7 +65086,6 @@
       "steel",
       "rock"
     ],
-    "obtainable": true,
     "genus": "Iron Armor Pokémon",
     "heightM": 0.4,
     "weightKg": 60,
@@ -65672,7 +65212,6 @@
       "steel",
       "rock"
     ],
-    "obtainable": true,
     "genus": "Iron Armor Pokémon",
     "heightM": 0.9,
     "weightKg": 120,
@@ -65804,7 +65343,6 @@
       "steel",
       "rock"
     ],
-    "obtainable": true,
     "genus": "Iron Armor Pokémon",
     "heightM": 2.1,
     "weightKg": 360,
@@ -65961,7 +65499,6 @@
       "fighting",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Meditate Pokémon",
     "heightM": 0.6,
     "weightKg": 11.2,
@@ -66102,7 +65639,6 @@
       "fighting",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Meditate Pokémon",
     "heightM": 1.3,
     "weightKg": 31.5,
@@ -66257,7 +65793,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Lightning Pokémon",
     "heightM": 0.6,
     "weightKg": 15.2,
@@ -66393,7 +65928,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Discharge Pokémon",
     "heightM": 1.5,
     "weightKg": 40.2,
@@ -66534,7 +66068,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Cheering Pokémon",
     "heightM": 0.4,
     "weightKg": 4.2,
@@ -66698,7 +66231,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Cheering Pokémon",
     "heightM": 0.4,
     "weightKg": 4.2,
@@ -66868,7 +66400,6 @@
     "types": [
       "bug"
     ],
-    "obtainable": true,
     "genus": "Firefly Pokémon",
     "heightM": 0.7,
     "weightKg": 17.7,
@@ -67027,7 +66558,6 @@
     "types": [
       "bug"
     ],
-    "obtainable": true,
     "genus": "Firefly Pokémon",
     "heightM": 0.6,
     "weightKg": 17.7,
@@ -67187,7 +66717,6 @@
       "grass",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Thorn Pokémon",
     "heightM": 0.3,
     "weightKg": 2,
@@ -67324,7 +66853,6 @@
     "types": [
       "poison"
     ],
-    "obtainable": true,
     "genus": "Stomach Pokémon",
     "heightM": 0.4,
     "weightKg": 10.3,
@@ -67450,7 +66978,6 @@
     "types": [
       "poison"
     ],
-    "obtainable": true,
     "genus": "Poison Bag Pokémon",
     "heightM": 1.7,
     "weightKg": 80,
@@ -67601,7 +67128,6 @@
       "water",
       "dark"
     ],
-    "obtainable": true,
     "genus": "Savage Pokémon",
     "heightM": 0.8,
     "weightKg": 20.8,
@@ -67725,7 +67251,6 @@
       "water",
       "dark"
     ],
-    "obtainable": true,
     "genus": "Brutal Pokémon",
     "heightM": 1.8,
     "weightKg": 88.8,
@@ -67873,7 +67398,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Ball Whale Pokémon",
     "heightM": 2,
     "weightKg": 130,
@@ -68005,7 +67529,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Float Whale Pokémon",
     "heightM": 14.5,
     "weightKg": 398,
@@ -68153,7 +67676,6 @@
       "fire",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Numb Pokémon",
     "heightM": 0.7,
     "weightKg": 24,
@@ -68280,7 +67802,6 @@
       "fire",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Eruption Pokémon",
     "heightM": 1.9,
     "weightKg": 220,
@@ -68440,7 +67961,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Coal Pokémon",
     "heightM": 0.5,
     "weightKg": 80.4,
@@ -68568,7 +68088,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Bounce Pokémon",
     "heightM": 0.7,
     "weightKg": 30.6,
@@ -68704,7 +68223,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Manipulate Pokémon",
     "heightM": 0.9,
     "weightKg": 71.5,
@@ -68869,7 +68387,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Spot Panda Pokémon",
     "heightM": 1.1,
     "weightKg": 5,
@@ -69023,7 +68540,6 @@
     "types": [
       "ground"
     ],
-    "obtainable": true,
     "genus": "Ant Pit Pokémon",
     "heightM": 0.7,
     "weightKg": 15,
@@ -69158,7 +68674,6 @@
       "ground",
       "dragon"
     ],
-    "obtainable": true,
     "genus": "Vibration Pokémon",
     "heightM": 1.1,
     "weightKg": 15.3,
@@ -69309,7 +68824,6 @@
       "ground",
       "dragon"
     ],
-    "obtainable": true,
     "genus": "Mystic Pokémon",
     "heightM": 2,
     "weightKg": 82,
@@ -69474,7 +68988,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Cactus Pokémon",
     "heightM": 0.4,
     "weightKg": 51.3,
@@ -69599,7 +69112,6 @@
       "grass",
       "dark"
     ],
-    "obtainable": true,
     "genus": "Scarecrow Pokémon",
     "heightM": 1.3,
     "weightKg": 77.4,
@@ -69758,7 +69270,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Cotton Bird Pokémon",
     "heightM": 0.4,
     "weightKg": 1.2,
@@ -69883,7 +69394,6 @@
       "dragon",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Humming Pokémon",
     "heightM": 1.1,
     "weightKg": 20.6,
@@ -70046,7 +69556,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Cat Ferret Pokémon",
     "heightM": 1.3,
     "weightKg": 40.3,
@@ -70188,7 +69697,6 @@
     "types": [
       "poison"
     ],
-    "obtainable": true,
     "genus": "Fang Snake Pokémon",
     "heightM": 2.7,
     "weightKg": 52.5,
@@ -70332,7 +69840,6 @@
       "rock",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Meteorite Pokémon",
     "heightM": 1,
     "weightKg": 168,
@@ -70492,7 +69999,6 @@
       "rock",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Meteorite Pokémon",
     "heightM": 1.2,
     "weightKg": 154,
@@ -70652,7 +70158,6 @@
       "water",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Whiskers Pokémon",
     "heightM": 0.4,
     "weightKg": 1.9,
@@ -70786,7 +70291,6 @@
       "water",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Whiskers Pokémon",
     "heightM": 0.9,
     "weightKg": 23.6,
@@ -70933,7 +70437,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Ruffian Pokémon",
     "heightM": 0.6,
     "weightKg": 11.5,
@@ -71058,7 +70561,6 @@
       "water",
       "dark"
     ],
-    "obtainable": true,
     "genus": "Rogue Pokémon",
     "heightM": 1.1,
     "weightKg": 32.8,
@@ -71193,7 +70695,6 @@
       "ground",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Clay Doll Pokémon",
     "heightM": 0.5,
     "weightKg": 21.5,
@@ -71324,7 +70825,6 @@
       "ground",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Clay Doll Pokémon",
     "heightM": 1.5,
     "weightKg": 108,
@@ -71475,7 +70975,6 @@
       "rock",
       "grass"
     ],
-    "obtainable": true,
     "genus": "Sea Lily Pokémon",
     "heightM": 1,
     "weightKg": 23.8,
@@ -71615,7 +71114,6 @@
       "rock",
       "grass"
     ],
-    "obtainable": true,
     "genus": "Barnacle Pokémon",
     "heightM": 1.5,
     "weightKg": 60.4,
@@ -71765,7 +71263,6 @@
       "rock",
       "bug"
     ],
-    "obtainable": true,
     "genus": "Old Shrimp Pokémon",
     "heightM": 0.7,
     "weightKg": 12.5,
@@ -71889,7 +71386,6 @@
       "rock",
       "bug"
     ],
-    "obtainable": true,
     "genus": "Plate Pokémon",
     "heightM": 1.5,
     "weightKg": 68.2,
@@ -72027,7 +71523,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Fish Pokémon",
     "heightM": 0.6,
     "weightKg": 7.4,
@@ -72093,7 +71588,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Tender Pokémon",
     "heightM": 6.2,
     "weightKg": 162,
@@ -72223,7 +71717,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Weather Pokémon",
     "heightM": 0.3,
     "weightKg": 0.8,
@@ -72376,7 +71869,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Color Swap Pokémon",
     "heightM": 1,
     "weightKg": 22,
@@ -72540,7 +72032,6 @@
     "types": [
       "ghost"
     ],
-    "obtainable": true,
     "genus": "Puppet Pokémon",
     "heightM": 0.6,
     "weightKg": 2.3,
@@ -72668,7 +72159,6 @@
     "types": [
       "ghost"
     ],
-    "obtainable": true,
     "genus": "Marionette Pokémon",
     "heightM": 1.1,
     "weightKg": 12.5,
@@ -72830,7 +72320,6 @@
     "types": [
       "ghost"
     ],
-    "obtainable": true,
     "genus": "Requiem Pokémon",
     "heightM": 0.8,
     "weightKg": 15,
@@ -72955,7 +72444,6 @@
     "types": [
       "ghost"
     ],
-    "obtainable": true,
     "genus": "Beckon Pokémon",
     "heightM": 1.6,
     "weightKg": 30.6,
@@ -73106,7 +72594,6 @@
       "grass",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Fruit Pokémon",
     "heightM": 2,
     "weightKg": 100,
@@ -73254,7 +72741,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Wind Chime Pokémon",
     "heightM": 0.6,
     "weightKg": 1,
@@ -73404,7 +72890,6 @@
     "types": [
       "dark"
     ],
-    "obtainable": true,
     "genus": "Disaster Pokémon",
     "heightM": 1.2,
     "weightKg": 47,
@@ -73549,7 +73034,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Bright Pokémon",
     "heightM": 0.6,
     "weightKg": 14,
@@ -73619,7 +73103,6 @@
     "types": [
       "ice"
     ],
-    "obtainable": true,
     "genus": "Snow Hat Pokémon",
     "heightM": 0.7,
     "weightKg": 16.8,
@@ -73743,7 +73226,6 @@
     "types": [
       "ice"
     ],
-    "obtainable": true,
     "genus": "Face Pokémon",
     "heightM": 1.5,
     "weightKg": 256.5,
@@ -73911,7 +73393,6 @@
       "ice",
       "water"
     ],
-    "obtainable": true,
     "genus": "Clap Pokémon",
     "heightM": 0.8,
     "weightKg": 39.5,
@@ -74054,7 +73535,6 @@
       "ice",
       "water"
     ],
-    "obtainable": true,
     "genus": "Ball Roll Pokémon",
     "heightM": 1.1,
     "weightKg": 87.6,
@@ -74197,7 +73677,6 @@
       "ice",
       "water"
     ],
-    "obtainable": true,
     "genus": "Ice Break Pokémon",
     "heightM": 1.4,
     "weightKg": 150.6,
@@ -74354,7 +73833,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Bivalve Pokémon",
     "heightM": 0.4,
     "weightKg": 52.5,
@@ -74449,7 +73927,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Deep Sea Pokémon",
     "heightM": 1.7,
     "weightKg": 27,
@@ -74576,7 +74053,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "South Sea Pokémon",
     "heightM": 1.8,
     "weightKg": 22.6,
@@ -74710,7 +74186,6 @@
       "water",
       "rock"
     ],
-    "obtainable": true,
     "genus": "Longevity Pokémon",
     "heightM": 1,
     "weightKg": 23.4,
@@ -74856,7 +74331,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Rendezvous Pokémon",
     "heightM": 0.6,
     "weightKg": 8.7,
@@ -74985,7 +74459,6 @@
     "types": [
       "dragon"
     ],
-    "obtainable": true,
     "genus": "Rock Head Pokémon",
     "heightM": 0.6,
     "weightKg": 42.1,
@@ -75113,7 +74586,6 @@
     "types": [
       "dragon"
     ],
-    "obtainable": true,
     "genus": "Endurance Pokémon",
     "heightM": 1.1,
     "weightKg": 110.5,
@@ -75261,7 +74733,6 @@
       "dragon",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Dragon Pokémon",
     "heightM": 1.5,
     "weightKg": 102.6,
@@ -75425,7 +74896,6 @@
       "steel",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Iron Ball Pokémon",
     "heightM": 0.6,
     "weightKg": 95.2,
@@ -75476,7 +74946,6 @@
       "steel",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Iron Claw Pokémon",
     "heightM": 1.2,
     "weightKg": 202.5,
@@ -75611,7 +75080,6 @@
       "steel",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Iron Leg Pokémon",
     "heightM": 1.6,
     "weightKg": 550,
@@ -75746,7 +75214,6 @@
     "types": [
       "rock"
     ],
-    "obtainable": false,
     "genus": "Rock Peak Pokémon",
     "heightM": 1.7,
     "weightKg": 230,
@@ -75869,7 +75336,6 @@
     "types": [
       "ice"
     ],
-    "obtainable": false,
     "genus": "Iceberg Pokémon",
     "heightM": 1.8,
     "weightKg": 175,
@@ -75992,7 +75458,6 @@
     "types": [
       "steel"
     ],
-    "obtainable": false,
     "genus": "Iron Pokémon",
     "heightM": 1.9,
     "weightKg": 205,
@@ -76131,7 +75596,6 @@
       "dragon",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Eon Pokémon",
     "heightM": 1.4,
     "weightKg": 40,
@@ -76272,7 +75736,6 @@
       "dragon",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Eon Pokémon",
     "heightM": 2,
     "weightKg": 60,
@@ -76412,7 +75875,6 @@
     "types": [
       "water"
     ],
-    "obtainable": false,
     "genus": "Sea Basin Pokémon",
     "heightM": 4.5,
     "weightKg": 352,
@@ -76542,7 +76004,6 @@
     "types": [
       "ground"
     ],
-    "obtainable": false,
     "genus": "Continent Pokémon",
     "heightM": 3.5,
     "weightKg": 950,
@@ -76673,7 +76134,6 @@
       "dragon",
       "flying"
     ],
-    "obtainable": false,
     "genus": "Sky High Pokémon",
     "heightM": 7,
     "weightKg": 206.5,
@@ -76804,7 +76264,6 @@
       "steel",
       "psychic"
     ],
-    "obtainable": false,
     "genus": "Wish Pokémon",
     "heightM": 0.3,
     "weightKg": 1.1,
@@ -76944,7 +76403,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": false,
     "genus": "DNA Pokémon",
     "heightM": 1.7,
     "weightKg": 60.8,
@@ -77092,7 +76550,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Tiny Leaf Pokémon",
     "heightM": 0.4,
     "weightKg": 10.2,
@@ -77213,7 +76670,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Grove Pokémon",
     "heightM": 1.1,
     "weightKg": 97,
@@ -77346,7 +76802,6 @@
       "grass",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Continent Pokémon",
     "heightM": 2.2,
     "weightKg": 310,
@@ -77501,7 +76956,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Chimp Pokémon",
     "heightM": 0.5,
     "weightKg": 6.2,
@@ -77628,7 +77082,6 @@
       "fire",
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Playful Pokémon",
     "heightM": 0.9,
     "weightKg": 22,
@@ -77770,7 +77223,6 @@
       "fire",
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Flame Pokémon",
     "heightM": 1.2,
     "weightKg": 55,
@@ -77930,7 +77382,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Penguin Pokémon",
     "heightM": 0.4,
     "weightKg": 5.2,
@@ -78047,7 +77498,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Penguin Pokémon",
     "heightM": 0.8,
     "weightKg": 23,
@@ -78175,7 +77625,6 @@
       "water",
       "steel"
     ],
-    "obtainable": true,
     "genus": "Emperor Pokémon",
     "heightM": 1.7,
     "weightKg": 84.5,
@@ -78332,7 +77781,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Starling Pokémon",
     "heightM": 0.3,
     "weightKg": 2,
@@ -78448,7 +77896,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Starling Pokémon",
     "heightM": 0.6,
     "weightKg": 15.5,
@@ -78564,7 +78011,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Predator Pokémon",
     "heightM": 1.2,
     "weightKg": 24.9,
@@ -78689,7 +78135,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Plump Mouse Pokémon",
     "heightM": 0.5,
     "weightKg": 20,
@@ -78792,7 +78237,6 @@
       "normal",
       "water"
     ],
-    "obtainable": true,
     "genus": "Beaver Pokémon",
     "heightM": 1,
     "weightKg": 31.5,
@@ -78934,7 +78378,6 @@
     "types": [
       "bug"
     ],
-    "obtainable": true,
     "genus": "Cricket Pokémon",
     "heightM": 0.3,
     "weightKg": 2.2,
@@ -78997,7 +78440,6 @@
     "types": [
       "bug"
     ],
-    "obtainable": true,
     "genus": "Cricket Pokémon",
     "heightM": 1,
     "weightKg": 25.5,
@@ -79149,7 +78591,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Flash Pokémon",
     "heightM": 0.5,
     "weightKg": 9.5,
@@ -79282,7 +78723,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Spark Pokémon",
     "heightM": 0.9,
     "weightKg": 30.5,
@@ -79415,7 +78855,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Gleam Eyes Pokémon",
     "heightM": 1.4,
     "weightKg": 42,
@@ -79578,7 +79017,6 @@
       "grass",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Bud Pokémon",
     "heightM": 0.2,
     "weightKg": 1.2,
@@ -79655,7 +79093,6 @@
       "grass",
       "poison"
     ],
-    "obtainable": true,
     "genus": "Bouquet Pokémon",
     "heightM": 0.9,
     "weightKg": 14.5,
@@ -79834,7 +79271,6 @@
     "types": [
       "rock"
     ],
-    "obtainable": true,
     "genus": "Head Butt Pokémon",
     "heightM": 0.9,
     "weightKg": 31.5,
@@ -79962,7 +79398,6 @@
     "types": [
       "rock"
     ],
-    "obtainable": true,
     "genus": "Head Butt Pokémon",
     "heightM": 1.6,
     "weightKg": 102.5,
@@ -80106,7 +79541,6 @@
       "rock",
       "steel"
     ],
-    "obtainable": true,
     "genus": "Shield Pokémon",
     "heightM": 0.5,
     "weightKg": 57,
@@ -80232,7 +79666,6 @@
       "rock",
       "steel"
     ],
-    "obtainable": true,
     "genus": "Shield Pokémon",
     "heightM": 1.3,
     "weightKg": 149.5,
@@ -80381,7 +79814,6 @@
     "types": [
       "bug"
     ],
-    "obtainable": true,
     "genus": "Bagworm Pokémon",
     "heightM": 0.2,
     "weightKg": 3.4,
@@ -80445,7 +79877,6 @@
       "bug",
       "grass"
     ],
-    "obtainable": true,
     "genus": "Bagworm Pokémon",
     "heightM": 0.5,
     "weightKg": 6.5,
@@ -80749,7 +80180,6 @@
       "bug",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Moth Pokémon",
     "heightM": 0.9,
     "weightKg": 23.3,
@@ -80882,7 +80312,6 @@
       "bug",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Tiny Bee Pokémon",
     "heightM": 0.3,
     "weightKg": 5.5,
@@ -80948,7 +80377,6 @@
       "bug",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Beehive Pokémon",
     "heightM": 1.2,
     "weightKg": 38.5,
@@ -81092,7 +80520,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "EleSquirrel Pokémon",
     "heightM": 0.4,
     "weightKg": 3.9,
@@ -81251,7 +80678,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Sea Weasel Pokémon",
     "heightM": 0.7,
     "weightKg": 29.5,
@@ -81375,7 +80801,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Sea Weasel Pokémon",
     "heightM": 1.1,
     "weightKg": 33.5,
@@ -81528,7 +80953,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Cherry Pokémon",
     "heightM": 0.4,
     "weightKg": 3.3,
@@ -81639,7 +81063,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Blossom Pokémon",
     "heightM": 0.5,
     "weightKg": 9.3,
@@ -81774,7 +81197,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Sea Slug Pokémon",
     "heightM": 0.3,
     "weightKg": 6.3,
@@ -81892,7 +81314,6 @@
       "water",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Sea Slug Pokémon",
     "heightM": 0.9,
     "weightKg": 29.9,
@@ -82024,7 +81445,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Long Tail Pokémon",
     "heightM": 1.2,
     "weightKg": 20.3,
@@ -82180,7 +81600,6 @@
       "ghost",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Balloon Pokémon",
     "heightM": 0.4,
     "weightKg": 1.2,
@@ -82312,7 +81731,6 @@
       "ghost",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Blimp Pokémon",
     "heightM": 1.2,
     "weightKg": 15,
@@ -82463,7 +81881,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Rabbit Pokémon",
     "heightM": 0.4,
     "weightKg": 5.5,
@@ -82607,7 +82024,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Rabbit Pokémon",
     "heightM": 1.2,
     "weightKg": 33.3,
@@ -82770,7 +82186,6 @@
     "types": [
       "ghost"
     ],
-    "obtainable": true,
     "genus": "Magical Pokémon",
     "heightM": 0.9,
     "weightKg": 4.4,
@@ -82935,7 +82350,6 @@
       "dark",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Big Boss Pokémon",
     "heightM": 0.9,
     "weightKg": 27.3,
@@ -83102,7 +82516,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Catty Pokémon",
     "heightM": 0.5,
     "weightKg": 3.9,
@@ -83234,7 +82647,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Tiger Cat Pokémon",
     "heightM": 1,
     "weightKg": 43.8,
@@ -83386,7 +82798,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Bell Pokémon",
     "heightM": 0.2,
     "weightKg": 0.6,
@@ -83467,7 +82878,6 @@
       "poison",
       "dark"
     ],
-    "obtainable": true,
     "genus": "Skunk Pokémon",
     "heightM": 0.4,
     "weightKg": 19.2,
@@ -83608,7 +83018,6 @@
       "poison",
       "dark"
     ],
-    "obtainable": true,
     "genus": "Skunk Pokémon",
     "heightM": 1,
     "weightKg": 38,
@@ -83769,7 +83178,6 @@
       "steel",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Bronze Pokémon",
     "heightM": 0.5,
     "weightKg": 60.5,
@@ -83896,7 +83304,6 @@
       "steel",
       "psychic"
     ],
-    "obtainable": true,
     "genus": "Bronze Bell Pokémon",
     "heightM": 1.3,
     "weightKg": 187,
@@ -84042,7 +83449,6 @@
     "types": [
       "rock"
     ],
-    "obtainable": true,
     "genus": "Bonsai Pokémon",
     "heightM": 0.5,
     "weightKg": 15,
@@ -84169,7 +83575,6 @@
       "psychic",
       "fairy"
     ],
-    "obtainable": false,
     "genus": "Mime Pokémon",
     "heightM": 0.6,
     "weightKg": 13,
@@ -84282,7 +83687,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Playhouse Pokémon",
     "heightM": 0.6,
     "weightKg": 24.4,
@@ -84349,7 +83753,6 @@
       "normal",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Music Note Pokémon",
     "heightM": 0.5,
     "weightKg": 1.9,
@@ -84501,7 +83904,6 @@
       "ghost",
       "dark"
     ],
-    "obtainable": true,
     "genus": "Forbidden Pokémon",
     "heightM": 1,
     "weightKg": 108,
@@ -84637,7 +84039,6 @@
       "dragon",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Land Shark Pokémon",
     "heightM": 0.7,
     "weightKg": 20.5,
@@ -84762,7 +84163,6 @@
       "dragon",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Cave Pokémon",
     "heightM": 1.4,
     "weightKg": 56,
@@ -84907,7 +84307,6 @@
       "dragon",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Mach Pokémon",
     "heightM": 1.9,
     "weightKg": 95,
@@ -85061,7 +84460,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Big Eater Pokémon",
     "heightM": 0.6,
     "weightKg": 105,
@@ -85202,7 +84600,6 @@
     "types": [
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Emanation Pokémon",
     "heightM": 0.7,
     "weightKg": 20.2,
@@ -85321,7 +84718,6 @@
       "fighting",
       "steel"
     ],
-    "obtainable": true,
     "genus": "Aura Pokémon",
     "heightM": 1.2,
     "weightKg": 54,
@@ -85470,7 +84866,6 @@
     "types": [
       "ground"
     ],
-    "obtainable": true,
     "genus": "Hippo Pokémon",
     "heightM": 0.8,
     "weightKg": 49.5,
@@ -85603,7 +84998,6 @@
     "types": [
       "ground"
     ],
-    "obtainable": true,
     "genus": "Heavyweight Pokémon",
     "heightM": 2,
     "weightKg": 300,
@@ -85757,7 +85151,6 @@
       "poison",
       "bug"
     ],
-    "obtainable": true,
     "genus": "Scorpion Pokémon",
     "heightM": 0.8,
     "weightKg": 12,
@@ -85885,7 +85278,6 @@
       "poison",
       "dark"
     ],
-    "obtainable": true,
     "genus": "Ogre Scorpion Pokémon",
     "heightM": 1.3,
     "weightKg": 61.5,
@@ -86049,7 +85441,6 @@
       "poison",
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Toxic Mouth Pokémon",
     "heightM": 0.7,
     "weightKg": 23,
@@ -86173,7 +85564,6 @@
       "poison",
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Toxic Mouth Pokémon",
     "heightM": 1.3,
     "weightKg": 44.4,
@@ -86326,7 +85716,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Bug Catcher Pokémon",
     "heightM": 1.4,
     "weightKg": 27,
@@ -86465,7 +85854,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Wing Fish Pokémon",
     "heightM": 0.4,
     "weightKg": 7,
@@ -86586,7 +85974,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Neon Pokémon",
     "heightM": 1.2,
     "weightKg": 24,
@@ -86738,7 +86125,6 @@
       "water",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Kite Pokémon",
     "heightM": 1,
     "weightKg": 65,
@@ -86860,7 +86246,6 @@
       "grass",
       "ice"
     ],
-    "obtainable": true,
     "genus": "Frost Tree Pokémon",
     "heightM": 1,
     "weightKg": 50.5,
@@ -86992,7 +86377,6 @@
       "grass",
       "ice"
     ],
-    "obtainable": true,
     "genus": "Frost Tree Pokémon",
     "heightM": 2.2,
     "weightKg": 135.5,
@@ -87146,7 +86530,6 @@
       "dark",
       "ice"
     ],
-    "obtainable": true,
     "genus": "Sharp Claw Pokémon",
     "heightM": 1.1,
     "weightKg": 34,
@@ -87287,7 +86670,6 @@
       "electric",
       "steel"
     ],
-    "obtainable": true,
     "genus": "Magnet Area Pokémon",
     "heightM": 1.2,
     "weightKg": 180,
@@ -87435,7 +86817,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Licking Pokémon",
     "heightM": 1.7,
     "weightKg": 140,
@@ -87576,7 +86957,6 @@
       "ground",
       "rock"
     ],
-    "obtainable": true,
     "genus": "Drill Pokémon",
     "heightM": 2.4,
     "weightKg": 282.8,
@@ -87728,7 +87108,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Vine Pokémon",
     "heightM": 2,
     "weightKg": 128.6,
@@ -87861,7 +87240,6 @@
     "types": [
       "electric"
     ],
-    "obtainable": true,
     "genus": "Thunderbolt Pokémon",
     "heightM": 1.8,
     "weightKg": 138.6,
@@ -88009,7 +87387,6 @@
     "types": [
       "fire"
     ],
-    "obtainable": true,
     "genus": "Blast Pokémon",
     "heightM": 1.6,
     "weightKg": 68,
@@ -88153,7 +87530,6 @@
       "fairy",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Jubilee Pokémon",
     "heightM": 1.5,
     "weightKg": 38,
@@ -88308,7 +87684,6 @@
       "bug",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Ogre Darner Pokémon",
     "heightM": 1.9,
     "weightKg": 51.5,
@@ -88459,7 +87834,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": true,
     "genus": "Verdant Pokémon",
     "heightM": 1,
     "weightKg": 25.5,
@@ -88577,7 +87951,6 @@
     "types": [
       "ice"
     ],
-    "obtainable": true,
     "genus": "Fresh Snow Pokémon",
     "heightM": 0.8,
     "weightKg": 25.9,
@@ -88703,7 +88076,6 @@
       "ground",
       "flying"
     ],
-    "obtainable": true,
     "genus": "Fang Scorpion Pokémon",
     "heightM": 2,
     "weightKg": 42.5,
@@ -88852,7 +88224,6 @@
       "ice",
       "ground"
     ],
-    "obtainable": true,
     "genus": "Twin Tusk Pokémon",
     "heightM": 2.5,
     "weightKg": 291,
@@ -89005,7 +88376,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": true,
     "genus": "Virtual Pokémon",
     "heightM": 0.9,
     "weightKg": 34,
@@ -89143,7 +88513,6 @@
       "psychic",
       "fighting"
     ],
-    "obtainable": true,
     "genus": "Blade Pokémon",
     "heightM": 1.6,
     "weightKg": 52,
@@ -89302,7 +88671,6 @@
       "rock",
       "steel"
     ],
-    "obtainable": true,
     "genus": "Compass Pokémon",
     "heightM": 1.4,
     "weightKg": 340,
@@ -89442,7 +88810,6 @@
     "types": [
       "ghost"
     ],
-    "obtainable": true,
     "genus": "Gripper Pokémon",
     "heightM": 2.2,
     "weightKg": 106.6,
@@ -89602,7 +88969,6 @@
       "ice",
       "ghost"
     ],
-    "obtainable": true,
     "genus": "Snow Land Pokémon",
     "heightM": 1.3,
     "weightKg": 26.6,
@@ -89762,7 +89128,6 @@
       "electric",
       "ghost"
     ],
-    "obtainable": false,
     "genus": "Plasma Pokémon",
     "heightM": 0.3,
     "weightKg": 0.3,
@@ -89907,7 +89272,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": false,
     "genus": "Knowledge Pokémon",
     "heightM": 0.3,
     "weightKg": 0.3,
@@ -90032,7 +89396,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": false,
     "genus": "Emotion Pokémon",
     "heightM": 0.3,
     "weightKg": 0.3,
@@ -90157,7 +89520,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": false,
     "genus": "Willpower Pokémon",
     "heightM": 0.3,
     "weightKg": 0.3,
@@ -90283,7 +89645,6 @@
       "steel",
       "dragon"
     ],
-    "obtainable": false,
     "genus": "Temporal Pokémon",
     "heightM": 5.4,
     "weightKg": 683,
@@ -90407,7 +89768,6 @@
       "water",
       "dragon"
     ],
-    "obtainable": false,
     "genus": "Spatial Pokémon",
     "heightM": 4.2,
     "weightKg": 336,
@@ -90531,7 +89891,6 @@
       "fire",
       "steel"
     ],
-    "obtainable": false,
     "genus": "Lava Dome Pokémon",
     "heightM": 1.7,
     "weightKg": 430,
@@ -90654,7 +90013,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": false,
     "genus": "Colossal Pokémon",
     "heightM": 3.7,
     "weightKg": 420,
@@ -90809,7 +90167,6 @@
       "ghost",
       "dragon"
     ],
-    "obtainable": false,
     "genus": "Renegade Pokémon",
     "heightM": 4.5,
     "weightKg": 750,
@@ -90935,7 +90292,6 @@
     "types": [
       "psychic"
     ],
-    "obtainable": false,
     "genus": "Lunar Pokémon",
     "heightM": 1.5,
     "weightKg": 85.6,
@@ -91070,7 +90426,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Sea Drifter Pokémon",
     "heightM": 0.4,
     "weightKg": 3.1,
@@ -91176,7 +90531,6 @@
     "types": [
       "water"
     ],
-    "obtainable": true,
     "genus": "Seafaring Pokémon",
     "heightM": 0.3,
     "weightKg": 1.4,
@@ -91317,7 +90671,6 @@
     "types": [
       "dark"
     ],
-    "obtainable": false,
     "genus": "Pitch-Black Pokémon",
     "heightM": 1.5,
     "weightKg": 50.5,
@@ -91457,7 +90810,6 @@
     "types": [
       "grass"
     ],
-    "obtainable": false,
     "genus": "Gratitude Pokémon",
     "heightM": 0.2,
     "weightKg": 2.1,
@@ -91607,7 +90959,6 @@
     "types": [
       "normal"
     ],
-    "obtainable": false,
     "genus": "Alpha Pokémon",
     "heightM": 3.2,
     "weightKg": 320,

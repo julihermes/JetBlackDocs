@@ -228,7 +228,6 @@ export function parseStatsAndLearnsets(file: SourceFile): PokemonEntry[] {
       dexNumber,
       name,
       types: [], // filled in from static reference data — see pipeline/vanilla-data.ts
-      obtainable: true, // recomputed once every dataset is available — see pipeline/obtainability.ts
       genus: "", // vanilla species info filled in from static reference data — see pipeline/vanilla-data.ts
       heightM: 0,
       weightKg: 0,
