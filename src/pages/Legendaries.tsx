@@ -81,14 +81,25 @@ export function Legendaries() {
             );
           })}
 
-          {state.data.asides.length > 0 && (
+          {/* Both of the doc's trailing paragraphs are about this quest chain:
+              the Obelisks themselves, and the Enigma Stone that unlocks the
+              Gen 1-4 half of them. They are the section's explanation. */}
+          {(state.data.obelisks.length > 0 || state.data.asides.length > 0) && (
             <div>
-              <p className="section-title">Everything else</p>
+              <p className="section-title">Relic Castle Obelisks</p>
               {state.data.asides.map((text, i) => (
                 <p className={styles.aside} key={i}>
                   {text}
                 </p>
               ))}
+              <div className={styles.obeliskGrid}>
+                {state.data.obelisks.map((o) => (
+                  <Link key={o.dexNumber} href={`/pokedex/${encodeURIComponent(o.name.toLowerCase())}`} className={styles.obelisk}>
+                    <img src={spriteUrl(o.dexNumber)} alt="" className={styles.obeliskSprite} loading="lazy" />
+                    <span className={styles.obeliskName}>{o.name}</span>
+                  </Link>
+                ))}
+              </div>
             </div>
           )}
         </>

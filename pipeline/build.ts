@@ -4,6 +4,7 @@ import { findBySignature, loadSourceFiles, type SourceFile } from "./lib/source.
 import { parseFeatures } from "./parsers/features.ts";
 import { parseEvolutions } from "./parsers/evolutions.ts";
 import { parseLegendaries } from "./parsers/legendaries.ts";
+import { buildObeliskList } from "./obelisks.ts";
 import { parseMoveChanges } from "./parsers/move-changes.ts";
 import { parseItems } from "./parsers/items.ts";
 import { parseChangelog } from "./parsers/changelog.ts";
@@ -122,6 +123,12 @@ function main() {
     summary.push(`evolution-lookup: ${Object.keys(evolutionLookup).length} species indexed`);
   }
 
+
+  if (pokemon && legendaries) {
+    legendaries.obelisks = buildObeliskList(pokemon, legendaries.entries);
+    writeJson("legendaries", legendaries);
+    summary.push(`obelisk legendaries: ${legendaries.obelisks.length}`);
+  }
 
   if (pokemon) {
     const tms = buildTmCompatibility(pokemon);

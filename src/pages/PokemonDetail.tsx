@@ -8,7 +8,7 @@ import { DataError, EmptyState } from "../components/DataState";
 import { useData } from "../lib/useData";
 import { spriteUrl } from "../lib/sprites";
 import { alnumKey } from "../lib/textKey";
-import type { EvolutionEdge, EvolutionLookup, MoveEntry, PokemonEntry, SpeciesEncounterRef, SpeciesTrainerRef, TmEntry } from "../lib/types";
+import type { EvolutionEdge, EvolutionLookup, LegendariesData, MoveEntry, PokemonEntry, SpeciesEncounterRef, SpeciesTrainerRef, TmEntry } from "../lib/types";
 import styles from "./PokemonDetail.module.css";
 
 function findByName(list: PokemonEntry[], name: string) {
@@ -60,6 +60,7 @@ export function PokemonDetail() {
   const encountersState = useData<Record<string, SpeciesEncounterRef[]>>(() => import("../data/encounters-by-species.generated.json"));
   const trainersState = useData<Record<string, SpeciesTrainerRef[]>>(() => import("../data/trainers-by-species.generated.json"));
   const evolutionState = useData<EvolutionLookup>(() => import("../data/evolution-lookup.generated.json"));
+  const legendaryState = useData<LegendariesData>(() => import("../data/legendaries.generated.json") as Promise<{ default: LegendariesData }>);
   const movesState = useData<MoveEntry[]>(() => import("../data/moves.generated.json"));
   const tmState = useData<Record<string, TmEntry[]>>(() => import("../data/tm-compatibility.generated.json"));
 
@@ -81,6 +82,9 @@ export function PokemonDetail() {
   const encounters = encountersState.status === "ready" ? encountersState.data[pokemon.name] ?? [] : [];
   const trainerUses = trainersState.status === "ready" ? trainersState.data[pokemon.name] ?? [] : [];
   const evoEntry = evolutionState.status === "ready" ? evolutionState.data[pokemon.name] : undefined;
+  // The doc places sixteen legendaries by hand and leaves the rest to the Relic
+  // Castle Obelisks, so those have no wild encounter row of their own.
+  const isObelisk = legendaryState.status === "ready" && legendaryState.data.obelisks.some((o) => o.dexNumber === pokemon.dexNumber);
   const allPokemon = pokemonState.status === "ready" ? pokemonState.data : [];
   const hasEvolution = Boolean(evoEntry && (evoEntry.evolvesFrom || evoEntry.evolvesTo.length > 0));
   const hasChangedEvolution = Boolean(evoEntry?.evolvesFrom?.changed || evoEntry?.evolvesTo.some((e) => e.changed));
@@ -265,7 +269,15 @@ export function PokemonDetail() {
               <>
                 <div className={styles.panel} style={{ marginTop: 0 }}>
                   <p className="section-title" style={{ marginTop: 0 }}>Where to catch it</p>
-                  {encounters.length === 0 && <EmptyState>No wild encounters documented for {pokemon.name}.</EmptyState>}
+                  {isObelisk && (
+                    <Link href="/legendaries" className={styles.crossLink}>
+                      <span className={styles.crossName}>
+                        Relic Castle <span style={{ color: "var(--text-dim)", fontWeight: 400 }}>· Obelisk, post-game</span>
+                      </span>
+                      <span className={styles.crossMeta}>Lv.70</span>
+                    </Link>
+                  )}
+                  {encounters.length === 0 && !isObelisk && <EmptyState>No wild encounters documented for {pokemon.name}.</EmptyState>}
                   {encounters.map((e, i) => (
                     <Link key={i} href={`/encounters?q=${encodeURIComponent(e.location)}`} className={styles.crossLink}>
                       <span className={styles.crossName}>

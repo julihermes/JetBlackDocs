@@ -24,9 +24,16 @@ export interface EvolutionLookupEntry {
 
 export type EvolutionLookup = Record<string, EvolutionLookupEntry>;
 
+/** A legendary the doc doesn't place by hand: it lives in the Relic Castle Obelisks. */
+export interface ObeliskSpecies {
+  name: string;
+  dexNumber: number;
+}
+
 export interface LegendariesData {
   entries: LegendaryEntry[];
   asides: string[]; // document-level prose (the Obelisks explanation, the God Stone requirement)
+  obelisks: ObeliskSpecies[]; // filled in by the build — see buildObeliskList in pipeline/build.ts
 }
 
 export interface LegendaryEntry {
@@ -186,6 +193,7 @@ export interface VanillaSpeciesInfo {
   catchRate: number;
   hatchSteps: number;
   flavorText: string; // Gen 5 (Black version) Pokédex entry
+  legendary: boolean; // legendary or mythical — JetBlack puts every one of these that it doesn't place by hand in the Relic Castle Obelisks
 }
 
 /** One machine a species can learn. See buildTmCompatibility in pipeline/vanilla-data.ts. */

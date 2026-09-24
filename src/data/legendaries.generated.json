@@ -177,5 +177,139 @@
   "asides": [
     "With the exception of Latias, Latios, Phione and Manaphy, as well as the ones listed above,  all Legendaries are housed in the Relic Castle as \"Obelisks\" I was playing around with the idea of having the Obelisks scattered all around Unova however I was running into major problems like freezes so I wanted to play it on the safe side. Besides, this is kinda like a \"resting\" place for all the Legendary Spirits and it will be a nice little challenge if you wanted to go in and catch them all in one sitting! They are all encountered at Level 70.",
     "In order to encounter all of the Gen 1-4 Legendary Pokemon (With the exception of Manaphy) you will need to find the Enigma Stone in Giant's Chasm, take it to an NPC in Anville Town and then talk to a Veteran NPC in Nimbasa"
+  ],
+  "obelisks": [
+    {
+      "name": "Thundurus",
+      "dexNumber": 642
+    },
+    {
+      "name": "Zekrom",
+      "dexNumber": 644
+    },
+    {
+      "name": "Articuno",
+      "dexNumber": 144
+    },
+    {
+      "name": "Zapdos",
+      "dexNumber": 145
+    },
+    {
+      "name": "Moltres",
+      "dexNumber": 146
+    },
+    {
+      "name": "Mewtwo",
+      "dexNumber": 150
+    },
+    {
+      "name": "Mew",
+      "dexNumber": 151
+    },
+    {
+      "name": "Raikou",
+      "dexNumber": 243
+    },
+    {
+      "name": "Entei",
+      "dexNumber": 244
+    },
+    {
+      "name": "Suicune",
+      "dexNumber": 245
+    },
+    {
+      "name": "Lugia",
+      "dexNumber": 249
+    },
+    {
+      "name": "Ho-oh",
+      "dexNumber": 250
+    },
+    {
+      "name": "Celebi",
+      "dexNumber": 251
+    },
+    {
+      "name": "Regirock",
+      "dexNumber": 377
+    },
+    {
+      "name": "Regice",
+      "dexNumber": 378
+    },
+    {
+      "name": "Registeel",
+      "dexNumber": 379
+    },
+    {
+      "name": "Kyogre",
+      "dexNumber": 382
+    },
+    {
+      "name": "Groudon",
+      "dexNumber": 383
+    },
+    {
+      "name": "Rayquaza",
+      "dexNumber": 384
+    },
+    {
+      "name": "Jirachi",
+      "dexNumber": 385
+    },
+    {
+      "name": "Deoxys",
+      "dexNumber": 386
+    },
+    {
+      "name": "Uxie",
+      "dexNumber": 480
+    },
+    {
+      "name": "Mesprit",
+      "dexNumber": 481
+    },
+    {
+      "name": "Azelf",
+      "dexNumber": 482
+    },
+    {
+      "name": "Dialga",
+      "dexNumber": 483
+    },
+    {
+      "name": "Palkia",
+      "dexNumber": 484
+    },
+    {
+      "name": "Heatran",
+      "dexNumber": 485
+    },
+    {
+      "name": "Regigigas",
+      "dexNumber": 486
+    },
+    {
+      "name": "Giratina",
+      "dexNumber": 487
+    },
+    {
+      "name": "Cresselia",
+      "dexNumber": 488
+    },
+    {
+      "name": "Darkrai",
+      "dexNumber": 491
+    },
+    {
+      "name": "Shaymin",
+      "dexNumber": 492
+    },
+    {
+      "name": "Arceus",
+      "dexNumber": 493
+    }
   ]
 }

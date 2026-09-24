@@ -16,6 +16,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "This Pokémon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
+    "legendary": true,
     "abilities": [
       "Victory Star"
     ],
@@ -168,6 +169,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.",
+    "legendary": false,
     "abilities": [
       "Overgrow"
     ],
@@ -298,6 +300,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.",
+    "legendary": false,
     "abilities": [
       "Overgrow"
     ],
@@ -444,6 +447,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It can stop its opponents’ movements with just a glare. It takes in solar energy and boosts it internally.",
+    "legendary": false,
     "abilities": [
       "Overgrow"
     ],
@@ -607,6 +611,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It can deftly dodge its foe’s attacks while shooting fireballs from its nose. It roasts berries before it eats them.",
+    "legendary": false,
     "abilities": [
       "Blaze"
     ],
@@ -727,6 +732,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke.",
+    "legendary": false,
     "abilities": [
       "Blaze"
     ],
@@ -867,6 +873,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.",
+    "legendary": false,
     "abilities": [
       "Blaze"
     ],
@@ -1030,6 +1037,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
+    "legendary": false,
     "abilities": [
       "Torrent"
     ],
@@ -1165,6 +1173,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Strict training is how it learns its flowing double-scalchop technique.",
+    "legendary": false,
     "abilities": [
       "Torrent"
     ],
@@ -1310,6 +1319,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.",
+    "legendary": false,
     "abilities": [
       "Torrent"
     ],
@@ -1484,6 +1494,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "Using food stored in cheek pouches, they can keep watch for days. They use their tails to communicate with others.",
+    "legendary": false,
     "abilities": [
       "Run Away",
       "Keen Eye"
@@ -1613,6 +1624,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
+    "legendary": false,
     "abilities": [
       "Illuminate",
       "Analytic"
@@ -1779,6 +1791,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "It faces strong opponents with great courage. But, when at a disadvantage in a fight, this intelligent Pokémon flees.",
+    "legendary": false,
     "abilities": [
       "Vital Spirit",
       "Pickup"
@@ -1903,6 +1916,7 @@
     "catchRate": 120,
     "hatchSteps": 4080,
     "flavorText": "It has black, cape-like fur that is very hard and decreases the amount of damage it receives.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Scrappy"
@@ -2054,6 +2068,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "It rescues people stranded by blizzards in the mountains. Its shaggy fur shields it from the cold.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Scrappy"
@@ -2226,6 +2241,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "They steal from people for fun, but their victims can’t help but forgive them. Their deceptively cute act is perfect.",
+    "legendary": false,
     "abilities": [
       "Prankster",
       "Unburden"
@@ -2383,6 +2399,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "These Pokémon vanish and appear unexpectedly. Many Trainers are drawn to their beautiful form and fur.",
+    "legendary": false,
     "abilities": [
       "Prankster",
       "Unburden"
@@ -2565,6 +2582,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "This Pokémon dwells deep in the forest. Eating a leaf from its head whisks weariness away as if by magic.",
+    "legendary": false,
     "abilities": [
       "Gluttony",
       "Overgrow"
@@ -2707,6 +2725,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
+    "legendary": false,
     "abilities": [
       "Gluttony",
       "Overgrow"
@@ -2864,6 +2883,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "When it is angered, the temperature of its head tuft reaches 600° F. It uses its tuft to roast berries.",
+    "legendary": false,
     "abilities": [
       "Gluttony",
       "Blaze"
@@ -3011,6 +3031,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "It loves sweets because they become energy for the fire burning inside its body.",
+    "legendary": false,
     "abilities": [
       "Gluttony",
       "Blaze"
@@ -3173,6 +3194,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.",
+    "legendary": false,
     "abilities": [
       "Gluttony",
       "Torrent"
@@ -3320,6 +3342,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "The tuft on its head holds water. When the level runs low, it replenishes the tuft by siphoning up water with its tail.",
+    "legendary": false,
     "abilities": [
       "Gluttony",
       "Torrent"
@@ -3482,6 +3505,7 @@
     "catchRate": 190,
     "hatchSteps": 2805,
     "flavorText": "Munna always float in the air. People whose dreams are eaten by them forget what the dreams had been about.",
+    "legendary": false,
     "abilities": [
       "Forewarn",
       "Synchronize"
@@ -3619,6 +3643,7 @@
     "catchRate": 75,
     "hatchSteps": 2805,
     "flavorText": "The mist emanating from their foreheads is packed with the dreams of people and Pokémon.",
+    "legendary": false,
     "abilities": [
       "Forewarn",
       "Synchronize"
@@ -3786,6 +3811,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "Each follows its Trainer’s orders as best it can, but they sometimes fail to understand complicated commands.",
+    "legendary": false,
     "abilities": [
       "Super Luck",
       "Big Pecks"
@@ -3926,6 +3952,7 @@
     "catchRate": 120,
     "hatchSteps": 4080,
     "flavorText": "It can return to its Trainer’s location regardless of the distance separating them.",
+    "legendary": false,
     "abilities": [
       "Super Luck",
       "Big Pecks"
@@ -4066,6 +4093,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "Males swing their head plumage to threaten opponents. The females’ flying abilities surpass those of the males.",
+    "legendary": false,
     "abilities": [
       "Super Luck",
       "Big Pecks"
@@ -4215,6 +4243,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "Its mane shines when it discharges electricity. They use their flashing manes to communicate with one another.",
+    "legendary": false,
     "abilities": [
       "Lightningrod",
       "Motor Drive"
@@ -4349,6 +4378,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.",
+    "legendary": false,
     "abilities": [
       "Lightningrod",
       "Motor Drive"
@@ -4509,6 +4539,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "Its ear is hexagonal in shape. Compressed underground, its body is as hard as steel.",
+    "legendary": false,
     "abilities": [
       "Sturdy"
     ],
@@ -4658,6 +4689,7 @@
     "catchRate": 120,
     "hatchSteps": 4080,
     "flavorText": "When it overflows with power, the orange crystal on its body glows. It looks for underground water in caves.",
+    "legendary": false,
     "abilities": [
       "Sturdy"
     ],
@@ -4814,6 +4846,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "Compressing the energy from its internal core lets it fire off an attack capable of blowing away a mountain.",
+    "legendary": false,
     "abilities": [
       "Sturdy"
     ],
@@ -4980,6 +5013,7 @@
     "catchRate": 190,
     "hatchSteps": 4080,
     "flavorText": "Its habitat is dark forests and caves. It emits ultrasonic waves from its nose to learn about its surroundings.",
+    "legendary": false,
     "abilities": [
       "Unaware",
       "Simple"
@@ -5144,6 +5178,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "It emits sound waves of various frequencies from its nose, including some powerful enough to destroy rocks.",
+    "legendary": false,
     "abilities": [
       "Unaware",
       "Simple"
@@ -5316,6 +5351,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "It can dig through the ground at a speed of 30 mph. It could give a car running aboveground a good race.",
+    "legendary": false,
     "abilities": [
       "Sand Rush",
       "Sand Force"
@@ -5442,6 +5478,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "It can help in tunnel construction. Its drill has evolved into steel strong enough to bore through iron plates.",
+    "legendary": false,
     "abilities": [
       "Sand Rush",
       "Sand Force"
@@ -5587,6 +5624,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+    "legendary": false,
     "abilities": [
       "Healer",
       "Regenerator"
@@ -5757,6 +5795,7 @@
     "catchRate": 180,
     "hatchSteps": 5355,
     "flavorText": "It fights by swinging a piece of lumber around. It is close to evolving when it can handle the lumber without difficulty.",
+    "legendary": false,
     "abilities": [
       "Guts",
       "Sheer Force"
@@ -5902,6 +5941,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
+    "legendary": false,
     "abilities": [
       "Guts",
       "Sheer Force"
@@ -6059,6 +6099,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It is thought that Conkeldurr taught humans how to make concrete more than 2,000 years ago.",
+    "legendary": false,
     "abilities": [
       "Guts",
       "Sheer Force"
@@ -6214,6 +6255,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "They warn others of danger by vibrating their cheeks to create a high-pitched sound.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Hydration"
@@ -6349,6 +6391,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "When they vibrate the bumps on their heads, they can make waves in water or earthquake-like vibrations on land.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Hydration"
@@ -6499,6 +6542,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Poison Touch"
@@ -6674,6 +6718,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "When it tightens its belt, it becomes stronger. Wild Throh use vines to weave their own belts.",
+    "legendary": false,
     "abilities": [
       "Guts",
       "Mold Breaker"
@@ -6833,6 +6878,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "The sound of Sawk punching boulders and trees can be heard all the way from the mountains where they train.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Inner Focus"
@@ -6991,6 +7037,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "Leavanny dress it in clothes they made for it when it hatched. It hides its head in its hood while it is sleeping.",
+    "legendary": false,
     "abilities": [
       "Swarm",
       "Overcoat"
@@ -7103,6 +7150,7 @@
     "catchRate": 120,
     "hatchSteps": 4080,
     "flavorText": "Forests where Swadloon live have superb foliage because the nutrients they make from fallen leaves nourish the plant life.",
+    "legendary": false,
     "abilities": [
       "Leaf Guard",
       "Overcoat"
@@ -7220,6 +7268,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "Upon finding a small Pokémon, it weaves clothing for it from leaves, using the cutters on its arms and sticky silk.",
+    "legendary": false,
     "abilities": [
       "Swarm",
       "Overcoat"
@@ -7393,6 +7442,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.",
+    "legendary": false,
     "abilities": [
       "Poison Point",
       "Swarm"
@@ -7538,6 +7588,7 @@
     "catchRate": 120,
     "hatchSteps": 4080,
     "flavorText": "Protected by a hard shell, it spins its body like a wheel and crashes furiously into its enemies.",
+    "legendary": false,
     "abilities": [
       "Poison Point",
       "Swarm"
@@ -7711,6 +7762,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
+    "legendary": false,
     "abilities": [
       "Poison Point",
       "Swarm"
@@ -7877,6 +7929,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "When attacked, it escapes by shooting cotton from its body. The cotton serves as a decoy to distract the attacker.",
+    "legendary": false,
     "abilities": [
       "Prankster",
       "Infiltrator"
@@ -8041,6 +8094,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
+    "legendary": false,
     "abilities": [
       "Prankster",
       "Infiltrator"
@@ -8213,6 +8267,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "The leaves on its head are very bitter. Eating one of these leaves is known to refresh a tired body.",
+    "legendary": false,
     "abilities": [
       "Own Tempo",
       "Chlorophyll"
@@ -8365,6 +8420,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "Even veteran Trainers face a challenge in getting its beautiful flower to bloom. This Pokémon is popular with celebrities.",
+    "legendary": false,
     "abilities": [
       "Own Tempo",
       "Chlorophyll"
@@ -8542,6 +8598,7 @@
     "catchRate": 25,
     "hatchSteps": 10455,
     "flavorText": "Red and blue Basculin get along so poorly, they’ll start fighting instantly. These Pokémon are very hostile.",
+    "legendary": false,
     "abilities": [
       "Reckless(R)",
       "Rock Head(B)",
@@ -8695,6 +8752,7 @@
     "catchRate": 180,
     "hatchSteps": 5355,
     "flavorText": "They live buried in the sands of the desert. The sun-warmed sands prevent their body temperature from dropping.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Moxie"
@@ -8836,6 +8894,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "They live in groups of a few individuals. Protective membranes shield their eyes from sandstorms.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Moxie"
@@ -8991,6 +9050,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "They never allow prey to escape. Their jaws are so powerful, they can crush the body of an automobile.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Moxie"
@@ -9150,6 +9210,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "When its internal fire is burning, it cannot calm down and it runs around. When the fire diminishes, it falls asleep.",
+    "legendary": false,
     "abilities": [
       "Hustle"
     ],
@@ -9288,6 +9349,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "Its internal fire burns at 2,500° F, making enough power that it can destroy a dump truck with one punch.",
+    "legendary": false,
     "abilities": [
       "Sheer Force",
       "Zen Mode"
@@ -9446,6 +9508,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "It uses an up-tempo song and dance to drive away the bird Pokémon that prey on its flower seeds.",
+    "legendary": false,
     "abilities": [
       "Water Absorb",
       "Storm Drain"
@@ -9620,6 +9683,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "This Pokémon can easily melt holes in hard rocks with a liquid secreted from its mouth.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Shell Armor"
@@ -9756,6 +9820,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Shell Armor"
@@ -9907,6 +9972,7 @@
     "catchRate": 180,
     "hatchSteps": 4080,
     "flavorText": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
+    "legendary": false,
     "abilities": [
       "Shed Skin",
       "Moxie"
@@ -10070,6 +10136,7 @@
     "catchRate": 90,
     "hatchSteps": 4080,
     "flavorText": "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth.",
+    "legendary": false,
     "abilities": [
       "Shed Skin",
       "Moxie"
@@ -10235,6 +10302,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "They never vary the route they fly, because their memories of guarding an ancient city remain steadfast.",
+    "legendary": false,
     "abilities": [
       "Magic Guard",
       "Wonder Skin"
@@ -10395,6 +10463,7 @@
     "catchRate": 190,
     "hatchSteps": 6630,
     "flavorText": "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.",
+    "legendary": false,
     "abilities": [
       "Mummy"
     ],
@@ -10550,6 +10619,7 @@
     "catchRate": 90,
     "hatchSteps": 6630,
     "flavorText": "It has been said that they swallow those who get too close and turn them into mummies. They like to eat gold nuggets.",
+    "legendary": false,
     "abilities": [
       "Mummy"
     ],
@@ -10726,6 +10796,7 @@
     "catchRate": 45,
     "hatchSteps": 7905,
     "flavorText": "Restored from a fossil, this Pokémon can dive to depths beyond half a mile.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Solid Rock"
@@ -10872,6 +10943,7 @@
     "catchRate": 45,
     "hatchSteps": 7905,
     "flavorText": "They can live both in the ocean and on land. A slap from one of them is enough to open a hole in the bottom of a tanker.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Solid Rock"
@@ -11028,6 +11100,7 @@
     "catchRate": 45,
     "hatchSteps": 7905,
     "flavorText": "Said to be an ancestor of bird Pokémon, they were unable to fly and moved about by hopping from one branch to another.",
+    "legendary": false,
     "abilities": [
       "Defeatist"
     ],
@@ -11173,6 +11246,7 @@
     "catchRate": 45,
     "hatchSteps": 7905,
     "flavorText": "They are intelligent and will cooperate to catch prey. From the ground, they use a running start to take flight.",
+    "legendary": false,
     "abilities": [
       "Defeatist"
     ],
@@ -11326,6 +11400,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "Inhaling the gas they belch will make you sleep for a week. They prefer unsanitary places.",
+    "legendary": false,
     "abilities": [
       "Aftermath",
       "Stench"
@@ -11498,6 +11573,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "It clenches opponents with its left arm and finishes them off with foul-smelling poison gas belched from its mouth.",
+    "legendary": false,
     "abilities": [
       "Aftermath",
       "Stench"
@@ -11689,6 +11765,7 @@
     "catchRate": 75,
     "hatchSteps": 6630,
     "flavorText": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
+    "legendary": false,
     "abilities": [
       "Illusion"
     ],
@@ -11827,6 +11904,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Bonds between these Pokémon are very strong. It protects the safety of its pack by tricking its opponents.",
+    "legendary": false,
     "abilities": [
       "Illusion"
     ],
@@ -11976,6 +12054,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "They greet one another by rubbing each other with their tails, which are always kept well groomed and clean.",
+    "legendary": false,
     "abilities": [
       "Cute Charm",
       "Technician"
@@ -12115,6 +12194,7 @@
     "catchRate": 60,
     "hatchSteps": 4080,
     "flavorText": "Their white fur is coated in a special oil that makes it easy for them to deflect attacks.",
+    "legendary": false,
     "abilities": [
       "Cute Charm",
       "Technician"
@@ -12285,6 +12365,7 @@
     "catchRate": 200,
     "hatchSteps": 5355,
     "flavorText": "Their ribbonlike feelers increase their psychic power. They are always staring at something.",
+    "legendary": false,
     "abilities": [
       "Frisk"
     ],
@@ -12429,6 +12510,7 @@
     "catchRate": 100,
     "hatchSteps": 5355,
     "flavorText": "They use hypnosis to control people and Pokémon. Tales of Gothorita leading people astray are told in every corner.",
+    "legendary": false,
     "abilities": [
       "Frisk"
     ],
@@ -12578,6 +12660,7 @@
     "catchRate": 50,
     "hatchSteps": 5355,
     "flavorText": "Starry skies thousands of light-years away are visible in the space distorted by their intense psychic power.",
+    "legendary": false,
     "abilities": [
       "Frisk"
     ],
@@ -12742,6 +12825,7 @@
     "catchRate": 200,
     "hatchSteps": 5355,
     "flavorText": "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
+    "legendary": false,
     "abilities": [
       "Magic Guard",
       "Regenerator"
@@ -12883,6 +12967,7 @@
     "catchRate": 100,
     "hatchSteps": 5355,
     "flavorText": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
+    "legendary": false,
     "abilities": [
       "Magic Guard",
       "Regenerator"
@@ -13029,6 +13114,7 @@
     "catchRate": 50,
     "hatchSteps": 5355,
     "flavorText": "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
+    "legendary": false,
     "abilities": [
       "Magic Guard",
       "Regenerator"
@@ -13197,6 +13283,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "These bird Pokémon are excellent divers. They swim around in the water eating their favorite food--peat moss.",
+    "legendary": false,
     "abilities": [
       "Keen Eye",
       "Big Pecks"
@@ -13351,6 +13438,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
+    "legendary": false,
     "abilities": [
       "Keen Eye",
       "Big Pecks"
@@ -13531,6 +13619,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "The temperature of their breath is -58° F. They create snow crystals and make snow fall in the areas around them.",
+    "legendary": false,
     "abilities": [
       "Ice Body",
       "Weak Armor"
@@ -13680,6 +13769,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "Snowy mountains are this Pokémon’s habitat. During an ancient ice age, they moved to southern areas.",
+    "legendary": false,
     "abilities": [
       "Ice Body",
       "Weak Armor"
@@ -13834,6 +13924,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Swallowing large amounts of water, they make snow clouds inside their bodies and attack their foes with violent blizzards.",
+    "legendary": false,
     "abilities": [
       "Ice Body",
       "Weak Armor"
@@ -14007,6 +14098,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "The color and scent of their fur changes to match the mountain grass. When they sense hostility, they hide in the grass.",
+    "legendary": false,
     "abilities": [
       "Sap Sipper",
       "Chlorophyll"
@@ -14142,6 +14234,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "They migrate according to the seasons. People can tell the season by looking at Sawsbuck’s horns.",
+    "legendary": false,
     "abilities": [
       "Sap Sipper",
       "Chlorophyll"
@@ -14315,6 +14408,7 @@
     "catchRate": 200,
     "hatchSteps": 5355,
     "flavorText": "The energy made in its cheeks’ electric pouches is stored inside its membrane and released while it is gliding.",
+    "legendary": false,
     "abilities": [
       "Static",
       "Motor Drive"
@@ -14482,6 +14576,7 @@
     "catchRate": 200,
     "hatchSteps": 4080,
     "flavorText": "These mysterious Pokémon evolve when they receive electrical stimulation while they are in the same place as Shelmet.",
+    "legendary": false,
     "abilities": [
       "Swarm",
       "Shed Skin"
@@ -14615,6 +14710,7 @@
     "catchRate": 75,
     "hatchSteps": 4080,
     "flavorText": "They fly around at high speed, striking with their pointed spears. Even when in trouble, they face opponents bravely.",
+    "legendary": false,
     "abilities": [
       "Swarm",
       "Shell Armor"
@@ -14762,6 +14858,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "It lures people in with its Poké Ball pattern, then releases poison spores. Why it resembles a Poké Ball is unknown.",
+    "legendary": false,
     "abilities": [
       "Effect Spore",
       "Regenerator"
@@ -14892,6 +14989,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.",
+    "legendary": false,
     "abilities": [
       "Effect Spore",
       "Regenerator"
@@ -15057,6 +15155,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "With its thin, veil-like arms wrapped around the body of its opponent, it sinks to the ocean floor.",
+    "legendary": false,
     "abilities": [
       "Water Absorb",
       "Cursed Body"
@@ -15197,6 +15296,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "The fate of the ships and crew that wander into Jellicent’s habitat: all sunken, all lost, all vanished.",
+    "legendary": false,
     "abilities": [
       "Water Absorb",
       "Cursed Body"
@@ -15352,6 +15452,7 @@
     "catchRate": 75,
     "hatchSteps": 10455,
     "flavorText": "The special membrane enveloping Alomomola has the ability to heal wounds.",
+    "legendary": false,
     "abilities": [
       "Healer",
       "Regenerator"
@@ -15517,6 +15618,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.",
+    "legendary": false,
     "abilities": [
       "Compoundeyes",
       "Unnerve"
@@ -15662,6 +15764,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
+    "legendary": false,
     "abilities": [
       "Compoundeyes",
       "Unnerve"
@@ -15823,6 +15926,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "When threatened, it attacks by shooting a barrage of spikes, which gives it a chance to escape by rolling away.",
+    "legendary": false,
     "abilities": [
       "Iron Barbs"
     ],
@@ -15951,6 +16055,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "It fights by swinging around its three spiky feelers. A hit from these steel spikes can reduce a boulder to rubble.",
+    "legendary": false,
     "abilities": [
       "Iron Barbs"
     ],
@@ -16097,6 +16202,7 @@
     "catchRate": 130,
     "hatchSteps": 5355,
     "flavorText": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
+    "legendary": false,
     "abilities": [
       "Clear Body"
     ],
@@ -16230,6 +16336,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "By changing the direction in which it rotates, it communicates its feelings to others. When angry, it rotates faster.",
+    "legendary": false,
     "abilities": [
       "Clear Body"
     ],
@@ -16363,6 +16470,7 @@
     "catchRate": 30,
     "hatchSteps": 5355,
     "flavorText": "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
+    "legendary": false,
     "abilities": [
       "Clear Body"
     ],
@@ -16524,6 +16632,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "While one alone doesn’t have much power, a chain of many Tynamo can be as powerful as lightning.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -16594,6 +16703,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -16724,6 +16834,7 @@
     "catchRate": 30,
     "hatchSteps": 5355,
     "flavorText": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -16884,6 +16995,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "It uses its strong psychic power to squeeze its opponent’s brain, causing unendurable headaches.",
+    "legendary": false,
     "abilities": [
       "Analytic",
       "Telepathy"
@@ -17032,6 +17144,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "It can manipulate an opponent’s memory. Apparently, it communicates by flashing its three different-colored fingers.",
+    "legendary": false,
     "abilities": [
       "Analytic",
       "Telepathy"
@@ -17205,6 +17318,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
+    "legendary": false,
     "abilities": [
       "Flame Body",
       "Flash Fire"
@@ -17347,6 +17461,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "This ominous Pokémon is feared. Through cities it wanders, searching for the spirits of the fallen.",
+    "legendary": false,
     "abilities": [
       "Flame Body",
       "Flash Fire"
@@ -17492,6 +17607,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It absorbs a spirit, which it then burns. By waving the flames on its arms, it puts its foes into a hypnotic trance.",
+    "legendary": false,
     "abilities": [
       "Flame Body",
       "Flash Fire"
@@ -17638,6 +17754,7 @@
     "catchRate": 75,
     "hatchSteps": 10455,
     "flavorText": "They use their tusks to crush the berries they eat. Repeated regrowth makes their tusks strong and sharp.",
+    "legendary": false,
     "abilities": [
       "Mold Breaker",
       "Unnerve"
@@ -17766,6 +17883,7 @@
     "catchRate": 60,
     "hatchSteps": 10455,
     "flavorText": "Since a broken tusk will not grow back, they diligently sharpen their tusks on river rocks after they’ve been fighting.",
+    "legendary": false,
     "abilities": [
       "Mold Breaker",
       "Unnerve"
@@ -17899,6 +18017,7 @@
     "catchRate": 45,
     "hatchSteps": 10455,
     "flavorText": "They are kind but can be relentless when defending territory. They challenge foes with tusks that can cut steel.",
+    "legendary": false,
     "abilities": [
       "Mold Breaker",
       "Unnerve"
@@ -18056,6 +18175,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "When it is not feeling well, its mucus gets watery and the power of its Ice-type moves decreases.",
+    "legendary": false,
     "abilities": [
       "Snow Cloak",
       "Rattled"
@@ -18193,6 +18313,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "It can make its breath freeze at will. Very able in the water, it swims around in northern seas and catches prey.",
+    "legendary": false,
     "abilities": [
       "Snow Cloak",
       "Swift Swim"
@@ -18365,6 +18486,7 @@
     "catchRate": 25,
     "hatchSteps": 6630,
     "flavorText": "When its body temperature goes up, it turns into steam and vanishes. When its temperature lowers, it returns to ice.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -18541,6 +18663,7 @@
     "catchRate": 200,
     "hatchSteps": 4080,
     "flavorText": "When attacked, it defends itself by closing the lid of its shell. It can spit a sticky, poisonous liquid.",
+    "legendary": false,
     "abilities": [
       "Hydration",
       "Shell Armor"
@@ -18663,6 +18786,7 @@
     "catchRate": 75,
     "hatchSteps": 4080,
     "flavorText": "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
+    "legendary": false,
     "abilities": [
       "Hydration",
       "Sticky Hold"
@@ -18805,6 +18929,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.",
+    "legendary": false,
     "abilities": [
       "Static",
       "Limber"
@@ -18945,6 +19070,7 @@
     "catchRate": 180,
     "hatchSteps": 6630,
     "flavorText": "In fights, they dominate with onslaughts of flowing, continuous attacks. With their sharp claws, they cut enemies.",
+    "legendary": false,
     "abilities": [
       "Inner Focus",
       "Regenerator"
@@ -19078,6 +19204,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "It wields the fur on its arms like a whip. Its arm attacks come with such rapidity that they cannot even be seen.",
+    "legendary": false,
     "abilities": [
       "Inner Focus",
       "Regenerator"
@@ -19224,6 +19351,7 @@
     "catchRate": 45,
     "hatchSteps": 7905,
     "flavorText": "It warms its body by absorbing sunlight with its wings. When its body temperature falls, it can no longer move.",
+    "legendary": false,
     "abilities": [
       "Rough Skin",
       "Sheer Force"
@@ -19374,6 +19502,7 @@
     "catchRate": 190,
     "hatchSteps": 6630,
     "flavorText": "The energy that burns inside it enables it to move, but no one has yet been able to identify this energy.",
+    "legendary": false,
     "abilities": [
       "Iron Fist",
       "No Guard"
@@ -19538,6 +19667,7 @@
     "catchRate": 90,
     "hatchSteps": 6630,
     "flavorText": "It flies across the sky at Mach speeds. Removing the seal on its chest makes its internal energy go out of control.",
+    "legendary": false,
     "abilities": [
       "Iron Fist",
       "No Guard"
@@ -19696,6 +19826,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "Blades comprise this Pokémon’s entire body. If battling dulls the blades, it sharpens them on stones by the river.",
+    "legendary": false,
     "abilities": [
       "Defiant",
       "Inner Focus"
@@ -19829,6 +19960,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It leads a group of Pawniard. It battles to become the boss, but will be driven from the group if it loses.",
+    "legendary": false,
     "abilities": [
       "Defiant",
       "Inner Focus"
@@ -19979,6 +20111,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
+    "legendary": false,
     "abilities": [
       "Reckless",
       "Sap Sipper"
@@ -20124,6 +20257,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "They crush berries with their talons. They bravely stand up to any opponent, no matter how strong it is.",
+    "legendary": false,
     "abilities": [
       "Keen Eye",
       "Sheer Force"
@@ -20252,6 +20386,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
+    "legendary": false,
     "abilities": [
       "Defiant",
       "Sheer Force"
@@ -20395,6 +20530,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "Its wings are too tiny to allow it to fly. As the time approaches for it to evolve, it discards the bones it was wearing.",
+    "legendary": false,
     "abilities": [
       "Big Pecks",
       "Overcoat"
@@ -20523,6 +20659,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "It makes a nest out of bones it finds. It grabs weakened prey in its talons and hauls it to its nest of bones.",
+    "legendary": false,
     "abilities": [
       "Big Pecks",
       "Overcoat"
@@ -20682,6 +20819,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "It breathes through a hole in its tail while it burns with an internal fire. Durant is its prey.",
+    "legendary": false,
     "abilities": [
       "Gluttony",
       "White Smoke"
@@ -20829,6 +20967,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
+    "legendary": false,
     "abilities": [
       "Swarm",
       "Hustle"
@@ -20969,6 +21108,7 @@
     "catchRate": 45,
     "hatchSteps": 10455,
     "flavorText": "It tends to bite everything, and it is not a picky eater. Approaching it carelessly is dangerous.",
+    "legendary": false,
     "abilities": [
       "Hustle"
     ],
@@ -21107,6 +21247,7 @@
     "catchRate": 45,
     "hatchSteps": 10455,
     "flavorText": "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
+    "legendary": false,
     "abilities": [
       "Hustle"
     ],
@@ -21259,6 +21400,7 @@
     "catchRate": 45,
     "hatchSteps": 10455,
     "flavorText": "This brutal Pokémon travels the skies on its six wings. Anything that moves seems like a foe to it, triggering its attack.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -21414,6 +21556,7 @@
     "catchRate": 45,
     "hatchSteps": 10455,
     "flavorText": "This Pokémon was believed to have been born from the sun. When it evolves, its entire body is engulfed in flames.",
+    "legendary": false,
     "abilities": [
       "Flame Body"
     ],
@@ -21526,6 +21669,7 @@
     "catchRate": 15,
     "hatchSteps": 10455,
     "flavorText": "When volcanic ash darkened the atmosphere, it is said that Volcarona’s fire provided a replacement for the sun.",
+    "legendary": false,
     "abilities": [
       "Flame Body"
     ],
@@ -21672,6 +21816,7 @@
     "catchRate": 3,
     "hatchSteps": 20655,
     "flavorText": "This legendary Pokémon battled against humans to protect Pokémon. Its personality is calm and composed.",
+    "legendary": true,
     "abilities": [
       "Justified"
     ],
@@ -21802,6 +21947,7 @@
     "catchRate": 3,
     "hatchSteps": 20655,
     "flavorText": "This Pokémon came to the defense of Pokémon that had lost their homes in a war among humans.",
+    "legendary": true,
     "abilities": [
       "Justified"
     ],
@@ -21932,6 +22078,7 @@
     "catchRate": 3,
     "hatchSteps": 20655,
     "flavorText": "This Pokémon fought humans in order to protect its friends. Legends about it continue to be passed down.",
+    "legendary": true,
     "abilities": [
       "Justified"
     ],
@@ -22061,6 +22208,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.",
+    "legendary": true,
     "abilities": [
       "Prankster"
     ],
@@ -22196,6 +22344,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "Countless charred remains mar the landscape of places through which Thundurus has passed.",
+    "legendary": true,
     "abilities": [
       "Prankster"
     ],
@@ -22331,6 +22480,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "This Pokémon appears in legends. It sends flames into the air from its tail, burning up everything around it.",
+    "legendary": true,
     "abilities": [
       "TurboBlaze"
     ],
@@ -22456,6 +22606,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
+    "legendary": true,
     "abilities": [
       "TeraVolt"
     ],
@@ -22581,6 +22732,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "Lands visited by Landorus grant such bountiful crops that it has been hailed as “The Guardian of the Fields.”",
+    "legendary": true,
     "abilities": [
       "Sheer Force"
     ],
@@ -22718,6 +22870,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+    "legendary": true,
     "abilities": [
       "Pressure"
     ],
@@ -22848,6 +23001,7 @@
     "catchRate": 3,
     "hatchSteps": 20655,
     "flavorText": "By blasting water from its hooves, it can glide across water. It excels at using leg moves while battling.",
+    "legendary": true,
     "abilities": [
       "Justified"
     ],
@@ -22989,6 +23143,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
+    "legendary": true,
     "abilities": [
       "Serene Grace"
     ],
@@ -23147,6 +23302,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "Over 300 million years ago, it was feared as the strongest of hunters. It has been modified by Team Plasma.",
+    "legendary": true,
     "abilities": [
       "Download"
     ],
@@ -23298,6 +23454,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "For some time after its birth, it grows by gaining nourishment from the seed on its back.",
+    "legendary": false,
     "abilities": [
       "Overgrow"
     ],
@@ -23419,6 +23576,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flower’s coming bloom.",
+    "legendary": false,
     "abilities": [
       "Overgrow"
     ],
@@ -23545,6 +23703,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon.",
+    "legendary": false,
     "abilities": [
       "Overgrow"
     ],
@@ -23699,6 +23858,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely.",
+    "legendary": false,
     "abilities": [
       "Blaze"
     ],
@@ -23824,6 +23984,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars.",
+    "legendary": false,
     "abilities": [
       "Blaze"
     ],
@@ -23969,6 +24130,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It is said that Charizard’s fire burns hotter if it has experienced harsh battles.",
+    "legendary": false,
     "abilities": [
       "Blaze"
     ],
@@ -24133,6 +24295,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It shelters itself in its shell, then strikes back with spouts of water at every opportunity.",
+    "legendary": false,
     "abilities": [
       "Torrent"
     ],
@@ -24258,6 +24421,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity.",
+    "legendary": false,
     "abilities": [
       "Torrent"
     ],
@@ -24388,6 +24552,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel.",
+    "legendary": false,
     "abilities": [
       "Torrent"
     ],
@@ -24546,6 +24711,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly.",
+    "legendary": false,
     "abilities": [
       "Shield Dust",
       "Run Away"
@@ -24603,6 +24769,7 @@
     "catchRate": 120,
     "hatchSteps": 4080,
     "flavorText": "A steel-hard shell protects its tender body. It quietly endures hardships while awaiting evolution.",
+    "legendary": false,
     "abilities": [
       "Shed Skin",
       "Shed Skin"
@@ -24674,6 +24841,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.",
+    "legendary": false,
     "abilities": [
       "Compoundeyes",
       "Tinted Lens"
@@ -24826,6 +24994,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "It eats its weight in leaves every day. It fends off attackers with the needle on its head.",
+    "legendary": false,
     "abilities": [
       "Shield Dust",
       "Run Away"
@@ -24884,6 +25053,7 @@
     "catchRate": 120,
     "hatchSteps": 4080,
     "flavorText": "While awaiting evolution, it hides from predators under leaves and in nooks of branches.",
+    "legendary": false,
     "abilities": [
       "Shed Skin",
       "Shed Skin"
@@ -24955,6 +25125,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "Its best attack involves flying around at high speed, striking with poison needles, then flying off.",
+    "legendary": false,
     "abilities": [
       "Swarm",
       "Sniper"
@@ -25097,6 +25268,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "It is docile and prefers to avoid conflict. If disturbed, however, it can ferociously strike back.",
+    "legendary": false,
     "abilities": [
       "Keen Eye",
       "Big Pecks"
@@ -25229,6 +25401,7 @@
     "catchRate": 120,
     "hatchSteps": 4080,
     "flavorText": "It flies over its wide territory in search of prey, downing it with its highly developed claws.",
+    "legendary": false,
     "abilities": [
       "Keen eye",
       "Big Pecks"
@@ -25366,6 +25539,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "By flapping its wings with all its might, Pidgeot can make a gust of wind capable of bending tall trees.",
+    "legendary": false,
     "abilities": [
       "Keen Eye",
       "Big Pecks"
@@ -25517,6 +25691,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "Cautious in the extreme, its hardy vitality lets it live in any kind of environment.",
+    "legendary": false,
     "abilities": [
       "Guts",
       "Hustle"
@@ -25659,6 +25834,7 @@
     "catchRate": 127,
     "hatchSteps": 4080,
     "flavorText": "It whittles its constantly growing fangs by gnawing on hard things. It can chew apart cinder walls.",
+    "legendary": false,
     "abilities": [
       "Guts",
       "Hustle"
@@ -25822,6 +25998,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "It flaps its small wings busily to fly. Using its beak, it searches in grass for prey.",
+    "legendary": false,
     "abilities": [
       "Keen Eye",
       "Sniper"
@@ -25940,6 +26117,7 @@
     "catchRate": 90,
     "hatchSteps": 4080,
     "flavorText": "It has the stamina to fly all day on its broad wings. It fights by using its sharp beak.",
+    "legendary": false,
     "abilities": [
       "Keen Eye",
       "Sniper"
@@ -26087,6 +26265,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "It sneaks through grass without making a sound and strikes unsuspecting prey from behind.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Shed Skin"
@@ -26222,6 +26401,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "The pattern on its belly is for intimidation. It constricts foes while they are frozen in fear.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Shed Skin"
@@ -26387,6 +26567,7 @@
     "catchRate": 190,
     "hatchSteps": 2805,
     "flavorText": "It occasionally uses an electric shock to recharge a fellow Pikachu that is in a weakened state.",
+    "legendary": false,
     "abilities": [
       "Static",
       "Lightningrod"
@@ -26542,6 +26723,7 @@
     "catchRate": 75,
     "hatchSteps": 2805,
     "flavorText": "Its tail discharges electricity into the ground, protecting it from getting shocked.",
+    "legendary": false,
     "abilities": [
       "Static",
       "Lightningrod"
@@ -26709,6 +26891,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "To protect itself from attackers, it curls up into a ball. It lives in arid regions with minimal rainfall.",
+    "legendary": false,
     "abilities": [
       "Sand Veil",
       "Sand Rush"
@@ -26850,6 +27033,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "It curls up, then rolls into foes with its back. Its sharp spines inflict severe damage.",
+    "legendary": false,
     "abilities": [
       "Sand Veil",
       "Sand Rush"
@@ -27002,6 +27186,7 @@
     "catchRate": 235,
     "hatchSteps": 5355,
     "flavorText": "While it does not prefer to fight, even one drop of the poison it secretes from barbs can be fatal.",
+    "legendary": false,
     "abilities": [
       "Poison Point",
       "Hustle"
@@ -27143,6 +27328,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "When it senses danger, it raises all the barbs on its body. These barbs grow slower than Nidorino’s.",
+    "legendary": false,
     "abilities": [
       "Poison Point",
       "Hustle"
@@ -27285,6 +27471,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Its entire body is armored with hard scales. It will protect the young in its burrow with its life.",
+    "legendary": false,
     "abilities": [
       "Poison Point",
       "Sheer Force"
@@ -27452,6 +27639,7 @@
     "catchRate": 235,
     "hatchSteps": 5355,
     "flavorText": "It scans its surroundings by raising its ears out of the grass. Its toxic horn is for protection.",
+    "legendary": false,
     "abilities": [
       "Poison Point",
       "Hustle"
@@ -27594,6 +27782,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "It has a violent disposition and stabs foes with its horn, which oozes poison upon impact.",
+    "legendary": false,
     "abilities": [
       "Poison Point",
       "Hustle"
@@ -27737,6 +27926,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "One swing of its mighty tail can snap a telephone pole as if it were a matchstick.",
+    "legendary": false,
     "abilities": [
       "Poison Point",
       "Sheer Force"
@@ -27903,6 +28093,7 @@
     "catchRate": 150,
     "hatchSteps": 2805,
     "flavorText": "It is said that happiness will come to those who see a gathering of Clefairy dancing under a full moon.",
+    "legendary": false,
     "abilities": [
       "Cute Charm",
       "Magic Guard"
@@ -28052,6 +28243,7 @@
     "catchRate": 25,
     "hatchSteps": 2805,
     "flavorText": "It is very wary and rarely shows itself to people. Its ears can hear a pin drop over half a mile away.",
+    "legendary": false,
     "abilities": [
       "Cute Charm",
       "Magic Guard"
@@ -28211,6 +28403,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "It controls balls of fire. As it grows, its six tails split from their tips to make more tails.",
+    "legendary": false,
     "abilities": [
       "Flash Fire"
     ],
@@ -28365,6 +28558,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "Its nine tails are said to be imbued with a mystic power. It can live for a thousand years.",
+    "legendary": false,
     "abilities": [
       "Flash Fire"
     ],
@@ -28535,6 +28729,7 @@
     "catchRate": 170,
     "hatchSteps": 2805,
     "flavorText": "When it wavers its big, round eyes, it begins singing a lullaby that makes everyone drowsy.",
+    "legendary": false,
     "abilities": [
       "Cute Charm",
       "Friend Guard"
@@ -28702,6 +28897,7 @@
     "catchRate": 50,
     "hatchSteps": 2805,
     "flavorText": "Its fine fur feels sublime to the touch. It can expand its body by inhaling air.",
+    "legendary": false,
     "abilities": [
       "Cute Charm",
       "Frisk"
@@ -28874,6 +29070,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "It checks its surroundings and location using reflections of the ultrasonic waves from its mouth.",
+    "legendary": false,
     "abilities": [
       "Inner Focus"
     ],
@@ -29018,6 +29215,7 @@
     "catchRate": 90,
     "hatchSteps": 4080,
     "flavorText": "Its sharp fangs puncture the toughest of hides and have small holes for greedily sucking blood.",
+    "legendary": false,
     "abilities": [
       "Inner Focus"
     ],
@@ -29177,6 +29375,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "It often plants its root feet in the ground during the day and sows seeds as it walks about at night.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll"
     ],
@@ -29292,6 +29491,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "The honey it drools from its mouth smells so atrocious, it can curl noses more than a mile away.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll"
     ],
@@ -29412,6 +29612,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Its petals are the largest in the world. As it walks, it scatters extremely allergenic pollen.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll"
     ],
@@ -29562,6 +29763,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "Mushrooms named tochukaso grow on its back. They grow along with the host Paras.",
+    "legendary": false,
     "abilities": [
       "Effect Spore",
       "Dry Skin"
@@ -29684,6 +29886,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "A mushroom grown larger than the host’s body controls Parasect. It scatters poisonous spores.",
+    "legendary": false,
     "abilities": [
       "Effect Spore",
       "Dry Skin"
@@ -29819,6 +30022,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "Its big eyes are actually clusters of tiny eyes. At night, its kind is drawn by light.",
+    "legendary": false,
     "abilities": [
       "Compoundeyes",
       "Tinted Lens"
@@ -29950,6 +30154,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "It flutters its wings to scatter dustlike scales. The scales leach toxins if they contact skin.",
+    "legendary": false,
     "abilities": [
       "Shield Dust",
       "Tinted Lens"
@@ -30109,6 +30314,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "A Pokémon that lives underground. Because of its dark habitat, it is repelled by bright sunlight.",
+    "legendary": false,
     "abilities": [
       "Arena Trap",
       "Sand Force"
@@ -30226,6 +30432,7 @@
     "catchRate": 50,
     "hatchSteps": 5355,
     "flavorText": "Its three heads move alternately, driving it through tough soil to depths of over 60 miles.",
+    "legendary": false,
     "abilities": [
       "Arena Trap",
       "Sand Force"
@@ -30362,6 +30569,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "It is nocturnal in nature. If it spots something shiny, its eyes glitter brightly.",
+    "legendary": false,
     "abilities": [
       "Pickup",
       "Technician"
@@ -30501,6 +30709,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "A very haughty Pokémon. Among fans, the size of the jewel in its forehead is a topic of much talk.",
+    "legendary": false,
     "abilities": [
       "Limber",
       "Technician"
@@ -30666,6 +30875,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "Overwhelmed by enigmatic abilities, it suffers a constant headache. It sometimes uses mysterious powers.",
+    "legendary": false,
     "abilities": [
       "Cloud Nine",
       "Swift Swim"
@@ -30808,6 +31018,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "It is seen swimming dynamically and elegantly using its well-developed limbs and flippers.",
+    "legendary": false,
     "abilities": [
       "Cloud Nine",
       "Swift Swim"
@@ -30970,6 +31181,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "It lives in treetop colonies. If one becomes enraged, the whole colony rampages for no reason.",
+    "legendary": false,
     "abilities": [
       "Anger Point",
       "Defiant"
@@ -31112,6 +31324,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "It grows angry if you see its eyes and gets angrier if you run. If you beat it, it gets even madder.",
+    "legendary": false,
     "abilities": [
       "Anger Point",
       "Defiant"
@@ -31268,6 +31481,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "A Pokémon with a loyal nature. It will remain motionless until it is given an order by its Trainer.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Justified"
@@ -31404,6 +31618,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "Its proud and regal appearance has captured the hearts of people since long ago.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Justified"
@@ -31560,6 +31775,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "Its skin is so thin, its internal organs are visible. It has trouble walking on its newly grown feet.",
+    "legendary": false,
     "abilities": [
       "Water Absorb",
       "Swift Swim"
@@ -31691,6 +31907,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "The spiral pattern on its belly subtly undulates. Staring at it gradually causes drowsiness.",
+    "legendary": false,
     "abilities": [
       "Water Absorb",
       "Swift Swim"
@@ -31835,6 +32052,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "With its extremely tough muscles, it can keep swimming in the Pacific Ocean without resting.",
+    "legendary": false,
     "abilities": [
       "Water Absorb",
       "Swift Swim"
@@ -31991,6 +32209,7 @@
     "catchRate": 200,
     "hatchSteps": 5355,
     "flavorText": "Using its psychic power is such a strain on its brain that it needs to sleep for 18 hours a day.",
+    "legendary": false,
     "abilities": [
       "Inner Focus",
       "Magic Guard"
@@ -32038,6 +32257,7 @@
     "catchRate": 100,
     "hatchSteps": 5355,
     "flavorText": "It stares at its silver spoon to focus its mind. It emits more alpha waves while doing so.",
+    "legendary": false,
     "abilities": [
       "Inner Focus",
       "Magic Guard"
@@ -32152,6 +32372,7 @@
     "catchRate": 50,
     "hatchSteps": 5355,
     "flavorText": "The spoons clutched in its hands are said to have been created by its psychic powers.",
+    "legendary": false,
     "abilities": [
       "Inner Focus",
       "Magic Guard"
@@ -32274,6 +32495,7 @@
     "catchRate": 180,
     "hatchSteps": 5355,
     "flavorText": "Though small in stature, it is powerful enough to easily heft and throw a number of Geodude at once.",
+    "legendary": false,
     "abilities": [
       "Guts",
       "No Guard"
@@ -32404,6 +32626,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "It happily carries heavy cargo to toughen up. It willingly does hard work for people.",
+    "legendary": false,
     "abilities": [
       "Guts",
       "No Guard"
@@ -32551,6 +32774,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Its four muscled arms slam foes with powerful punches and chops at blinding speed.",
+    "legendary": false,
     "abilities": [
       "Guts",
       "No Guard"
@@ -32702,6 +32926,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "It prefers hot and humid environments. It is quick at capturing prey with its vines.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll",
       "Gluttony"
@@ -32826,6 +33051,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "A Pokémon that appears to be a plant. It captures unwary prey by dousing them with a toxic powder.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll",
       "Gluttony"
@@ -32960,6 +33186,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It pools in its mouth a fluid with a honeylike scent, which is really an acid that dissolves anything.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll",
       "Gluttony"
@@ -33133,6 +33360,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "Because its body is almost entirely composed of water, it shrivels up if it is washed ashore.",
+    "legendary": false,
     "abilities": [
       "Liquid Ooze",
       "Rain Dish"
@@ -33261,6 +33489,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "It extends its 80 tentacles to form an encircling poisonous net that is difficult to escape.",
+    "legendary": false,
     "abilities": [
       "Liquid Ooze",
       "Rain Dish"
@@ -33394,6 +33623,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "At rest, it looks just like a rock. Carelessly stepping on it will make it swing its fists angrily.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Rock Head"
@@ -33526,6 +33756,7 @@
     "catchRate": 120,
     "hatchSteps": 4080,
     "flavorText": "It rolls on mountain paths to move. Once it builds momentum, no Pokémon can stop it without difficulty.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Rock Head"
@@ -33665,6 +33896,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "Even dynamite can’t harm its hard, boulderlike body. It sheds its hide just once a year.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Rock Head"
@@ -33821,6 +34053,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "As a newborn, it can barely stand. However, through galloping, its legs are made tougher and faster.",
+    "legendary": false,
     "abilities": [
       "Flash Fire",
       "Flame Body"
@@ -33950,6 +34183,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "When at an all-out gallop, its blazing mane sparkles, enhancing its beautiful appearance.",
+    "legendary": false,
     "abilities": [
       "Flash Fire",
       "Flame Body"
@@ -34114,6 +34348,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "Although slow, it is skilled at fishing with its tail. It does not feel pain if its tail is bitten.",
+    "legendary": false,
     "abilities": [
       "Own Tempo",
       "Regenerator"
@@ -34265,6 +34500,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "Though usually dim witted, it seems to become inspired if the Shellder on its tail bites down.",
+    "legendary": false,
     "abilities": [
       "Own Tempo",
       "Regenerator"
@@ -34409,6 +34645,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "The faster the units at its sides rotate, the greater the magnetic force they generate.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Analytic"
@@ -34542,6 +34779,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "Many mysteriously appear when more sunspots dot the sun. They stop TV sets from displaying properly.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Analytic"
@@ -34681,6 +34919,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It can’t live without the stalk it holds. That’s why it defends the stalk from attackers with its life.",
+    "legendary": false,
     "abilities": [
       "Keen Eye",
       "Defiant"
@@ -34844,6 +35083,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "The brains in its two heads appear to communicate emotions to each other with a telepathic power.",
+    "legendary": false,
     "abilities": [
       "Run Away",
       "Early Bird"
@@ -34971,6 +35211,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "When Doduo evolves into this odd breed, one of its heads splits into two. It runs at nearly 40 mph.",
+    "legendary": false,
     "abilities": [
       "Run Away",
       "Early Bird"
@@ -35127,6 +35368,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "A Pokémon that lives on icebergs. It swims in the sea using the point on its head to break up ice.",
+    "legendary": false,
     "abilities": [
       "Thick Fat",
       "Hydration"
@@ -35263,6 +35505,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "In snow, the pure white coat covering its body obscures it from predators.",
+    "legendary": false,
     "abilities": [
       "Thick Fat",
       "Hydration"
@@ -35417,6 +35660,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "It was born when sludge in a dirty stream was exposed to the moon’s X-rays. It appears among filth.",
+    "legendary": false,
     "abilities": [
       "Stench",
       "Poison Touch"
@@ -35555,6 +35799,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "A toxic fluid seeps from its body. The fluid instantly kills plants and trees on contact.",
+    "legendary": false,
     "abilities": [
       "Stench",
       "Poison Touch"
@@ -35716,6 +35961,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "It swims backward by opening and closing its two shells. Its large tongue is always kept hanging out.",
+    "legendary": false,
     "abilities": [
       "Shell Armor",
       "Skill Link"
@@ -35837,6 +36083,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "It fights by keeping its shell tightly shut for protection and by shooting spikes to repel foes.",
+    "legendary": false,
     "abilities": [
       "Shell Armor",
       "Skill Link"
@@ -35992,6 +36239,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "Born from gases, anyone would faint if engulfed by its gaseous body, which contains poison.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -36118,6 +36366,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "It likes to lurk in the dark and tap shoulders with a gaseous hand. Its touch causes endless shuddering.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -36250,6 +36499,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "The leer that floats in darkness belongs to a Gengar delighting in casting curses on people.",
+    "legendary": false,
     "abilities": [
       "Cursed Body"
     ],
@@ -36402,6 +36652,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "It burrows through the ground at a speed of 50 mph while feeding on large boulders.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Rock Head"
@@ -36553,6 +36804,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "It can tell what people are dreaming by sniffing with its big nose. It loves fun dreams.",
+    "legendary": false,
     "abilities": [
       "Insomnia",
       "Forewarn"
@@ -36687,6 +36939,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "Seeing its swinging pendulum can induce sleep in three seconds, even in someone who just woke up.",
+    "legendary": false,
     "abilities": [
       "Insomnia",
       "Forewarn"
@@ -36851,6 +37104,7 @@
     "catchRate": 225,
     "hatchSteps": 5355,
     "flavorText": "It lives in burrows dug on sandy beaches. Its pincers fully grow back if they are broken in battle.",
+    "legendary": false,
     "abilities": [
       "Shell Armor",
       "Sheer Force"
@@ -36979,6 +37233,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "The larger pincer has 10,000- horsepower strength. However, it is so heavy, it is difficult to aim.",
+    "legendary": false,
     "abilities": [
       "Shell Armor",
       "Sheer Force"
@@ -37131,6 +37386,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "It looks just like a Poké Ball. It is dangerous because it may electrocute or explode on touch.",
+    "legendary": false,
     "abilities": [
       "Soundproof",
       "Aftermath"
@@ -37282,6 +37538,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "It is known to drift on winds if it is bloated to bursting with stored electricity.",
+    "legendary": false,
     "abilities": [
       "Soundproof",
       "Aftermath"
@@ -37453,6 +37710,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "Its six eggs converse using telepathy. They can quickly gather if they become separated.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll",
       "Harvest"
@@ -37576,6 +37834,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It is called “The Walking Jungle.” If a head grows too big, it falls off and becomes an Exeggcute.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll",
       "Harvest"
@@ -37737,6 +37996,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "When it thinks of its dead mother, it cries. Its crying makes the skull it wears rattle hollowly.",
+    "legendary": false,
     "abilities": [
       "Rock Head",
       "Battle Armor"
@@ -37869,6 +38129,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "From its birth, this savage Pokémon constantly holds bones. It is skilled in using them as weapons.",
+    "legendary": false,
     "abilities": [
       "Rock Head",
       "Battle Armor"
@@ -38035,6 +38296,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "Its legs can stretch double. First-time foes are startled by its extensible reach.",
+    "legendary": false,
     "abilities": [
       "Limber",
       "Reckless"
@@ -38145,6 +38407,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "The arm-twisting punches it throws pulverize even concrete. It rests after three minutes of fighting.",
+    "legendary": false,
     "abilities": [
       "Keen Eye",
       "Iron Fist"
@@ -38265,6 +38528,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "When it extends its over-six-foot- long tongue, its tail quivers. There is a possibility they are connected.",
+    "legendary": false,
     "abilities": [
       "Own Tempo",
       "Oblivious"
@@ -38399,6 +38663,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "Lighter-than-air gases in its body keep it aloft. The gases not only smell, they are also explosive.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -38533,6 +38798,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "It grows by feeding on gases released by garbage. Though very rare, triplets have been found.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -38679,6 +38945,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "Its powerful tackles can destroy anything. However, it is too slow witted to help people work.",
+    "legendary": false,
     "abilities": [
       "Lightningrod",
       "Rock Head"
@@ -38818,6 +39085,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "Standing on its hind legs freed its forelegs and made it smarter. It is very forgetful, however.",
+    "legendary": false,
     "abilities": [
       "Lightningrod",
       "Rock Head"
@@ -38970,6 +39238,7 @@
     "catchRate": 30,
     "hatchSteps": 10455,
     "flavorText": "A kindly Pokémon that lays highly nutritious eggs and shares them with injured Pokémon or people.",
+    "legendary": false,
     "abilities": [
       "Natural Cure",
       "Serene Grace"
@@ -39100,6 +39369,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "The blue vines shrouding its body are covered in a growth of fine hair. It is known to be ticklish.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll",
       "Regenerator"
@@ -39227,6 +39497,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It raises its offspring in its belly pouch. It lets the baby out to play only when it feels safe.",
+    "legendary": false,
     "abilities": [
       "Early Bird",
       "Scrappy"
@@ -39382,6 +39653,7 @@
     "catchRate": 225,
     "hatchSteps": 5355,
     "flavorText": "It makes its nest in the shade of corals. If it senses danger, it spits murky ink and flees.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Sniper"
@@ -39488,6 +39760,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "Its spines provide protection. Its fins and bones are prized as traditional medicine ingredients.",
+    "legendary": false,
     "abilities": [
       "Poison Point",
       "Sniper"
@@ -39600,6 +39873,7 @@
     "catchRate": 225,
     "hatchSteps": 5355,
     "flavorText": "Though it appears very elegant when swimming with fins unfurled, it can jab powerfully with its horn.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Lightningrod"
@@ -39746,6 +40020,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "In autumn, its body becomes more fatty in preparing to propose to a mate. It takes on beautiful colors.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Lightningrod"
@@ -39907,6 +40182,7 @@
     "catchRate": 225,
     "hatchSteps": 5355,
     "flavorText": "If its body is torn, it can grow back if the red core remains. The core flashes at midnight.",
+    "legendary": false,
     "abilities": [
       "Natural Cure",
       "Analytic"
@@ -40049,6 +40325,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "At the center of its body is a red core, which sends mysterious radio signals into the night sky.",
+    "legendary": false,
     "abilities": [
       "Natural Cure",
       "Analytic"
@@ -40217,6 +40494,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "It shapes an invisible wall in midair by minutely vibrating its fingertips to stop molecules in the air.",
+    "legendary": false,
     "abilities": [
       "Soundproof",
       "Technician"
@@ -40374,6 +40652,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "The sharp scythes on its forearms become increasingly sharp by cutting through hard objects.",
+    "legendary": false,
     "abilities": [
       "Swarm",
       "Technician"
@@ -40507,6 +40786,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "Its cries sound like human speech. However, it is impossible to tell what it is trying to say.",
+    "legendary": false,
     "abilities": [
       "Forewarn",
       "Dry Skin"
@@ -40654,6 +40934,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "It windmills its arms to slightly boost its punches. Foes have been known to escape in the meantime.",
+    "legendary": false,
     "abilities": [
       "Static",
       "Vital Spirit"
@@ -40798,6 +41079,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "When it breathes deeply, heat waves form around its body, making it hard to see clearly.",
+    "legendary": false,
     "abilities": [
       "Flame Body",
       "Vital Spirit"
@@ -40937,6 +41219,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "It grips prey with its pincers until the prey is torn in half. What it can’t tear, it tosses far.",
+    "legendary": false,
     "abilities": [
       "Mold Breaker",
       "Moxie"
@@ -41059,6 +41342,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Once it takes aim at its foe, it makes a headlong charge. It is famous for its violent nature.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Sheer Force"
@@ -41197,6 +41481,7 @@
     "catchRate": 255,
     "hatchSteps": 1530,
     "flavorText": "A Magikarp living for many years can leap a mountain using Splash. The move remains useless, though.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Rattled"
@@ -41261,6 +41546,7 @@
     "catchRate": 45,
     "hatchSteps": 1530,
     "flavorText": "Once it begins to rampage, a Gyarados will burn everything down, even in a harsh storm.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Moxie"
@@ -41365,6 +41651,7 @@
     "catchRate": 45,
     "hatchSteps": 10455,
     "flavorText": "It loves crossing the sea with people and Pokémon on its back. It understands human speech.",
+    "legendary": false,
     "abilities": [
       "Shell Armor",
       "Water Absorb"
@@ -41503,6 +41790,7 @@
     "catchRate": 35,
     "hatchSteps": 5355,
     "flavorText": "It has the ability to reconstitute its entire cellular structure to transform into whatever it sees.",
+    "legendary": false,
     "abilities": [
       "Limber"
     ],
@@ -41542,6 +41830,7 @@
     "catchRate": 45,
     "hatchSteps": 9180,
     "flavorText": "Because its genetic makeup is irregular, it quickly changes its form due to a variety of causes.",
+    "legendary": false,
     "abilities": [
       "Run Away",
       "Adaptability"
@@ -41657,6 +41946,7 @@
     "catchRate": 45,
     "hatchSteps": 9180,
     "flavorText": "Its cell composition is similar to water molecules. As a result, it can melt away into water.",
+    "legendary": false,
     "abilities": [
       "Water Absorb",
       "Hydration"
@@ -41774,6 +42064,7 @@
     "catchRate": 45,
     "hatchSteps": 9180,
     "flavorText": "If agitated, it uses electricity to straighten out its fur and launch it in small bunches.",
+    "legendary": false,
     "abilities": [
       "Volt Absorb",
       "Quick Feet"
@@ -41891,6 +42182,7 @@
     "catchRate": 45,
     "hatchSteps": 9180,
     "flavorText": "Inhaled air is heated in the flame sac in its body to an intense fire over 3,000 degrees Fahrenheit.",
+    "legendary": false,
     "abilities": [
       "Flash Fire",
       "Guts"
@@ -42017,6 +42309,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "A man-made Pokémon created using advanced scientific means. It can move freely in cyberspace.",
+    "legendary": false,
     "abilities": [
       "Trace",
       "Download"
@@ -42152,6 +42445,7 @@
     "catchRate": 45,
     "hatchSteps": 7905,
     "flavorText": "A Pokémon that was resurrected from a fossil using modern science. It swam in ancient seas.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Shell Armor"
@@ -42284,6 +42578,7 @@
     "catchRate": 45,
     "hatchSteps": 7905,
     "flavorText": "It is thought that this Pokémon became extinct because its spiral shell grew too large.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Shell Armor"
@@ -42421,6 +42716,7 @@
     "catchRate": 45,
     "hatchSteps": 7905,
     "flavorText": "It is thought to have inhabited beaches 300 million years ago. It is protected by a stiff shell.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Battle Armor"
@@ -42553,6 +42849,7 @@
     "catchRate": 45,
     "hatchSteps": 7905,
     "flavorText": "It is thought that this Pokémon came onto land because its prey adapted to life on land.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Battle Armor"
@@ -42689,6 +42986,7 @@
     "catchRate": 45,
     "hatchSteps": 9180,
     "flavorText": "A Pokémon that roamed the skies in the dinosaur era. Its teeth are like saw blades.",
+    "legendary": false,
     "abilities": [
       "Rock Head",
       "Unnerve"
@@ -42836,6 +43134,7 @@
     "catchRate": 25,
     "hatchSteps": 10455,
     "flavorText": "When its belly is full, it becomes too lethargic to even lift a finger, so it is safe to bounce on its belly.",
+    "legendary": false,
     "abilities": [
       "Immunity",
       "Thick Fat"
@@ -42992,6 +43291,7 @@
     "catchRate": 3,
     "hatchSteps": 20655,
     "flavorText": "A legendary bird Pokémon. It can create blizzards by freezing moisture in the air.",
+    "legendary": true,
     "abilities": [
       "Pressure",
       "Snow Cloak"
@@ -43146,6 +43446,7 @@
     "catchRate": 3,
     "hatchSteps": 20655,
     "flavorText": "A legendary Pokémon that is said to live in thunderclouds. It freely controls lightning bolts.",
+    "legendary": true,
     "abilities": [
       "Pressure",
       "Lightningrod"
@@ -43284,6 +43585,7 @@
     "catchRate": 3,
     "hatchSteps": 20655,
     "flavorText": "One of the legendary bird Pokémon. It is said that its appearance indicates the coming of spring.",
+    "legendary": true,
     "abilities": [
       "Pressure",
       "Flame Body"
@@ -43433,6 +43735,7 @@
     "catchRate": 45,
     "hatchSteps": 10455,
     "flavorText": "It is called the “Mirage Pokémon” because so few have seen it. Its shed skin has been found.",
+    "legendary": false,
     "abilities": [
       "Shed Skin",
       "Marvel Scale"
@@ -43556,6 +43859,7 @@
     "catchRate": 45,
     "hatchSteps": 10455,
     "flavorText": "If its body takes on an aura, the weather changes instantly. It is said to live in seas and lakes.",
+    "legendary": false,
     "abilities": [
       "Shed Skin",
       "Marvel Scale"
@@ -43694,6 +43998,7 @@
     "catchRate": 45,
     "hatchSteps": 10455,
     "flavorText": "It is said to make its home somewhere in the sea. It guides crews of shipwrecks to shore.",
+    "legendary": false,
     "abilities": [
       "Inner Focus",
       "Multiscale"
@@ -43851,6 +44156,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "A Pokémon created by recombining Mew’s genes. It’s said to have the most savage heart among Pokémon.",
+    "legendary": true,
     "abilities": [
       "Pressure",
       "Unnerve"
@@ -43998,6 +44304,7 @@
     "catchRate": 45,
     "hatchSteps": 30855,
     "flavorText": "Because it can use all kinds of moves, many scientists believe Mew to be the ancestor of Pokémon.",
+    "legendary": true,
     "abilities": [
       "Synchronize"
     ],
@@ -44148,6 +44455,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It uses the leaf on its head to determine the temperature and humidity. It loves to sunbathe.",
+    "legendary": false,
     "abilities": [
       "Overgrow"
     ],
@@ -44268,6 +44576,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "The buds that ring its neck give off a spicy aroma that perks people up.",
+    "legendary": false,
     "abilities": [
       "Overgrow"
     ],
@@ -44393,6 +44702,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Its breath has the fantastic ability to revive dead plants and flowers.",
+    "legendary": false,
     "abilities": [
       "Overgrow"
     ],
@@ -44551,6 +44861,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It has a timid nature. If it is startled, the flames on its back burn more vigorously.",
+    "legendary": false,
     "abilities": [
       "Blaze"
     ],
@@ -44670,6 +44981,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It intimidates foes with the heat of its flames. The fire burns more strongly when it readies to fight.",
+    "legendary": false,
     "abilities": [
       "Blaze"
     ],
@@ -44794,6 +45106,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It attacks using blasts of fire. It creates heat shimmers with intense fire to hide itself.",
+    "legendary": false,
     "abilities": [
       "Blaze"
     ],
@@ -44943,6 +45256,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It has the habit of biting anything with its developed jaws. Even its Trainer needs to be careful.",
+    "legendary": false,
     "abilities": [
       "Torrent"
     ],
@@ -45063,6 +45377,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Once it bites down, it won’t let go until it loses its fangs. New fangs quickly grow into place.",
+    "legendary": false,
     "abilities": [
       "Torrent"
     ],
@@ -45188,6 +45503,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It usually moves slowly, but it goes at blinding speed when it attacks and bites prey.",
+    "legendary": false,
     "abilities": [
       "Torrent"
     ],
@@ -45341,6 +45657,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "It has a very nervous nature. It stands up high on its tail so it can scan wide areas.",
+    "legendary": false,
     "abilities": [
       "Keen Eye",
       "Frisk"
@@ -45482,6 +45799,7 @@
     "catchRate": 90,
     "hatchSteps": 4080,
     "flavorText": "The mother puts its offspring to sleep by curling up around them. It corners foes with speed.",
+    "legendary": false,
     "abilities": [
       "Keen Eye",
       "Frisk"
@@ -45649,6 +45967,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "It marks time precisely. Some countries consider it to be a wise friend, versed in the world’s ways.",
+    "legendary": false,
     "abilities": [
       "Insomnia",
       "Tinted Lens"
@@ -45802,6 +46121,7 @@
     "catchRate": 90,
     "hatchSteps": 4080,
     "flavorText": "Its eyes are specially developed to enable it to see clearly even in murky darkness and minimal light.",
+    "legendary": false,
     "abilities": [
       "Insomnia",
       "Tinted Lens"
@@ -45975,6 +46295,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "It is so timid, it can’t move if it isn’t with a swarm of others. It conveys its feelings with scent.",
+    "legendary": false,
     "abilities": [
       "Swarm",
       "Early Bird"
@@ -46136,6 +46457,7 @@
     "catchRate": 90,
     "hatchSteps": 4080,
     "flavorText": "It uses starlight as energy. When more stars appear at night, the patterns on its back grow larger.",
+    "legendary": false,
     "abilities": [
       "Swarm",
       "Iron Fist"
@@ -46309,6 +46631,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "It sets a trap by spinning a web with thin but strong silk. It waits motionlessly for prey to arrive.",
+    "legendary": false,
     "abilities": [
       "Swarm",
       "Sniper"
@@ -46467,6 +46790,7 @@
     "catchRate": 90,
     "hatchSteps": 4080,
     "flavorText": "It attaches silk to its prey and sets it free. Later, it tracks the silk to the prey and its friends.",
+    "legendary": false,
     "abilities": [
       "Swarm",
       "Sniper"
@@ -46635,6 +46959,7 @@
     "catchRate": 90,
     "hatchSteps": 4080,
     "flavorText": "The transformation of its legs into wings made it better at flying, but more clumsy at walking.",
+    "legendary": false,
     "abilities": [
       "Inner Focus"
     ],
@@ -46799,6 +47124,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "It discharges positive and negative electricity from its antenna tips to shock its foes.",
+    "legendary": false,
     "abilities": [
       "Volt Absorb",
       "Illuminate"
@@ -46939,6 +47265,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "Lanturn’s light can shine up from great depths. It is nicknamed “The Deep-Sea Star.”",
+    "legendary": false,
     "abilities": [
       "Volt Absorb",
       "Illuminate"
@@ -47098,6 +47425,7 @@
     "catchRate": 190,
     "hatchSteps": 2805,
     "flavorText": "The electric sacs in its cheeks are small. If even a little electricity leaks, it becomes shocked.",
+    "legendary": false,
     "abilities": [
       "Static",
       "Lightningrod"
@@ -47175,6 +47503,7 @@
     "catchRate": 150,
     "hatchSteps": 2805,
     "flavorText": "It is often seen when shooting stars fill the night skies. It’s said to arrive riding on a shooting star.",
+    "legendary": false,
     "abilities": [
       "Cute Charm",
       "Magic Guard"
@@ -47251,6 +47580,7 @@
     "catchRate": 170,
     "hatchSteps": 2805,
     "flavorText": "It has a soft and bouncy body. Once it starts bouncing, it becomes impossible to stop.",
+    "legendary": false,
     "abilities": [
       "Cute Charm",
       "Friend Guard"
@@ -47328,6 +47658,7 @@
     "catchRate": 190,
     "hatchSteps": 2805,
     "flavorText": "It transforms the kindness and joy of others into happiness, which it stores in its shell.",
+    "legendary": false,
     "abilities": [
       "Serene Grace",
       "Super Luck"
@@ -47457,6 +47788,7 @@
     "catchRate": 75,
     "hatchSteps": 2805,
     "flavorText": "To share its happiness, it flies around the world seeking kind- hearted people.",
+    "legendary": false,
     "abilities": [
       "Serene Grace",
       "Super Luck"
@@ -47595,6 +47927,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "It picks food from cactus plants, deftly avoiding buds and spines. It seems to skip about to move.",
+    "legendary": false,
     "abilities": [
       "Early Bird",
       "Magic Bounce"
@@ -47757,6 +48090,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "This odd Pokémon can see both the past and the future. It eyes the sun’s movement all day.",
+    "legendary": false,
     "abilities": [
       "Early Bird",
       "Magic Bounce"
@@ -47924,6 +48258,7 @@
     "catchRate": 235,
     "hatchSteps": 5355,
     "flavorText": "Its fluffy coat swells to double when static electricity builds up. Touching it can be shocking.",
+    "legendary": false,
     "abilities": [
       "Static"
     ],
@@ -48065,6 +48400,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "If its coat becomes fully charged with electricity, its tail lights up. It fires hair that zaps on impact.",
+    "legendary": false,
     "abilities": [
       "Static"
     ],
@@ -48206,6 +48542,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "The tip of its tail shines brightly. In the olden days, people sent signals using the tail’s light.",
+    "legendary": false,
     "abilities": [
       "Static"
     ],
@@ -48371,6 +48708,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "When the heavy rainfall season ends, it is drawn out by warm sunlight to dance in the open.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll"
     ],
@@ -48542,6 +48880,7 @@
     "catchRate": 190,
     "hatchSteps": 2805,
     "flavorText": "The oil-filled end of its tail floats on water. It keeps Marill from drowning even in a strong current.",
+    "legendary": false,
     "abilities": [
       "Thick Fat",
       "Huge Power"
@@ -48673,6 +49012,7 @@
     "catchRate": 75,
     "hatchSteps": 2805,
     "flavorText": "It can spend all day in water, since it can inhale and store a large volume of air.",
+    "legendary": false,
     "abilities": [
       "Thick Fat",
       "Huge Power"
@@ -48822,6 +49162,7 @@
     "catchRate": 65,
     "hatchSteps": 5355,
     "flavorText": "To avoid being attacked, it does nothing but mimic a tree. It hates water and flees from rain.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Rock Head"
@@ -48971,6 +49312,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It gathers groups of others as their leader. Its cries make Poliwag obey.",
+    "legendary": false,
     "abilities": [
       "Water Absorb",
       "Damp"
@@ -49138,6 +49480,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "It drifts on winds. It is said that when Hoppip gather in fields and mountains, spring is on the way.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll",
       "Infiltrator"
@@ -49287,6 +49630,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "It blooms when the weather warms. It floats in the sky to soak up as much sunlight as possible.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll",
       "Infiltrator"
@@ -49441,6 +49785,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Blown by seasonal winds, it circles the globe, scattering cotton spores as it goes.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll",
       "Infiltrator"
@@ -49613,6 +49958,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It lives high among the treetops. It can use its tail as freely and cleverly as its hands.",
+    "legendary": false,
     "abilities": [
       "Run Away",
       "Pickup"
@@ -49742,6 +50088,7 @@
     "catchRate": 235,
     "hatchSteps": 5355,
     "flavorText": "It suddenly falls out of the sky in the morning. A year after a cold summer, their population explodes.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll",
       "Solar Power"
@@ -49857,6 +50204,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "It gets energy from warm sunlight and is known for its habit of moving in pursuit of it.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll",
       "Solar Power"
@@ -50012,6 +50360,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "It can hover in one spot by flapping its wings at high speed. It flits about to guard its territory.",
+    "legendary": false,
     "abilities": [
       "Speed Boost",
       "CompoundEyes"
@@ -50173,6 +50522,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "When walking on land, it covers its body with a poisonous film that keeps its skin from dehydrating.",
+    "legendary": false,
     "abilities": [
       "Damp",
       "Water Absorb"
@@ -50305,6 +50655,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "It has an easygoing nature. It doesn’t care if it bumps its head on boats and boulders while swimming.",
+    "legendary": false,
     "abilities": [
       "Damp",
       "Water Absorb"
@@ -50464,6 +50815,7 @@
     "catchRate": 45,
     "hatchSteps": 9180,
     "flavorText": "Its fur is so sensitive, it can sense minute shifts in the air and predict the weather.",
+    "legendary": false,
     "abilities": [
       "Synchronize",
       "Magic Bounce"
@@ -50587,6 +50939,7 @@
     "catchRate": 45,
     "hatchSteps": 9180,
     "flavorText": "When exposed to the moon’s aura, the rings on its body glow faintly and it gains a mysterious power.",
+    "legendary": false,
     "abilities": [
       "Synchronize",
       "Inner Focus"
@@ -50711,6 +51064,7 @@
     "catchRate": 30,
     "hatchSteps": 5355,
     "flavorText": "If spotted, it will lure an unwary person into chasing it, then lose the pursuer on mountain trails.",
+    "legendary": false,
     "abilities": [
       "Super Luck",
       "Prankster"
@@ -50864,6 +51218,7 @@
     "catchRate": 70,
     "hatchSteps": 5355,
     "flavorText": "Being bitten by Shellder gave it intelligence comparable to that of award-winning scientists.",
+    "legendary": false,
     "abilities": [
       "Own Tempo",
       "Regenerator"
@@ -51022,6 +51377,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "A Pokémon that startles people in the middle of the night. It gathers fear as its energy.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -51170,6 +51526,7 @@
     "catchRate": 225,
     "hatchSteps": 10455,
     "flavorText": "When alone, nothing happens. However, if there are two or more, an odd power is said to emerge.",
+    "legendary": false,
     "abilities": [
       "Stats:"
     ],
@@ -51230,6 +51587,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It desperately tries to keep its black tail hidden. It is said to be proof the tail hides a secret.",
+    "legendary": false,
     "abilities": [
       "Shadow Tag"
     ],
@@ -51300,6 +51658,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "The head on its tail contains a small brain. It can instinctively fight even while facing backward.",
+    "legendary": false,
     "abilities": [
       "Early Bird",
       "Sap Sipper"
@@ -51451,6 +51810,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "It looks just like a pinecone. Its shell protects it from bird Pokémon that peck it by mistake.",
+    "legendary": false,
     "abilities": [
       "Sturdy"
     ],
@@ -51581,6 +51941,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "It is encased in a steel shell. Its peering eyes are all that can be seen of its mysterious innards.",
+    "legendary": false,
     "abilities": [
       "Sturdy"
     ],
@@ -51741,6 +52102,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "It digs into the ground with its tail and makes a mazelike nest. It can fly just a little.",
+    "legendary": false,
     "abilities": [
       "Run Away",
       "Serene Grace"
@@ -51896,6 +52258,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "It glides as if sliding. It startles foes by clamping on to their faces, then jabs with its poison stinger.",
+    "legendary": false,
     "abilities": [
       "Hyper Cutter",
       "Immunity"
@@ -52031,6 +52394,7 @@
     "catchRate": 25,
     "hatchSteps": 6630,
     "flavorText": "It is thought its body transformed as a result of iron accumulating internally from swallowing soil.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Sheer Force"
@@ -52198,6 +52562,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "Small Pokémon flee from its scary face. It is, however, considered by women to be cute.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Rattled"
@@ -52345,6 +52710,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "It is timid in spite of its looks. If it becomes enraged, however, it will strike with its huge fangs.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Quick Feet"
@@ -52510,6 +52876,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It shoots the poison spines on its body in all directions. Its round form makes it a poor swimmer.",
+    "legendary": false,
     "abilities": [
       "Poison Point",
       "Intimidate"
@@ -52668,6 +53035,7 @@
     "catchRate": 25,
     "hatchSteps": 6630,
     "flavorText": "It raises its pincers with eyelike markings for intimidation. It also swings them down dangerously.",
+    "legendary": false,
     "abilities": [
       "Swarm",
       "Technician"
@@ -52799,6 +53167,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "It stores berries in its shell. The berries eventually ferment to become delicious juices.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Gluttony"
@@ -52945,6 +53314,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "It loves sweet honey. To keep all the honey to itself, it hurls rivals away with its prized horn.",
+    "legendary": false,
     "abilities": [
       "Guts",
       "Moxie"
@@ -53074,6 +53444,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "A smart and sneaky Pokémon. A pair may work together to steal eggs by having one lure the parents away.",
+    "legendary": false,
     "abilities": [
       "Inner Focus",
       "Pickpocket"
@@ -53206,6 +53577,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "It lets honey soak into its paws so it can lick them all the time. Every set of paws tastes unique.",
+    "legendary": false,
     "abilities": [
       "Pickup",
       "Honey Gather"
@@ -53338,6 +53710,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "In its territory, it leaves scratches on trees that bear delicious berries or fruits.",
+    "legendary": false,
     "abilities": [
       "Guts",
       "Quick Feet"
@@ -53502,6 +53875,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "Its body is made of magma. If it doesn’t keep moving, its body will cool and harden.",
+    "legendary": false,
     "abilities": [
       "Magma Armor",
       "Flame Body"
@@ -53654,6 +54028,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "Its body temperature is roughly 18,000 degrees F. Flames spout from gaps in its hardened shell.",
+    "legendary": false,
     "abilities": [
       "Magma Armor",
       "Flame Body"
@@ -53819,6 +54194,7 @@
     "catchRate": 225,
     "hatchSteps": 5355,
     "flavorText": "It has a very sensitive nose. It can locate mushrooms, berries, and even hot springs buried under ice.",
+    "legendary": false,
     "abilities": [
       "Snow Cloak",
       "Thick Fat"
@@ -53957,6 +54333,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "Covered by a shaggy coat, it is strong against the cold. Its tusks of ice thicken when it snows.",
+    "legendary": false,
     "abilities": [
       "Snow Cloak",
       "Thick Fat"
@@ -54111,6 +54488,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "Many live in the clean seas of the south. They apparently can’t live in polluted waters.",
+    "legendary": false,
     "abilities": [
       "Natural Cure",
       "Regenerator"
@@ -54253,6 +54631,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "It forcefully squirts water. The water jet never misses prey even if the Remoraid is deep in the sea.",
+    "legendary": false,
     "abilities": [
       "Hustle",
       "Sniper"
@@ -54388,6 +54767,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "It loves to lurk inside holes in rocks. It sometimes sprays ink on prey by sticking out only its mouth.",
+    "legendary": false,
     "abilities": [
       "Suction Cups",
       "Sniper"
@@ -54539,6 +54919,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It carries food rolled up in its tail. It has the habit of sharing food with people lost in mountains.",
+    "legendary": false,
     "abilities": [
       "Hustle",
       "Vital Spirit"
@@ -54645,6 +55026,7 @@
     "catchRate": 25,
     "hatchSteps": 6630,
     "flavorText": "While elegantly swimming in the sea, it ignores Remoraid that cling to its fins seeking food scraps.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Water Absorb"
@@ -54785,6 +55167,7 @@
     "catchRate": 25,
     "hatchSteps": 6630,
     "flavorText": "Despite being clad entirely in iron-hard armor, it flies at speeds over 180 mph.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Weak Armor"
@@ -54927,6 +55310,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
+    "legendary": false,
     "abilities": [
       "Flash Fire",
       "Unnerve"
@@ -55060,6 +55444,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "The flames it breathes when angry contain toxins. If they cause a burn, it will hurt forever.",
+    "legendary": false,
     "abilities": [
       "Flash Fire",
       "Unnerve"
@@ -55223,6 +55608,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It lives in caves on the seafloor and creates giant whirlpools every time it moves.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Sniper"
@@ -55343,6 +55729,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "It is strong despite its compact size. It can easily pick up and carry an adult human on its back.",
+    "legendary": false,
     "abilities": [
       "Pickup"
     ],
@@ -55472,6 +55859,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "It attacks by curling up, then rolling into its foe. It can blow apart a house in one hit.",
+    "legendary": false,
     "abilities": [
       "Sturdy"
     ],
@@ -55626,6 +56014,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It was upgraded to enable the exploration of other planets. However, it failed to measure up.",
+    "legendary": false,
     "abilities": [
       "Trace",
       "Download"
@@ -55759,6 +56148,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Staring at its antlers creates an odd sensation as if one were being drawn into their centers.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Sap Sipper"
@@ -55910,6 +56300,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It marks its territory by using its tail like a paintbrush. There are more than 5,000 different marks.",
+    "legendary": false,
     "abilities": [
       "Technician",
       "Moody"
@@ -56004,6 +56395,7 @@
     "catchRate": 75,
     "hatchSteps": 6630,
     "flavorText": "It is famous for its eagerness to fight and always nurses injuries from challenging larger foes.",
+    "legendary": false,
     "abilities": [
       "Guts",
       "Steadfast"
@@ -56076,6 +56468,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "It fights while spinning like a top. The centrifugal force boosts its destructive power by ten.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Technician"
@@ -56192,6 +56585,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "It tests everything by touching with its lips, which remember what it likes and dislikes.",
+    "legendary": false,
     "abilities": [
       "Forewarn",
       "Hydration"
@@ -56334,6 +56728,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "A weak electric current flows between its horns. Sticking a hand there shocks the unwary.",
+    "legendary": false,
     "abilities": [
       "Static",
       "Vital Spirit"
@@ -56476,6 +56871,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "Its magma-like blood circulates throughout its body. Its body’s heat can top 1,100 degrees F.",
+    "legendary": false,
     "abilities": [
       "Flame Body",
       "Vital Spirit"
@@ -56613,6 +57009,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It is said that kids who drink Miltank’s milk grow up to become hearty, healthy adults.",
+    "legendary": false,
     "abilities": [
       "Thick Fat",
       "Sap Sipper"
@@ -56745,6 +57142,7 @@
     "catchRate": 30,
     "hatchSteps": 10455,
     "flavorText": "The eggs it lays are filled with happiness. Eating even one bite will bring a smile to anyone.",
+    "legendary": false,
     "abilities": [
       "Natural Cure",
       "Serene Grace"
@@ -56900,6 +57298,7 @@
     "catchRate": 3,
     "hatchSteps": 20655,
     "flavorText": "It is said to have fallen with lightning. It can fire thunderbolts from the rain clouds on its back.",
+    "legendary": true,
     "abilities": [
       "Pressure",
       "Volt Absorb"
@@ -57038,6 +57437,7 @@
     "catchRate": 3,
     "hatchSteps": 20655,
     "flavorText": "It is said that when it roars, a volcano erupts somewhere around the globe.",
+    "legendary": true,
     "abilities": [
       "Pressure",
       "Flash Fire"
@@ -57176,6 +57576,7 @@
     "catchRate": 3,
     "hatchSteps": 20655,
     "flavorText": "It races around the world to purify fouled water. It dashes away with the north wind.",
+    "legendary": true,
     "abilities": [
       "Pressure",
       "Water Absorb"
@@ -57309,6 +57710,7 @@
     "catchRate": 45,
     "hatchSteps": 10455,
     "flavorText": "A Pokémon that eats soil. Once it has eaten a large mountain, it goes to sleep so it can grow.",
+    "legendary": false,
     "abilities": [
       "Guts",
       "Sand Veil"
@@ -57447,6 +57849,7 @@
     "catchRate": 45,
     "hatchSteps": 10455,
     "flavorText": "Its body is as hard as bedrock. By venting pressurized gas, it can launch itself like a rocket.",
+    "legendary": false,
     "abilities": [
       "Shed Skin"
     ],
@@ -57601,6 +58004,7 @@
     "catchRate": 45,
     "hatchSteps": 10455,
     "flavorText": "If it rampages, it knocks down mountains and buries rivers. Maps must be redrawn afterward.",
+    "legendary": false,
     "abilities": [
       "Sand Stream",
       "Unnerve"
@@ -57754,6 +58158,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "It sleeps in a deep-sea trench. If it flaps its wings, it is said to cause a 40-day storm.",
+    "legendary": true,
     "abilities": [
       "Pressure",
       "Multiscale"
@@ -57892,6 +58297,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "Its feathers are in seven colors. It is said that anyone seeing it is promised eternal happiness.",
+    "legendary": true,
     "abilities": [
       "Pressure",
       "Regenerator"
@@ -58030,6 +58436,7 @@
     "catchRate": 45,
     "hatchSteps": 30855,
     "flavorText": "It has the power to travel across time, but it is said to appear only in peaceful times.",
+    "legendary": true,
     "abilities": [
       "Natural Cure"
     ],
@@ -58165,6 +58572,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "The soles of its feet are covered by countless tiny spikes, enabling it to walk on walls and ceilings.",
+    "legendary": false,
     "abilities": [
       "Overgrow"
     ],
@@ -58285,6 +58693,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It lives in dense jungles. While closing in on its prey, it leaps from branch to branch.",
+    "legendary": false,
     "abilities": [
       "Overgrow"
     ],
@@ -58424,6 +58833,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "The leaves that grow on its arms can slice down thick trees. It is without peer in jungle combat.",
+    "legendary": false,
     "abilities": [
       "Overgrow"
     ],
@@ -58587,6 +58997,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "A fire burns inside, so it feels very warm to hug. It launches fireballs of 1,800 degrees F.",
+    "legendary": false,
     "abilities": [
       "Blaze"
     ],
@@ -58697,6 +59108,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Its kicking mastery lets it loose 10 kicks per second. It emits sharp cries to intimidate foes.",
+    "legendary": false,
     "abilities": [
       "Blaze"
     ],
@@ -58837,6 +59249,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Flames spout from its wrists, enveloping its knuckles. Its punches scorch its foes.",
+    "legendary": false,
     "abilities": [
       "Blaze"
     ],
@@ -59001,6 +59414,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "To alert it, the fin on its head senses the flow of water. It has the strength to heft boulders.",
+    "legendary": false,
     "abilities": [
       "Torrent"
     ],
@@ -59112,6 +59526,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Its sturdy legs give it sure footing, even in mud. It burrows into dirt to sleep.",
+    "legendary": false,
     "abilities": [
       "Torrent"
     ],
@@ -59243,6 +59658,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It can swim while towing a large ship. It bashes down foes with a swing of its thick arms.",
+    "legendary": false,
     "abilities": [
       "Torrent"
     ],
@@ -59392,6 +59808,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "A Pokémon with a persistent nature, it chases its chosen prey until the prey becomes exhausted.",
+    "legendary": false,
     "abilities": [
       "Run Away",
       "Rattled"
@@ -59523,6 +59940,7 @@
     "catchRate": 127,
     "hatchSteps": 4080,
     "flavorText": "It chases down prey in a pack. It will never disobey the commands of a skilled Trainer.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Moxie"
@@ -59669,6 +60087,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "It walks in zigzag fashion. It is good at finding items in the grass and even in the ground.",
+    "legendary": false,
     "abilities": [
       "Pickup",
       "Gluttony"
@@ -59794,6 +60213,7 @@
     "catchRate": 90,
     "hatchSteps": 4080,
     "flavorText": "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.",
+    "legendary": false,
     "abilities": [
       "Pickup",
       "Gluttony"
@@ -59948,6 +60368,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "Often targeted by bird Pokémon, it desperately resists by releasing poison from its tail spikes.",
+    "legendary": false,
     "abilities": [
       "Shield Dust",
       "Run Away"
@@ -60010,6 +60431,7 @@
     "catchRate": 120,
     "hatchSteps": 4080,
     "flavorText": "It wraps silk around the branches of a tree. It drinks rainwater on its silk while awaiting evolution.",
+    "legendary": false,
     "abilities": [
       "Shed Skin"
     ],
@@ -60080,6 +60502,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "Despite its looks, it is aggressive. It jabs with its long, thin mouth if disturbed while collecting pollen.",
+    "legendary": false,
     "abilities": [
       "Swarm",
       "Rivalry"
@@ -60221,6 +60644,7 @@
     "catchRate": 120,
     "hatchSteps": 4080,
     "flavorText": "It never forgets any attack it endured while in the cocoon. After evolution, it seeks payback.",
+    "legendary": false,
     "abilities": [
       "Shed Skin"
     ],
@@ -60291,6 +60715,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "Toxic powder is scattered with each flap. At night, it is known to strip leaves off trees lining boulevards.",
+    "legendary": false,
     "abilities": [
       "Shield Dust",
       "Compoundeyes"
@@ -60445,6 +60870,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "It looks like an aquatic plant and serves as a ferry to Pokémon that can’t swim.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Rain Dance"
@@ -60557,6 +60983,7 @@
     "catchRate": 120,
     "hatchSteps": 4080,
     "flavorText": "It has a mischievous spirit. If it spots an angler, it will tug on the fishing line to interfere.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Rain Dance"
@@ -60674,6 +61101,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "If it hears festive music, all its muscles fill with energy. It can’t help breaking out into a dance.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Rain Dish"
@@ -60839,6 +61267,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "When it dangles from a tree branch, it looks just like an acorn. It enjoys scaring other Pokémon.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll",
       "Early Bird"
@@ -60951,6 +61380,7 @@
     "catchRate": 120,
     "hatchSteps": 4080,
     "flavorText": "The sound of its grass flute makes its listeners uneasy. It lives deep in forests.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll",
       "Pickpocket"
@@ -61085,6 +61515,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "By flapping its leafy fan, it can whip up gusts of 100 ft/second that can level houses.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll",
       "Pickpocket"
@@ -61242,6 +61673,7 @@
     "catchRate": 200,
     "hatchSteps": 4080,
     "flavorText": "It has a gutsy spirit that makes it bravely take on tough foes. It flies in search of warm climates.",
+    "legendary": false,
     "abilities": [
       "Guts",
       "Scrappy"
@@ -61355,6 +61787,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "It circles the sky in search of prey. When it spots one, it dives steeply to catch the prey.",
+    "legendary": false,
     "abilities": [
       "Guts",
       "Scrappy"
@@ -61493,6 +61926,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.",
+    "legendary": false,
     "abilities": [
       "Keen Eye",
       "Rain Dish"
@@ -61607,6 +62041,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It is a messenger of the skies, carrying small Pokémon and eggs to safety in its bill.",
+    "legendary": false,
     "abilities": [
       "Keen Eye",
       "Rain Dish"
@@ -61770,6 +62205,7 @@
     "catchRate": 235,
     "hatchSteps": 5355,
     "flavorText": "If its horns capture the warm feelings of people or Pokémon, its body warms up slightly.",
+    "legendary": false,
     "abilities": [
       "Synchronize",
       "Trace"
@@ -61892,6 +62328,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "If its Trainer becomes happy, it overflows with energy, dancing joyously while spinning about.",
+    "legendary": false,
     "abilities": [
       "Synchronize",
       "Trace"
@@ -62028,6 +62465,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "To protect its Trainer, it will expend all its psychic power to create a small black hole.",
+    "legendary": false,
     "abilities": [
       "Synchronize",
       "Trace"
@@ -62195,6 +62633,7 @@
     "catchRate": 200,
     "hatchSteps": 4080,
     "flavorText": "It appears as if it is skating on water. It draws prey with a sweet scent from the tip of its head.",
+    "legendary": false,
     "abilities": [
       "Swift Swim"
     ],
@@ -62291,6 +62730,7 @@
     "catchRate": 75,
     "hatchSteps": 4080,
     "flavorText": "Its antennae have eye patterns on them. Its four wings enable it to hover and fly in any direction.",
+    "legendary": false,
     "abilities": [
       "Intimidate"
     ],
@@ -62420,6 +62860,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "It spouts poison spores from the top of its head. These spores cause pain all over if inhaled.",
+    "legendary": false,
     "abilities": [
       "Effect Spore",
       "Poison Heal"
@@ -62537,6 +62978,7 @@
     "catchRate": 90,
     "hatchSteps": 4080,
     "flavorText": "Its short arms stretch when it throws punches. Its technique is equal to that of pro boxers.",
+    "legendary": false,
     "abilities": [
       "Effect Spore",
       "Poison Heal"
@@ -62677,6 +63119,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "It spends nearly all its time in a day sprawled out. Just seeing it makes one drowsy.",
+    "legendary": false,
     "abilities": [
       "Truant"
     ],
@@ -62796,6 +63239,7 @@
     "catchRate": 120,
     "hatchSteps": 4080,
     "flavorText": "Its heart beats at a tenfold tempo, so it cannot sit still for even a moment.",
+    "legendary": false,
     "abilities": [
       "Vital Spirit"
     ],
@@ -62944,6 +63388,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "The world’s laziest Pokémon. When it is lounging, it is actually saving energy for striking back.",
+    "legendary": false,
     "abilities": [
       "Truant"
     ],
@@ -63094,6 +63539,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "It grows underground, sensing its surroundings using antennae instead of its virtually blind eyes.",
+    "legendary": false,
     "abilities": [
       "Compoundeyes"
     ],
@@ -63189,6 +63635,7 @@
     "catchRate": 120,
     "hatchSteps": 4080,
     "flavorText": "Because it moves so quickly, it sometimes becomes unseeable. It congregates around tree sap.",
+    "legendary": false,
     "abilities": [
       "Speed Boost"
     ],
@@ -63324,6 +63771,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "A discarded bug shell that came to life. Peering into the crack on its back is said to steal one’s spirit.",
+    "legendary": false,
     "abilities": [
       "Wonder Guard"
     ],
@@ -63464,6 +63912,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "Usually, its cries are like quiet murmurs. If frightened, it shrieks at the same volume as a jet plane.",
+    "legendary": false,
     "abilities": [
       "Soundproof",
       "Rattled"
@@ -63592,6 +64041,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "The shock waves from its cries can tip over trucks. It stamps its feet to power up.",
+    "legendary": false,
     "abilities": [
       "Soundproof",
       "Scrappy"
@@ -63750,6 +64200,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Its howls can be heard over six miles away. It emits all sorts of noises from the ports on its body.",
+    "legendary": false,
     "abilities": [
       "Soundproof",
       "Scrappy"
@@ -63916,6 +64367,7 @@
     "catchRate": 180,
     "hatchSteps": 5355,
     "flavorText": "It toughens its body by slamming into thick trees. Many snapped trees can be found near its nest.",
+    "legendary": false,
     "abilities": [
       "Thick Fat",
       "Guts"
@@ -64061,6 +64513,7 @@
     "catchRate": 200,
     "hatchSteps": 5355,
     "flavorText": "It loves to match power with big-bodied Pokémon. It can knock a truck flying with its arm thrusts.",
+    "legendary": false,
     "abilities": [
       "Thick Fat",
       "Guts"
@@ -64217,6 +64670,7 @@
     "catchRate": 150,
     "hatchSteps": 2805,
     "flavorText": "Its tail bounces like a rubber ball. It flings that tail around to fight opponents bigger than itself.",
+    "legendary": false,
     "abilities": [
       "Thick Fat",
       "Huge Power"
@@ -64297,6 +64751,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "When endangered, it may protect itself by raising its magnetism and drawing iron objects to its body.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Magnet Pull"
@@ -64432,6 +64887,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "It can’t stop itself from chasing moving things, and it runs in a circle, chasing its own tail.",
+    "legendary": false,
     "abilities": [
       "Cute Charm",
       "Wonder Skin"
@@ -64594,6 +65050,7 @@
     "catchRate": 60,
     "hatchSteps": 4080,
     "flavorText": "It is highly popular among female Trainers for its sublime fur. It does not keep a nest.",
+    "legendary": false,
     "abilities": [
       "Cute Charm",
       "Wonder Skin"
@@ -64761,6 +65218,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "It hides in the darkness of caves. Its diet of gems has transformed its eyes into gemstones.",
+    "legendary": false,
     "abilities": [
       "Keen Eye",
       "Prankster"
@@ -64929,6 +65387,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Attached to its head is a huge set of jaws formed by horns. It can chew through iron beams.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Sheer Force"
@@ -65096,6 +65555,7 @@
     "catchRate": 180,
     "hatchSteps": 9180,
     "flavorText": "It usually lives deep in mountains. However, hunger may drive it to eat railroad tracks and cars.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Rock Head"
@@ -65222,6 +65682,7 @@
     "catchRate": 90,
     "hatchSteps": 9180,
     "flavorText": "For food, it digs up iron ore. It smashes its steely body against others to fight over territory.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Rock Head"
@@ -65353,6 +65814,7 @@
     "catchRate": 45,
     "hatchSteps": 9180,
     "flavorText": "While seeking iron for food, it digs tunnels by breaking through bedrock with its steel horns.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Rock Head"
@@ -65509,6 +65971,7 @@
     "catchRate": 180,
     "hatchSteps": 5355,
     "flavorText": "It always trains deep in mountains. It levitates when it heightens its spiritual power through meditation.",
+    "legendary": false,
     "abilities": [
       "Pure Power"
     ],
@@ -65649,6 +66112,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "It gains the ability to see the aura of its opponents by honing its mind through starvation.",
+    "legendary": false,
     "abilities": [
       "Pure Power"
     ],
@@ -65803,6 +66267,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "Using electricity stored in its fur, it stimulates its muscles to heighten its reaction speed.",
+    "legendary": false,
     "abilities": [
       "Static",
       "Lightningrod"
@@ -65938,6 +66403,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It discharges electricity from its mane. It creates a thundercloud overhead to drop lightning bolts.",
+    "legendary": false,
     "abilities": [
       "Static",
       "Lightningrod"
@@ -66078,6 +66544,7 @@
     "catchRate": 200,
     "hatchSteps": 5355,
     "flavorText": "It cheers on friends with pom-poms made of sparks. It drains power from telephone poles.",
+    "legendary": false,
     "abilities": [
       "Plus"
     ],
@@ -66241,6 +66708,7 @@
     "catchRate": 200,
     "hatchSteps": 5355,
     "flavorText": "It cheers on friends. If its friends are losing, its body lets off more and more sparks.",
+    "legendary": false,
     "abilities": [
       "Minus"
     ],
@@ -66411,6 +66879,7 @@
     "catchRate": 150,
     "hatchSteps": 4080,
     "flavorText": "It communicates with others by lighting up its rear at night. It loves Illumise’s sweet aroma.",
+    "legendary": false,
     "abilities": [
       "Illuminate",
       "Prankster"
@@ -66569,6 +67038,7 @@
     "catchRate": 150,
     "hatchSteps": 4080,
     "flavorText": "With its sweet aroma, it guides Volbeat to draw signs with light in the night sky.",
+    "legendary": false,
     "abilities": [
       "Tinted Lens",
       "Prankster"
@@ -66728,6 +67198,7 @@
     "catchRate": 150,
     "hatchSteps": 5355,
     "flavorText": "The more healthy the Roselia, the more pleasant its flowers’ aroma. Its scent deeply relaxes people.",
+    "legendary": false,
     "abilities": [
       "Natural Cure",
       "Poison Point"
@@ -66863,6 +67334,7 @@
     "catchRate": 225,
     "hatchSteps": 5355,
     "flavorText": "Almost all its body is its stomach. Its harsh digestive juices quickly dissolve anything it swallows.",
+    "legendary": false,
     "abilities": [
       "Sticky Hold",
       "Liquid Ooze"
@@ -66988,6 +67460,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "It swallows anything whole. It sweats toxic fluids from its follicles to douse foes.",
+    "legendary": false,
     "abilities": [
       "Sticky Hold",
       "Liquid Ooze"
@@ -67138,6 +67611,7 @@
     "catchRate": 225,
     "hatchSteps": 5355,
     "flavorText": "They swarm any foe that invades their territory. Their sharp fangs can tear out boat hulls.",
+    "legendary": false,
     "abilities": [
       "Rough Skin",
       "Speed Boost"
@@ -67261,6 +67735,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "Its fangs rip through sheet iron. It swims at 75 mph and is known as “The Bully of the Sea.”",
+    "legendary": false,
     "abilities": [
       "Rough Skin",
       "Speed Boost"
@@ -67409,6 +67884,7 @@
     "catchRate": 125,
     "hatchSteps": 10455,
     "flavorText": "On sunny days, it lands on beaches to bounce like a ball and play. It spouts water from its nose.",
+    "legendary": false,
     "abilities": [
       "Water Veil",
       "Oblivious"
@@ -67540,6 +68016,7 @@
     "catchRate": 60,
     "hatchSteps": 10455,
     "flavorText": "The biggest of all Pokémon. It can dive to a depth of almost 10,000 feet on only one breath.",
+    "legendary": false,
     "abilities": [
       "Water Veil",
       "Oblivious"
@@ -67686,6 +68163,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "Its humped back stores intensely hot magma. In rain, the magma cools, slowing its movement.",
+    "legendary": false,
     "abilities": [
       "Oblivious",
       "Simple"
@@ -67812,6 +68290,7 @@
     "catchRate": 150,
     "hatchSteps": 5355,
     "flavorText": "It has volcanoes on its back. If magma builds up in its body, it shudders, then erupts violently.",
+    "legendary": false,
     "abilities": [
       "Magma Armor",
       "Solid Rock"
@@ -67971,6 +68450,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "It burns coal inside its shell for energy. It blows out black soot if it is endangered.",
+    "legendary": false,
     "abilities": [
       "White Smoke",
       "Shell Armor"
@@ -68098,6 +68578,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "It bounces constantly, using its tail like a spring. The shock of bouncing keeps its heart beating.",
+    "legendary": false,
     "abilities": [
       "Thick Fat",
       "Own Tempo"
@@ -68233,6 +68714,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "It uses black pearls to amplify its psycho-power. It does an odd dance to gain control over foes.",
+    "legendary": false,
     "abilities": [
       "Thick Fat",
       "Own Tempo"
@@ -68398,6 +68880,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "No two Spinda have the same pattern of spots. Its tottering step fouls the aim of foes.",
+    "legendary": false,
     "abilities": [
       "Own Tempo",
       "Contrary"
@@ -68551,6 +69034,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "It makes a conical pit in desert sand and lies in wait at the bottom for prey to come tumbling down.",
+    "legendary": false,
     "abilities": [
       "Arena Trap",
       "Sheer Force"
@@ -68685,6 +69169,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "It violently shudders its wings, generating ultrasonic waves to induce headaches in people.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -68835,6 +69320,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It whips up sandstorms with powerful flaps of its wings. It is known as “The Desert Spirit.”",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -68999,6 +69485,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "By storing water in its body, this desert dweller can survive for 30 days without water.",
+    "legendary": false,
     "abilities": [
       "Sand Veil",
       "Water Absorb"
@@ -69123,6 +69610,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "It becomes active at night, seeking prey that is exhausted from the day’s desert heat.",
+    "legendary": false,
     "abilities": [
       "Sand Veil",
       "Water Absorb"
@@ -69281,6 +69769,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "It can’t relax if it or its surroundings are not clean. It wipes off dirt with its wings.",
+    "legendary": false,
     "abilities": [
       "Natural Cure",
       "Cloud Nine"
@@ -69405,6 +69894,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.",
+    "legendary": false,
     "abilities": [
       "Natural Cure",
       "Cloud Nine"
@@ -69566,6 +70056,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "It has feuded with Seviper for many generations. Its sharp claws are its biggest weapons.",
+    "legendary": false,
     "abilities": [
       "Immunity",
       "Toxic Boost"
@@ -69708,6 +70199,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "For many generations, it has feuded with Zangoose. It whets its bladed tail on rocks for battle.",
+    "legendary": false,
     "abilities": [
       "Shed Skin",
       "Infiltrator"
@@ -69850,6 +70342,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "Because it turns active on nights of the full moon, it is said to have some link to the lunar phases.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -70009,6 +70502,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "A new Pokémon species, rumored to be from the sun. It gives off light while spinning.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -70168,6 +70662,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "Its slimy body is hard to grasp. In one region, it is said to have been born from hardened mud.",
+    "legendary": false,
     "abilities": [
       "Anticipation",
       "Hydration"
@@ -70301,6 +70796,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "It is extremely protective of its territory. If any foe approaches, it attacks using vicious tremors.",
+    "legendary": false,
     "abilities": [
       "Anticipation",
       "Hydration"
@@ -70448,6 +70944,7 @@
     "catchRate": 205,
     "hatchSteps": 4080,
     "flavorText": "Its hardy vitality enables it to adapt to any environment. Its pincers will never release prey.",
+    "legendary": false,
     "abilities": [
       "Shell Armor",
       "Adaptability"
@@ -70572,6 +71069,7 @@
     "catchRate": 155,
     "hatchSteps": 4080,
     "flavorText": "It is a ruffian that uses its pincers to pick up and toss out other Pokémon from its pond.",
+    "legendary": false,
     "abilities": [
       "Shell Armor",
       "Adaptability"
@@ -70705,6 +71203,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "It moves by spinning on its foot. It is a rare Pokémon that was discovered in ancient ruins.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -70835,6 +71334,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "An ancient clay figurine that came to life as a Pokémon from exposure to a mysterious ray of light.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -70985,6 +71485,7 @@
     "catchRate": 45,
     "hatchSteps": 7905,
     "flavorText": "It lived on the seafloor 100 million years ago and was reanimated scientifically.",
+    "legendary": false,
     "abilities": [
       "Suction Cups",
       "Storm Drain"
@@ -71124,6 +71625,7 @@
     "catchRate": 45,
     "hatchSteps": 7905,
     "flavorText": "It lives in the shallows of warm seas. When the tide goes out, it digs up prey from beaches.",
+    "legendary": false,
     "abilities": [
       "Suction Cups",
       "Storm Drain"
@@ -71273,6 +71775,7 @@
     "catchRate": 45,
     "hatchSteps": 7905,
     "flavorText": "A Pokémon ancestor that was reanimated from a fossil. It lived in the sea and hunted with claws.",
+    "legendary": false,
     "abilities": [
       "Battle Armor",
       "Swift Swim"
@@ -71396,6 +71899,7 @@
     "catchRate": 45,
     "hatchSteps": 7905,
     "flavorText": "It went ashore after evolving. Its entire body is clad in a sturdy armor.",
+    "legendary": false,
     "abilities": [
       "Battle Armor",
       "Swift Swim"
@@ -71534,6 +72038,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "It is a shabby and ugly Pokémon. However, it is very hardy and can survive on little water.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Adaptability"
@@ -71599,6 +72104,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "Its lovely scales are described as rainbow colored. They change color depending on the viewing angle.",
+    "legendary": false,
     "abilities": [
       "Marvel Scale",
       "Cute Charm"
@@ -71728,6 +72234,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "Its appearance changes with the weather. Recently, its molecules were found to be just like water.",
+    "legendary": false,
     "abilities": [
       "Forecast"
     ],
@@ -71879,6 +72386,7 @@
     "catchRate": 200,
     "hatchSteps": 5355,
     "flavorText": "It can freely change its body’s color. The zigzag pattern on its belly doesn’t change, however.",
+    "legendary": false,
     "abilities": [
       "Color Change"
     ],
@@ -72042,6 +72550,7 @@
     "catchRate": 225,
     "hatchSteps": 6630,
     "flavorText": "It loves vengeful emotions and hangs in rows under the eaves of houses where vengeful people live.",
+    "legendary": false,
     "abilities": [
       "Frisk",
       "Cursed Body"
@@ -72169,6 +72678,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "A doll that became a Pokémon over its grudge from being junked. It seeks the child that disowned it.",
+    "legendary": false,
     "abilities": [
       "Frisk",
       "Cursed Body"
@@ -72330,6 +72840,7 @@
     "catchRate": 190,
     "hatchSteps": 6630,
     "flavorText": "It loves the crying of children. It startles bad kids by passing through walls and making them cry.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -72454,6 +72965,7 @@
     "catchRate": 90,
     "hatchSteps": 6630,
     "flavorText": "It seeks drifting will-o’-the-wisps and sucks them into its empty body. What happens inside is a mystery.",
+    "legendary": false,
     "abilities": [
       "Pressure"
     ],
@@ -72605,6 +73117,7 @@
     "catchRate": 200,
     "hatchSteps": 6630,
     "flavorText": "Delicious fruits grew out from around its neck because it always ate the same kind of fruit.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll",
       "Harvest"
@@ -72751,6 +73264,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "Its cries echo inside its hollow body to emerge as beautiful notes for startling and repelling foes.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -72900,6 +73414,7 @@
     "catchRate": 30,
     "hatchSteps": 6630,
     "flavorText": "Rumored to sense disasters with its horn, it became a target. It fled deep into the mountains.",
+    "legendary": false,
     "abilities": [
       "Pressure",
       "Super Luck"
@@ -73044,6 +73559,7 @@
     "catchRate": 125,
     "hatchSteps": 5355,
     "flavorText": "It grows strong by pushing up against others en masse. It loves eating sweet fruit.",
+    "legendary": false,
     "abilities": [
       "Shadow Tag"
     ],
@@ -73114,6 +73630,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "It is said that several Snorunt gather under giant leaves and live together in harmony.",
+    "legendary": false,
     "abilities": [
       "Inner Focus",
       "Ice Body"
@@ -73237,6 +73754,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "It prevents prey from escaping by instantaneously freezing moisture in the air.",
+    "legendary": false,
     "abilities": [
       "Inner Focus",
       "Ice Body"
@@ -73404,6 +73922,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "It rolls across ice floes to reach shore because its body is poorly shaped for swimming.",
+    "legendary": false,
     "abilities": [
       "Thick Fat",
       "Ice Body"
@@ -73546,6 +74065,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "It habitually spins things on its nose. By doing so, it learns textures and odors.",
+    "legendary": false,
     "abilities": [
       "Thick Fat",
       "Ice Body"
@@ -73688,6 +74208,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It shatters ice with its big tusks. Its thick blubber repels not only the cold, but also enemy attacks.",
+    "legendary": false,
     "abilities": [
       "Thick Fat",
       "Ice Body"
@@ -73843,6 +74364,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "It makes a single pearl during its lifetime. The pearl is said to amplify psychic power.",
+    "legendary": false,
     "abilities": [
       "Shell Armor",
       "Rattled"
@@ -73937,6 +74459,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "It lives deep in the sea. With a tail shaped like a small fish, it attracts unsuspecting prey.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Water Veil"
@@ -74063,6 +74586,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "It lives at the bottom of the sea. In the springtime, its pink body turns more vivid for some reason.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Hydration"
@@ -74197,6 +74721,7 @@
     "catchRate": 25,
     "hatchSteps": 10455,
     "flavorText": "A rare Pokémon discovered during a deep-sea exploration. It has not changed in over 100 million years.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Rock Head"
@@ -74341,6 +74866,7 @@
     "catchRate": 225,
     "hatchSteps": 5355,
     "flavorText": "It lives in warm seas. It is said that a couple finding this Pokémon will be blessed with eternal love.",
+    "legendary": false,
     "abilities": [
       "Swift Swim"
     ],
@@ -74469,6 +74995,7 @@
     "catchRate": 45,
     "hatchSteps": 10455,
     "flavorText": "Dreaming of one day flying, it practices by leaping off cliffs every day.",
+    "legendary": false,
     "abilities": [
       "Rock Head",
       "Sheer Force"
@@ -74596,6 +75123,7 @@
     "catchRate": 45,
     "hatchSteps": 10455,
     "flavorText": "Within its rugged shell, its cells have begun changing. The shell peels off the instant it evolves.",
+    "legendary": false,
     "abilities": [
       "Rock Head",
       "Overcoat"
@@ -74743,6 +75271,7 @@
     "catchRate": 45,
     "hatchSteps": 10455,
     "flavorText": "As a result of its long-held dream of flying, its cellular structure changed, and wings grew out.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Moxie"
@@ -74906,6 +75435,7 @@
     "catchRate": 3,
     "hatchSteps": 10455,
     "flavorText": "It converses with others by using magnetic pulses. In a swarm, they move in perfect unison.",
+    "legendary": false,
     "abilities": [
       "Clear Body"
     ],
@@ -74956,6 +75486,7 @@
     "catchRate": 3,
     "hatchSteps": 10455,
     "flavorText": "It is formed by two Beldum joining together. Its steel body won’t be scratched if it collides with a jet.",
+    "legendary": false,
     "abilities": [
       "Clear Body"
     ],
@@ -75090,6 +75621,7 @@
     "catchRate": 3,
     "hatchSteps": 10455,
     "flavorText": "Metang combined to form it. With four brains, it has the intelligence of a supercomputer.",
+    "legendary": false,
     "abilities": [
       "Clear Body"
     ],
@@ -75224,6 +75756,7 @@
     "catchRate": 3,
     "hatchSteps": 20655,
     "flavorText": "Its entire body is made of rock. If any part chips off in battle, it attaches rocks to repair itself.",
+    "legendary": true,
     "abilities": [
       "Clear Body",
       "Sturdy"
@@ -75346,6 +75879,7 @@
     "catchRate": 3,
     "hatchSteps": 20655,
     "flavorText": "Its body is made of ice from the ice age. It controls frigid air of -328 degrees Fahrenheit.",
+    "legendary": true,
     "abilities": [
       "Clear Body",
       "Ice Body"
@@ -75468,6 +76002,7 @@
     "catchRate": 3,
     "hatchSteps": 20655,
     "flavorText": "Tempered by pressure underground over tens of thousands of years, its body cannot be scratched.",
+    "legendary": true,
     "abilities": [
       "Clear Body",
       "Light Metal"
@@ -75606,6 +76141,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "Its body is covered with a down that can refract light in such a way that it becomes invisible.",
+    "legendary": true,
     "abilities": [
       "Levitate"
     ],
@@ -75746,6 +76282,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "A highly intelligent Pokémon. By folding back its wings in flight, it can overtake jet planes.",
+    "legendary": true,
     "abilities": [
       "Levitate"
     ],
@@ -75885,6 +76422,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "It is said to have widened the seas by causing downpours. It had been asleep in a marine trench.",
+    "legendary": true,
     "abilities": [
       "Drizzle"
     ],
@@ -76014,6 +76552,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "It had been asleep in underground magma ever since it fiercely fought Kyogre long ago.",
+    "legendary": true,
     "abilities": [
       "Drought"
     ],
@@ -76144,6 +76683,7 @@
     "catchRate": 45,
     "hatchSteps": 30855,
     "flavorText": "It lives in the ozone layer far above the clouds and cannot be seen from the ground.",
+    "legendary": true,
     "abilities": [
       "Air Lock"
     ],
@@ -76274,6 +76814,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "It is said to have the ability to grant any wish for just one week every thousand years.",
+    "legendary": true,
     "abilities": [
       "Serene Grace"
     ],
@@ -76413,6 +76954,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "An alien virus that fell to earth on a meteor underwent a DNA mutation to become this Pokémon.",
+    "legendary": true,
     "abilities": [
       "Pressure [All Formes]"
     ],
@@ -76561,6 +77103,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "The shell on its back is made of soil. On a very healthy Turtwig, the shell should feel moist.",
+    "legendary": false,
     "abilities": [
       "Overgrow"
     ],
@@ -76681,6 +77224,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It knows where pure water wells up. It carries fellow Pokémon there on its back.",
+    "legendary": false,
     "abilities": [
       "Overgrow"
     ],
@@ -76813,6 +77357,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Some Pokémon are born on a Torterra’s back and spend their entire life there.",
+    "legendary": false,
     "abilities": [
       "Overgrow"
     ],
@@ -76967,6 +77512,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.",
+    "legendary": false,
     "abilities": [
       "Blaze"
     ],
@@ -77093,6 +77639,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.",
+    "legendary": false,
     "abilities": [
       "Blaze"
     ],
@@ -77234,6 +77781,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It uses unique fighting moves with fire on its hands and feet. It will take on any opponent.",
+    "legendary": false,
     "abilities": [
       "Blaze"
     ],
@@ -77393,6 +77941,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "A poor walker, it often falls down. However, its strong pride makes it puff up its chest without a care.",
+    "legendary": false,
     "abilities": [
       "Torrent"
     ],
@@ -77509,6 +78058,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Because every Prinplup considers itself to be the most important, they can never form a group.",
+    "legendary": false,
     "abilities": [
       "Torrent"
     ],
@@ -77636,6 +78186,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "If anyone were to hurt its pride, it would slash them with wings that can cleave through an ice floe.",
+    "legendary": false,
     "abilities": [
       "Torrent"
     ],
@@ -77791,6 +78342,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "Because they are weak individually, they form groups. However, they bicker if the group grows too big.",
+    "legendary": false,
     "abilities": [
       "Keen Eye"
     ],
@@ -77906,6 +78458,7 @@
     "catchRate": 120,
     "hatchSteps": 4080,
     "flavorText": "Recognizing their own weakness, they always live in a group. When alone, a Staravia cries noisily.",
+    "legendary": false,
     "abilities": [
       "Intimidate"
     ],
@@ -78021,6 +78574,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "It never stops attacking even if it is injured. It fusses over the shape of its comb.",
+    "legendary": false,
     "abilities": [
       "Intimidate"
     ],
@@ -78146,6 +78700,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "A comparison revealed that Bidoof’s front teeth grow at the same rate as Rattata’s.",
+    "legendary": false,
     "abilities": [
       "Simple",
       "Unaware"
@@ -78248,6 +78803,7 @@
     "catchRate": 127,
     "hatchSteps": 4080,
     "flavorText": "A river dammed by Bibarel will never overflow its banks, which is appreciated by people nearby.",
+    "legendary": false,
     "abilities": [
       "Simple",
       "Unaware"
@@ -78388,6 +78944,7 @@
     "catchRate": 255,
     "hatchSteps": 4080,
     "flavorText": "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.",
+    "legendary": false,
     "abilities": [
       "Shed Skin",
       "Run Away"
@@ -78450,6 +79007,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "There is a village that hosts a contest based on the amazingly variable cries of this Pokémon.",
+    "legendary": false,
     "abilities": [
       "Swarm",
       "Technician"
@@ -78601,6 +79159,7 @@
     "catchRate": 235,
     "hatchSteps": 5355,
     "flavorText": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Guts"
@@ -78733,6 +79292,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Guts"
@@ -78865,6 +79425,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "It can see clearly through walls to track down its prey and seek its lost young.",
+    "legendary": false,
     "abilities": [
       "Intimidate",
       "Guts"
@@ -79027,6 +79588,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "Sensitive to changing temperature, the bud is said to bloom when it feels the sun’s warm touch.",
+    "legendary": false,
     "abilities": [
       "Natural Cure",
       "Poison Point"
@@ -79104,6 +79666,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "Each of its hands contains different toxins, but both hands can jab with near-fatal power.",
+    "legendary": false,
     "abilities": [
       "Natural Cure",
       "Technician"
@@ -79281,6 +79844,7 @@
     "catchRate": 45,
     "hatchSteps": 7905,
     "flavorText": "A lifelong jungle dweller from 100 million years ago, it would snap obstructing trees with head butts.",
+    "legendary": false,
     "abilities": [
       "Mold Breaker",
       "Sheer Force"
@@ -79408,6 +79972,7 @@
     "catchRate": 45,
     "hatchSteps": 7905,
     "flavorText": "If two were to smash their heads together, their foot-thick skulls would keep them from fainting.",
+    "legendary": false,
     "abilities": [
       "Mold Breaker",
       "Sheer Force"
@@ -79551,6 +80116,7 @@
     "catchRate": 45,
     "hatchSteps": 7905,
     "flavorText": "It is outstandingly armored. As a result, it can eat grass and berries without having to fight.",
+    "legendary": false,
     "abilities": [
       "Sturdy"
     ],
@@ -79676,6 +80242,7 @@
     "catchRate": 45,
     "hatchSteps": 7905,
     "flavorText": "When they lined up side by side, no foe could break through. They shielded their young in that way.",
+    "legendary": false,
     "abilities": [
       "Sturdy"
     ],
@@ -79824,6 +80391,7 @@
     "catchRate": 120,
     "hatchSteps": 4080,
     "flavorText": "Even if it is born where there are no cocooning materials, it somehow always ends up with a cloak.",
+    "legendary": false,
     "abilities": [
       "Shed Skin",
       "Overcoat"
@@ -79887,6 +80455,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "When evolving, its body takes in surrounding materials. As a result, there are many body variations.",
+    "legendary": false,
     "abilities": [
       "Anticipation",
       "Overcoat"
@@ -80190,6 +80759,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "While it loves floral honey, it won’t gather any itself. Instead, it plots to steal some from Combee.",
+    "legendary": false,
     "abilities": [
       "Swarm",
       "Tinted Lens"
@@ -80322,6 +80892,7 @@
     "catchRate": 120,
     "hatchSteps": 4080,
     "flavorText": "The trio is together from birth. It constantly gathers honey from flowers to please Vespiquen.",
+    "legendary": false,
     "abilities": [
       "Honey Gather"
     ],
@@ -80387,6 +80958,7 @@
     "catchRate": 45,
     "hatchSteps": 4080,
     "flavorText": "It releases various pheromones to make the grubs in its body do its bidding while fighting foes.",
+    "legendary": false,
     "abilities": [
       "Pressure"
     ],
@@ -80531,6 +81103,7 @@
     "catchRate": 200,
     "hatchSteps": 2805,
     "flavorText": "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+    "legendary": false,
     "abilities": [
       "Pickup",
       "Volt Absorb"
@@ -80689,6 +81262,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Water Veil"
@@ -80812,6 +81386,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "It is a common sight around fishing ports. It is known to rescue people and carry off prey.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Water Veil"
@@ -80964,6 +81539,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "The small ball is not only filled with nutrients, it is also tasty. Starly try to peck it off.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll"
     ],
@@ -81074,6 +81650,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.",
+    "legendary": false,
     "abilities": [
       "Flower Gift"
     ],
@@ -81208,6 +81785,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "Beware of pushing strongly on its squishy body, as it makes a mysterious purple fluid ooze out.",
+    "legendary": false,
     "abilities": [
       "Sticky Hold",
       "Storm Drain"
@@ -81325,6 +81903,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "Long ago, its entire back was shielded with a sturdy shell. There are traces of it left in its cells.",
+    "legendary": false,
     "abilities": [
       "Stick Hold",
       "Storm Drain"
@@ -81455,6 +82034,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Split into two, the tails are so adept at handling and doing things, Ambipom rarely uses its hands.",
+    "legendary": false,
     "abilities": [
       "Technician",
       "Pickup"
@@ -81610,6 +82190,7 @@
     "catchRate": 125,
     "hatchSteps": 7905,
     "flavorText": "Because of the way it floats aimlessly, an old folktale calls it a “Signpost for Wandering Spirits.”",
+    "legendary": false,
     "abilities": [
       "Aftermath",
       "Unburden"
@@ -81741,6 +82322,7 @@
     "catchRate": 60,
     "hatchSteps": 7905,
     "flavorText": "At dusk, swarms of them are carried aloft on winds. When noticed, they suddenly vanish.",
+    "legendary": false,
     "abilities": [
       "Aftermath",
       "Unburden"
@@ -81892,6 +82474,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "Its ears are always rolled up. They can be forcefully extended to shatter even a large boulder.",
+    "legendary": false,
     "abilities": [
       "Run Away",
       "Limber"
@@ -82035,6 +82618,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "The ears appear to be delicate. If they are touched roughly, it kicks with its graceful legs.",
+    "legendary": false,
     "abilities": [
       "Cute Charm",
       "Limber"
@@ -82196,6 +82780,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -82360,6 +82945,7 @@
     "catchRate": 30,
     "hatchSteps": 5355,
     "flavorText": "If one utters a deep cry, many Murkrow gather quickly. For this, it is called “Summoner of Night.”",
+    "legendary": false,
     "abilities": [
       "Super Luck",
       "Moxie"
@@ -82526,6 +83112,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "It hides its spiteful tendency of hooking its claws into the nose of its Trainer if it isn’t fed.",
+    "legendary": false,
     "abilities": [
       "Limber",
       "Own Tempo"
@@ -82657,6 +83244,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "It binds its body with its tails to make itself look bigger. If it locks eyes, it will glare ceaselessly.",
+    "legendary": false,
     "abilities": [
       "Thick Fat",
       "Defiant"
@@ -82808,6 +83396,7 @@
     "catchRate": 120,
     "hatchSteps": 6630,
     "flavorText": "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -82888,6 +83477,7 @@
     "catchRate": 225,
     "hatchSteps": 5355,
     "flavorText": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokémon away.",
+    "legendary": false,
     "abilities": [
       "Aftermath",
       "Stench"
@@ -83028,6 +83618,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
+    "legendary": false,
     "abilities": [
       "Aftermath",
       "Stench"
@@ -83188,6 +83779,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "There are researchers who believe this Pokémon reflected like a mirror in the distant past.",
+    "legendary": false,
     "abilities": [
       "Levitate",
       "Heatproof"
@@ -83314,6 +83906,7 @@
     "catchRate": 90,
     "hatchSteps": 5355,
     "flavorText": "It brought rains by opening portals to another world. It was revered as a bringer of plentiful harvests.",
+    "legendary": false,
     "abilities": [
       "Levitate",
       "Heatproof"
@@ -83459,6 +84052,7 @@
     "catchRate": 255,
     "hatchSteps": 5355,
     "flavorText": "It prefers an arid atmosphere. It leaks water that looks like tears when adjusting its moisture level.",
+    "legendary": false,
     "abilities": [
       "Rock Head",
       "Sturdy"
@@ -83585,6 +84179,7 @@
     "catchRate": 145,
     "hatchSteps": 6630,
     "flavorText": "It mimics the expressions and motions of those it sees to understand the feelings of others.",
+    "legendary": false,
     "abilities": [
       "Soundproof",
       "Technician"
@@ -83697,6 +84292,7 @@
     "catchRate": 130,
     "hatchSteps": 10455,
     "flavorText": "It likes to carry around a small rock. It may wander around others’ feet and cause them to stumble.",
+    "legendary": false,
     "abilities": [
       "Serene Grace",
       "Natural Cure"
@@ -83763,6 +84359,7 @@
     "catchRate": 30,
     "hatchSteps": 5355,
     "flavorText": "Its tongue is just like a human’s. As a result, it can cleverly mimic human speech.",
+    "legendary": false,
     "abilities": [
       "Keen Eye",
       "Tangled Feet"
@@ -83914,6 +84511,7 @@
     "catchRate": 100,
     "hatchSteps": 7905,
     "flavorText": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
+    "legendary": false,
     "abilities": [
       "Pressure"
     ],
@@ -84050,6 +84648,7 @@
     "catchRate": 45,
     "hatchSteps": 10455,
     "flavorText": "It attacks using its huge mouth. While its attacks are powerful, it hurts itself out of clumsiness, too.",
+    "legendary": false,
     "abilities": [
       "Sand Veil",
       "Rough Skin"
@@ -84174,6 +84773,7 @@
     "catchRate": 45,
     "hatchSteps": 10455,
     "flavorText": "It loves sparkly things. It seeks treasures in caves and hoards the loot in its nest.",
+    "legendary": false,
     "abilities": [
       "Sand Veil",
       "Rough Skin"
@@ -84318,6 +84918,7 @@
     "catchRate": 45,
     "hatchSteps": 10455,
     "flavorText": "It is said that when one runs at high speed, its wings create blades of wind that can fell nearby trees.",
+    "legendary": false,
     "abilities": [
       "Sand Veil",
       "Rough Skin"
@@ -84470,6 +85071,7 @@
     "catchRate": 50,
     "hatchSteps": 10455,
     "flavorText": "In its desperation to gulp down food, it forgets about the food it has hidden under its fur.",
+    "legendary": false,
     "abilities": [
       "Pickup",
       "Thick Fat"
@@ -84610,6 +85212,7 @@
     "catchRate": 75,
     "hatchSteps": 6630,
     "flavorText": "It has the peculiar power of being able to see emotions such as joy and rage in the form of waves.",
+    "legendary": false,
     "abilities": [
       "Steadfast",
       "Prankster"
@@ -84729,6 +85332,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "A well-trained one can sense auras to identify and take in the feelings of creatures over half a mile away.",
+    "legendary": false,
     "abilities": [
       "Steadfast",
       "Justified"
@@ -84876,6 +85480,7 @@
     "catchRate": 140,
     "hatchSteps": 7905,
     "flavorText": "It shuts its nostrils tight then travels through sand as if walking. They form colonies of around ten.",
+    "legendary": false,
     "abilities": [
       "Sand Stream",
       "Sand Force"
@@ -85008,6 +85613,7 @@
     "catchRate": 60,
     "hatchSteps": 7905,
     "flavorText": "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.",
+    "legendary": false,
     "abilities": [
       "Sand Stream",
       "Sand Force"
@@ -85162,6 +85768,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "As soon as the tail claws close, its needle tips secrete poison. It can survive a year without food.",
+    "legendary": false,
     "abilities": [
       "Sniper",
       "Battle Armor"
@@ -85289,6 +85896,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Possessing a sturdy build, it takes pride in its strength, taking down foes without using toxins.",
+    "legendary": false,
     "abilities": [
       "Sniper",
       "Battle Armor"
@@ -85451,6 +86059,7 @@
     "catchRate": 140,
     "hatchSteps": 2805,
     "flavorText": "It rarely fights fairly, but that is strictly to ensure survival. It is popular as a mascot.",
+    "legendary": false,
     "abilities": [
       "Dry Skin",
       "Poison Touch"
@@ -85574,6 +86183,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "It has a poison sac at its throat. When it croaks, the stored poison is churned for greater potency.",
+    "legendary": false,
     "abilities": [
       "Dry Skin",
       "Poison Touch"
@@ -85726,6 +86336,7 @@
     "catchRate": 200,
     "hatchSteps": 6630,
     "flavorText": "It binds itself to trees in marshes. It attracts prey with its sweet- smelling drool and gulps them down.",
+    "legendary": false,
     "abilities": [
       "Levitate"
     ],
@@ -85864,6 +86475,7 @@
     "catchRate": 190,
     "hatchSteps": 5355,
     "flavorText": "The line running down its side can store sunlight. It shines vividly at night.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Storm Drain"
@@ -85984,6 +86596,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "It crawls along the seafloor using its long front fins like legs. It competes for food with Lanturn.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Storm Drain"
@@ -86135,6 +86748,7 @@
     "catchRate": 25,
     "hatchSteps": 6630,
     "flavorText": "People organize tours to see this Pokémon frolic and skim the tops of waves with Remoraid.",
+    "legendary": false,
     "abilities": [
       "Swift Swim",
       "Water Absorb"
@@ -86257,6 +86871,7 @@
     "catchRate": 120,
     "hatchSteps": 5355,
     "flavorText": "Seemingly curious about people, they gather around footsteps they find on snowy mountains.",
+    "legendary": false,
     "abilities": [
       "Snow Warning",
       "Soundproof"
@@ -86388,6 +87003,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "They appear when the snow flowers bloom. When the petals fall, they retreat to places unknown again.",
+    "legendary": false,
     "abilities": [
       "Snow Warning",
       "Soundproof"
@@ -86540,6 +87156,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Evolution made it even more devious. It communicates by clawing signs in boulders.",
+    "legendary": false,
     "abilities": [
       "Pressure",
       "Pickpocket"
@@ -86680,6 +87297,7 @@
     "catchRate": 30,
     "hatchSteps": 5355,
     "flavorText": "A group tried to use scientific means to make Magnezone evolve, but their efforts ended in failure.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Analytic"
@@ -86827,6 +87445,7 @@
     "catchRate": 30,
     "hatchSteps": 5355,
     "flavorText": "The long tongue is always soggy with slobber. The saliva contains a solvent that causes numbness.",
+    "legendary": false,
     "abilities": [
       "Own Tempo",
       "Oblivious"
@@ -86968,6 +87587,7 @@
     "catchRate": 30,
     "hatchSteps": 5355,
     "flavorText": "It can launch a rock held in its hand like a missile by tightening then expanding muscles instantly.",
+    "legendary": false,
     "abilities": [
       "Lightningrod",
       "Solid Rock"
@@ -87118,6 +87738,7 @@
     "catchRate": 30,
     "hatchSteps": 5355,
     "flavorText": "Its arms are made of plants that bind themselves to things. They grow back right away if cut.",
+    "legendary": false,
     "abilities": [
       "Chlorophyll",
       "Regenerator"
@@ -87250,6 +87871,7 @@
     "catchRate": 30,
     "hatchSteps": 6630,
     "flavorText": "Heedless of enemy attacks, it closes in, shoves its tails onto the foe, then looses high voltage.",
+    "legendary": false,
     "abilities": [
       "Motor Drive",
       "Vital Spirit"
@@ -87397,6 +88019,7 @@
     "catchRate": 30,
     "hatchSteps": 6630,
     "flavorText": "When launching 3,600 degrees F fireballs, its body takes on a whitish hue from the intense heat.",
+    "legendary": false,
     "abilities": [
       "Flame Body",
       "Vital Spirit"
@@ -87541,6 +88164,7 @@
     "catchRate": 30,
     "hatchSteps": 2805,
     "flavorText": "It shares many blessings with people who respect one another’s rights and avoid needless strife.",
+    "legendary": false,
     "abilities": [
       "Serene Grace",
       "Super Luck"
@@ -87694,6 +88318,7 @@
     "catchRate": 30,
     "hatchSteps": 5355,
     "flavorText": "Its jaw power is incredible. It is adept at biting apart foes while flying by at high speed.",
+    "legendary": false,
     "abilities": [
       "Speed Boost",
       "Tinted Lens"
@@ -87844,6 +88469,7 @@
     "catchRate": 45,
     "hatchSteps": 9180,
     "flavorText": "It basically does not fight. With cells similar to those of plants, it can perform photosynthesis.",
+    "legendary": false,
     "abilities": [
       "Leaf Guard",
       "Chlorophyll"
@@ -87961,6 +88587,7 @@
     "catchRate": 45,
     "hatchSteps": 9180,
     "flavorText": "By controlling its body heat, it can freeze the atmosphere around it to make a diamond-dust flurry.",
+    "legendary": false,
     "abilities": [
       "Snow Cloak",
       "Ice Body"
@@ -88086,6 +88713,7 @@
     "catchRate": 30,
     "hatchSteps": 5355,
     "flavorText": "If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.",
+    "legendary": false,
     "abilities": [
       "Hyper Cutter",
       "Poison Heal"
@@ -88234,6 +88862,7 @@
     "catchRate": 50,
     "hatchSteps": 5355,
     "flavorText": "A frozen one was dug up from soil dating back 10,000 years. It woke up to much amazement.",
+    "legendary": false,
     "abilities": [
       "Snow Cloak",
       "Thick Fat"
@@ -88386,6 +89015,7 @@
     "catchRate": 30,
     "hatchSteps": 5355,
     "flavorText": "Its programming was modified to enable work in alien dimensions. It did not work as planned.",
+    "legendary": false,
     "abilities": [
       "Download",
       "Adaptability"
@@ -88524,6 +89154,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "When trying to protect someone, it extends its elbows as if they were swords and fights savagely.",
+    "legendary": false,
     "abilities": [
       "Steadfast",
       "Justified"
@@ -88681,6 +89312,7 @@
     "catchRate": 60,
     "hatchSteps": 5355,
     "flavorText": "It freely controls three small units called Mini-Noses using magnetic force.",
+    "legendary": false,
     "abilities": [
       "Sturdy",
       "Magnet Pull"
@@ -88820,6 +89452,7 @@
     "catchRate": 45,
     "hatchSteps": 6630,
     "flavorText": "It is said to take lost spirits into its pliant body and guide them home.",
+    "legendary": false,
     "abilities": [
       "Pressure"
     ],
@@ -88980,6 +89613,7 @@
     "catchRate": 75,
     "hatchSteps": 5355,
     "flavorText": "It freezes prey by blowing its -58 degrees F breath. It is said to then secretly display its prey.",
+    "legendary": false,
     "abilities": [
       "Snow Cloak",
       "Cursed Body"
@@ -89138,6 +89772,7 @@
     "catchRate": 45,
     "hatchSteps": 5355,
     "flavorText": "Its electric-like body can enter some kinds of machines and take control in order to make mischief.",
+    "legendary": false,
     "abilities": [
       "Levitate [All Formes, yes even Fan]"
     ],
@@ -89282,6 +89917,7 @@
     "catchRate": 3,
     "hatchSteps": 20655,
     "flavorText": "When Uxie flew, people gained the ability to solve problems. It was the birth of knowledge.",
+    "legendary": true,
     "abilities": [
       "Levitate"
     ],
@@ -89406,6 +90042,7 @@
     "catchRate": 3,
     "hatchSteps": 20655,
     "flavorText": "When Mesprit flew, people learned the joy and sadness of living. It was the birth of emotions.",
+    "legendary": true,
     "abilities": [
       "Levitate"
     ],
@@ -89530,6 +90167,7 @@
     "catchRate": 3,
     "hatchSteps": 20655,
     "flavorText": "When Azelf flew, people gained the determination to do things. It was the birth of willpower.",
+    "legendary": true,
     "abilities": [
       "Levitate"
     ],
@@ -89655,6 +90293,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "A legendary Pokémon of Sinnoh. It is said that time flows when Dialga’s heart beats.",
+    "legendary": true,
     "abilities": [
       "Pressure",
       "Telepathy"
@@ -89778,6 +90417,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "A legendary Pokémon of Sinnoh. It is said that space becomes more stable with Palkia’s every breath.",
+    "legendary": true,
     "abilities": [
       "Pressure",
       "Telepathy"
@@ -89901,6 +90541,7 @@
     "catchRate": 3,
     "hatchSteps": 2805,
     "flavorText": "Its body is made of rugged steel. However, it is partially melted in spots because of its own heat.",
+    "legendary": true,
     "abilities": [
       "Flash Fire",
       "Flame Body"
@@ -90023,6 +90664,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "It is said to have made Pokémon that look like itself from a special ice mountain, rocks, and magma.",
+    "legendary": true,
     "abilities": [
       "Slow Start"
     ],
@@ -90177,6 +90819,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+    "legendary": true,
     "abilities": [
       "[Altered Forme]"
     ],
@@ -90302,6 +90945,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "On nights around the quarter moon, the aurora from its tail extends and undulates beautifully.",
+    "legendary": true,
     "abilities": [
       "Levitate"
     ],
@@ -90437,6 +91081,7 @@
     "catchRate": 30,
     "hatchSteps": 10455,
     "flavorText": "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
+    "legendary": true,
     "abilities": [
       "Hydration"
     ],
@@ -90542,6 +91187,7 @@
     "catchRate": 3,
     "hatchSteps": 2805,
     "flavorText": "It is born with a wondrous power that lets it bond with any kind of Pokémon.",
+    "legendary": true,
     "abilities": [
       "Hydration"
     ],
@@ -90681,6 +91327,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "To protect itself, it afflicts those around it with nightmares. However, it means no harm.",
+    "legendary": true,
     "abilities": [
       "Bad Dreams"
     ],
@@ -90820,6 +91467,7 @@
     "catchRate": 45,
     "hatchSteps": 30855,
     "flavorText": "The flowers all over its body burst into bloom if it is lovingly hugged and senses gratitude.",
+    "legendary": true,
     "abilities": [
       "[Land Forme]"
     ],
@@ -90969,6 +91617,7 @@
     "catchRate": 3,
     "hatchSteps": 30855,
     "flavorText": "It is said to have emerged from an egg in a place where there was nothing, then shaped the world.",
+    "legendary": true,
     "abilities": [
       "Multitype"
     ],

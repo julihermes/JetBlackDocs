@@ -104,3 +104,42 @@
   line-height: 1.5;
   color: var(--text-dim);
 }
+
+/* Every legendary the doc doesn't place by hand, all caught in one room. */
+.obeliskGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(104px, 1fr));
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.obelisk {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  padding: 8px 4px;
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.15s ease;
+}
+
+.obelisk:hover {
+  border-color: var(--hairline-strong);
+}
+
+.obeliskSprite {
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+  image-rendering: pixelated;
+}
+
+.obeliskName {
+  font-size: 12px;
+  font-weight: 600;
+  text-align: center;
+}

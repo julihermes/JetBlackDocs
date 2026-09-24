@@ -36,7 +36,7 @@ EOF
 
 `evolutions.json` lists every vanilla Pokémon Black evolution edge (`fromId`/`from`/`toId`/`to`/`method`), also from PokéAPI. JetBlack's own "Evolution Changes" doc only lists methods it *altered*, so this fills in the rest — see `buildEvolutionLookup` in `pipeline/vanilla-data.ts` for how the two are merged (hack-documented pair always wins).
 
-`species-info.json` maps National Dex number → height, weight, gender ratio, egg groups, catch rate, hatch cycle, dex category ("genus"), and Gen 5 Pokédex flavor text (filtered to the *Black* version specifically, not a later remake). None of these are documented anywhere in JetBlack's own `.txt` files — the hack's feature list never claims to change them — so, like `types.json`, this is safe to treat as static and never regenerate for a new hack version.
+`species-info.json` maps National Dex number → height, weight, gender ratio, egg groups, catch rate, hatch cycle, dex category ("genus"), whether the species is legendary or mythical, and Gen 5 Pokédex flavor text (filtered to the *Black* version specifically, not a later remake). None of these are documented anywhere in JetBlack's own `.txt` files — the hack's feature list never claims to change them — so, like `types.json`, this is safe to treat as static and never regenerate for a new hack version.
 
 To regenerate:
 
@@ -75,6 +75,9 @@ for dex in range(1, 650):
         "catchRate": species["capture_rate"],
         "hatchSteps": (species["hatch_counter"] + 1) * 255,
         "flavorText": flavor_text,
+        # JetBlack houses every legendary it doesn't place by hand in the Relic
+        # Castle Obelisks — see buildObeliskList in pipeline/obelisks.ts.
+        "legendary": species["is_legendary"] or species["is_mythical"],
     }
     time.sleep(0.02)
 

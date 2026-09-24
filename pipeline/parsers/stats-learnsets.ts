@@ -236,6 +236,7 @@ export function parseStatsAndLearnsets(file: SourceFile): PokemonEntry[] {
       catchRate: 0,
       hatchSteps: 0,
       flavorText: "",
+      legendary: false,
       abilities,
       abilityNotes,
       stats,

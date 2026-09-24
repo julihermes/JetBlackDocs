@@ -69,5 +69,7 @@ export function parseLegendaries(file: SourceFile): LegendariesData {
     };
   });
 
-  return { entries, asides };
+  // The Obelisk roster needs the full species list, which the parser doesn't
+  // have; the build fills it in.
+  return { entries, asides, obelisks: [] };
 }
