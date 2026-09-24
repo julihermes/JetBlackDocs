@@ -130,3 +130,15 @@
 .speciesLink:hover {
   border-color: var(--hairline-strong);
 }
+
+/* Machines are the half of a move's distribution the level-up index can't see. */
+.machineLine {
+  margin: 0 0 8px;
+  font-size: 13px;
+  color: var(--text-dim);
+}
+
+.machineLine a {
+  color: var(--teal);
+  text-decoration: none;
+}

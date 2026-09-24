@@ -53,7 +53,9 @@
       "Happiny",
       "Finneon",
       "Lumineon"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Karate Chop",
@@ -73,7 +75,9 @@
       "Machop",
       "Machoke",
       "Machamp"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Double Slap",
@@ -88,7 +92,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Comet Punch",
@@ -103,7 +109,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Mega Punch",
@@ -118,7 +126,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Pay Day",
@@ -138,7 +148,9 @@
       "Liepard",
       "Meowth",
       "Persian"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Fire Punch",
@@ -232,7 +244,9 @@
       "Gallade",
       "Dusknoir",
       "Regigigas"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Ice Punch",
@@ -339,7 +353,9 @@
       "Gallade",
       "Dusknoir",
       "Regigigas"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Thunder Punch",
@@ -444,7 +460,9 @@
       "Gallade",
       "Dusknoir",
       "Regigigas"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Scratch",
@@ -525,7 +543,9 @@
       "Gabite",
       "Garchomp",
       "Weavile"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Vise Grip",
@@ -540,7 +560,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Guillotine",
@@ -580,7 +602,9 @@
       "Pinsir",
       "Corphish",
       "Crawdaunt"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Razor Wind",
@@ -595,7 +619,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Swords Dance",
@@ -673,7 +699,9 @@
       "Leafeon",
       "Gliscor",
       "Gallade"
-    ]
+    ],
+    "machine": "TM75",
+    "machineSpecies": 164
   },
   {
     "name": "Cut",
@@ -711,7 +739,9 @@
       "20% chance to increase Attack by 1 stage."
     ],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": "HM01",
+    "machineSpecies": 221
   },
   {
     "name": "Gust",
@@ -763,7 +793,9 @@
       "Drifblim",
       "Finneon",
       "Lumineon"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Wing Attack",
@@ -805,7 +837,9 @@
       "Staraptor",
       "Honchkrow",
       "Mantyke"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Whirlwind",
@@ -840,7 +874,9 @@
       "Staraptor",
       "Hippopotas",
       "Hippowdon"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Fly",
@@ -869,7 +905,9 @@
     "learnedBy": [
       "Salamence",
       "Rayquaza"
-    ]
+    ],
+    "machine": "HM02",
+    "machineSpecies": 73
   },
   {
     "name": "Bind",
@@ -896,7 +934,9 @@
       "Shuckle",
       "Carnivine",
       "Tangrowth"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Slam",
@@ -911,7 +951,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Vine Whip",
@@ -950,7 +992,9 @@
       "Tangela",
       "Carnivine",
       "Tangrowth"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Stomp",
@@ -985,7 +1029,9 @@
       "Regice",
       "Registeel",
       "Lickilicky"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Double Kick",
@@ -1037,7 +1083,9 @@
       "Shinx",
       "Luxio",
       "Luxray"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Mega Kick",
@@ -1052,7 +1100,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Jump Kick",
@@ -1079,7 +1129,9 @@
       "Stantler",
       "Buneary",
       "Lopunny"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Rolling Kick",
@@ -1100,7 +1152,9 @@
       "Hitmontop",
       "Elekid",
       "Electivire"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Sand Attack",
@@ -1173,7 +1227,9 @@
       "Leafeon",
       "Glaceon",
       "Gliscor"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Headbutt",
@@ -1244,7 +1300,9 @@
       "Luxray",
       "Cranidos",
       "Rampardos"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Horn Attack",
@@ -1272,7 +1330,9 @@
       "Tauros",
       "Heracross",
       "Rhyperior"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Fury Attack",
@@ -1287,7 +1347,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Horn Drill",
@@ -1302,7 +1364,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Tackle",
@@ -1491,7 +1555,9 @@
       "Glaceon",
       "Porygon-Z",
       "Probopass"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Body Slam",
@@ -1621,7 +1687,9 @@
       "Hippowdon",
       "Lickilicky",
       "Mamoswine"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Wrap",
@@ -1653,7 +1721,9 @@
       "Drifloon",
       "Drifblim",
       "Chingling"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Take Down",
@@ -1699,7 +1769,9 @@
       "Bastiodon",
       "Mantyke",
       "Rhyperior"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Thrash",
@@ -1747,7 +1819,9 @@
       "Sharpedo",
       "Barboach",
       "Whiscash"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Double-Edge",
@@ -1799,7 +1873,9 @@
       "Hippopotas",
       "Hippowdon",
       "Yanmega"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Tail Whip",
@@ -1875,7 +1951,9 @@
       "Ambipom",
       "Leafeon",
       "Glaceon"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Poison Sting",
@@ -1920,7 +1998,9 @@
       "Croagunk",
       "Toxicroak",
       "Gliscor"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Twineedle",
@@ -1940,7 +2020,9 @@
       "Beedrill",
       "Skorupi",
       "Drapion"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Pin Missile",
@@ -1955,11 +2037,13 @@
     "fieldChanges": [
       {
         "field": "Power",
-        "to": "25"
+        "to": "25",
+        "from": "14"
       },
       {
         "field": "Acc",
-        "to": "100"
+        "to": "100",
+        "from": "85"
       }
     ],
     "changeNotes": [],
@@ -1987,7 +2071,9 @@
       "Cacturne",
       "Skorupi",
       "Drapion"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Leer",
@@ -2137,7 +2223,9 @@
       "Magmortar",
       "Dusknoir",
       "Froslass"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Bite",
@@ -2254,7 +2342,9 @@
       "Skorupi",
       "Drapion",
       "Carnivine"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Growl",
@@ -2389,7 +2479,9 @@
       "Chatot",
       "Leafeon",
       "Glaceon"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Roar",
@@ -2428,7 +2520,9 @@
       "Lairon",
       "Aggron",
       "Rhyperior"
-    ]
+    ],
+    "machine": "TM05",
+    "machineSpecies": 144
   },
   {
     "name": "Sing",
@@ -2462,7 +2556,9 @@
       "Altaria",
       "Kricketune",
       "Chatot"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Supersonic",
@@ -2516,7 +2612,9 @@
       "Yanmega",
       "Phione",
       "Manaphy"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Sonic Boom",
@@ -2542,7 +2640,9 @@
       "Buizel",
       "Floatzel",
       "Magnezone"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Disable",
@@ -2589,7 +2689,9 @@
       "Kingdra",
       "Lickilicky",
       "Darkrai"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Acid",
@@ -2617,7 +2719,9 @@
       "Bellossom",
       "Lileep",
       "Cradily"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Ember",
@@ -2673,7 +2777,9 @@
       "Monferno",
       "Infernape",
       "Magmortar"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Flamethrower",
@@ -2736,7 +2842,9 @@
       "Magmortar",
       "Azelf",
       "Heatran"
-    ]
+    ],
+    "machine": "TM35",
+    "machineSpecies": 147
   },
   {
     "name": "Mist",
@@ -2751,7 +2859,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Water Gun",
@@ -2831,7 +2941,9 @@
       "Floatzel",
       "Finneon",
       "Lumineon"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Hydro Pump",
@@ -2912,7 +3024,9 @@
       "Lumineon",
       "Palkia",
       "Manaphy"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Surf",
@@ -2927,7 +3041,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": "HM03",
+    "machineSpecies": 153
   },
   {
     "name": "Ice Beam",
@@ -2989,7 +3105,9 @@
       "Mesprit",
       "Cresselia",
       "Manaphy"
-    ]
+    ],
+    "machine": "TM13",
+    "machineSpecies": 219
   },
   {
     "name": "Blizzard",
@@ -3034,7 +3152,9 @@
       "Abomasnow",
       "Mamoswine",
       "Froslass"
-    ]
+    ],
+    "machine": "TM14",
+    "machineSpecies": 196
   },
   {
     "name": "Psybeam",
@@ -3107,7 +3227,9 @@
       "Finneon",
       "Lumineon",
       "Porygon-Z"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Bubble Beam",
@@ -3173,7 +3295,9 @@
       "Empoleon",
       "Mantyke",
       "Phione"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Aurora Beam",
@@ -3214,7 +3338,9 @@
       "Finneon",
       "Lumineon",
       "Cresselia"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Hyper Beam",
@@ -3256,7 +3382,9 @@
       "Deoxys",
       "Porygon-Z",
       "Arceus"
-    ]
+    ],
+    "machine": "TM15",
+    "machineSpecies": 329
   },
   {
     "name": "Peck",
@@ -3301,7 +3429,9 @@
       "Prinplup",
       "Empoleon",
       "Chatot"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Drill Peck",
@@ -3336,7 +3466,9 @@
       "Prinplup",
       "Empoleon",
       "Honchkrow"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Submission",
@@ -3377,7 +3509,9 @@
       "Chimchar",
       "Monferno",
       "Infernape"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Low Kick",
@@ -3412,7 +3546,9 @@
       "Sudowoodo",
       "Floatzel",
       "Bonsly"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Counter",
@@ -3470,7 +3606,9 @@
       "Munchlax",
       "Riolu",
       "Lucario"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Seismic Toss",
@@ -3499,7 +3637,9 @@
       "Makuhita",
       "Hariyama",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Strength",
@@ -3514,12 +3654,15 @@
     "fieldChanges": [
       {
         "field": "Power",
-        "to": "90"
+        "to": "90",
+        "from": "80"
       }
     ],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": "HM04",
+    "machineSpecies": 314
   },
   {
     "name": "Absorb",
@@ -3576,7 +3719,9 @@
       "Budew",
       "Roserade",
       "Tangrowth"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Mega Drain",
@@ -3650,7 +3795,9 @@
       "Budew",
       "Roserade",
       "Tangrowth"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Leech Seed",
@@ -3727,7 +3874,9 @@
       "Abomasnow",
       "Tangrowth",
       "Shaymin"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Growth",
@@ -3784,7 +3933,9 @@
       "Abomasnow",
       "Tangrowth",
       "Shaymin"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Razor Leaf",
@@ -3828,7 +3979,9 @@
       "Torterra",
       "Snover",
       "Abomasnow"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Solar Beam",
@@ -3861,7 +4014,9 @@
       "Ho-oh",
       "Groudon",
       "Cherrim"
-    ]
+    ],
+    "machine": "TM22",
+    "machineSpecies": 213
   },
   {
     "name": "Poison Powder",
@@ -3903,7 +4058,9 @@
       "Shroomish",
       "Breloom",
       "Tangrowth"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Stun Spore",
@@ -3949,7 +4106,9 @@
       "Budew",
       "Roserade",
       "Tangrowth"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Sleep Powder",
@@ -3991,7 +4150,9 @@
       "Roserade",
       "Carnivine",
       "Tangrowth"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Petal Dance",
@@ -4019,7 +4180,9 @@
       "Sunflora",
       "Spinda",
       "Cherrim"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "String Shot",
@@ -4051,7 +4214,9 @@
       "Wurmple",
       "Silcoon",
       "Cascoon"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Dragon Rage",
@@ -4087,7 +4252,9 @@
       "Gible",
       "Gabite",
       "Garchomp"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Fire Spin",
@@ -4133,7 +4300,9 @@
       "Monferno",
       "Infernape",
       "Heatran"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Thunder Shock",
@@ -4177,7 +4346,9 @@
       "Magnezone",
       "Electivire",
       "Rotom"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Thunderbolt",
@@ -4232,7 +4403,9 @@
       "Probopass",
       "Rotom",
       "Uxie"
-    ]
+    ],
+    "machine": "TM24",
+    "machineSpecies": 180
   },
   {
     "name": "Thunder Wave",
@@ -4280,7 +4453,9 @@
       "Electivire",
       "Probopass",
       "Rotom"
-    ]
+    ],
+    "machine": "TM73",
+    "machineSpecies": 184
   },
   {
     "name": "Thunder",
@@ -4320,7 +4495,9 @@
       "Castform",
       "Kyogre",
       "Electivire"
-    ]
+    ],
+    "machine": "TM25",
+    "machineSpecies": 158
   },
   {
     "name": "Rock Throw",
@@ -4366,7 +4543,9 @@
       "Regirock",
       "Bonsly",
       "Probopass"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Earthquake",
@@ -4461,7 +4640,9 @@
       "Tangrowth",
       "Gliscor",
       "Mamoswine"
-    ]
+    ],
+    "machine": "TM26",
+    "machineSpecies": 201
   },
   {
     "name": "Fissure",
@@ -4517,7 +4698,9 @@
       "Hippowdon",
       "Rhyperior",
       "Mamoswine"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Dig",
@@ -4561,7 +4744,9 @@
       "Hippowdon",
       "Gliscor",
       "Mamoswine"
-    ]
+    ],
+    "machine": "TM28",
+    "machineSpecies": 257
   },
   {
     "name": "Toxic",
@@ -4596,7 +4781,9 @@
       "Vespiquen",
       "Stunky",
       "Skuntank"
-    ]
+    ],
+    "machine": "TM06",
+    "machineSpecies": 631
   },
   {
     "name": "Confusion",
@@ -4676,7 +4863,9 @@
       "Mesprit",
       "Azelf",
       "Cresselia"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Psychic",
@@ -4761,7 +4950,9 @@
       "Mothim",
       "Porygon-Z",
       "Cresselia"
-    ]
+    ],
+    "machine": "TM29",
+    "machineSpecies": 166
   },
   {
     "name": "Hypnosis",
@@ -4830,7 +5021,9 @@
       "Yanmega",
       "Gallade",
       "Darkrai"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Meditate",
@@ -4859,7 +5052,9 @@
       "Medicham",
       "Mime Jr.",
       "Electivire"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Agility",
@@ -4969,7 +5164,9 @@
       "Mantyke",
       "Weavile",
       "Porygon-Z"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Quick Attack",
@@ -5071,7 +5268,9 @@
       "Gliscor",
       "Darkrai",
       "Shaymin"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Rage",
@@ -5108,7 +5307,9 @@
       "Bagon",
       "Shelgon",
       "Salamence"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Teleport",
@@ -5128,7 +5329,9 @@
       "Kadabra",
       "Alakazam",
       "Natu"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Night Shade",
@@ -5164,7 +5367,9 @@
       "Deoxys",
       "Dusknoir",
       "Darkrai"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Mimic",
@@ -5193,7 +5398,9 @@
       "Bonsly",
       "Mime Jr.",
       "Chatot"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Screech",
@@ -5279,7 +5486,9 @@
       "Electivire",
       "Yanmega",
       "Gliscor"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Double Team",
@@ -5316,7 +5525,9 @@
       "Froslass",
       "Rotom",
       "Darkrai"
-    ]
+    ],
+    "machine": "TM32",
+    "machineSpecies": 631
   },
   {
     "name": "Recover",
@@ -5379,7 +5590,9 @@
       "Porygon-Z",
       "Manaphy",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Harden",
@@ -5446,7 +5659,9 @@
       "Gastrodon",
       "Gliscor",
       "Probopass"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Minimize",
@@ -5461,7 +5676,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Smokescreen",
@@ -5496,7 +5713,9 @@
       "Stunky",
       "Skuntank",
       "Magmortar"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Confuse Ray",
@@ -5571,7 +5790,9 @@
       "Froslass",
       "Rotom",
       "Regigigas"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Withdraw",
@@ -5603,7 +5824,9 @@
       "Turtwig",
       "Grotle",
       "Torterra"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Defense Curl",
@@ -5665,7 +5888,9 @@
       "Bibarel",
       "Buneary",
       "Munchlax"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Barrier",
@@ -5693,7 +5918,9 @@
       "Huntail",
       "Gorebyss",
       "Magmortar"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Light Screen",
@@ -5742,7 +5969,9 @@
       "Chimecho",
       "Mime Jr.",
       "Electivire"
-    ]
+    ],
+    "machine": "TM16",
+    "machineSpecies": 190
   },
   {
     "name": "Haze",
@@ -5770,7 +5999,9 @@
       "Surskit",
       "Honchkrow",
       "Darkrai"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Reflect",
@@ -5813,7 +6044,9 @@
       "Medicham",
       "Chimecho",
       "Mime Jr."
-    ]
+    ],
+    "machine": "TM33",
+    "machineSpecies": 138
   },
   {
     "name": "Focus Energy",
@@ -5885,7 +6118,9 @@
       "Drifblim",
       "Stunky",
       "Skuntank"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Bide",
@@ -5934,7 +6169,9 @@
       "Kricketot",
       "Kricketune",
       "Pachirisu"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Metronome",
@@ -5960,7 +6197,9 @@
       "Plusle",
       "Minun",
       "Togekiss"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Mirror Move",
@@ -5990,7 +6229,9 @@
       "Altaria",
       "Honchkrow",
       "Chatot"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Self-Destruct",
@@ -6016,7 +6257,9 @@
       "Weezing",
       "Pineco",
       "Forretress"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Egg Bomb",
@@ -6051,7 +6294,9 @@
       "Exeggutor",
       "Chansey",
       "Blissey"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Lick",
@@ -6088,7 +6333,9 @@
       "Kecleon",
       "Munchlax",
       "Lickilicky"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Smog",
@@ -6119,7 +6366,9 @@
       "Stunky",
       "Skuntank",
       "Magmortar"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Sludge",
@@ -6142,7 +6391,9 @@
       "Weezing",
       "Gulpin",
       "Swalot"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Bone Club",
@@ -6160,7 +6411,9 @@
     "learnedBy": [
       "Cubone",
       "Marowak"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Fire Blast",
@@ -6193,7 +6446,9 @@
       "Blissey",
       "Entei",
       "Castform"
-    ]
+    ],
+    "machine": "TM38",
+    "machineSpecies": 134
   },
   {
     "name": "Waterfall",
@@ -6217,7 +6472,9 @@
     "learnedBy": [
       "Goldeen",
       "Seaking"
-    ]
+    ],
+    "machine": "HM05",
+    "machineSpecies": 104
   },
   {
     "name": "Clamp",
@@ -6238,7 +6495,9 @@
       "Corphish",
       "Crawdaunt",
       "Clamperl"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Swift",
@@ -6307,7 +6566,9 @@
       "Uxie",
       "Mesprit",
       "Azelf"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Skull Bash",
@@ -6404,7 +6665,9 @@
       "Snover",
       "Abomasnow",
       "Rhyperior"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Spike Cannon",
@@ -6419,7 +6682,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Constrict",
@@ -6434,7 +6699,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Amnesia",
@@ -6485,7 +6752,9 @@
       "Munchlax",
       "Mamoswine",
       "Uxie"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Kinesis",
@@ -6500,7 +6769,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Soft-Boiled",
@@ -6521,7 +6792,9 @@
       "Chansey",
       "Mew",
       "Blissey"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "High Jump Kick",
@@ -6538,7 +6811,9 @@
     "isNew": false,
     "learnedBy": [
       "Blaziken"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Glare",
@@ -6562,7 +6837,9 @@
       "Arbok",
       "Dunsparce",
       "Seviper"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Dream Eater",
@@ -6596,7 +6873,9 @@
       "Gardevoir",
       "Spiritomb",
       "Darkrai"
-    ]
+    ],
+    "machine": "TM85",
+    "machineSpecies": 149
   },
   {
     "name": "Poison Gas",
@@ -6629,7 +6908,9 @@
       "Swalot",
       "Stunky",
       "Skuntank"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Barrage",
@@ -6644,7 +6925,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Leech Life",
@@ -6711,7 +6994,9 @@
       "Kricketune",
       "Mothim",
       "Yanmega"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Lovely Kiss",
@@ -6735,7 +7020,9 @@
       "Nidoking",
       "Jynx",
       "Luvdisc"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Sky Attack",
@@ -6768,7 +7055,9 @@
       "Ho-oh",
       "Rayquaza",
       "Honchkrow"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Transform",
@@ -6786,7 +7075,9 @@
     "learnedBy": [
       "Ditto",
       "Mew"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Bubble",
@@ -6832,7 +7123,9 @@
       "Mantyke",
       "Phione",
       "Manaphy"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Dizzy Punch",
@@ -6853,7 +7146,9 @@
       "Buneary",
       "Lopunny",
       "Regigigas"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Spore",
@@ -6875,7 +7170,9 @@
       "Parasect",
       "Shroomish",
       "Breloom"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Flash",
@@ -6895,7 +7192,9 @@
       "Lampent",
       "Chandelure",
       "Volbeat"
-    ]
+    ],
+    "machine": "TM70",
+    "machineSpecies": 267
   },
   {
     "name": "Psywave",
@@ -6918,7 +7217,9 @@
       "Latios",
       "Bronzor",
       "Bronzong"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Splash",
@@ -6945,7 +7246,9 @@
       "Feebas",
       "Wynaut",
       "Buneary"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Acid Armor",
@@ -6973,7 +7276,9 @@
       "Vaporeon",
       "Phione",
       "Manaphy"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Crabhammer",
@@ -6994,7 +7299,9 @@
       "Kingler",
       "Corphish",
       "Crawdaunt"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Explosion",
@@ -7040,7 +7347,9 @@
       "Stunky",
       "Skuntank",
       "Azelf"
-    ]
+    ],
+    "machine": "TM64",
+    "machineSpecies": 72
   },
   {
     "name": "Fury Swipes",
@@ -7068,7 +7377,9 @@
       "Persian",
       "Mankey",
       "Primeape"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Bonemerang",
@@ -7086,7 +7397,9 @@
     "learnedBy": [
       "Cubone",
       "Marowak"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Rest",
@@ -7148,7 +7461,9 @@
       "Uxie",
       "Mesprit",
       "Azelf"
-    ]
+    ],
+    "machine": "TM44",
+    "machineSpecies": 630
   },
   {
     "name": "Rock Slide",
@@ -7233,7 +7548,9 @@
       "Bastiodon",
       "Bonsly",
       "Rhyperior"
-    ]
+    ],
+    "machine": "TM80",
+    "machineSpecies": 244
   },
   {
     "name": "Hyper Fang",
@@ -7256,7 +7573,9 @@
       "Bidoof",
       "Bibarel",
       "Pachirisu"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Sharpen",
@@ -7278,7 +7597,9 @@
       "Starmie",
       "Porygon",
       "Porygon-Z"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Conversion",
@@ -7297,7 +7618,9 @@
       "Porygon",
       "Porygon2",
       "Porygon-Z"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Tri Attack",
@@ -7321,7 +7644,9 @@
       "Porygon2",
       "Magnezone",
       "Porygon-Z"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Super Fang",
@@ -7346,7 +7671,9 @@
       "Bidoof",
       "Bibarel",
       "Pachirisu"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Slash",
@@ -7425,7 +7752,9 @@
       "Dialga",
       "Palkia",
       "Giratina"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Substitute",
@@ -7452,7 +7781,9 @@
       "Ninjask",
       "Mime Jr.",
       "Rotom"
-    ]
+    ],
+    "machine": "TM90",
+    "machineSpecies": 631
   },
   {
     "name": "Struggle",
@@ -7467,7 +7798,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Sketch",
@@ -7484,7 +7817,9 @@
     "isNew": false,
     "learnedBy": [
       "Smeargle"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Triple Kick",
@@ -7501,7 +7836,9 @@
     "isNew": false,
     "learnedBy": [
       "Hitmontop"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Thief",
@@ -7533,7 +7870,9 @@
       "Spearow",
       "Fearow",
       "Kecleon"
-    ]
+    ],
+    "machine": "TM46",
+    "machineSpecies": 266
   },
   {
     "name": "Spider Web",
@@ -7548,7 +7887,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Mind Reader",
@@ -7572,7 +7913,9 @@
       "Shedinja",
       "Meditite",
       "Medicham"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Nightmare",
@@ -7603,7 +7946,9 @@
       "Exeggutor",
       "Shedinja",
       "Spiritomb"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Flame Wheel",
@@ -7637,7 +7982,9 @@
       "Chimchar",
       "Monferno",
       "Infernape"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Snore",
@@ -7661,7 +8008,9 @@
       "Barboach",
       "Whiscash",
       "Munchlax"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Curse",
@@ -7749,7 +8098,9 @@
       "Mamoswine",
       "Dusknoir",
       "Regigigas"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Flail",
@@ -7797,7 +8148,9 @@
       "Bonsly",
       "Mamoswine",
       "Uxie"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Conversion 2",
@@ -7816,7 +8169,9 @@
       "Porygon",
       "Porygon2",
       "Porygon-Z"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Aeroblast",
@@ -7833,7 +8188,9 @@
     "isNew": false,
     "learnedBy": [
       "Lugia"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Cotton Spore",
@@ -7856,7 +8213,9 @@
       "Hoppip",
       "Skiploom",
       "Jumpluff"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Reversal",
@@ -7896,7 +8255,9 @@
       "Hariyama",
       "Riolu",
       "Lucario"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Spite",
@@ -7924,7 +8285,9 @@
       "Banette",
       "Mismagius",
       "Honchkrow"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Powder Snow",
@@ -7956,7 +8319,9 @@
       "Abomasnow",
       "Mamoswine",
       "Froslass"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Protect",
@@ -8015,7 +8380,9 @@
       "Mothim",
       "Froslass",
       "Mesprit"
-    ]
+    ],
+    "machine": "TM17",
+    "machineSpecies": 630
   },
   {
     "name": "Mach Punch",
@@ -8043,7 +8410,9 @@
       "Monferno",
       "Infernape",
       "Magmortar"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Scary Face",
@@ -8098,7 +8467,9 @@
       "Palkia",
       "Heatran",
       "Giratina"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Feint Attack",
@@ -8113,7 +8484,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Sweet Kiss",
@@ -8143,7 +8516,9 @@
       "Happiny",
       "Togekiss",
       "Shaymin"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Belly Drum",
@@ -8179,7 +8554,9 @@
       "Makuhita",
       "Hariyama",
       "Magmortar"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Sludge Bomb",
@@ -8211,7 +8588,9 @@
       "Skuntank",
       "Croagunk",
       "Toxicroak"
-    ]
+    ],
+    "machine": "TM36",
+    "machineSpecies": 114
   },
   {
     "name": "Mud-Slap",
@@ -8262,7 +8641,9 @@
       "Gastrodon",
       "Croagunk",
       "Toxicroak"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Octazooka",
@@ -8279,7 +8660,9 @@
     "isNew": false,
     "learnedBy": [
       "Octillery"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Spikes",
@@ -8318,7 +8701,9 @@
       "Glalie",
       "Roserade",
       "Froslass"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Zap Cannon",
@@ -8376,7 +8761,9 @@
       "Magnezone",
       "Porygon-Z",
       "Probopass"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Foresight",
@@ -8412,7 +8799,9 @@
       "Riolu",
       "Yanmega",
       "Dusknoir"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Destiny Bond",
@@ -8452,7 +8841,9 @@
       "Spiritomb",
       "Dusknoir",
       "Giratina"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Perish Song",
@@ -8495,7 +8886,9 @@
       "Honchkrow",
       "Dusknoir",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Icy Wind",
@@ -8609,7 +9002,9 @@
       "Froslass",
       "Phione",
       "Darkrai"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Detect",
@@ -8643,7 +9038,9 @@
       "Absol",
       "Yanmega",
       "Azelf"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Bone Rush",
@@ -8663,7 +9060,9 @@
       "Cubone",
       "Marowak",
       "Lucario"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Lock-On",
@@ -8698,7 +9097,9 @@
       "Magnezone",
       "Porygon-Z",
       "Probopass"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Outrage",
@@ -8746,7 +9147,9 @@
       "Gabite",
       "Garchomp",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Sandstorm",
@@ -8790,7 +9193,9 @@
       "Gabite",
       "Garchomp",
       "Probopass"
-    ]
+    ],
+    "machine": "TM37",
+    "machineSpecies": 148
   },
   {
     "name": "Giga Drain",
@@ -8905,7 +9310,9 @@
       "Uxie",
       "Shaymin",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Endure",
@@ -8951,7 +9358,9 @@
       "Lopunny",
       "Riolu",
       "Uxie"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Charm",
@@ -9033,7 +9442,9 @@
       "Mesprit",
       "Phione",
       "Manaphy"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Rollout",
@@ -9108,7 +9519,9 @@
       "Bibarel",
       "Munchlax",
       "Lickilicky"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "False Swipe",
@@ -9132,7 +9545,9 @@
       "Farfetch'd",
       "Nincada",
       "Gallade"
-    ]
+    ],
+    "machine": "TM54",
+    "machineSpecies": 56
   },
   {
     "name": "Swagger",
@@ -9162,7 +9577,9 @@
       "Vespiquen",
       "Croagunk",
       "Toxicroak"
-    ]
+    ],
+    "machine": "TM87",
+    "machineSpecies": 631
   },
   {
     "name": "Milk Drink",
@@ -9179,7 +9596,9 @@
     "isNew": false,
     "learnedBy": [
       "Miltank"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Spark",
@@ -9218,7 +9637,9 @@
       "Luxray",
       "Pachirisu",
       "Magnezone"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Fury Cutter",
@@ -9280,7 +9701,9 @@
       "Leafeon",
       "Gliscor",
       "Gallade"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Steel Wing",
@@ -9313,7 +9736,9 @@
       "Starly",
       "Staravia",
       "Staraptor"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Mean Look",
@@ -9350,7 +9775,9 @@
       "Mismagius",
       "Honchkrow",
       "Dusknoir"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Attract",
@@ -9381,7 +9808,9 @@
       "Spiritomb",
       "Finneon",
       "Lumineon"
-    ]
+    ],
+    "machine": "TM45",
+    "machineSpecies": 561
   },
   {
     "name": "Sleep Talk",
@@ -9421,7 +9850,9 @@
       "Mesprit",
       "Palkia",
       "Cresselia"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Heal Bell",
@@ -9460,7 +9891,9 @@
       "Kricketune",
       "Bronzong",
       "Phione"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Return",
@@ -9480,7 +9913,9 @@
       "Herdier",
       "Stoutland",
       "Lopunny"
-    ]
+    ],
+    "machine": "TM27",
+    "machineSpecies": 631
   },
   {
     "name": "Present",
@@ -9497,7 +9932,9 @@
     "isNew": false,
     "learnedBy": [
       "Delibird"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Frustration",
@@ -9514,7 +9951,9 @@
     "isNew": false,
     "learnedBy": [
       "Buneary"
-    ]
+    ],
+    "machine": "TM21",
+    "machineSpecies": 631
   },
   {
     "name": "Safeguard",
@@ -9556,7 +9995,9 @@
       "Latios",
       "Togekiss",
       "Shaymin"
-    ]
+    ],
+    "machine": "TM20",
+    "machineSpecies": 177
   },
   {
     "name": "Pain Split",
@@ -9582,7 +10023,9 @@
       "Dusknoir",
       "Rotom",
       "Giratina"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Sacred Fire",
@@ -9600,7 +10043,9 @@
     "learnedBy": [
       "Entei",
       "Ho-oh"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Magnitude",
@@ -9626,7 +10071,9 @@
       "Golem",
       "Nosepass",
       "Probopass"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Dynamic Punch",
@@ -9656,7 +10103,9 @@
       "Magby",
       "Ambipom",
       "Magmortar"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Megahorn",
@@ -9693,7 +10142,9 @@
       "Stantler",
       "Absol",
       "Rhyperior"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Dragon Breath",
@@ -9733,7 +10184,9 @@
       "Dialga",
       "Palkia",
       "Giratina"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Baton Pass",
@@ -9817,7 +10270,9 @@
       "Leafeon",
       "Glaceon",
       "Manaphy"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Encore",
@@ -9891,7 +10346,9 @@
       "Mime Jr.",
       "Chatot",
       "Togekiss"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Pursuit",
@@ -9947,7 +10404,9 @@
       "Drapion",
       "Dusknoir",
       "Darkrai"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Rapid Spin",
@@ -9990,7 +10449,9 @@
       "Claydol",
       "Bronzor",
       "Bronzong"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Sweet Scent",
@@ -10031,7 +10492,9 @@
       "Vespiquen",
       "Carnivine",
       "Shaymin"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Iron Tail",
@@ -10066,7 +10529,9 @@
       "Pachirisu",
       "Glameow",
       "Purugly"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Metal Claw",
@@ -10116,7 +10581,9 @@
       "Lucario",
       "Weavile",
       "Dialga"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Vital Throw",
@@ -10133,7 +10600,9 @@
     "isNew": false,
     "learnedBy": [
       "Throh"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Morning Sun",
@@ -10157,7 +10626,9 @@
       "Solrock",
       "Cherubi",
       "Cherrim"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Synthesis",
@@ -10204,7 +10675,9 @@
       "Grotle",
       "Torterra",
       "Roserade"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Moonlight",
@@ -10233,7 +10706,9 @@
       "Illumise",
       "Lunatone",
       "Cresselia"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Hidden Power",
@@ -10259,7 +10734,9 @@
       "Mothim",
       "Shellos",
       "Gastrodon"
-    ]
+    ],
+    "machine": "TM10",
+    "machineSpecies": 631
   },
   {
     "name": "Cross Chop",
@@ -10286,7 +10763,9 @@
       "Toxicroak",
       "Electivire",
       "Magmortar"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Twister",
@@ -10321,7 +10800,9 @@
       "Milotic",
       "Rayquaza",
       "Yanmega"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Rain Dance",
@@ -10385,7 +10866,9 @@
       "Lumineon",
       "Phione",
       "Manaphy"
-    ]
+    ],
+    "machine": "TM18",
+    "machineSpecies": 457
   },
   {
     "name": "Sunny Day",
@@ -10430,7 +10913,9 @@
       "Bronzong",
       "Magmortar",
       "Shaymin"
-    ]
+    ],
+    "machine": "TM11",
+    "machineSpecies": 444
   },
   {
     "name": "Crunch",
@@ -10548,7 +11033,9 @@
       "Carnivine",
       "Rhyperior",
       "Heatran"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Mirror Coat",
@@ -10596,7 +11083,9 @@
       "Mantyke",
       "Magnezone",
       "Glaceon"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Psych Up",
@@ -10611,7 +11100,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": "TM77",
+    "machineSpecies": 202
   },
   {
     "name": "Extreme Speed",
@@ -10644,7 +11135,9 @@
       "Togekiss",
       "Shaymin",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Ancient Power",
@@ -10736,7 +11229,9 @@
       "Giratina",
       "Phione",
       "Manaphy"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Shadow Ball",
@@ -10771,7 +11266,9 @@
       "Mismagius",
       "Froslass",
       "Rotom"
-    ]
+    ],
+    "machine": "TM30",
+    "machineSpecies": 233
   },
   {
     "name": "Future Sight",
@@ -10817,7 +11314,9 @@
       "Mesprit",
       "Azelf",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Rock Smash",
@@ -10837,7 +11336,9 @@
       "Darmanitan",
       "Rufflet",
       "Braviary"
-    ]
+    ],
+    "machine": "TM94",
+    "machineSpecies": 366
   },
   {
     "name": "Whirlpool",
@@ -10892,7 +11393,9 @@
       "Floatzel",
       "Phione",
       "Manaphy"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Beat Up",
@@ -10912,7 +11415,9 @@
       "Houndour",
       "Houndoom",
       "Weavile"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Fake Out",
@@ -10970,7 +11475,9 @@
       "Purugly",
       "Croagunk",
       "Toxicroak"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Uproar",
@@ -11008,7 +11515,9 @@
       "Yanmega",
       "Rotom",
       "Azelf"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Stockpile",
@@ -11055,7 +11564,9 @@
       "Hippopotas",
       "Hippowdon",
       "Carnivine"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Spit Up",
@@ -11094,7 +11605,9 @@
       "Hippopotas",
       "Hippowdon",
       "Carnivine"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Swallow",
@@ -11132,7 +11645,9 @@
       "Hippopotas",
       "Hippowdon",
       "Carnivine"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Heat Wave",
@@ -11184,7 +11699,9 @@
       "Honchkrow",
       "Chatot",
       "Heatran"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Hail",
@@ -11216,7 +11733,9 @@
       "Sealeo",
       "Walrein",
       "Froslass"
-    ]
+    ],
+    "machine": "TM07",
+    "machineSpecies": 139
   },
   {
     "name": "Torment",
@@ -11243,7 +11762,9 @@
       "Murkrow",
       "Honchkrow",
       "Darkrai"
-    ]
+    ],
+    "machine": "TM41",
+    "machineSpecies": 142
   },
   {
     "name": "Flatter",
@@ -11268,7 +11789,9 @@
       "Nidorino",
       "Nidoking",
       "Illumise"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Will-O-Wisp",
@@ -11318,7 +11841,9 @@
       "Magmortar",
       "Dusknoir",
       "Froslass"
-    ]
+    ],
+    "machine": "TM61",
+    "machineSpecies": 85
   },
   {
     "name": "Memento",
@@ -11348,7 +11873,9 @@
       "Skuntank",
       "Dusknoir",
       "Uxie"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Facade",
@@ -11371,7 +11898,9 @@
       "Chimchar",
       "Monferno",
       "Infernape"
-    ]
+    ],
+    "machine": "TM42",
+    "machineSpecies": 631
   },
   {
     "name": "Focus Punch",
@@ -11402,7 +11931,9 @@
       "Kangaskan",
       "Breloom",
       "Bibarel"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Smelling Salts",
@@ -11417,7 +11948,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Follow Me",
@@ -11441,7 +11974,9 @@
       "Togetic",
       "Slakoth",
       "Togekiss"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Nature Power",
@@ -11478,7 +12013,9 @@
       "Shiftry",
       "Cherubi",
       "Tangrowth"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Charge",
@@ -11513,7 +12050,9 @@
       "Luxio",
       "Luxray",
       "Rotom"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Taunt",
@@ -11571,7 +12110,9 @@
       "Toxicroak",
       "Weavile",
       "Darkrai"
-    ]
+    ],
+    "machine": "TM12",
+    "machineSpecies": 192
   },
   {
     "name": "Helping Hand",
@@ -11643,7 +12184,9 @@
       "Glaceon",
       "Gallade",
       "Cresselia"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Trick",
@@ -11686,7 +12229,9 @@
       "Rotom",
       "Cresselia",
       "Darkrai"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Role Play",
@@ -11707,7 +12252,9 @@
       "Stantler",
       "Smoochum",
       "Bonsly"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Wish",
@@ -11764,7 +12311,9 @@
       "Leafeon",
       "Glaceon",
       "Cresselia"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Assist",
@@ -11785,7 +12334,9 @@
       "Delcatty",
       "Glameow",
       "Purugly"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Ingrain",
@@ -11816,7 +12367,9 @@
       "Snover",
       "Abomasnow",
       "Tangrowth"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Superpower",
@@ -11894,7 +12447,9 @@
       "Hippowdon",
       "Mamoswine",
       "Regigigas"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Magic Coat",
@@ -11931,7 +12486,9 @@
       "Lopunny",
       "Porygon-Z",
       "Cresselia"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Recycle",
@@ -11973,7 +12530,9 @@
       "Mesprit",
       "Azelf",
       "Cresselia"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Revenge",
@@ -12017,7 +12576,9 @@
       "Hippopotas",
       "Hippowdon",
       "Regigigas"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Brick Break",
@@ -12039,7 +12600,9 @@
       "Hitmonlee",
       "Pinsir",
       "Heracross"
-    ]
+    ],
+    "machine": "TM31",
+    "machineSpecies": 219
   },
   {
     "name": "Yawn",
@@ -12137,7 +12700,9 @@
       "Leafeon",
       "Glaceon",
       "Uxie"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Knock Off",
@@ -12244,7 +12809,9 @@
       "Azelf",
       "Regigigas",
       "Manaphy"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Endeavor",
@@ -12284,7 +12851,9 @@
       "Starly",
       "Staravia",
       "Staraptor"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Eruption",
@@ -12307,7 +12876,9 @@
       "Magcargo",
       "Camerupt",
       "Groudon"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Skill Swap",
@@ -12340,7 +12911,9 @@
       "Mothim",
       "Mismagius",
       "Cresselia"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Imprison",
@@ -12379,7 +12952,9 @@
       "Uxie",
       "Mesprit",
       "Azelf"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Refresh",
@@ -12409,7 +12984,9 @@
       "Lickilicky",
       "Manaphy",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Grudge",
@@ -12435,7 +13012,9 @@
       "Banette",
       "Mismagius",
       "Spiritomb"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Snatch",
@@ -12463,7 +13042,9 @@
       "Banette",
       "Weavile",
       "Rotom"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Secret Power",
@@ -12486,7 +13067,9 @@
       "Mightyena",
       "Meditite",
       "Medicham"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Dive",
@@ -12509,7 +13092,9 @@
       "Relicanth",
       "Phione",
       "Manaphy"
-    ]
+    ],
+    "machine": "HM06",
+    "machineSpecies": 104
   },
   {
     "name": "Arm Thrust",
@@ -12534,7 +13119,9 @@
       "Heracross",
       "Makuhita",
       "Hariyama"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Camouflage",
@@ -12555,7 +13142,9 @@
       "Stunfisk",
       "Staryu",
       "Starmie"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Tail Glow",
@@ -12574,7 +13163,9 @@
       "Ampharos",
       "Volbeat",
       "Manaphy"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Luster Purge",
@@ -12598,7 +13189,9 @@
     "learnedBy": [
       "Espeon",
       "Latios"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Mist Ball",
@@ -12622,7 +13215,9 @@
     "learnedBy": [
       "Musharna",
       "Latias"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Feather Dance",
@@ -12661,7 +13256,9 @@
       "Staravia",
       "Staraptor",
       "Chatot"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Teeter Dance",
@@ -12688,7 +13285,9 @@
       "Grumpig",
       "Spinda",
       "Mime Jr."
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Blaze Kick",
@@ -12721,7 +13320,9 @@
       "Flareon",
       "Blaziken",
       "Staraptor"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Mud Sport",
@@ -12756,7 +13357,9 @@
       "Shellos",
       "Gastrodon",
       "Mamoswine"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Ice Ball",
@@ -12789,7 +13392,9 @@
       "Spheal",
       "Sealeo",
       "Walrein"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Needle Arm",
@@ -12817,7 +13422,9 @@
       "Cacnea",
       "Cacturne",
       "Roserade"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Slack Off",
@@ -12860,7 +13467,9 @@
       "Hippowdon",
       "Lickilicky",
       "Regigigas"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Hyper Voice",
@@ -12941,7 +13550,9 @@
       "Manaphy",
       "Shaymin",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Poison Fang",
@@ -12993,7 +13604,9 @@
       "Seviper",
       "Skorupi",
       "Drapion"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Crush Claw",
@@ -13025,7 +13638,9 @@
       "Anorith",
       "Armaldo",
       "Weavile"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Blast Burn",
@@ -13040,18 +13655,22 @@
     "fieldChanges": [
       {
         "field": "Power",
-        "to": "200"
+        "to": "200",
+        "from": "150"
       },
       {
         "field": "PP",
-        "to": "1"
+        "to": "1",
+        "from": "5"
       }
     ],
     "changeNotes": [
       "Burns the target."
     ],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Hydro Cannon",
@@ -13066,18 +13685,22 @@
     "fieldChanges": [
       {
         "field": "Power",
-        "to": "200"
+        "to": "200",
+        "from": "150"
       },
       {
         "field": "PP",
-        "to": "1"
+        "to": "1",
+        "from": "5"
       }
     ],
     "changeNotes": [
       "Lowers the target's speed by 2 stages."
     ],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Meteor Mash",
@@ -13100,7 +13723,9 @@
       "Metagross",
       "Registeel",
       "Jirachi"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Astonish",
@@ -13166,7 +13791,9 @@
       "Toxicroak",
       "Froslass",
       "Rotom"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Weather Ball",
@@ -13197,7 +13824,9 @@
       "Cherrim",
       "Gastrodon",
       "Froslass"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Aromatherapy",
@@ -13222,7 +13851,9 @@
       "Roselia",
       "Roserade",
       "Cherrim"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Fake Tears",
@@ -13262,7 +13893,9 @@
       "Minun",
       "Bonsly",
       "Togekiss"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Air Cutter",
@@ -13328,7 +13961,9 @@
       "Mantyke",
       "Togekiss",
       "Yanmega"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Overheat",
@@ -13352,7 +13987,9 @@
       "Houndoom",
       "Ho-oh",
       "Groudon"
-    ]
+    ],
+    "machine": "TM50",
+    "machineSpecies": 61
   },
   {
     "name": "Odor Sleuth",
@@ -13389,7 +14026,9 @@
       "Spoink",
       "Grumpig",
       "Mamoswine"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Rock Tomb",
@@ -13443,7 +14082,9 @@
       "Spiritomb",
       "Hippopotas",
       "Hippowdon"
-    ]
+    ],
+    "machine": "TM39",
+    "machineSpecies": 275
   },
   {
     "name": "Silver Wind",
@@ -13480,7 +14121,9 @@
       "Spiritomb",
       "Finneon",
       "Lumineon"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Metal Sound",
@@ -13515,7 +14158,9 @@
       "Lucario",
       "Magnezone",
       "Heatran"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Grass Whistle",
@@ -13532,10 +14177,6 @@
         "field": "Accuracy",
         "from": "55",
         "to": "65"
-      },
-      {
-        "field": "PP",
-        "to": "15"
       }
     ],
     "changeNotes": [],
@@ -13563,7 +14204,9 @@
       "Snover",
       "Abomasnow",
       "Leafeon"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Tickle",
@@ -13621,7 +14264,9 @@
       "Finneon",
       "Lumineon",
       "Tangrowth"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Cosmic Power",
@@ -13651,7 +14296,9 @@
       "Deoxys",
       "Cresselia",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Water Spout",
@@ -13675,7 +14322,9 @@
       "Wailmer",
       "Wailord",
       "Kyogre"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Signal Beam",
@@ -13774,7 +14423,9 @@
       "Cresselia",
       "Phione",
       "Manaphy"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Shadow Punch",
@@ -13799,7 +14450,9 @@
       "Hitmonchan",
       "Dusclops",
       "Dusknoir"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Extrasensory",
@@ -13857,7 +14510,9 @@
       "Uxie",
       "Mesprit",
       "Azelf"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Sky Uppercut",
@@ -13878,7 +14533,9 @@
       "Blaziken",
       "Breloom",
       "Gliscor"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Sand Tomb",
@@ -13919,7 +14576,9 @@
       "Groudon",
       "Hippopotas",
       "Hippowdon"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Sheer Cold",
@@ -13959,7 +14618,9 @@
       "Abomasnow",
       "Glaceon",
       "Froslass"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Muddy Water",
@@ -13984,7 +14645,9 @@
       "Kyogre",
       "Shellos",
       "Gastrodon"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Bullet Seed",
@@ -14016,7 +14679,9 @@
       "Seedot",
       "Tropius",
       "Carnivine"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Aerial Ace",
@@ -14053,7 +14718,9 @@
       "Ninjask",
       "Glameow",
       "Purugly"
-    ]
+    ],
+    "machine": "TM40",
+    "machineSpecies": 230
   },
   {
     "name": "Icicle Spear",
@@ -14076,7 +14743,9 @@
       "Sandslash",
       "Shellder",
       "Cloyster"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Iron Defense",
@@ -14134,7 +14803,9 @@
       "Registeel",
       "Bronzor",
       "Bronzong"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Block",
@@ -14167,7 +14838,9 @@
       "Groudon",
       "Probopass",
       "Regigigas"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Howl",
@@ -14203,7 +14876,9 @@
       "Shinx",
       "Luxio",
       "Luxray"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Dragon Claw",
@@ -14241,7 +14916,9 @@
       "Dialga",
       "Palkia",
       "Giratina"
-    ]
+    ],
+    "machine": "TM02",
+    "machineSpecies": 41
   },
   {
     "name": "Frenzy Plant",
@@ -14256,18 +14933,22 @@
     "fieldChanges": [
       {
         "field": "Power",
-        "to": "200"
+        "to": "200",
+        "from": "150"
       },
       {
         "field": "PP",
-        "to": "1"
+        "to": "1",
+        "from": "5"
       }
     ],
     "changeNotes": [
       "Restores health by 50% of Damage done."
     ],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Bulk Up",
@@ -14297,7 +14978,9 @@
       "Groudon",
       "Floatzel",
       "Toxicroak"
-    ]
+    ],
+    "machine": "TM08",
+    "machineSpecies": 61
   },
   {
     "name": "Bounce",
@@ -14335,7 +15018,9 @@
       "Finneon",
       "Lumineon",
       "Mantyke"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Mud Shot",
@@ -14413,7 +15098,9 @@
       "Bastiodon",
       "Skuntank",
       "Mamoswine"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Poison Tail",
@@ -14441,7 +15128,9 @@
       "Seviper",
       "Skorupi",
       "Drapion"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Covet",
@@ -14479,7 +15168,9 @@
       "Illumise",
       "Pachirisu",
       "Shaymin"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Volt Tackle",
@@ -14502,7 +15193,9 @@
       "Raichu",
       "Voltorb",
       "Electrode"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Magical Leaf",
@@ -14547,7 +15240,9 @@
       "Togekiss",
       "Gallade",
       "Shaymin"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Water Sport",
@@ -14579,7 +15274,9 @@
       "Whiscash",
       "Phione",
       "Manaphy"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Calm Mind",
@@ -14631,7 +15328,9 @@
       "Kyogre",
       "Mismagius",
       "Lucario"
-    ]
+    ],
+    "machine": "TM04",
+    "machineSpecies": 129
   },
   {
     "name": "Leaf Blade",
@@ -14665,7 +15364,9 @@
       "Kricketune",
       "Leafeon",
       "Gallade"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Dragon Dance",
@@ -14715,7 +15416,9 @@
       "Salamence",
       "Latios",
       "Rayquaza"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Rock Blast",
@@ -14747,7 +15450,9 @@
       "Octillery",
       "Anorith",
       "Armaldo"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Shock Wave",
@@ -14797,7 +15502,9 @@
       "Gallade",
       "Probopass",
       "Rotom"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Water Pulse",
@@ -14875,7 +15582,9 @@
       "Glaceon",
       "Froslass",
       "Palkia"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Doom Desire",
@@ -14892,7 +15601,9 @@
     "isNew": false,
     "learnedBy": [
       "Jirachi"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Psycho Boost",
@@ -14915,7 +15626,9 @@
       "Lugia",
       "Spinda",
       "Deoxys"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Roost",
@@ -14985,7 +15698,9 @@
       "Chatot",
       "Lumineon",
       "Mantyke"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Gravity",
@@ -15015,7 +15730,9 @@
       "Probopass",
       "Palkia",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Miracle Eye",
@@ -15038,7 +15755,9 @@
       "Xatu",
       "Metang",
       "Metagross"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Wake-Up Slap",
@@ -15074,7 +15793,9 @@
       "Glameow",
       "Purugly",
       "Froslass"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Hammer Arm",
@@ -15126,7 +15847,9 @@
       "Lickilicky",
       "Rhyperior",
       "Electivire"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Gyro Ball",
@@ -15155,7 +15878,9 @@
       "Miltank",
       "Bronzor",
       "Bronzong"
-    ]
+    ],
+    "machine": "TM74",
+    "machineSpecies": 68
   },
   {
     "name": "Healing Wish",
@@ -15181,7 +15906,9 @@
       "Buneary",
       "Lopunny",
       "Mesprit"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Brine",
@@ -15213,7 +15940,9 @@
       "Wailord",
       "Huntail",
       "Gorebyss"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Natural Gift",
@@ -15308,7 +16037,9 @@
       "Heatran",
       "Shaymin",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Feint",
@@ -15342,7 +16073,9 @@
       "Stunky",
       "Skuntank",
       "Riolu"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Pluck",
@@ -15371,7 +16104,9 @@
       "Dodrio",
       "Tailow",
       "Swellow"
-    ]
+    ],
+    "machine": "TM88",
+    "machineSpecies": 56
   },
   {
     "name": "Tailwind",
@@ -15443,7 +16178,9 @@
       "Mantyke",
       "Gliscor",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Acupressure",
@@ -15466,7 +16203,9 @@
       "Medicham",
       "Skorupi",
       "Drapion"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Metal Burst",
@@ -15491,7 +16230,9 @@
       "Shieldon",
       "Bastiodon",
       "Dialga"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "U-turn",
@@ -15546,7 +16287,9 @@
       "Lumineon",
       "Yanmega",
       "Gliscor"
-    ]
+    ],
+    "machine": "TM89",
+    "machineSpecies": 107
   },
   {
     "name": "Close Combat",
@@ -15606,7 +16349,9 @@
       "Electivire",
       "Leafeon",
       "Gallade"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Payback",
@@ -15636,7 +16381,9 @@
       "Drifblim",
       "Dusknoir",
       "Regigigas"
-    ]
+    ],
+    "machine": "TM66",
+    "machineSpecies": 186
   },
   {
     "name": "Assurance",
@@ -15694,7 +16441,9 @@
       "Metang",
       "Metagross",
       "Honchkrow"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Embargo",
@@ -15727,7 +16476,9 @@
       "Mightyena",
       "Shuppet",
       "Banette"
-    ]
+    ],
+    "machine": "TM63",
+    "machineSpecies": 70
   },
   {
     "name": "Fling",
@@ -15759,7 +16510,9 @@
       "Monferno",
       "Infernape",
       "Munchlax"
-    ]
+    ],
+    "machine": "TM56",
+    "machineSpecies": 258
   },
   {
     "name": "Psycho Shift",
@@ -15782,7 +16535,9 @@
       "Latias",
       "Latios",
       "Cresselia"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Trump Card",
@@ -15797,7 +16552,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Heal Block",
@@ -15835,7 +16592,9 @@
       "Dialga",
       "Palkia",
       "Giratina"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Wring Out",
@@ -15866,7 +16625,9 @@
       "Chimecho",
       "Lickilicky",
       "Tangrowth"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Power Trick",
@@ -15887,7 +16648,9 @@
       "Medicham",
       "Baltoy",
       "Claydol"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Gastro Acid",
@@ -15912,7 +16675,9 @@
       "Swalot",
       "Lileep",
       "Cradily"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Lucky Chant",
@@ -15944,7 +16709,9 @@
       "Cherubi",
       "Cherrim",
       "Mesprit"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Me First",
@@ -15976,7 +16743,9 @@
       "Buizel",
       "Floatzel",
       "Lucario"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Copycat",
@@ -16009,7 +16778,9 @@
       "Happiny",
       "Riolu",
       "Mesprit"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Power Swap",
@@ -16030,7 +16801,9 @@
       "Natu",
       "Xatu",
       "Girafarig"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Guard Swap",
@@ -16052,7 +16825,9 @@
       "Natu",
       "Xatu",
       "Girafarig"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Punishment",
@@ -16076,7 +16851,9 @@
       "Ho-oh",
       "Slaking",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Last Resort",
@@ -16106,7 +16883,9 @@
       "Purugly",
       "Chingling",
       "Azelf"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Worry Seed",
@@ -16130,7 +16909,9 @@
       "Cherubi",
       "Cherrim",
       "Shaymin"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Sucker Punch",
@@ -16208,7 +16989,9 @@
       "Croagunk",
       "Toxicroak",
       "Darkrai"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Toxic Spikes",
@@ -16255,7 +17038,9 @@
       "Roserade",
       "Skorupi",
       "Drapion"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Heart Swap",
@@ -16272,7 +17057,9 @@
     "isNew": false,
     "learnedBy": [
       "Manaphy"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Aqua Ring",
@@ -16320,7 +17107,9 @@
       "Mantyke",
       "Phione",
       "Manaphy"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Magnet Rise",
@@ -16347,7 +17136,9 @@
       "Forretress",
       "Magnezone",
       "Dialga"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Flare Blitz",
@@ -16387,7 +17178,9 @@
       "Chimchar",
       "Monferno",
       "Infernape"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Force Palm",
@@ -16415,7 +17208,9 @@
       "Medicham",
       "Riolu",
       "Lucario"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Aura Sphere",
@@ -16458,7 +17253,9 @@
       "Giratina",
       "Darkrai",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Rock Polish",
@@ -16483,7 +17280,9 @@
       "Relicanth",
       "Cranidos",
       "Rampardos"
-    ]
+    ],
+    "machine": "TM69",
+    "machineSpecies": 79
   },
   {
     "name": "Poison Jab",
@@ -16524,7 +17323,9 @@
       "Roserade",
       "Croagunk",
       "Toxicroak"
-    ]
+    ],
+    "machine": "TM84",
+    "machineSpecies": 116
   },
   {
     "name": "Dark Pulse",
@@ -16576,7 +17377,9 @@
       "Porygon-Z",
       "Heatran",
       "Darkrai"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Night Slash",
@@ -16645,7 +17448,9 @@
       "Drapion",
       "Weavile",
       "Gliscor"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Aqua Tail",
@@ -16707,7 +17512,9 @@
       "Drapion",
       "Rhyperior",
       "Gliscor"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Seed Bomb",
@@ -16772,7 +17579,9 @@
       "Mantyke",
       "Snover",
       "Abomasnow"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Air Slash",
@@ -16857,7 +17666,9 @@
       "Mantyke",
       "Togekiss",
       "Yanmega"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "X-Scissor",
@@ -16891,7 +17702,9 @@
       "Armaldo",
       "Weavile",
       "Gliscor"
-    ]
+    ],
+    "machine": "TM81",
+    "machineSpecies": 67
   },
   {
     "name": "Bug Buzz",
@@ -16937,7 +17750,9 @@
       "Vespiquen",
       "Chatot",
       "Yanmega"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Dragon Pulse",
@@ -17002,7 +17817,9 @@
       "Heatran",
       "Giratina",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Dragon Rush",
@@ -17038,7 +17855,9 @@
       "Gible",
       "Gabite",
       "Garchomp"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Power Gem",
@@ -17090,7 +17909,9 @@
       "Froslass",
       "Dialga",
       "Palkia"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Drain Punch",
@@ -17154,7 +17975,9 @@
       "Gallade",
       "Dusknoir",
       "Regigigas"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Vacuum Wave",
@@ -17178,7 +18001,9 @@
       "Lucario",
       "Croagunk",
       "Toxicroak"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Focus Blast",
@@ -17193,7 +18018,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": "TM52",
+    "machineSpecies": 146
   },
   {
     "name": "Energy Ball",
@@ -17254,7 +18081,9 @@
       "Chimecho",
       "Lumineon",
       "Shaymin"
-    ]
+    ],
+    "machine": "TM53",
+    "machineSpecies": 152
   },
   {
     "name": "Brave Bird",
@@ -17288,7 +18117,9 @@
       "Staravia",
       "Staraptor",
       "Honchkrow"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Earth Power",
@@ -17384,7 +18215,9 @@
       "Heatran",
       "Giratina",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Switcheroo",
@@ -17420,7 +18253,9 @@
       "Floatzel",
       "Ambipom",
       "Lopunny"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Giga Impact",
@@ -17446,7 +18281,9 @@
       "Donphan",
       "Slaking",
       "Regigigas"
-    ]
+    ],
+    "machine": "TM68",
+    "machineSpecies": 325
   },
   {
     "name": "Nasty Plot",
@@ -17523,7 +18360,9 @@
       "Porygon-Z",
       "Azelf",
       "Darkrai"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Bullet Punch",
@@ -17553,7 +18392,9 @@
       "Metang",
       "Metagross",
       "Toxicroak"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Avalanche",
@@ -17580,7 +18421,9 @@
       "Glalie",
       "Snover",
       "Abomasnow"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Ice Shard",
@@ -17622,7 +18465,9 @@
       "Glaceon",
       "Mamoswine",
       "Froslass"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Shadow Claw",
@@ -17642,7 +18487,9 @@
       "Kecleon",
       "Banette",
       "Giratina"
-    ]
+    ],
+    "machine": "TM65",
+    "machineSpecies": 115
   },
   {
     "name": "Thunder Fang",
@@ -17705,7 +18552,9 @@
       "Hippowdon",
       "Drapion",
       "Gliscor"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Ice Fang",
@@ -17767,7 +18616,9 @@
       "Drapion",
       "Gliscor",
       "Mamoswine"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Fire Fang",
@@ -17836,7 +18687,9 @@
       "Drapion",
       "Gliscor",
       "Heatran"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Shadow Sneak",
@@ -17868,7 +18721,9 @@
       "Gallade",
       "Dusknoir",
       "Giratina"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Mud Bomb",
@@ -17925,7 +18780,9 @@
       "Croagunk",
       "Toxicroak",
       "Mamoswine"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Psycho Cut",
@@ -17958,7 +18815,9 @@
       "Kricketune",
       "Gallade",
       "Cresselia"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Zen Headbutt",
@@ -18062,7 +18921,9 @@
       "Regigigas",
       "Manaphy",
       "Shaymin"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Mirror Shot",
@@ -18110,7 +18971,9 @@
       "Bastiodon",
       "Wormadam",
       "Magnezone"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Flash Cannon",
@@ -18155,7 +19018,9 @@
       "Probopass",
       "Dialga",
       "Heatran"
-    ]
+    ],
+    "machine": "TM91",
+    "machineSpecies": 66
   },
   {
     "name": "Rock Climb",
@@ -18211,7 +19076,9 @@
       "Garchomp",
       "Lickilicky",
       "Rhyperior"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Defog",
@@ -18229,7 +19096,9 @@
     "learnedBy": [
       "Ducklett",
       "Swanna"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Trick Room",
@@ -18247,7 +19116,9 @@
     "learnedBy": [
       "Cofagrigus",
       "Elgyem"
-    ]
+    ],
+    "machine": "TM92",
+    "machineSpecies": 86
   },
   {
     "name": "Draco Meteor",
@@ -18266,7 +19137,9 @@
       "Hydreigon",
       "Dragonite",
       "Rayquaza"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Discharge",
@@ -18304,7 +19177,9 @@
       "Luxio",
       "Luxray",
       "Electivire"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Lava Plume",
@@ -18331,7 +19206,9 @@
       "Numel",
       "Camerupt",
       "Magmortar"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Leaf Storm",
@@ -18369,7 +19246,9 @@
       "Torterra",
       "Roserade",
       "Shaymin"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Power Whip",
@@ -18403,7 +19282,9 @@
       "Lickilicky",
       "Tangrowth",
       "Leafeon"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Rock Wrecker",
@@ -18428,7 +19309,9 @@
       "Torkoal",
       "Groudon",
       "Rhyperior"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Cross Poison",
@@ -18464,7 +19347,9 @@
       "Skorupi",
       "Drapion",
       "Gliscor"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Gunk Shot",
@@ -18500,7 +19385,9 @@
       "Ambipom",
       "Croagunk",
       "Toxicroak"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Iron Head",
@@ -18558,7 +19445,9 @@
       "Gabite",
       "Garchomp",
       "Heatran"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Magnet Bomb",
@@ -18578,7 +19467,9 @@
       "Magnemite",
       "Magneton",
       "Magnezone"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Stone Edge",
@@ -18625,7 +19516,9 @@
       "Regirock",
       "Rhyperior",
       "Heatran"
-    ]
+    ],
+    "machine": "TM71",
+    "machineSpecies": 129
   },
   {
     "name": "Captivate",
@@ -18674,7 +19567,9 @@
       "Purugly",
       "Finneon",
       "Lumineon"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Stealth Rock",
@@ -18781,7 +19676,9 @@
       "Dialga",
       "Heatran",
       "Regigigas"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Grass Knot",
@@ -18796,7 +19693,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": "TM86",
+    "machineSpecies": 219
   },
   {
     "name": "Chatter",
@@ -18824,7 +19723,9 @@
     "isNew": false,
     "learnedBy": [
       "Chatot"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Judgment",
@@ -18839,7 +19740,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Bug Bite",
@@ -18902,7 +19805,9 @@
       "Skorupi",
       "Drapion",
       "Yanmega"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Charge Beam",
@@ -18958,7 +19863,9 @@
       "Electivire",
       "Probopass",
       "Rotom"
-    ]
+    ],
+    "machine": "TM57",
+    "machineSpecies": 143
   },
   {
     "name": "Wood Hammer",
@@ -18980,7 +19887,9 @@
       "Torterra",
       "Snover",
       "Abomasnow"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Aqua Jet",
@@ -19035,7 +19944,9 @@
       "Bibarel",
       "Buizel",
       "Floatzel"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Attack Order",
@@ -19052,7 +19963,9 @@
     "isNew": false,
     "learnedBy": [
       "Vespiquen"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Defend Order",
@@ -19069,7 +19982,9 @@
     "isNew": false,
     "learnedBy": [
       "Vespiquen"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Heal Order",
@@ -19086,7 +20001,9 @@
     "isNew": false,
     "learnedBy": [
       "Vespiquen"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Head Smash",
@@ -19142,7 +20059,9 @@
       "Rampardos",
       "Bonsly",
       "Rhyperior"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Double Hit",
@@ -19169,7 +20088,9 @@
       "Buizel",
       "Floatzel",
       "Ambipom"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Roar of Time",
@@ -19187,7 +20108,9 @@
     "learnedBy": [
       "Dialga",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Spacial Rend",
@@ -19205,7 +20128,9 @@
     "learnedBy": [
       "Palkia",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Lunar Dance",
@@ -19223,7 +20148,9 @@
     "learnedBy": [
       "Umbreon",
       "Cresselia"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Crush Grip",
@@ -19240,7 +20167,9 @@
     "isNew": false,
     "learnedBy": [
       "Regigigas"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Magma Storm",
@@ -19269,7 +20198,9 @@
       "Camerupt",
       "Magmortar",
       "Heatran"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Dark Void",
@@ -19287,7 +20218,9 @@
     "learnedBy": [
       "Hypno",
       "Darkrai"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Seed Flare",
@@ -19319,7 +20252,9 @@
       "Jumpluff",
       "Sunflora",
       "Shaymin"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Ominous Wind",
@@ -19383,7 +20318,9 @@
       "Rotom",
       "Giratina",
       "Darkrai"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Shadow Force",
@@ -19406,7 +20343,9 @@
       "Banette",
       "Giratina",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Hone Claws",
@@ -19480,7 +20419,9 @@
       "Skorupi",
       "Drapion",
       "Weavile"
-    ]
+    ],
+    "machine": "TM01",
+    "machineSpecies": 145
   },
   {
     "name": "Wide Guard",
@@ -19509,7 +20450,9 @@
       "Swampert",
       "Mantyke",
       "Regigigas"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Guard Split",
@@ -19532,7 +20475,9 @@
       "Baltoy",
       "Claydol",
       "Latias"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Power Split",
@@ -19556,7 +20501,9 @@
       "Baltoy",
       "Claydol",
       "Latios"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Wonder Room",
@@ -19580,7 +20527,9 @@
       "Solrock",
       "Bronzor",
       "Bronzong"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Psyshock",
@@ -19623,7 +20572,9 @@
       "Uxie",
       "Mesprit",
       "Azelf"
-    ]
+    ],
+    "machine": "TM03",
+    "machineSpecies": 83
   },
   {
     "name": "Venoshock",
@@ -19654,7 +20605,9 @@
       "Roserade",
       "Stunky",
       "Skuntank"
-    ]
+    ],
+    "machine": "TM09",
+    "machineSpecies": 78
   },
   {
     "name": "Autotomize",
@@ -19674,7 +20627,9 @@
       "Vanillish",
       "Vanilluxe",
       "Skarmory"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Rage Powder",
@@ -19699,7 +20654,9 @@
       "Venonat",
       "Venomoth",
       "Carnivine"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Telekinesis",
@@ -19720,7 +20677,9 @@
       "Kadabra",
       "Alakazam",
       "Latios"
-    ]
+    ],
+    "machine": "TM19",
+    "machineSpecies": 97
   },
   {
     "name": "Magic Room",
@@ -19743,7 +20702,9 @@
       "Lunatone",
       "Mime Jr.",
       "Cresselia"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Smack Down",
@@ -19770,7 +20731,9 @@
       "Steelix",
       "Octillery",
       "Bonsly"
-    ]
+    ],
+    "machine": "TM23",
+    "machineSpecies": 84
   },
   {
     "name": "Storm Throw",
@@ -19790,7 +20753,9 @@
       "Primeape",
       "Pinsir",
       "Drapion"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Flame Burst",
@@ -19845,7 +20810,9 @@
       "Stunky",
       "Skuntank",
       "Magmortar"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Sludge Wave",
@@ -19877,7 +20844,9 @@
       "Grimer",
       "Muk",
       "Swalot"
-    ]
+    ],
+    "machine": "TM34",
+    "machineSpecies": 40
   },
   {
     "name": "Quiver Dance",
@@ -19911,7 +20880,9 @@
       "Mothim",
       "Vespiquen",
       "Lumineon"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Heavy Slam",
@@ -19940,7 +20911,9 @@
       "Bastiodon",
       "Munchlax",
       "Regigigas"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Synchronoise",
@@ -19963,7 +20936,9 @@
       "Exploud",
       "Kecleon",
       "Chatot"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Electro Ball",
@@ -19992,7 +20967,9 @@
       "Magnezone",
       "Electivire",
       "Rotom"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Soak",
@@ -20022,7 +20999,9 @@
       "Octillery",
       "Finneon",
       "Lumineon"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Flame Charge",
@@ -20060,7 +21039,9 @@
       "Torchic",
       "Combusken",
       "Blaziken"
-    ]
+    ],
+    "machine": "TM43",
+    "machineSpecies": 54
   },
   {
     "name": "Coil",
@@ -20089,7 +21070,9 @@
       "Steelix",
       "Seviper",
       "Milotic"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Low Sweep",
@@ -20110,7 +21093,9 @@
       "Blaziken",
       "Croagunk",
       "Toxicroak"
-    ]
+    ],
+    "machine": "TM47",
+    "machineSpecies": 74
   },
   {
     "name": "Acid Spray",
@@ -20151,7 +21136,9 @@
       "Stunky",
       "Skuntank",
       "Carnivine"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Foul Play",
@@ -20177,7 +21164,9 @@
       "Kecleon",
       "Skuntank",
       "Darkrai"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Simple Beam",
@@ -20201,7 +21190,9 @@
       "Linoone",
       "Skitty",
       "Delcatty"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Entrainment",
@@ -20227,7 +21218,9 @@
       "Buneary",
       "Lopunny",
       "Chingling"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "After You",
@@ -20242,7 +21235,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Round",
@@ -20269,7 +21264,9 @@
       "Swablu",
       "Altaria",
       "Chatot"
-    ]
+    ],
+    "machine": "TM48",
+    "machineSpecies": 631
   },
   {
     "name": "Echoed Voice",
@@ -20311,7 +21308,9 @@
       "Happiny",
       "Chatot",
       "Togekiss"
-    ]
+    ],
+    "machine": "TM49",
+    "machineSpecies": 160
   },
   {
     "name": "Chip Away",
@@ -20338,7 +21337,9 @@
       "Crawdaunt",
       "Cranidos",
       "Rampardos"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Clear Smog",
@@ -20372,7 +21373,9 @@
       "Slugma",
       "Magcargo",
       "Gastrodon"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Stored Power",
@@ -20401,7 +21404,9 @@
       "Kirlia",
       "Gardevoir",
       "Togekiss"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Quick Guard",
@@ -20432,7 +21437,9 @@
       "Hitmontop",
       "Tailow",
       "Swellow"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Ally Switch",
@@ -20450,7 +21457,9 @@
     "learnedBy": [
       "Kadabra",
       "Alakazam"
-    ]
+    ],
+    "machine": "TM51",
+    "machineSpecies": 15
   },
   {
     "name": "Scald",
@@ -20470,7 +21479,9 @@
       "Simipour",
       "Vaporeon",
       "Castform"
-    ]
+    ],
+    "machine": "TM55",
+    "machineSpecies": 108
   },
   {
     "name": "Shell Smash",
@@ -20509,7 +21520,9 @@
       "Turtwig",
       "Grotle",
       "Torterra"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Heal Pulse",
@@ -20540,7 +21553,9 @@
       "Cherubi",
       "Cherrim",
       "Chingling"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Hex",
@@ -20590,7 +21605,9 @@
       "Froslass",
       "Rotom",
       "Giratina"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Sky Drop",
@@ -20608,7 +21625,9 @@
     "learnedBy": [
       "Rufflet",
       "Braviary"
-    ]
+    ],
+    "machine": "TM58",
+    "machineSpecies": 16
   },
   {
     "name": "Shift Gear",
@@ -20628,7 +21647,9 @@
       "Klang",
       "Klinklang",
       "Genesect"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Circle Throw",
@@ -20654,7 +21675,9 @@
       "Exploud",
       "Buneary",
       "Lopunny"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Incinerate",
@@ -20681,7 +21704,9 @@
       "Pansear",
       "Simisear",
       "Heatmor"
-    ]
+    ],
+    "machine": "TM59",
+    "machineSpecies": 156
   },
   {
     "name": "Quash",
@@ -20698,7 +21723,9 @@
     "isNew": false,
     "learnedBy": [
       "Vespiquen"
-    ]
+    ],
+    "machine": "TM60",
+    "machineSpecies": 18
   },
   {
     "name": "Acrobatics",
@@ -20742,7 +21769,9 @@
       "Drifloon",
       "Drifblim",
       "Gliscor"
-    ]
+    ],
+    "machine": "TM62",
+    "machineSpecies": 66
   },
   {
     "name": "Reflect Type",
@@ -20763,7 +21792,9 @@
       "Starmie",
       "Mew",
       "Latias"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Retaliate",
@@ -20792,7 +21823,9 @@
       "Cubone",
       "Marowak",
       "Purugly"
-    ]
+    ],
+    "machine": "TM67",
+    "machineSpecies": 158
   },
   {
     "name": "Final Gambit",
@@ -20816,7 +21849,9 @@
       "Primeape",
       "Riolu",
       "Lucario"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Bestow",
@@ -20844,7 +21879,9 @@
       "Tropius",
       "Pachirisu",
       "Togekiss"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Inferno",
@@ -20879,7 +21916,9 @@
       "Heatmor",
       "Houndour",
       "Houndoom"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Water Pledge",
@@ -20905,7 +21944,9 @@
     ],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Fire Pledge",
@@ -20931,7 +21972,9 @@
     ],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Grass Pledge",
@@ -20957,7 +22000,9 @@
     ],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Volt Switch",
@@ -20974,7 +22019,9 @@
     "isNew": false,
     "learnedBy": [
       "Emolga"
-    ]
+    ],
+    "machine": "TM72",
+    "machineSpecies": 47
   },
   {
     "name": "Struggle Bug",
@@ -21011,7 +22058,9 @@
       "Illumise",
       "Kricketot",
       "Kricketune"
-    ]
+    ],
+    "machine": "TM76",
+    "machineSpecies": 59
   },
   {
     "name": "Bulldoze",
@@ -21075,7 +22124,9 @@
       "Hippopotas",
       "Hippowdon",
       "Rhyperior"
-    ]
+    ],
+    "machine": "TM78",
+    "machineSpecies": 223
   },
   {
     "name": "Frost Breath",
@@ -21090,7 +22141,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": "TM79",
+    "machineSpecies": 24
   },
   {
     "name": "Dragon Tail",
@@ -21116,7 +22169,9 @@
       "Totodile",
       "Croconaw",
       "Feraligatr"
-    ]
+    ],
+    "machine": "TM82",
+    "machineSpecies": 50
   },
   {
     "name": "Work Up",
@@ -21145,7 +22200,9 @@
       "Fearow",
       "Tauros",
       "Pachirisu"
-    ]
+    ],
+    "machine": "TM83",
+    "machineSpecies": 166
   },
   {
     "name": "Electroweb",
@@ -21197,7 +22254,9 @@
       "Mothim",
       "Porygon-Z",
       "Rotom"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Wild Charge",
@@ -21242,7 +22301,9 @@
       "Luxio",
       "Luxray",
       "Electivire"
-    ]
+    ],
+    "machine": "TM93",
+    "machineSpecies": 80
   },
   {
     "name": "Drill Run",
@@ -21285,7 +22346,9 @@
       "Skarmory",
       "Hitmontop",
       "Rhyperior"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Dual Chop",
@@ -21319,7 +22382,9 @@
       "Riolu",
       "Lucario",
       "Magmortar"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Heart Stamp",
@@ -21351,7 +22416,9 @@
       "Jynx",
       "Smoochum",
       "Miltank"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Horn Leech",
@@ -21369,7 +22436,9 @@
     "learnedBy": [
       "Sawsbuck",
       "Stantler"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Sacred Sword",
@@ -21390,7 +22459,9 @@
       "Terrakion",
       "Virizion",
       "Keldeo"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Razor Shell",
@@ -21417,7 +22488,9 @@
       "Samurott",
       "Shellder",
       "Cloyster"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Heat Crash",
@@ -21439,7 +22512,9 @@
       "Golem",
       "Camerupt",
       "Groudon"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Leaf Tornado",
@@ -21478,7 +22553,9 @@
       "Serperior",
       "Shiftry",
       "Tropius"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Steamroller",
@@ -21509,7 +22586,9 @@
       "Whirlipede",
       "Scolipede",
       "Golem"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Cotton Guard",
@@ -21535,7 +22614,9 @@
       "Swablu",
       "Altaria",
       "Banette"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Night Daze",
@@ -21554,7 +22635,9 @@
       "Zorua",
       "Zoroark",
       "Darkrai"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Psystrike",
@@ -21573,7 +22656,9 @@
       "Darmanitan",
       "Mewtwo",
       "Deoxys"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Tail Slap",
@@ -21595,7 +22680,9 @@
       "Buizel",
       "Floatzel",
       "Ambipom"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Hurricane",
@@ -21642,7 +22729,9 @@
       "Altaria",
       "Latias",
       "Latios"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Head Charge",
@@ -21659,7 +22748,9 @@
     "isNew": false,
     "learnedBy": [
       "Bouffalant"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Gear Grind",
@@ -21689,7 +22780,9 @@
       "Klink",
       "Klang",
       "Klinklang"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Searing Shot",
@@ -21706,7 +22799,9 @@
     "isNew": false,
     "learnedBy": [
       "Victini"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Techno Blast",
@@ -21723,7 +22818,9 @@
     "isNew": false,
     "learnedBy": [
       "Genesect"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Relic Song",
@@ -21738,7 +22835,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Secret Sword",
@@ -21753,7 +22852,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": false,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Glaciate",
@@ -21781,7 +22882,9 @@
     "isNew": false,
     "learnedBy": [
       "Kyurem"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Bolt Strike",
@@ -21798,7 +22901,9 @@
     "isNew": false,
     "learnedBy": [
       "Zekrom"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Blue Flare",
@@ -21815,7 +22920,9 @@
     "isNew": false,
     "learnedBy": [
       "Reshiram"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Fiery Dance",
@@ -21833,7 +22940,9 @@
     "learnedBy": [
       "Volcarona",
       "Bellossom"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Freeze Shock",
@@ -21850,7 +22959,9 @@
     "isNew": false,
     "learnedBy": [
       "Kyurem"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Ice Burn",
@@ -21867,7 +22978,9 @@
     "isNew": false,
     "learnedBy": [
       "Kyurem"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Snarl",
@@ -21916,7 +23029,9 @@
       "Stunky",
       "Skuntank",
       "Chatot"
-    ]
+    ],
+    "machine": "TM95",
+    "machineSpecies": 57
   },
   {
     "name": "Icicle Crash",
@@ -21942,7 +23057,9 @@
       "Kyogre",
       "Abomasnow",
       "Weavile"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "V-create",
@@ -21960,7 +23077,9 @@
     "learnedBy": [
       "Victini",
       "Rayquaza"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Fusion Flare",
@@ -21977,7 +23096,9 @@
     "isNew": false,
     "learnedBy": [
       "Reshiram"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Fusion Bolt",
@@ -21994,7 +23115,9 @@
     "isNew": false,
     "learnedBy": [
       "Zekrom"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Liquidation",
@@ -22063,7 +23186,9 @@
       "Floatzel",
       "Garchomp",
       "Palkia"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Lumina Crash",
@@ -22092,7 +23217,9 @@
       "Mesprit",
       "Azelf",
       "Cresselia"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Mystical Fire",
@@ -22135,7 +23262,9 @@
       "Drifblim",
       "Mismagius",
       "Cresselia"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "High Horsepower",
@@ -22182,7 +23311,9 @@
       "Mamoswine",
       "Regigigas",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Power-Up Punch",
@@ -22266,7 +23397,9 @@
       "Toxicroak",
       "Gallade",
       "Dusknoir"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Parabolic Charge",
@@ -22281,7 +23414,9 @@
     "fieldChanges": [],
     "changeNotes": [],
     "isNew": true,
-    "learnedBy": []
+    "learnedBy": [],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Infernal Parade",
@@ -22302,7 +23437,9 @@
       "Chandelure",
       "Ninetales",
       "Typhlosion"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Boomburst",
@@ -22341,7 +23478,9 @@
       "Togekiss",
       "Yanmega",
       "Arceus"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Ceaseless Edge",
@@ -22362,7 +23501,9 @@
       "Bisharp",
       "Zangoose",
       "Seviper"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Triple Arrows",
@@ -22383,7 +23524,9 @@
       "Zapdos",
       "Hitmontop",
       "Medicham"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Torch Song",
@@ -22408,7 +23551,9 @@
       "Jigglypuff",
       "Wigglytuff",
       "Altaria"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Flower Trick",
@@ -22433,7 +23578,9 @@
       "Bellossom",
       "Roselia",
       "Roserade"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Aqua Step",
@@ -22459,7 +23606,9 @@
       "Azumarill",
       "Ludicolo",
       "Bibarel"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Trailblaze",
@@ -22516,7 +23665,9 @@
       "Leafeon",
       "Mamoswine",
       "Shaymin"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   },
   {
     "name": "Eerie Spell",
@@ -22542,6 +23693,8 @@
       "Misdreavus",
       "Stantler",
       "Mismagius"
-    ]
+    ],
+    "machine": null,
+    "machineSpecies": 0
   }
 ]

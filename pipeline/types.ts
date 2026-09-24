@@ -92,7 +92,9 @@ export interface MoveEntry extends VanillaMoveInfo {
   fieldChanges: MoveFieldChange[]; // per-field from/to diff, straight from the hack's doc — empty unless changed
   changeNotes: string[];
   isNew: boolean; // true for a JetBlack-added move with no vanilla Black counterpart
-  learnedBy: string[]; // species that learn it — level-up reverse index for vanilla moves, doc-curated distribution list for new moves
+  learnedBy: string[]; // species that learn it BY LEVEL-UP — reverse index of the stats doc's learnsets (doc-curated distribution list for new moves)
+  machine: string | null; // "TM86"/"HM01" when the move is also a machine, which learnedBy does not cover
+  machineSpecies: number; // how many species can learn that machine
 }
 
 /** Vanilla Pokémon Black item reference data (PokeAPI), keyed by its PokeAPI slug — see pipeline/vanilla-data/README.md. */

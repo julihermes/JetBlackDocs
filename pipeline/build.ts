@@ -130,17 +130,34 @@ function main() {
     summary.push(`obelisk legendaries: ${legendaries.obelisks.length}`);
   }
 
+  // moveName -> { machine, speciesCount }. A move page that only lists level-up
+  // learners claims far too little for a machine move: 221 species learn Cut,
+  // none of them by levelling.
+  const machineByMove: Record<string, { machine: string; species: number }> = {};
+
   if (pokemon) {
     const tms = buildTmCompatibility(pokemon);
     writeJson("tm-compatibility", tms);
     summary.push(`tm-compatibility: ${Object.values(tms).reduce((n, list) => n + list.length, 0)} entries`);
+
+    for (const list of Object.values(tms)) {
+      for (const e of list) {
+        const seen = (machineByMove[alnumKey(e.move)] ??= { machine: e.tm, species: 0 });
+        seen.species += 1;
+      }
+    }
   }
 
   let moves = null as ReturnType<typeof buildMoveList> | null;
   if (moveChanges && pokemon) {
     moves = buildMoveList(moveChanges);
     const learnedByMove = buildLearnedByMove(pokemon);
-    for (const m of moves) if (!m.isNew) m.learnedBy = learnedByMove[alnumKey(m.name)] ?? [];
+    for (const m of moves) {
+      if (!m.isNew) m.learnedBy = learnedByMove[alnumKey(m.name)] ?? [];
+      const machine = machineByMove[alnumKey(m.name)];
+      m.machine = machine?.machine ?? null;
+      m.machineSpecies = machine?.species ?? 0;
+    }
     writeJson("moves", moves);
     summary.push(`moves: ${moves.length} (${moves.filter((m) => m.changed).length} changed, ${moves.filter((m) => m.isNew).length} new)`);
   }

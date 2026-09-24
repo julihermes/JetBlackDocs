@@ -132,7 +132,7 @@ export function buildMoveList(moveChanges: MoveChangesData): MoveEntry[] {
   const entries: MoveEntry[] = Object.entries(vanillaMoves).map(([name, info]) => {
     const change = changedByName.get(name.toLowerCase()) ?? changedByAlnum.get(alnumKey(name));
     if (!change) {
-      return { name, ...info, changed: false, fieldChanges: [], changeNotes: [], isNew: false, learnedBy: [] };
+      return { name, ...info, changed: false, fieldChanges: [], changeNotes: [], isNew: false, learnedBy: [], machine: null, machineSpecies: 0 };
     }
 
     const merged: VanillaMoveInfo = { ...info };
@@ -145,7 +145,25 @@ export function buildMoveList(moveChanges: MoveChangesData): MoveEntry[] {
       else if (field === "category") merged.damageClass = c.to.toLowerCase() as VanillaMoveInfo["damageClass"];
     }
 
-    return { name, ...merged, changed: true, fieldChanges: change.changes, changeNotes: change.notes, isNew: false, learnedBy: [] };
+    // Most rows are written as a diff ("Power: 55 > 60"), but a few are stated
+    // flat ("All have 200 Base Power, 1 PP") and arrive with no `from`. The
+    // vanilla figure is right here, so fill it in rather than render a
+    // half-diff the reader can't measure against anything.
+    const vanillaValue: Record<string, string | undefined> = {
+      power: info.power?.toString(),
+      accuracy: info.accuracy?.toString(),
+      acc: info.accuracy?.toString(),
+      pp: info.pp?.toString(),
+      type: info.type,
+      category: info.damageClass,
+    };
+    // Grasswhistle's row restates its unchanged PP; once the vanilla value is
+    // filled in that reads "15 > 15", so drop a row that changes nothing.
+    const fieldChanges = change.changes
+      .map((c) => (c.from ? c : { ...c, from: vanillaValue[c.field.toLowerCase()] }))
+      .filter((c) => c.from !== c.to);
+
+    return { name, ...merged, changed: true, fieldChanges, changeNotes: change.notes, isNew: false, learnedBy: [], machine: null, machineSpecies: 0 };
   });
 
   for (const m of moveChanges.newMoves) {
@@ -163,6 +181,8 @@ export function buildMoveList(moveChanges: MoveChangesData): MoveEntry[] {
       changeNotes: [],
       isNew: true,
       learnedBy: m.learnedBy,
+      machine: null,
+      machineSpecies: 0,
     });
   }
 

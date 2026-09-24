@@ -91,8 +91,20 @@ export function MoveDetail() {
       )}
 
       <div className={styles.panel}>
-        <p className="section-title" style={{ marginTop: 0 }}>Learned by</p>
-        {move.learnedBy.length === 0 && <EmptyState>No documented Pokémon learn {move.name} in this build.</EmptyState>}
+        <p className="section-title" style={{ marginTop: 0 }}>Learns it by level-up</p>
+        {/* learnedBy is a reverse index of the stats doc's level-up learnsets, so
+            it says nothing about machines, tutors or egg moves — hence the
+            machine line below, and the carefully narrow empty state. */}
+        {move.machine && (
+          <p className={styles.machineLine}>
+            Also taught by <Link href={`/items?q=${encodeURIComponent(move.machine)}`}>{move.machine}</Link>, which {move.machineSpecies} species can learn.
+          </p>
+        )}
+        {move.learnedBy.length === 0 && (
+          <EmptyState>
+            No Pokémon learns {move.name} by level-up in this build{move.machine ? "" : " — it may still be taught by a machine, tutor or breeding"}.
+          </EmptyState>
+        )}
         <div className={styles.learnedByGrid}>
           {move.learnedBy.map((species) => (
             <Link key={species} href={`/pokedex/${encodeURIComponent(species.toLowerCase())}`} className={styles.speciesLink}>
