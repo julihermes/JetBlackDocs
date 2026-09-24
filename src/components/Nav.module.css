@@ -2,7 +2,7 @@
   display: none;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 1100px) {
   .topBar {
     display: flex;
     align-items: center;
@@ -13,7 +13,18 @@
     background: rgba(11, 12, 16, 0.92);
     backdrop-filter: blur(8px);
     border-bottom: 1px solid var(--hairline);
-    padding: 0 24px;
+    padding: 0 16px;
+    /* The twelve sections measure ~1074px, hence the 1100px breakpoint above;
+       below it the mobile bar (five links plus "More") takes over. This is the
+       safety net if a future section tips the row over: the bar scrolls
+       instead of pushing the whole page sideways, and without a scrollbar
+       strip cutting across the header. */
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .topBar::-webkit-scrollbar {
+    display: none;
   }
 
   .topBrand {
@@ -31,10 +42,12 @@
     color: var(--teal);
   }
 
+  /* 8px, not 12px: twelve sections stopped fitting a narrow desktop window. */
   .topLink {
     display: flex;
     align-items: center;
-    padding: 18px 12px;
+    flex-shrink: 0;
+    padding: 18px 8px;
     text-decoration: none;
     color: var(--text-dim);
     border-bottom: 2px solid transparent;
@@ -66,7 +79,7 @@
   padding-bottom: var(--safe-bottom);
 }
 
-@media (min-width: 900px) {
+@media (min-width: 1100px) {
   .bottomBar {
     display: none;
   }

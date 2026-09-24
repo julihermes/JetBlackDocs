@@ -91,9 +91,14 @@ export function PokemonDetail() {
 
   return (
     <main className="page">
-      <Link href="/pokedex" className={styles.back}>
-        ← Back to Pokédex
-      </Link>
+      <div className={styles.topBar}>
+        <Link href="/pokedex" className={styles.back}>
+          ← Back to Pokédex
+        </Link>
+        <Link href={`/compare?a=${encodeURIComponent(pokemon.name.toLowerCase())}`} className={styles.compareLink}>
+          Compare with… →
+        </Link>
+      </div>
 
       <div className={styles.headRow}>
         <img src={spriteUrl(pokemon.dexNumber)} alt="" className={styles.headSprite} />

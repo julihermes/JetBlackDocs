@@ -6,7 +6,23 @@
   font-size: 12px;
   color: var(--text-dim);
   text-decoration: none;
+}
+
+/* The back link and "compare with" share the top line. */
+.topBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
   margin-bottom: 12px;
+}
+
+.compareLink {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--teal);
+  text-decoration: none;
+  white-space: nowrap;
 }
 
 .headRow {

@@ -9,6 +9,7 @@ export const ROUTES: RouteDef[] = [
   { path: "/pokedex", label: "Pokédex", primary: true },
   { path: "/encounters", label: "Encounters", primary: true },
   { path: "/trainers", label: "Trainers", primary: true },
+  { path: "/compare", label: "Compare", primary: false },
   { path: "/items", label: "Items", primary: false },
   { path: "/moves", label: "Moves", primary: false },
   { path: "/features", label: "Features", primary: false },

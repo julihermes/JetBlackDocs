@@ -1,0 +1,253 @@
+/* Two columns, at every width. Stacking them would remove the only reason the
+   page exists, so a phone gets smaller type rather than a different layout. */
+.sides {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  align-items: start;
+}
+
+.pickers {
+  composes: sides;
+  margin-top: 12px;
+}
+
+.side {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  padding: 10px 6px;
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  color: inherit;
+  text-align: center;
+}
+
+.sideSprite {
+  width: 72px;
+  height: 72px;
+  object-fit: contain;
+  image-rendering: pixelated;
+}
+
+.sideDex {
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  color: var(--text-faint);
+}
+
+.sideName {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 15px;
+  color: var(--teal);
+}
+
+.sideTypes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 3px;
+  margin-top: 3px;
+}
+
+.panel {
+  margin-top: 8px;
+  padding: 12px 14px;
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-md);
+}
+
+/* ---------- Stats ---------- */
+
+.statRow {
+  margin-bottom: 9px;
+}
+
+.statLabel {
+  display: block;
+  text-align: center;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  color: var(--text-faint);
+  margin-bottom: 2px;
+}
+
+/* Bars grow outward from the centre label so one glance reads the winner. */
+.statBars {
+  display: grid;
+  grid-template-columns: 30px 1fr 1fr 30px;
+  align-items: center;
+  gap: 5px;
+}
+
+.statValue {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  color: var(--text-dim);
+}
+
+.statValueLeft {
+  text-align: right;
+}
+
+.statWin {
+  color: var(--teal);
+  font-weight: 700;
+}
+
+.track {
+  height: 7px;
+  background: var(--hairline);
+  border-radius: 999px;
+  overflow: hidden;
+  display: flex;
+}
+
+.trackLeft {
+  justify-content: flex-end;
+}
+
+.fill {
+  height: 100%;
+  background: var(--text-faint);
+  border-radius: 999px;
+}
+
+.fillWin {
+  background: var(--teal);
+}
+
+.bstRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-top: 10px;
+  padding-top: 9px;
+  border-top: 1px solid var(--hairline);
+  font-family: var(--font-mono);
+  font-size: 13px;
+}
+
+.bstLabel {
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  color: var(--text-faint);
+}
+
+/* ---------- Info rows ---------- */
+
+.infoRow {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: baseline;
+  gap: 8px;
+  padding: 5px 0;
+  border-bottom: 1px solid var(--hairline);
+  font-size: 12.5px;
+}
+
+.infoRow:last-child {
+  border-bottom: none;
+}
+
+.infoLabel {
+  font-family: var(--font-mono);
+  font-size: 9.5px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-faint);
+  text-align: center;
+  white-space: nowrap;
+}
+
+.infoValue {
+  min-width: 0;
+}
+
+.infoValueLeft {
+  text-align: right;
+}
+
+/* A value only worth reading when it isn't the same on both sides. */
+.infoSame {
+  color: var(--text-faint);
+}
+
+.chipRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3px;
+}
+
+.chipRowLeft {
+  justify-content: flex-end;
+}
+
+/* ---------- Move diff ---------- */
+
+.diffHead {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  margin-bottom: 6px;
+}
+
+.diffTitle {
+  font-weight: 700;
+  font-size: 13px;
+}
+
+.diffCount {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--text-faint);
+}
+
+.moveGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 4px;
+}
+
+.move {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 8px;
+  background: var(--bg);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius-sm);
+  text-decoration: none;
+  color: inherit;
+  font-size: 12px;
+}
+
+.move:hover {
+  border-color: var(--hairline-strong);
+}
+
+.moveName {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.moveLevels {
+  margin-left: auto;
+  flex-shrink: 0;
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  color: var(--text-faint);
+}
+
+.hint {
+  margin: 14px 0 0;
+  font-size: 13px;
+  color: var(--text-dim);
+}
