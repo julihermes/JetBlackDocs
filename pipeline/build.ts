@@ -14,7 +14,7 @@ import { parseTrainerRosters } from "./parsers/trainer-rosters.ts";
 import { buildEncountersBySpecies, buildTrainersBySpecies, buildLearnedByMove } from "./indices.ts";
 import { attachTypes, attachSpeciesInfo, attachVanillaEvolutionMethod, buildTmCompatibility, buildEvolutionLookup, buildMoveList } from "./vanilla-data.ts";
 import { alnumKey } from "./lib/text.ts";
-import type { BuildManifest, EvolutionLookup, VanillaItemInfo } from "./types.ts";
+import type { BuildManifest, EvolutionLookup, TypeChart, VanillaItemInfo } from "./types.ts";
 
 const OUT_DIR = join(process.cwd(), "src", "data");
 
@@ -86,6 +86,9 @@ function main() {
   );
   writeJson("item-info", itemInfo);
   summary.push(`item-info: ${Object.keys(itemInfo).length} vanilla Black items`);
+  const typeChart: TypeChart = JSON.parse(readFileSync(join(process.cwd(), "pipeline", "vanilla-data", "type-chart.json"), "utf-8"));
+  writeJson("type-chart", typeChart);
+  summary.push(`type-chart: ${Object.keys(typeChart).length} Gen 5 types`);
   const changelog = run("changelog", "Changelog notes", /changenotes/i, parseChangelog, (d) => d.length);
   const wildEncounters = run("wild-encounters", "Wild Pokemon locations", /^\* Means Shaking Grass/m, parseWildEncounters, (d) => d.length);
   const pokemon = run("pokemon", "Stats and Learnsets", /^Ability:/m, parseStatsAndLearnsets, (d) => d.length, (d) => attachSpeciesInfo(attachTypes(d)));

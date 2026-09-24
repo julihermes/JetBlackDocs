@@ -86,6 +86,50 @@ with open("pipeline/vanilla-data/species-info.json", "w") as f:
 EOF
 ```
 
+`type-chart.json` maps each **defending** type → the attacking types that hit it for double, half and no damage, for the 17 types that exist in Gen 5.
+
+Two things make this Gen-5-specific rather than a copy of PokéAPI's current chart. **Fairy does not exist in Gen 5**, so it is filtered out of every list. And **Steel still resists Dark and Ghost** — Gen 6 removed both. PokéAPI carries the old relations in each type's `past_damage_relations`, where an entry tagged `generation-N` holds the relations that applied *up to and including* generation N; the Gen 5 set is therefore the earliest entry tagged at or after Gen 5, falling back to the current relations when a type has none. Only `ghost`, `dark` and `steel` have such an entry, which is exactly the set of types Gen 6 changed.
+
+Spot-checked against Scizor (Bug/Steel): 4× from Fire, ¼× from Grass, 0× from Poison, and ½× from Dark and Ghost — those last two are the Gen-5-only part, and would be 1× on a Gen 6+ chart.
+
+To regenerate:
+
+```bash
+python3 - <<'EOF'
+import json, urllib.request
+
+HEADERS = {"User-Agent": "Mozilla/5.0 (jetblack-docs data pipeline)"}
+ROMAN = {"i": 1, "ii": 2, "iii": 3, "iv": 4, "v": 5, "vi": 6, "vii": 7, "viii": 8, "ix": 9}
+
+GEN5_TYPES = ["normal", "fire", "water", "electric", "grass", "ice", "fighting", "poison",
+              "ground", "flying", "psychic", "bug", "rock", "ghost", "dragon", "dark", "steel"]
+
+
+def get(url):
+    req = urllib.request.Request(url, headers=HEADERS)
+    with urllib.request.urlopen(req, timeout=20) as r:
+        return json.load(r)
+
+
+out = {}
+for t in GEN5_TYPES:
+    d = get(f"https://pokeapi.co/api/v2/type/{t}")
+    past = sorted(
+        ((ROMAN[p["generation"]["name"].split("-")[1]], p) for p in d["past_damage_relations"]
+         if ROMAN[p["generation"]["name"].split("-")[1]] >= 5),
+        key=lambda x: x[0],
+    )
+    rel = past[0][1]["damage_relations"] if past else d["damage_relations"]
+    pick = lambda k: sorted(x["name"] for x in rel[k] if x["name"] != "fairy")
+    out[t] = {"doubleFrom": pick("double_damage_from"),
+              "halfFrom": pick("half_damage_from"),
+              "noFrom": pick("no_damage_from")}
+
+with open("pipeline/vanilla-data/type-chart.json", "w") as f:
+    json.dump(out, f, indent=0, ensure_ascii=False)
+EOF
+```
+
 `later-gen-moves.json` maps move name → type, damage class, power, accuracy, PP, effect and flavor text for the 15 post-Gen-5 moves JetBlack imports ("Moves from later Gens" in the move-changes doc). It is a separate file from `moves.json` precisely because these moves do **not** exist in Gen 5, so the Gen-5 `past_values` resolution that `moves.json` depends on does not apply — these take PokéAPI's current values, which is what the hack inherits.
 
 The doc only writes a stats block for the moves it marks `**` (Infernal Parade, Ceaseless Edge, Triple Arrows, Flower Trick, and the v1.7 pair); the others it merely names alongside the move they replace, so their mainline figures stand. `buildMoveList` layers the doc's explicit values over this baseline — Flower Trick is the clearest case, where the doc says 60 Power and Special and annotates its own row "(70 in mainline titles)" / "is physical in the mainline titles", matching this file exactly.

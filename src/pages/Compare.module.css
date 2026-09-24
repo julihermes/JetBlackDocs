@@ -251,3 +251,60 @@
   font-size: 13px;
   color: var(--text-dim);
 }
+
+/* ---------- Type matchups ---------- */
+
+/* Two short numbers either side of a badge don't need the full panel width —
+   without a cap they read as figures floating in empty space on a desktop. */
+.matchups {
+  max-width: 360px;
+  margin: 0 auto;
+}
+
+.matchupRow {
+  display: grid;
+  grid-template-columns: 1fr 82px 1fr;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 0;
+}
+
+.matchupType {
+  display: flex;
+  justify-content: center;
+}
+
+.mult {
+  font-family: var(--font-mono);
+  font-size: 12.5px;
+  font-weight: 700;
+}
+
+.multLeft {
+  text-align: right;
+}
+
+/* Neutral is the common case and the one nobody needs to read. */
+.multNeutral {
+  color: var(--text-faint);
+  font-weight: 400;
+}
+
+.multWeak {
+  color: var(--red);
+}
+
+.multResist {
+  color: var(--green);
+}
+
+.multImmune {
+  color: var(--teal);
+}
+
+.matchupLegend {
+  margin: 12px 0 0;
+  text-align: center;
+  font-size: 11.5px;
+  color: var(--text-faint);
+}

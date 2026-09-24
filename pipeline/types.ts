@@ -97,6 +97,19 @@ export interface MoveEntry extends VanillaMoveInfo {
   machineSpecies: number; // how many species can learn that machine
 }
 
+/**
+ * Gen 5 defensive type relations, keyed by the *defending* type — see
+ * pipeline/vanilla-data/README.md. Gen 5 specifically: Steel still resists
+ * Dark and Ghost (Gen 6 took both away) and Fairy does not exist.
+ */
+export interface TypeRelations {
+  doubleFrom: string[];
+  halfFrom: string[];
+  noFrom: string[];
+}
+
+export type TypeChart = Record<string, TypeRelations>;
+
 /** Vanilla Pokémon Black item reference data (PokeAPI), keyed by its PokeAPI slug — see pipeline/vanilla-data/README.md. */
 export interface VanillaItemInfo {
   name: string; // English display name ("Life Orb")

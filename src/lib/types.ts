@@ -36,5 +36,7 @@ export type {
   BuildManifest,
   VanillaMoveInfo,
   MoveEntry,
+  TypeChart,
+  TypeRelations,
 } from "../../pipeline/types";
 export type { SpeciesEncounterRef, SpeciesTrainerRef } from "../../pipeline/indices";
