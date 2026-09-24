@@ -1,0 +1,137 @@
+{
+"Liquidation": {
+"type": "water",
+"damageClass": "physical",
+"power": 85,
+"accuracy": 100,
+"pp": 10,
+"flavorText": "The user slams into the target using a full-force blast of water. This may also lower the target's Defense stat.",
+"effect": "Has a chance to lower the target’s Defense by one stage."
+},
+"Lumina Crash": {
+"type": "psychic",
+"damageClass": "special",
+"power": 80,
+"accuracy": 100,
+"pp": 10,
+"flavorText": "The user attacks by unleashing a peculiar light that even affects the mind. This also harshly lowers the target's Sp. Def stat.",
+"effect": ""
+},
+"Mystical Fire": {
+"type": "fire",
+"damageClass": "special",
+"power": 75,
+"accuracy": 100,
+"pp": 10,
+"flavorText": "The user attacks by breathing a special, hot fire. This also lowers the target's Sp. Atk stat.",
+"effect": "Has a chance to lower the target’s Special Attack by one stage."
+},
+"High Horsepower": {
+"type": "ground",
+"damageClass": "physical",
+"power": 95,
+"accuracy": 95,
+"pp": 10,
+"flavorText": "The user fiercely attacks the target using its entire body.",
+"effect": "Inflicts regular damage with no additional effect."
+},
+"Power-Up Punch": {
+"type": "fighting",
+"damageClass": "physical",
+"power": 40,
+"accuracy": 100,
+"pp": 20,
+"flavorText": "Striking opponents over and over makes the user’s fists harder. Hitting a target raises the Attack stat.",
+"effect": "Raises the user’s Attack by one stage after inflicting damage."
+},
+"Parabolic Charge": {
+"type": "electric",
+"damageClass": "special",
+"power": 65,
+"accuracy": 100,
+"pp": 20,
+"flavorText": "The user attacks everything around it. The user's HP is restored by half the damage taken by those hit.",
+"effect": "Heals the user for half the total damage dealt to all targets."
+},
+"Infernal Parade": {
+"type": "ghost",
+"damageClass": "special",
+"power": 60,
+"accuracy": 100,
+"pp": 15,
+"flavorText": "The user attacks with myriad fireballs. This may also leave the target with a burn. This move's power is doubled if the target has a status condition.",
+"effect": ""
+},
+"Boomburst": {
+"type": "normal",
+"damageClass": "special",
+"power": 140,
+"accuracy": 100,
+"pp": 10,
+"flavorText": "The user attacks everything around it with the destructive power of a terrible explosive sound.",
+"effect": "Inflicts regular damage."
+},
+"Ceaseless Edge": {
+"type": "dark",
+"damageClass": "physical",
+"power": 65,
+"accuracy": 90,
+"pp": 15,
+"flavorText": "The user slashes its shell blade at the target. Shell splinters left behind by this attack remain scattered under the target as spikes.",
+"effect": ""
+},
+"Triple Arrows": {
+"type": "fighting",
+"damageClass": "physical",
+"power": 90,
+"accuracy": 100,
+"pp": 10,
+"flavorText": "The user kicks, then fires three arrows. This move has a heightened chance of landing a critical hit and may also lower the target’s Defense stat or make it flinch.",
+"effect": ""
+},
+"Torch Song": {
+"type": "fire",
+"damageClass": "special",
+"power": 80,
+"accuracy": 100,
+"pp": 10,
+"flavorText": "The user blows out raging flames as if singing a song, scorching the target. This also boosts the user's Sp. Atk stat.",
+"effect": ""
+},
+"Flower Trick": {
+"type": "grass",
+"damageClass": "physical",
+"power": 70,
+"accuracy": null,
+"pp": 10,
+"flavorText": "The user throws a rigged bouquet of flowers at the target. This attack never misses and always lands a critical hit.",
+"effect": ""
+},
+"Aqua Step": {
+"type": "water",
+"damageClass": "physical",
+"power": 80,
+"accuracy": 100,
+"pp": 10,
+"flavorText": "The user toys with the target and attacks it using light and fluid dance steps. This also boosts the user's Speed stat.",
+"effect": ""
+},
+"Trailblaze": {
+"type": "grass",
+"damageClass": "physical",
+"power": 50,
+"accuracy": 100,
+"pp": 20,
+"flavorText": "The user attacks suddenly as if leaping out from tall grass. The user's nimble footwork boosts its Speed stat.",
+"effect": ""
+},
+"Eerie Spell": {
+"type": "psychic",
+"damageClass": "special",
+"power": 80,
+"accuracy": 100,
+"pp": 5,
+"flavorText": "The user attacks with its tremendous psychic power. This also drains 3 PP from the move last used by the target.",
+"effect": "The target loses 3 PP from the last move it used."
+}
+}

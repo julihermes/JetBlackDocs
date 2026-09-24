@@ -166,16 +166,33 @@ export function buildMoveList(moveChanges: MoveChangesData): MoveEntry[] {
     return { name, ...merged, changed: true, fieldChanges, changeNotes: change.notes, isNew: false, learnedBy: [], machine: null, machineSpecies: 0 };
   });
 
+  // The doc's "Moves from later Gens" section only *names* most imported moves
+  // and what they replace; only the ones it marks "**" get a stats block. The
+  // rest keep their mainline figures, so those are the baseline — without them
+  // Liquidation rendered as a Normal-type Status move with 0 PP.
+  const laterGenPath = join(process.cwd(), "pipeline", "vanilla-data", "later-gen-moves.json");
+  const laterGen: Record<string, VanillaMoveInfo> = JSON.parse(readFileSync(laterGenPath, "utf-8"));
+
+  // "special (is physical in the mainline titles)" — the doc annotates a value
+  // in place, the same way it writes "PP: 15 (10 in mainline titles)".
+  const bare = (v: string | undefined) => v?.replace(/\s*\(.*$/, "").trim().toLowerCase();
+
   for (const m of moveChanges.newMoves) {
+    const base: Partial<VanillaMoveInfo> = laterGen[m.name] ?? {};
+    const type = bare(m.type) ?? base.type ?? "normal";
+    const damageClass = (bare(m.damageCategory) as VanillaMoveInfo["damageClass"]) ?? base.damageClass ?? "status";
     entries.push({
       name: m.name,
-      type: (m.type ?? "normal").toLowerCase(),
-      damageClass: (m.damageCategory?.toLowerCase() as VanillaMoveInfo["damageClass"]) ?? "status",
-      power: m.power ? (parseNum(m.power) ?? null) : null,
-      accuracy: m.accuracy ? (parseNum(m.accuracy) ?? null) : null,
-      pp: m.pp ? (parseNum(m.pp) ?? 0) : 0,
-      flavorText: "",
-      effect: m.effect ?? "",
+      type,
+      damageClass,
+      power: (m.power ? parseNum(m.power) : undefined) ?? base.power ?? null,
+      // "Accuracy: Always Hits" has no number to parse and no mainline value
+      // either (Flower Trick genuinely bypasses the accuracy check): null, which
+      // the page already renders as "—".
+      accuracy: (m.accuracy ? parseNum(m.accuracy) : undefined) ?? base.accuracy ?? null,
+      pp: (m.pp ? parseNum(m.pp) : undefined) ?? base.pp ?? 0,
+      flavorText: base.flavorText ?? "",
+      effect: m.effect || base.effect || "",
       changed: false,
       fieldChanges: [],
       changeNotes: [],

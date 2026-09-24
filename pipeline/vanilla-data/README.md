@@ -86,6 +86,53 @@ with open("pipeline/vanilla-data/species-info.json", "w") as f:
 EOF
 ```
 
+`later-gen-moves.json` maps move name → type, damage class, power, accuracy, PP, effect and flavor text for the 15 post-Gen-5 moves JetBlack imports ("Moves from later Gens" in the move-changes doc). It is a separate file from `moves.json` precisely because these moves do **not** exist in Gen 5, so the Gen-5 `past_values` resolution that `moves.json` depends on does not apply — these take PokéAPI's current values, which is what the hack inherits.
+
+The doc only writes a stats block for the moves it marks `**` (Infernal Parade, Ceaseless Edge, Triple Arrows, Flower Trick, and the v1.7 pair); the others it merely names alongside the move they replace, so their mainline figures stand. `buildMoveList` layers the doc's explicit values over this baseline — Flower Trick is the clearest case, where the doc says 60 Power and Special and annotates its own row "(70 in mainline titles)" / "is physical in the mainline titles", matching this file exactly.
+
+To regenerate:
+
+```bash
+python3 - <<'EOF'
+import json, urllib.request
+
+HEADERS = {"User-Agent": "Mozilla/5.0 (jetblack-docs data pipeline)"}
+
+
+def get(url):
+    req = urllib.request.Request(url, headers=HEADERS)
+    with urllib.request.urlopen(req, timeout=20) as r:
+        return json.load(r)
+
+
+slugs = ["liquidation", "lumina-crash", "mystical-fire", "high-horsepower", "power-up-punch",
+         "parabolic-charge", "infernal-parade", "boomburst", "ceaseless-edge", "triple-arrows",
+         "torch-song", "flower-trick", "aqua-step", "trailblaze", "eerie-spell"]
+
+out = {}
+for slug in slugs:
+    d = get(f"https://pokeapi.co/api/v2/move/{slug}")
+    name = next((n["name"] for n in d["names"] if n["language"]["name"] == "en"), d["name"])
+    flavor = ""
+    for e in reversed(d["flavor_text_entries"]):
+        if e["language"]["name"] == "en":
+            flavor = e["flavor_text"].replace("\n", " ").replace("\f", " ").strip()
+            break
+    out[name] = {
+        "type": d["type"]["name"],
+        "damageClass": d["damage_class"]["name"],
+        "power": d["power"],
+        "accuracy": d["accuracy"],
+        "pp": d["pp"],
+        "flavorText": flavor,
+        "effect": next((e["short_effect"] for e in d["effect_entries"] if e["language"]["name"] == "en"), ""),
+    }
+
+with open("pipeline/vanilla-data/later-gen-moves.json", "w") as f:
+    json.dump(out, f, indent=0, ensure_ascii=False)
+EOF
+```
+
 `moves.json` maps move name → type, damage class, power, accuracy, PP, Gen 5 (Black/White) flavor text, and effect description, for every move that exists through Gen 5 (559 moves — the well-known canonical Gen 5 move count; PokéAPI's `generation` filter alone isn't enough, since it also returns Pokémon Colosseum/XD-exclusive "shadow"-type moves tagged as Gen 3, which never appear in a mainline game and are explicitly excluded). Merged with JetBlack's own "Move changes" doc in `buildMoveList` (`pipeline/vanilla-data.ts`) the same way `evolutions.json` is — the hack's doc only lists what it changed, so an unlisted move keeps its vanilla figures.
 
 **PokéAPI's move endpoint returns *current* (latest-generation) power/accuracy/pp/type**, which is wrong for moves rebalanced after Gen 5 (e.g. Ice Beam/Flamethrower/Thunderbolt 95→90 in Gen 6, Tackle 35→50→40 across Gen 5 then Gen 6). The Gen-5-accurate value is resolved per-field from each move's `past_values` array. A `past_values` entry stores the value that applied *before* its tagged version group, changing to the next entry's value (or the current top-level value, if it's the last entry) starting at that version group — verified against Tackle, where the entry tagged `black-white` (Gen 5) holds power 35 (the Gen 1-4 value), and the *next* entry, tagged `sun-moon` (Gen 7), holds power 50 — the value Tackle actually had in Gen 5 Black/White. So: to resolve a field for Gen 5, take the `past_values` entry with the smallest generation *strictly greater than 5*; if none exists, Gen 5 already matches the current top-level value.
