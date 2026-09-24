@@ -8,7 +8,9 @@ import { DataError, EmptyState } from "../components/DataState";
 import { useData } from "../lib/useData";
 import { spriteUrl } from "../lib/sprites";
 import { alnumKey } from "../lib/textKey";
-import type { EvolutionEdge, EvolutionLookup, LegendariesData, MoveEntry, PokemonEntry, SpeciesEncounterRef, SpeciesTrainerRef, TmEntry } from "../lib/types";
+import { formatMultiplier, matchupsFor } from "../lib/typeMatchup";
+import { GEN5_TYPES } from "../lib/types5";
+import type { EvolutionEdge, EvolutionLookup, LegendariesData, TypeChart, MoveEntry, PokemonEntry, SpeciesEncounterRef, SpeciesTrainerRef, TmEntry } from "../lib/types";
 import styles from "./PokemonDetail.module.css";
 
 function findByName(list: PokemonEntry[], name: string) {
@@ -29,6 +31,39 @@ function GenderRatio({ genderRate }: { genderRate: number }) {
         ♂ {malePct.toFixed(1)}% · ♀ {femalePct.toFixed(1)}%
       </span>
     </div>
+  );
+}
+
+/** Damage taken, grouped by multiplier — 1x is left out, since "everything else" covers it. */
+function TypeMatchups({ types, chart }: { types: string[]; chart: TypeChart }) {
+  const multipliers = matchupsFor(types, chart);
+  const byMultiplier = new Map<number, string[]>();
+  for (const t of GEN5_TYPES) {
+    const m = multipliers[t];
+    if (m === 1) continue;
+    byMultiplier.set(m, [...(byMultiplier.get(m) ?? []), t]);
+  }
+  const order = [...byMultiplier.keys()].sort((a, b) => b - a);
+  const neutral = GEN5_TYPES.length - [...byMultiplier.values()].reduce((n, l) => n + l.length, 0);
+
+  return (
+    <>
+      {order.map((m) => (
+        <div className={styles.matchupGroup} key={m}>
+          <span className={`${styles.matchupMult} ${m === 0 ? styles.multImmune : m > 1 ? styles.multWeak : styles.multResist}`}>
+            {formatMultiplier(m)}×
+          </span>
+          <span className={styles.matchupTypes}>
+            {byMultiplier.get(m)!.map((t) => (
+              <TypeBadge key={t} type={t} />
+            ))}
+          </span>
+        </div>
+      ))}
+      <p className={styles.matchupNote}>
+        The other {neutral} types deal normal damage. Gen 5 chart — Steel still resists Dark and Ghost, and there is no Fairy type.
+      </p>
+    </>
   );
 }
 
@@ -62,6 +97,7 @@ export function PokemonDetail() {
   const evolutionState = useData<EvolutionLookup>(() => import("../data/evolution-lookup.generated.json"));
   const legendaryState = useData<LegendariesData>(() => import("../data/legendaries.generated.json") as Promise<{ default: LegendariesData }>);
   const movesState = useData<MoveEntry[]>(() => import("../data/moves.generated.json"));
+  const chartState = useData<TypeChart>(() => import("../data/type-chart.generated.json"));
   const tmState = useData<Record<string, TmEntry[]>>(() => import("../data/tm-compatibility.generated.json"));
 
   const movesByKey = useMemo(() => {
@@ -182,6 +218,13 @@ export function PokemonDetail() {
                     </p>
                   )}
                 </div>
+
+                {chartState.status === "ready" && (
+                  <div className={styles.panel}>
+                    <p className="section-title" style={{ marginTop: 0 }}>Damage taken</p>
+                    <TypeMatchups types={pokemon.types} chart={chartState.data} />
+                  </div>
+                )}
 
                 {pokemon.notes.length > 0 && (
                   <div className={styles.panel}>
