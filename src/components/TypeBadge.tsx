@@ -1,27 +1,8 @@
-const KNOWN_TYPES = new Set([
-  "normal",
-  "fire",
-  "water",
-  "electric",
-  "grass",
-  "ice",
-  "fighting",
-  "poison",
-  "ground",
-  "flying",
-  "psychic",
-  "bug",
-  "rock",
-  "ghost",
-  "dragon",
-  "dark",
-  "steel",
-  "fairy",
-]);
+import { IS_GEN5_TYPE } from "../lib/types5";
 
 export function TypeBadge({ type }: { type: string }) {
   const key = type.trim().toLowerCase();
-  const known = KNOWN_TYPES.has(key);
+  const known = IS_GEN5_TYPE.has(key);
   return (
     <span
       className="tag"

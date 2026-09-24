@@ -7915,8 +7915,7 @@
     "dexNumber": 546,
     "name": "Cottonee",
     "types": [
-      "grass",
-      "fairy"
+      "grass"
     ],
     "genus": "Cotton Puff Pokémon",
     "heightM": 0.3,
@@ -8080,8 +8079,7 @@
     "dexNumber": 547,
     "name": "Whimsicott",
     "types": [
-      "grass",
-      "fairy"
+      "grass"
     ],
     "genus": "Windveiled Pokémon",
     "heightM": 0.7,
@@ -28081,7 +28079,7 @@
     "dexNumber": 35,
     "name": "Clefairy",
     "types": [
-      "fairy"
+      "normal"
     ],
     "genus": "Fairy Pokémon",
     "heightM": 0.6,
@@ -28231,7 +28229,7 @@
     "dexNumber": 36,
     "name": "Clefable",
     "types": [
-      "fairy"
+      "normal"
     ],
     "genus": "Fairy Pokémon",
     "heightM": 1.3,
@@ -28716,8 +28714,7 @@
     "dexNumber": 39,
     "name": "Jigglypuff",
     "types": [
-      "normal",
-      "fairy"
+      "normal"
     ],
     "genus": "Balloon Pokémon",
     "heightM": 0.5,
@@ -28884,8 +28881,7 @@
     "dexNumber": 40,
     "name": "Wigglytuff",
     "types": [
-      "normal",
-      "fairy"
+      "normal"
     ],
     "genus": "Balloon Pokémon",
     "heightM": 1,
@@ -40481,8 +40477,7 @@
     "dexNumber": 122,
     "name": "Mr. Mime",
     "types": [
-      "psychic",
-      "fairy"
+      "psychic"
     ],
     "genus": "Barrier Pokémon",
     "heightM": 1.3,
@@ -47491,7 +47486,7 @@
     "dexNumber": 173,
     "name": "Cleffa",
     "types": [
-      "fairy"
+      "normal"
     ],
     "genus": "Star Shape Pokémon",
     "heightM": 0.3,
@@ -47567,8 +47562,7 @@
     "dexNumber": 174,
     "name": "Igglybuff",
     "types": [
-      "normal",
-      "fairy"
+      "normal"
     ],
     "genus": "Balloon Pokémon",
     "heightM": 0.3,
@@ -47646,7 +47640,7 @@
     "dexNumber": 175,
     "name": "Togepi",
     "types": [
-      "fairy"
+      "normal"
     ],
     "genus": "Spike Ball Pokémon",
     "heightM": 0.3,
@@ -47774,7 +47768,7 @@
     "dexNumber": 176,
     "name": "Togetic",
     "types": [
-      "fairy",
+      "normal",
       "flying"
     ],
     "genus": "Happiness Pokémon",
@@ -48866,8 +48860,7 @@
     "dexNumber": 183,
     "name": "Marill",
     "types": [
-      "water",
-      "fairy"
+      "water"
     ],
     "genus": "Aqua Mouse Pokémon",
     "heightM": 0.4,
@@ -48998,8 +48991,7 @@
     "dexNumber": 184,
     "name": "Azumarill",
     "types": [
-      "water",
-      "fairy"
+      "water"
     ],
     "genus": "Aqua Rabbit Pokémon",
     "heightM": 0.8,
@@ -52549,7 +52541,7 @@
     "dexNumber": 209,
     "name": "Snubbull",
     "types": [
-      "fairy"
+      "normal"
     ],
     "genus": "Fairy Pokémon",
     "heightM": 0.6,
@@ -52697,7 +52689,7 @@
     "dexNumber": 210,
     "name": "Granbull",
     "types": [
-      "fairy"
+      "normal"
     ],
     "genus": "Fairy Pokémon",
     "heightM": 1.4,
@@ -62191,8 +62183,7 @@
     "dexNumber": 280,
     "name": "Ralts",
     "types": [
-      "psychic",
-      "fairy"
+      "psychic"
     ],
     "genus": "Feeling Pokémon",
     "heightM": 0.4,
@@ -62314,8 +62305,7 @@
     "dexNumber": 281,
     "name": "Kirlia",
     "types": [
-      "psychic",
-      "fairy"
+      "psychic"
     ],
     "genus": "Emotion Pokémon",
     "heightM": 0.8,
@@ -62451,8 +62441,7 @@
     "dexNumber": 282,
     "name": "Gardevoir",
     "types": [
-      "psychic",
-      "fairy"
+      "psychic"
     ],
     "genus": "Embrace Pokémon",
     "heightM": 1.6,
@@ -64657,8 +64646,7 @@
     "dexNumber": 298,
     "name": "Azurill",
     "types": [
-      "normal",
-      "fairy"
+      "normal"
     ],
     "genus": "Polka Dot Pokémon",
     "heightM": 0.2,
@@ -65373,8 +65361,7 @@
     "dexNumber": 303,
     "name": "Mawile",
     "types": [
-      "steel",
-      "fairy"
+      "steel"
     ],
     "genus": "Deceiver Pokémon",
     "heightM": 0.6,
@@ -84166,8 +84153,7 @@
     "dexNumber": 439,
     "name": "Mime Jr.",
     "types": [
-      "psychic",
-      "fairy"
+      "psychic"
     ],
     "genus": "Mime Pokémon",
     "heightM": 0.6,
@@ -88150,7 +88136,7 @@
     "dexNumber": 468,
     "name": "Togekiss",
     "types": [
-      "fairy",
+      "normal",
       "flying"
     ],
     "genus": "Jubilee Pokémon",

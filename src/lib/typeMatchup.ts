@@ -1,25 +1,5 @@
+import { GEN5_TYPES } from "./types5";
 import type { TypeChart } from "./types";
-
-/** Every Gen 5 attacking type, in the order the games list them. Fairy is Gen 6. */
-export const GEN5_TYPES = [
-  "normal",
-  "fire",
-  "water",
-  "electric",
-  "grass",
-  "ice",
-  "fighting",
-  "poison",
-  "ground",
-  "flying",
-  "psychic",
-  "bug",
-  "rock",
-  "ghost",
-  "dragon",
-  "dark",
-  "steel",
-];
 
 /**
  * How much damage each attacking type does to a species, its types multiplied

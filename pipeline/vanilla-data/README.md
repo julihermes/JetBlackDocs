@@ -1,34 +1,39 @@
 # Vanilla reference data
 
-`types.json` maps National Dex number → type(s), for #1–649. It comes from
-[PokeAPI](https://pokeapi.co/), not from JetBlack's own documentation — JetBlack
-explicitly does not change Pokémon types ("no Type changes" per the author's
-feature list), so this is safe, unlike everything else in `pipeline/`, to treat
-as static and never regenerate when a new hack version's `.txt` files drop in.
+`types.json` maps National Dex number → type(s), for #1–649, **as of Generation V**. It comes from [PokeAPI](https://pokeapi.co/), not from JetBlack's own documentation — JetBlack explicitly does not change Pokémon types ("no Type changes" per the author's feature list).
 
-To regenerate (only needed if this file is ever lost or PokeAPI corrects a
-historical type assignment):
+The Gen 5 part is the catch. PokéAPI reports a species' *current* typing, and Gen 6 retyped 22 of the species in this range to Fairy — Clefairy, Jigglypuff, Marill, Togepi, Gardevoir, Mawile, Cottonee and the rest. **Fairy does not exist in Black**, so those must be resolved back: each Pokémon carries a `past_types` array where an entry tagged `generation-N` holds the typing that applied *up to and including* generation N, exactly like `past_damage_relations` in `type-chart.json`. The Gen 5 typing is the earliest entry tagged at or after Gen 5, falling back to the current typing when a species has none.
+
+An earlier version of this file was built by walking the `/type/{name}` endpoints and collecting their members, which returns *current* membership and so silently reported Clefable as Fairy. Build it from `/pokemon/{id}` instead, per species, so `past_types` is available. `src/lib/types5.ts` carries the matching 17-type list on the frontend and deliberately omits Fairy, so a regression renders as an unstyled badge rather than a convincing pink one.
+
+To regenerate:
 
 ```bash
 python3 - <<'EOF'
 import json, urllib.request, time
 
-TYPES = ["normal","fighting","flying","poison","ground","rock","bug","ghost","steel",
-         "fire","water","grass","electric","psychic","ice","dragon","dark","fairy"]
+HEADERS = {"User-Agent": "Mozilla/5.0 (jetblack-docs data pipeline)"}
+ROMAN = {"i": 1, "ii": 2, "iii": 3, "iv": 4, "v": 5, "vi": 6, "vii": 7, "viii": 8, "ix": 9}
 
-result = {}
-for t in TYPES:
-    req = urllib.request.Request(f"https://pokeapi.co/api/v2/type/{t}",
-                                  headers={"User-Agent": "Mozilla/5.0 (jetblack-docs data pipeline)"})
-    with urllib.request.urlopen(req, timeout=15) as r:
-        data = json.load(r)
-    for entry in data["pokemon"]:
-        pid = int(entry["pokemon"]["url"].rstrip("/").split("/")[-1])
-        if pid <= 649:
-            result.setdefault(pid, {})[entry["slot"]] = t
-    time.sleep(0.05)
 
-out = {str(pid): [slots[s] for s in sorted(slots)] for pid, slots in result.items()}
+def get(url):
+    req = urllib.request.Request(url, headers=HEADERS)
+    with urllib.request.urlopen(req, timeout=20) as r:
+        return json.load(r)
+
+
+out = {}
+for dex in range(1, 650):
+    d = get(f"https://pokeapi.co/api/v2/pokemon/{dex}")
+    past = sorted(
+        ((ROMAN[p["generation"]["name"].split("-")[1]], p) for p in d.get("past_types", [])
+         if ROMAN[p["generation"]["name"].split("-")[1]] >= 5),
+        key=lambda x: x[0],
+    )
+    source = past[0][1]["types"] if past else d["types"]
+    out[str(dex)] = [t["type"]["name"] for t in sorted(source, key=lambda x: x["slot"])]
+    time.sleep(0.02)
+
 with open("pipeline/vanilla-data/types.json", "w") as f:
     json.dump(out, f, indent=0)
 EOF
