@@ -5,7 +5,9 @@
 const FORM_SUFFIXED_BASE_NAMES = ["Unown", "Basculin", "Rotom", "Wormadam"];
 
 /**
- * Species the docs misspell, mapped to the spelling the Pokédex uses — note
+ * Species the docs misspell — and species PokeAPI spells differently from the
+ * stats doc ("Nidoran F", "Mime Jr", "Taillow") — mapped to the spelling the
+ * Pokédex uses — note
  * the targets are the *stats doc's* spellings, typos and all ("Kangaskan",
  * "Flaafy"), because that's what pokemon.generated.json is keyed on and what
  * the cross-links have to resolve against.
@@ -18,6 +20,12 @@ const SPECIES_ALIASES: Record<string, string> = {
   cryonogal: "Cryogonal",
   excavalier: "Escavalier",
   flaaffy: "Flaafy",
+  "mime jr": "Mime Jr.",
+  "mr mime": "Mr. Mime",
+  "nidoran f": "NidoranF",
+  "nidoran m": "NidoranM",
+  "porygon z": "Porygon-Z",
+  taillow: "Tailow",
   kangaskhan: "Kangaskan",
   lipard: "Liepard",
   "mr.mime": "Mr. Mime",

@@ -676,11 +676,6 @@
         "species": "Porygon-Z",
         "method": "by levelling up holding a Dubious Disc",
         "changed": true
-      },
-      {
-        "species": "Porygon Z",
-        "method": "Trade holding Dubious Disc",
-        "changed": false
       }
     ],
     "evolvesFrom": {
@@ -1167,7 +1162,7 @@
       "changed": false
     }
   },
-  "Nidoran F": {
+  "NidoranF": {
     "evolvesTo": [
       {
         "species": "Nidorina",
@@ -1185,7 +1180,7 @@
       }
     ],
     "evolvesFrom": {
-      "species": "Nidoran F",
+      "species": "NidoranF",
       "method": "Level 16",
       "changed": false
     }
@@ -1198,7 +1193,7 @@
       "changed": false
     }
   },
-  "Nidoran M": {
+  "NidoranM": {
     "evolvesTo": [
       {
         "species": "Nidorino",
@@ -1216,7 +1211,7 @@
       }
     ],
     "evolvesFrom": {
-      "species": "Nidoran M",
+      "species": "NidoranM",
       "method": "Level 16",
       "changed": false
     }
@@ -1947,19 +1942,19 @@
       "changed": false
     }
   },
-  "Mime Jr": {
+  "Mime Jr.": {
     "evolvesTo": [
       {
-        "species": "Mr Mime",
+        "species": "Mr. Mime",
         "method": "Level up (knowing Mimic)",
         "changed": false
       }
     ]
   },
-  "Mr Mime": {
+  "Mr. Mime": {
     "evolvesTo": [],
     "evolvesFrom": {
-      "species": "Mime Jr",
+      "species": "Mime Jr.",
       "method": "Level up (knowing Mimic)",
       "changed": false
     }
@@ -2108,14 +2103,6 @@
     "evolvesFrom": {
       "species": "Eevee",
       "method": "Level up (at Sinnoh Route 217)",
-      "changed": false
-    }
-  },
-  "Porygon Z": {
-    "evolvesTo": [],
-    "evolvesFrom": {
-      "species": "Porygon2",
-      "method": "Trade holding Dubious Disc",
       "changed": false
     }
   },
@@ -2430,13 +2417,13 @@
   "Mareep": {
     "evolvesTo": [
       {
-        "species": "Flaaffy",
+        "species": "Flaafy",
         "method": "Level 15",
         "changed": false
       }
     ]
   },
-  "Flaaffy": {
+  "Flaafy": {
     "evolvesTo": [
       {
         "species": "Ampharos",
@@ -2453,7 +2440,7 @@
   "Ampharos": {
     "evolvesTo": [],
     "evolvesFrom": {
-      "species": "Flaaffy",
+      "species": "Flaafy",
       "method": "Level 30",
       "changed": false
     }
@@ -3118,7 +3105,7 @@
       "changed": false
     }
   },
-  "Taillow": {
+  "Tailow": {
     "evolvesTo": [
       {
         "species": "Swellow",
@@ -3130,7 +3117,7 @@
   "Swellow": {
     "evolvesTo": [],
     "evolvesFrom": {
-      "species": "Taillow",
+      "species": "Tailow",
       "method": "Level 22",
       "changed": false
     }

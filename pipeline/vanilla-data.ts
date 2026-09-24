@@ -1,6 +1,7 @@
 import { readFileSync } from "node:fs";
 import { join } from "node:path";
 import { alnumKey } from "./lib/text.ts";
+import { canonicalSpeciesName } from "./lib/species.ts";
 import type { EvolutionEntry, EvolutionEdge, EvolutionLookup, MoveChangesData, MoveEntry, PokemonEntry, TmEntry, VanillaMoveInfo, VanillaSpeciesInfo } from "./types.ts";
 
 interface VanillaEvolutionEdge {
@@ -212,10 +213,18 @@ export function buildEvolutionLookup(hackEvolutions: EvolutionEntry[]): Evolutio
   // which JetBlack changed from trade to holding a King's Rock) need the
   // override matched on the exact from+to pair, not just "from" — otherwise
   // fixing one branch would wrongly hide the untouched other branch too.
-  const hackPairs = new Set(hackEvolutions.map((e) => `${e.from}|${e.to}`));
+  // PokeAPI and the stats doc disagree on a handful of spellings ("Nidoran F"
+  // vs "NidoranF", "Taillow" vs the doc's "Tailow"), and this lookup is keyed
+  // on species name, so an un-normalized edge silently indexes a species that
+  // no Pokédex page can ever ask for — the page then claims it has no
+  // evolutions at all.
+  const name = (raw: string) => canonicalSpeciesName(raw);
+  const hackPairs = new Set(hackEvolutions.map((e) => `${name(e.from)}|${name(e.to)}`));
   const edges: Array<{ from: string; to: string; method: string; changed: boolean }> = [
-    ...hackEvolutions.map((e) => ({ from: e.from, to: e.to, method: e.condition, changed: true })),
-    ...vanillaEdges.filter((e) => !hackPairs.has(`${e.from}|${e.to}`)).map((e) => ({ from: e.from, to: e.to, method: e.method, changed: false })),
+    ...hackEvolutions.map((e) => ({ from: name(e.from), to: name(e.to), method: e.condition, changed: true })),
+    ...vanillaEdges
+      .filter((e) => !hackPairs.has(`${name(e.from)}|${name(e.to)}`))
+      .map((e) => ({ from: name(e.from), to: name(e.to), method: e.method, changed: false })),
   ];
 
   const lookup: EvolutionLookup = {};
